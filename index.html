@@ -44,7 +44,7 @@
 			padding: 10px;
 			margin-bottom: 10px;
 			background-color: #111;
-			color: #777;
+			color: #586e75;
 		}
 			 
 		.map-overlay-inner fieldset {
@@ -149,7 +149,7 @@
 		'Political': '#859900',
 		'Societal': '#b58900',
 		'Technological': '#268bd2',
-		'All': '#002b36'
+		'All': '#93a1a1'
 	}
 
 	let livesTouchedTotals = {
@@ -178,10 +178,10 @@
 			livesTouchedTotals['All'] = total;
 		} 
 		
-		total = livesTouchedTotals[impactType]
+		total = livesTouchedTotals[impactType];
 		
-
 		livesTouchedTotal.innerHTML = total;
+		livesTouchedTotal.style.color = colourScheme[impactType];	
 	}
 
 
