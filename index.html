@@ -191,9 +191,10 @@
 			});
 			livesTouchedTotals['All'] = total;
 		} 
-<<<<<<< HEAD
+
 		total = livesTouchedTotals[impactType]
 		livesTouchedTotal.innerHTML = total;
+		livesTouchedTotal.style.color = colourScheme[impactType];
 	}
 
 	function updateLivesImprovedTotal(caseStudies, impactType) {
@@ -206,13 +207,12 @@
 			});
 			livesImprovedTotals['All'] = total;
 		} 
-=======
+
 		
-		total = livesTouchedTotals[impactType];
+		total = livesImprovedTotals[impactType];
 		
-		livesTouchedTotal.innerHTML = total;
-		livesTouchedTotal.style.color = colourScheme[impactType];	
->>>>>>> a211470731023ee3d852757845d2a2a9afb03455
+		//livesTouchedTotal.innerHTML = total;
+		//livesTouchedTotal.style.color = colourScheme[impactType];
 	}
 
 
