@@ -1,0 +1,121 @@
+CaseStudyId: 26549
+Title: 
+    Management of systemic sclerosis - better follow up, risk stratification
+      and use of immunosuppression
+    
+
+ImpactDetails
+
+    The last 20 years has seen a significant improvement in outcome for
+      patients with scleroderma, and specifically an increase in survival, much
+      of it attributable to research from our centre. We have more than 2,000
+      cases, seen over the past 20 years, where we have explored the change in
+      outcome over time and also used the uniquely well-characterised patient
+      cohort to define timing and frequency of each of the major
+      life-threatening complications of the disease. Our SSc cohort saw
+      approximately 20 fewer deaths in 2010 compared to 1994. In addition, by
+      avoiding unnecessary high dose immunosuppression there were 10% fewer
+      hospital admissions for infection 2005-10 compared with 1990) [a].
+    Defining subsets of SSc to improve treatment
+    The biomarkers we have described have enabled better prediction of
+      complications such as scleroderma renal crisis and lung fibrosis, and
+      identified subsets that benefit from more aggressive treatment. As a
+      result of our definition of hallmark SSc antibodies associated with lung
+      fibrosis and scleroderma renal disease, these tests are now routinely used
+      in risk assessment of SSc worldwide. They have been incorporated into new
+      classification criteria for SSc issued by the American College of
+      Rheumatology (ACR) the European League Against Rheumatism (EULAR) in 2013,
+      to which we contributed [b]. This permits more effective patient
+      education and earlier engagement with other specialised hospital services.
+    Defining the use of immunosuppression
+    We have defined the cases of lung fibrosis in scleroderma that are most
+      likely to benefit from immunosuppression and developed a simple staging
+      system for lung fibrosis that is now used in most centres in UK and abroad
+      and has been validated in two independent studies in the USA [c]
+      and Australia. This helps to avoid use of toxic immunosuppression in cases
+      of SSc where this is unnecessary and enables us to target
+      immunosuppressive therapy to more severe cases who gain the most benefit.
+      This is a result of our definition of "good prognosis" cases of SSc. A
+      logical extension of this work is more effective enrichment of clinical
+      trial cohorts to allow smaller sample size and improved study design. Our
+      approach using cyclophosphamide is incorporated into the European
+      recommendations for treatment of SSc [d] and is now effectively
+      standard of care for SSc cases worldwide [e].
+    Defining the importance of regular proactive screening of cases
+    As a result of our research, regular screening for pulmonary
+      complications (lung fibrosis and pulmonary hypertension) has become
+      standard in the management of SSc. This is now adopted in all European
+      scleroderma centres and incorporated in recommendations for international
+      societies including the European Society of Cardiology (ESC) and European
+      Respiratory Society (ERS) [f] and the Expert Panel on Outcomes
+      Measures in PAH related to Systemic Sclerosis (EPOSS) [g]. As a
+      result, historically poor outcomes have been positively impacted [h].
+    In conclusion, our work has impacted on overall outcome in SSc,
+      appropriate follow up and screening of cases and use of broad-spectrum
+      immunosuppression in appropriate cases and has helped to define current
+      standards of care for a disease with high medical burden and the highest
+      case-specific mortality of any rheumatic condition.
+    
+ImpactSummary
+
+    Systemic sclerosis (SSc) is an important, but uncommon, connective tissue
+      disease with high mortality and has a major non-lethal morbidity. Research
+      at UCL has been instrumental in defining modern management of SSc and has
+      contributed in three main ways. First we have defined the importance of
+      regular proactive screening of cases, secondly we have defined the use of
+      immunosuppression and thirdly we have delineated important clinical and
+      laboratory subsets of SSc that underpin an individualised (or
+      personalised) approach to assessment and treatment. These topics exemplify
+      stepwise progress in management of SSc that also has direct relevance to
+      other more common medical conditions.
+    
+UnderpinningResearch
+
+    From 1993, under the direction of Carol Black, then from 2006 under Chris
+      Denton and David Abraham, the Centre for Rheumatology and Connective
+      Tissue Diseases at UCL pioneered translational research in scleroderma. We
+      recognised the value of systematic collection of bio-samples and careful
+      cataloguing of longitudinal clinical data related to a unique cohort of
+      patients. Thus we have data spanning 20 years on more than 2,000 cases &#8212;
+      the largest single centre cohort in Europe and equal to any in the world.
+      This resource has been used to identify key targets for therapy and define
+      novel pathogenic mechanisms. We were the first to describe altered
+      chemokine expression in SSc and these observations delineated key
+      mechanisms of immunopathogenesis [1].
+    In addition we have discovered factors that predict future deterioration
+      of skin, lung or other organ-based complications of SSc. These are
+      landmark studies that have been adopted as standard of care across many
+      centres internationally. We have pioneered the use of skin score
+      trajectory as a way of stratifying SSc cases [2]. Work led by
+      Denton has enabled more informative recruitment into clinical trials, to
+      make these studies more robust and also to help focus resources and
+      therapies appropriately. In a landmark study we showed that regular
+      screening and a proactive strategy significantly improved survival in
+      diffuse SSc [3]. Our work on SSc-specific autoantibodies has used
+      the unique resource of our large cohort of cases to define associations
+      that are durable through the course of disease and permit more
+      individualised risk stratification of SSc cases at diagnosis so that
+      treatment and investigation is targeted more effectively. Our research
+      defined hallmark SSc antibodies associated with lung fibrosis
+      (anti-topoisomerase-1; ATA) and scleroderma renal disease (anti-RNA
+      polymerase-III; ARA) [4].
+    Our centre conducted the first major prospective controlled study
+      comparing intravenous cyclophosphamide with placebo for lung fibrosis
+      complicating SSc [5]. As a result of this research, our treatment
+      protocol using intravenous cyclophosphamide has been adopted by most
+      centres in USA and Europe. Together with the Royal Brompton Hospital, we
+      have helped to define those cases that are at risk of progression and
+      developed and validated a simple data-driven staging system of disease
+      severity [6]. This was independently validated by data from a
+      large North American trial, the scleroderma lung study. In a related study
+      we used an observational design to complete one of the largest prospective
+      evaluations of immunosuppression in SSc skin disease, focusing on the more
+      severe diffuse subset of the disease [7]. This UK observational
+      study recruited nearly 150 cases of dcSSc, more than half from our centre,
+      and evaluated immunosuppressive therapies including mycophenolate mofetil,
+      cyclophosphamide, methotrexate and anti-thymocyte globulin. This study was
+      a landmark initiative as it demonstrated that protocolised approaches with
+      standardised observation, analogous to oncology strategies, could be used
+      to explore best therapies for SSc, a condition with outcome worse than
+      many malignancies.
+    

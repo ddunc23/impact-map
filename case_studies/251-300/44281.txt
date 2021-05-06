@@ -1,0 +1,199 @@
+CaseStudyId: 44281
+Title: 
+    Inherited retinal disease: genetic testing and a new era of therapy
+    
+
+ImpactDetails
+
+    Inherited retinal degenerations
+    The inherited retinal dystrophies affect about 1 in 3,000 individuals and
+      include retinitis pigmentosa
+      and cone-rod dystrophies. These disorders are caused by mutations in a
+      very large number of
+      genes. There are some non-progressive conditions but the majority progress
+      relentlessly with
+      currently no effective therapy. The personal and societal impact of what
+      in many instances is life-
+      long visual impairment is substantial.
+    The research described above has made a substantial contribution to the
+      overall body of
+      knowledge of the genetics of eye disease and how that impacts on the lives
+      of patients. Although
+      our ability to treat is, as yet, limited, there are very real benefits to
+      accurate genetic testing and
+      associated counselling. As outlined in guidelines from the American
+      Academy of Ophthalmology on
+      genetic testing of inherited eye disease, "Genetic testing can make a
+        very positive impact on
+        individuals and families affected with inherited eye disease in a number
+        of ways. When properly
+        performed, interpreted, and acted on, genetic tests can improve the
+        accuracy of diagnoses and
+        prognoses, can improve the accuracy of genetic counseling, can reduce
+        the risk of disease
+        occurrence or recurrence in families at risk, and can facilitate the
+        development and delivery of
+        mechanism-specific care" [a]. Guidelines such as this all
+      support the benefits of genetic testing for
+      patients thought to have eye disease inherited in a broadly Mendelian
+      fashion. It is important to
+      note that the underpinning research cited above has also defined important
+      phenotypical
+      characteristics of these diseases, both in terms of appearances of the
+      back of the eye and
+      electrophysiology. All of this comes together to improve diagnostic
+      accuracy for patients. This in
+      turn leads to improved genetic counselling (including prenatal and
+      pre-implantation diagnosis) and
+      better information about long-term prognosis. This is only possible when
+      the genetic cause of
+      disease in an individual patient is known. Our research has identified a
+      large number of genes that
+      are associated with inherited retinal disease and has made such clinical
+      advances possible.
+    Laboratories around the world now offer genetic testing for eye disease.
+      For example, the US
+      National Eye Institute created the eyeGENE Network to provide US patients
+      with access to genetic
+      testing for eye disease. Many of the tests offered include genes
+      identified through our research [b].
+      In the UK, tests for genes we identified are offered by (among others)
+      Asper Biotech, the North
+      West Regional Genetics Service, Manchester and the Yorkshire Regional
+      Genetics Service, Leeds
+      [c]. From 2008-13 just at Moorfields, 4,952 patients have had
+      genetic testing and counselling. A
+      study we conducted in 2013 confirmed the overall benefits of genetic
+      testing for retinal disease [d].
+    AMD Testing
+    Age-related macular degeneration (AMD) is the commonest cause of
+      blindness registration in the
+      UK and presents an escalating burden given the expanding elderly
+      population in western societies.
+      The C3 polymorphism we identified (ref [6] above) is currently used in
+      diagnostic tests marketed by
+      Arctic Dx and Sequenom [e]. The value of this polymorphism is
+      indicated by a recent US challenge
+      concerning its use for diagnostic purposes (Patent Interference No
+      105,897) [f]. The recent report
+      that inhibition of the complement pathway may alter the rate of
+      progression of geographic atrophy,
+      one of the blinding manifestations of AMD, makes the importance of testing
+      of the genetics of the
+      complement pathway even more important, as it may be amenable to
+      therapeutic intervention.
+    Gene Therapy
+    Our fundamental studies of gene therapy have led to the first gene
+      therapy treatment of patients
+      with retinal degeneration. Our studies, and those of other groups in the
+      USA, are showing that this
+      approach can bring benefit and, although the number of patients treated to
+      date is small, the hope
+      that these advances have brought is colossal. The then Minister of State
+      for Public Health
+      described the trial as: "a major achievement for British science and
+        the NHS [which] shows we
+        truly are at the forefront of innovation" [g]. We have
+      established a new era of therapeutics, not only
+      for inherited eye disease but also for acquired conditions. These
+      initiatives have also brought
+      investment into the UK through our partnership with Targeted Genetics
+      Corporation (Seattle). The
+      transformational studies have captured the imagination of the scientific
+      community, the media and
+      politicians alike. The substantial coverage our trial received has helped
+      build the UK's reputation
+      for gene therapy and our collaborator Oxford Biomedica has recently
+      embarked on a major
+      programme of ophthalmic gene therapy following substantial investment from
+      Sanofi [h].
+      Genzyme, using similar technology to that used in our early studies, are
+      currently running a trial of
+      gene therapy for age-related macular degeneration [i].
+    
+ImpactSummary
+
+    Research at the UCL Institute of Ophthalmology over the last 20 years has
+      resulted in the
+      identification of a large number of novel genes that cause inherited
+      retinal disease. These genes
+      have been incorporated into diagnostic tests, which have allowed molecular
+      diagnosis, improved
+      genetic counselling including pre-natal/pre-implantation diagnosis, better
+      information about
+      prognosis and have informed decisions about which diseases should be
+      prioritised for clinical trials
+      of novel treatments. The identification of these genes has greatly
+      improved understanding of
+      disease mechanisms, an essential prerequisite for developing new treatment
+      approaches such as
+      gene therapy.
+    
+UnderpinningResearch
+
+    A remarkable number of mutations in ocular genes lead to blinding disease
+      and the retina is
+      particularly notable in this regard. In retinitis pigmentosa, rods are
+      primarily affected and secondary
+      loss of central cones leads to severe visual impairment. In other
+      degenerations, the cones are
+      primarily affected. Many of these conditions have an early age of onset
+      and lead to life-long visual
+      loss.
+    Professor Shomi Bhattacharya laid the foundation of ophthalmic genetics
+      with the mapping of X-
+      linked retinitis pigmentosa and since then he, his group, UCL colleagues
+      (Professors Hardcastle,
+      Moore and Webster) and collaborators have identified more genes that cause
+      eye disease than
+      any other centre in the world. The huge patient base at Moorfields Eye
+      Hospital and the Hospital's
+      role as a national referral centre for inherited eye disease, together
+      with an extraordinary body of
+      work defining the pedigrees of thousands of families (including 30,000
+      individuals) have come
+      together to make this achievement possible. Professor Alan Bird was the
+      early clinical lead in this
+      work and more recently Professors Tony Moore and Andrew Webster and Mr
+      Michel Michaelides
+      have taken over responsibility for phenotyping and managing these
+      patients. An internationally
+      renowned electrodiagnostics department led by Professor Graham Holder has
+      assisted in
+      functional phenotyping. Electrophysiology has contributed insights into
+      both the cellular location of
+      the genetic defect(s) and pathogenesis.
+    In 1997, three labs simultaneously identified CRX, a novel homeobox gene,
+      as a cause of cone-rod
+      dystrophy [1]. Other disease-causing genes identified include NRL
+      (1998) [2] PRPF31 (2001) [3]
+      TOPORS (2007) [4] and OPA1 (2000) [5]. In 2008, a study
+      described EYS, a major gene for
+      autosomal recessive retinitis pigmentosa accounting for 10-15% of cases
+      world-wide [6]. The UCL
+      team has itself or in combination with other groups contributed to the
+      identification of 20 other
+      genes causing inherited retinal disease.
+    While the focus has been on monogenic disorders we have also made a major
+      contribution to the
+      international effort to identify the genetic variants that are associated
+      with an increased risk of age-
+      related macular degeneration (AMD). We, in collaboration with Cambridge
+      University, were the first
+      to identify a polymorphism in C3 as one of the major genetic variants
+      predisposing to AMD [7] and
+      we have been a major collaborator in an international consortium that has
+      identified further AMD
+      genes.
+    Flowing from this discovery we have run two interlocking strands of
+      research. First, we have
+      advanced our understanding of pathogenesis with extensive programmes
+      involving in vitro and
+      animal model studies. Second, having identified in the mid 1990s the
+      potential for gene therapy we
+      have, under Professor Robin Ali's leadership, developed the technology for
+      gene therapy of eye
+      disease. This has led to the first demonstration that gene therapy can
+      improve retinal function in
+      human inherited retinal disease [8].
+    

@@ -1,0 +1,201 @@
+CaseStudyId: 34166
+Title: 
+    Improving transport and access to transport for people with barriers
+        to mobility
+    
+
+ImpactDetails
+
+    Each day, a total of 7.1 million trips are made on London's transport
+      system by people with a barrier to mobility; that is, with a disability,
+      aged over 74, or accompanied by a child under five (and therefore likely
+      to have a buggy and/or to be carrying heavy luggage) [a]. By catalysing
+      and informing improvements in several areas of that system, the research
+      outlined above has not only allowed transport providers to deliver better
+      &#8212; and often more cost effective &#8212; services, but has also improved users'
+      access to and experience of public transport. As such, it has enhanced
+      visitor and tourist experiences of London, encouraged wider take-up of
+      London's transport service, and helped improve the welfare and quality of
+      life of the millions of people who use those services every day,
+      particularly among those with mobility barriers.
+    London Underground &#8212; platform humps: The research on platform
+      humps formed the basis of recommendations London Underground used to
+      develop specifications for the installation of humps on the Victoria Line
+      upgrade (2010-2011), and on all other lines as they are upgraded. It found
+      that the design could be more flexible than previously thought and the
+      cost per hump reduced from the initial &#163;500,000 to &#163;300,000, with the
+      prospect of reducing it further to &#163;100,000. The humps were introduced on
+      the Victoria Line between 2010 and 2011 and the Metropolitan line in 2012.
+      As of 2012, 90 humps had been installed at 35 stations across the
+      Underground network, representing a multi-million pound saving to TfL. [a]
+    The results of UCL's work on Thameslink 2000 ensured that, in
+      2008, the specifications UCL recommended were supplied to all bidders for
+      the train design and manufacture call for tenders. The Thameslink research
+      highlighted some issues that were then pursued by Network Rail with
+      Siemens as part of the final negotiations over the supply of these trains
+      [output 4, above]. The work was also a cornerstone of the House of Lords
+      Select Committee on Science and Technology Report on Government
+      Procurement (2011), in which Tyler's empirical approach to using
+      scientific facilities was praised as an example of best practice in
+      innovative procurement, rather than relying on computer models alone to
+      provide estimates [b]. The work has been made available to the Crossrail
+      team, with the DfT's Chief Scientific Advisor recommending they adopt a
+      similar process (although at an earlier stage) for their trains [c]. The
+      Select Committee also commented that the Olympic Delivery Authority had
+      taken note of the Thameslink project with a view to including its findings
+      in their activities for its train transport systems [b].
+    The research has informed transport authorities' understanding of the
+      value of life-scale research. For example, in 2012-13, London
+        Underground's use of PAMELA for the New Concept Deep Tube Train
+      Programme [d] was the first time they started to develop the concept from
+      the passenger perspective rather than the mechanical/engineering
+      perspective. The results of the trials have enabled London Underground to
+      test and consider impacts on boarding and alighting rates resulting from
+      different options in the design of the internal and external details of
+      the train and the platform accoutrements (such as platform edge doors). As
+      a result, they have reduced the size of the doors on the new train design
+      to 1600mm, for inclusion in the project tender documents [e].
+    Shared road space, Exhibition Road, South Kensington: The work at
+      UCL allowed the resolution of concerns raised by the Guide Dogs for the
+      Blind Association about the safety of including a kerb-free,
+      single-surface space shared by pedestrians and vehicles within the local
+      borough's &#163;30 million redevelopment of Exhibition Road. UCL's research
+      findings were cited in a judicial review of the project in 2010 [f]. One
+      of UCL's recommendations was for on-street testing of the corduroy paving
+      at "more acute" angles; Kensington and Chelsea Council commissioned this
+      testing from MVA Consultancy in 2010 and 2011 [g]. The corduroy surface
+      recommended in the underpinning research findings was eventually installed
+      in the area, which is used by around 11 million visitors each year [h, f].
+    
+ImpactSummary
+
+    Research by UCL's Centre for Transport Studies using PAMELA, a
+      real-world-scale facility for conducting experiments into pedestrian
+      movement, has improved transport services for customers on Thameslink
+      trains and the London Underground, including increasing accessibility to
+      London's transport for people with barriers to mobility, who make 7.1
+      million journeys each day. The work has led to multimillion-pound savings
+      for Transport for London by reducing the cost of Underground platform
+      humps. It has also informed government advice on procurement and enabled
+      the resolution of concerns raised by the Guide Dogs for the Blind
+      Association about the safety of the Exhibition Road redevelopment in South
+      Kensington.
+    
+UnderpinningResearch
+
+    PAMELA is a laboratory for the assessment of pedestrian movement: how
+      people react in pedestrian environments, under well-controlled laboratory
+      conditions. The full-scale facility, which was funded by EPSRC from 2003,
+      grew out of work conducted by Professor Nick Tyler (Chadwick Chair of
+      Civil Engineering; UCL 1987-present) for the Department of the
+      Environment, Transport and the Regions (DETR) in the mid-1990s. Tyler
+      conducts research into person-environment interactions, from the
+      macroscopic interactions within cities, transport and the built
+      environment systems to the microscopic interactions between stimuli in the
+      environment and the person's ability to manage the physical response.
+    EXCALIBUR (1998-2000): Having observed that wheelchair users and
+      older people could not board &#8212; and therefore did not use &#8212; new low-floor
+      buses, Tyler developed the EPSRC-funded EXCALIBUR project to work out how
+      to make these buses more accessible. A number of bus stops were
+      constructed using a variety of kerb and surface technologies, and then
+      tested for their effectiveness and ease of use by both drivers and
+      passengers [1]. This research led Tyler to develop a specific set of
+      design specifications for bus stops, allowing buses to stop at a maximum
+      distance of around 50mm &#8212; rather than the more common 400-500mm &#8212; from the
+      kerb [2].
+    PAMELA (2003-present): By enabling buses to get much closer to the
+      edge of the kerb, these new stop designs helped alleviate problems with
+      access directly to buses. They did not, however, address the problem of
+      how a disabled person might reach the bus stop in the first place over
+      footways that were often uneven, badly designed and inaccessible. Tyler
+      conceived PAMELA, a novel and highly flexible laboratory in which
+      pedestrian infrastructure could be built, changed, tested, reconfigured,
+      studied and their detailed design evaluated in terms of accessibility and
+      usability for pedestrians with a wide range of mobility levels and access
+      assistant requirements. The construction of the laboratory itself, which
+      took place between 2003 and 2006, required extensive design work based on
+      functional specifications by Tyler in relation to lighting facilities, and
+      the development of a flexible floor surface that retained sufficiently
+      stiff characteristics to be representative of ground conditions with
+      interchangeable real surface materials such as concrete pavers, stone, and
+      asphalt; could be tilted either as a whole surface or in part; and was
+      able to include specific elements of the pedestrian infrastructure,
+      including pedestrian crossings and bus stops, at full scale. He also
+      developed specifications for a range of sensing equipment.
+    Thameslink 2000 (2008-present): In 2008, early plans for the
+      &#163;3.5bn Thameslink 2000 railway line project revealed potential
+      incompatibility between the predicted level of demand and the proposed
+      service frequency. The Department for Transport asked Tyler to construct a
+      life-scale train carriage and station platform interface in the PAMELA
+      facility in order to test the boarding and alighting performance of the
+      proposed trains and passenger numbers [3]. The UCL team constructed a
+      mock-up life-size half carriage to Siemens' specification for stock for
+      the Thameslink 2000 project. The model had variable-width doors, moveable
+      seating, and a station environment that could be varied in terms of
+      platform heights. 150 participants were then recruited to board and alight
+      the carriage under different loading, boarding and alighting conditions.
+      Over 11,000 passenger movements were recorded. Various aspects were tested
+      under the predicted load scenarios, including the distribution of
+      passengers along the platforms in the four central London stations. The
+      research found that the proposed demand would not be met by the proposed
+      service frequency but that certain elements should be specified in the
+      requirements for the new trains in the procurement process in order to
+      minimise the problems. These specifications included door widths,
+      vestibule design and specified platform heights at stations. Network Rail
+      subsequently requested that UCL construct the train design being proposed
+      by Siemens as the preferred bidder for the project's train design [4].
+      Further work on passenger movements has been commissioned to run in
+      November 2013.
+    London Underground platform humps: In 2008 London Underground Ltd
+      asked Tyler to use PAMELA to examine their proposed platform humps, raised
+      sections of platform making it easier for wheelchair users, parents with
+      buggies and passengers with luggage to board and alight Underground
+      trains. In particular, Tyler was asked to evaluate potential safety issues
+      relating to the humps, including the risk of wheelchairs rolling down the
+      ramp onto the track, the likelihood of trains not stopping precisely, and
+      the ease with which visually impaired people could use them. To that end,
+      Tyler's team built a set of platform humps including multidirectional
+      slopes at different gradients, surfaces and markings. Tests conducted in
+      2008 with a variety of disabled research participants included evaluations
+      of the ease of their access onto and off a `train floor' at different
+      points on the gradients, and of whether or not proposed platform widths
+      accommodated wheelchair manoeuvrability. This data was used in subsequent
+      work between 2009 and 2010 to show that a time reduction of 3 seconds in
+      the dwell time (the time the train is stationary in the station), which
+      allowed the same train frequency with one fewer train, could be achieved
+      by reducing the vertical gap between the train and the platform along the
+      entire length of the platform [5],[6],[7].
+    London Underground New Concept Deep Tube Train: In 2012/13, London
+      Underground commissioned the laboratory to develop a mock-up train for
+      their New Concept Deep Tube Train Programme. In this case, a life-size
+      full tube train carriage was constructed according to the current
+      conceptual design, but with passenger-facing innovations such as variable
+      door widths, interchangeable seating and grab poles, and a station
+      environment including variable platform heights and platform edge doors.
+      This was then tested with 120 participants boarding and alighting under
+      different loading conditions. [9]
+    Tubelines Ltd (2009): Research carried out for Tubelines tested
+      the feasibility of using portable ramps to enable wheelchair users to
+      enter and leave tube trains. The work, which involved constructing a
+      number of deep-tube mock-ups tested by wheelchair users and other
+      participants, demonstrated that the proposed ramps were not appropriate,
+      as the ramps took too long to deploy and were particularly challenging
+      where the train floor is lower than the platform surface.
+    Exhibition Road (2010-2011): In 2010, Guide Dogs for the Blind
+      Association and Transport for London asked UCL to test a variety of
+      horizontal warning systems for the kerb-free, single-surface shared road
+      space in Exhibition Road, home to the Natural History Museum, Science
+      Museum and Victoria &amp; Albert Museum. The Association was particularly
+      concerned about the safety of a kerb- free, single-surface space shared by
+      pedestrians and vehicles without segregation. The work carried out in
+      PAMELA tested 54 different designs for tactile horizontal delineation
+      intended to provide information to visually impaired people about the
+      location of safe and less-safe areas within the shared space. These were
+      tested with a sample of visually impaired people, wheelchair users,
+      ambulant elderly people and others to determine which design should be
+      used in the actual application. It found no clear winner, but showed that
+      the existing `corduroy' surface might be usable for this purpose,
+      recommending a width of 600mm [8].
+    Other members of the team: Dr Taku Fujiyama (Lecturer at UCL since 2004);
+      Dr Craig Childs (Research Associate at UCL, 2003-2013)
+    

@@ -1,0 +1,246 @@
+CaseStudyId: 39855
+Title: 
+    Supporting policy-making on sustainable urban transport
+    
+
+ImpactDetails
+
+    Transport CO2 emissions have risen in all city contexts and
+      there has been a strong imperative to examine how these can be reduced and
+      to develop strategies to tackle the problem. Efforts to mitigate the
+      impacts of climate change rely heavily on a changed approach in the
+      transport sector (typically 20-40% of CO2 emissions at the city
+      level). The research described above has led directly and indirectly to
+      significant changes in policy determining how the transport sector
+      responds to the challenge of climate change, in multiple jurisdictions in
+      the UK and internationally.
+    (i) Informing changes in UK city-wide, regional and national policy
+        and investment:
+    Prior to 2006 there was little, if any, consideration of climate change
+      in UK transport planning. Since then, the need to reduce transport CO2
+      emissions has featured prominently in all strategy development, usually as
+      one of the primary objectives for the strategy. This major shift in
+      emphasis has been informed, in part, by findings from the VIBAT studies,
+      which were the first to consider this issue at the national level. Those
+      findings have been disseminated at a huge range of seminars, conferences,
+      workshops and publications, including over 50 presentations by Hickman [1].
+      In 2006, Hickman and Banister held a lunchtime seminar on the VIBAT-UK
+      study for transport experts at the UK Department for Transport (DfT).
+      Written and oral submissions were also made to the Environmental Audit
+      Select Committee (EAC) at the House of Commons, and the final EAC report
+      cited the VIBAT work substantively, and requested that the DfT
+      become more progressive on this topic. Since then, there have been
+      significant changes in national, regional and city-based transport
+      strategies, investment programmes, local masterplanning and urban planning
+      strategies, at all scales of transport planning, and in multiple contexts.
+      These have included much increased funding in public transport, walking
+      and cycling (through dedicated transport funds in London and the Local
+      Transport Plan mechanism in the UK); an increased use of urban planning as
+      an instrument within transport planning; and revised street design
+      approaches. In addition, a Local Sustainable Transport Fund of over &#163;100
+      million has been provided by the DfT.
+    The BSP research was carried out largely with city authorities, using a
+      participatory approach that brought in local officers and politicians to
+      help develop transport strategies and investment programmes over the long
+      term (up to 2026 and beyond). Accordingly, it has fed into spatial and
+      transport strategies and revised investment programmes devised by city and
+      regional authorities. Notable examples since 2008 include the use of the
+      research to inform the London's Mayoral Transport Strategy (Transport for
+      London, or TfL, and GLA, 2009, 2011) [2, 3], which now includes
+      reducing transport CO2 emissions as a major objective; and in
+      Local Transport Plans and Delivering a Sustainable Transport System
+      (DaSTS) studies for the Oxfordshire (2011) [4] and Swindon (2010)
+      LTPs, where investment programmes have been developed to help reduce
+      transport CO2 emissions. These will be implemented over the
+      next 10-20 years and aim to significantly change travel behaviours and
+      reduce CO2 transport emissions.
+    The research has also facilitated a shift in policy approach at the
+      national level towards low carbon transport, including a new emphasis on
+      the need to consider alternative futures over the long-term. Thus, for
+      example, the 2011 White Paper Cutting Carbon, Creating Growth: Making
+      Sustainable Local Transport Happen by DfT [5] considers climate
+      change as a major objective, takes a longer-term approach to strategy
+      development over 20 years and includes consideration of the range of
+      measures considered in the VIBAT studies.
+    (ii) Emerging changes in travel behaviour:
+    This improved awareness of the role of transport in reducing CO2
+      emissions, and the changing strategy and investment programmes, has begun
+      to translate into changes in transport funding patterns and, subsequently,
+      in travel behaviour. More specifically, investment has been made in public
+      transport, walking and cycling, and the use of urban planning to help
+      support transport investments. This has been one of several important
+      factors responsible for changes in travel behaviours, including less car
+      usage and greater use of public transport, walking and cycling. Some
+      studies of recent trends suggest that car usage is beginning to peak in
+      certain urban areas in the UK (particularly London), and that public
+      transport, walking and cycling are increasing in popularity (e.g. LeVine
+      and Jones, On the Move, 2012). Although by no means the only
+      factors, the changed policy and investment approach at the urban level &#8212;
+      supported by the use of the VIBAT studies to demonstrate realistic
+      investment policies for city authorities &#8212; has contributed to this.
+    (iii) Influence on international policy:
+    The VIBAT studies have similarly influenced strategy and policy
+      development in international contexts. Research by Hickman et al [d]
+      has had a particularly significant impact on the development of policy in
+      Asia. Here, the sustainable urban transport concept, closely linked with
+      the need to reduce transport CO2 emissions, is now the dominant
+      policy approach and forms a central element of transport planning and
+      major project investment by the Asian Development Bank. This has led to
+      significant investment in public transport, walking and cycling, as
+      alternatives to the private car, although of course there is a long way to
+      go before sustainable travel behaviours are achieved internationally. The
+      sustainable mobility approach is being further developed in related work
+      by Hickman et al on multimodal interchange design in China (forthcoming in
+      2014).
+    (iv) Take-up of BSP methodologies in governmental and consultancy and
+        academic work:
+    Key methodologies developed through the VIBAT research include
+      scenario analysis and backcasting; methods to quantify policy impacts and
+      assess the likelihood of policy targets being met (such as the UK CO2
+      emission reduction target and London Mayoral CO2 emission
+      reduction target in London); simulation gaming and participatory scenario
+      development. Since 2008, these approaches have been used in many other
+      governmental, consultancy and academic studies (beyond the work of Hickman
+      and Banister), including in work conducted by national and international
+      policy-making organisations. The quantification of scenarios, for example,
+      which was rarely used in the transport sector before the VIBAT-UK
+      study, is now well used in almost all studies in mitigation in transport,
+      providing a much clearer evidence base for policy makers. The UCL
+      approaches have also been applied in the EU Logman and EU OPTIC projects,
+      which applied very similar scenario development methodologies in to
+      freight (rather than passenger) transport. Similarly, scenario analysis
+      and backcasting (developed and applied in the transport sector in the VIBAT
+      studies) have been used as part of the 2008-10 FP7 EU Freightvision
+      project on long-term futures for freight transport in Europe [6].
+    They have also been used at the UK governmental level, for example in
+      publications seeking to quantify the impact of policy measures against
+      targets. Important examples include the 2008 Delivering a Sustainable
+        Transport Strategy and Carbon Pathways Analysis (both by
+      DfT), and the 2009 documents on Low Carbon Transport: A Greener
+        Future. A Carbon Reduction Strategy for Transport (DfT) and An
+        Analysis of Urban Transport (Cabinet Office), the latter an
+      important document feeding into the development of national transport
+      strategy and funding levels for local authorities, including in Local
+      Transport Plans [7]. All of these, in fact, used BSP approaches to
+      quantify the likely impact of scenarios and strategies; BSP research also
+      informed their new focus on reducing transport CO2 emissions
+      and using urban planning to reduce car dependency.
+    The approach have also underpinned UK consultancy studies, such as those
+      by Halcrow/CH2M (jointly with the BSP) [8], WS Atkins, and Arup in
+      the Guildford Transport Strategy, which made direct use of the VIBAT
+      approaches in scenario development, visioning and scenario quantification.
+      This has improved awareness of robust and practical approaches to reducing
+      transport CO2 emissions. The BSP methods have also been used in
+      international studies such as those by AEA Technology in the EU
+        Transport GHG: Routes to 2050 Project (2010) and in various Asian
+      Development Bank projects. These include their global regional modelling
+      of low carbon transport pathways in the ASEAN region, considering policy
+      approaches that can be taken in Indonesia, Malaysia, Philippines,
+      Singapore, Cambodia and Thailand (2011-14); and studies on sustainable
+      mobility and investments in sustainable transport projects [8].
+    
+ImpactSummary
+
+    Research on sustainable transport conducted by Hickman et al at UCL has
+      contributed significantly to a major shift in UK and international
+      transport policy during the last decade. Whereas such policy previously
+      included little, if any, consideration of climate change, the desire to
+      reduce transport CO2 emissions is now often its primary
+      objective. Findings from and methods developed through the research have
+      been used at city, regional, national and international to support and
+      implement revised strategies and investment programmes promoting
+      sustainable transport. As such, they contributed to increased use of
+      public transport, walking and cycling, and reduced dependence on car
+      usage. The methods have also been widely used by international
+      consultancies and other researchers.
+    
+UnderpinningResearch
+
+    The Bartlett School of Planning (BSP) has a long history of research in
+      transport planning, typically as part of the planning of cities and urban
+      areas. A key strand of this is work on sustainable transport led by Dr
+      Robin Hickman (researcher/visiting lecturer at BSP from 2004, and Senior
+      Lecturer since 2011), in association with Professor David Banister (who
+      worked at UCL up to 2006, subsequently Oxford University), and in
+      partnership with engineering, planning and urban design consultancies such
+      as CH2M Hill/Halcrow and Space Syntax Ltd.
+    Impacts on the development of sustainable urban transport systems are
+      underpinned particularly by research from 2004 onwards involving the
+      development and modification of approaches in scenario analysis and their
+      application to sustainable transport strategy and investment programme
+      development. This has included the development of innovative approaches in
+      scenario development, visioning, backcasting, scenario quantification and
+      modelling, multi-criteria appraisal (MCA) against scenarios, and
+      participatory involvement in scenarios. Much of this was highly original
+      research, developed to challenge the projected increase in transport CO2
+      emissions and develop alternative policy and investment approaches.
+      Simulation modelling/games (i.e. transport and carbon simulations and
+      integrated transport and simulation decision support tools) were also
+      designed to help take the decision-making process to a wider group of
+      stakeholders, including politicians, civil society, the public, and
+      technical specialists at the city authority level. These approaches were
+      developed by Hickman, Banister and wider team members during work with the
+      UK Department for Transport, Transport for London and other city
+      authorities.
+    Between 2004 and 2012, the UCL team developed both qualitative and
+      quantitative scenario approaches allowing, for example, quantification of
+      the likely impact of policy measures &#8212; both in combination and as
+      synergetic strategies &#8212; over the long term (up to 2030 and 2050) and in
+      participation with local stakeholders. These constituted novel and
+      little-used approaches to transport planning. The work was conducted at
+      the BSP by Hickman and Banister, the first for the UK Department for
+      Transport's Horizons Programme (Visioning and Backcasting for
+        Transport: VIBAT-UK, 2004-06) (Banister as principal investigator
+      and Hickman as lead researcher). The key insight of this was the
+      requirement for behavioural, as well as technological, responses to low
+      transport CO2 emissions [a]. In other words, it
+      identified a need for much greater use of walking, cycling, public
+      transport and urban planning, as well as low emission vehicles, to
+      significantly reduce transport CO2 emissions. The second major
+      study (VIBAT-London, 2007-09) was carried out by Hickman (principal
+      investigator) with Banister and others as part of the UrbanBuzz programme,
+      led by UCL and developed in association with Halcrow, Space Syntax,
+      Transport for London and the Greater London Authority. Here, the research
+      focus was on the potential for low-carbon transport pathways to be
+      developed and implemented in London, and the likelihood of meeting the
+      Mayoral CO2 emission reduction target in transport. The study
+      considered the range of policy measures available in London, modelled
+      levels of application and investment, and explored strategies and
+      strategic choices available to decision-makers. A simulation modelling
+      game (TC-SIM) was developed to illustrate the strategic choices available
+      and the trade-offs against CO2 reduction, political and
+      financial deliverability. The research recommendations included: reducing
+      average vehicle emissions to below 95 gCO2/km by 2025;
+      increasing the use of biofuels to around 10% of the fleet; radically
+      increasing the use of urban densities and mixed uses around public
+      transport interchanges (including in suburban locations); increasing the
+      geographical scope of the congestion charge across London (and charging
+      against emissions); increasing levels of investment in public transport,
+      walking and cycling; and considering international flying emissions in the
+      Mayor of London's target [b].
+    A series of related studies conducted since 2009 have allowed the UCL
+      team to test the application of the strategy development work in both UK
+      and international contexts. These have involved the development &#8212; and in
+      many cases modelling &#8212; of wide-ranging and integrated strategies,
+      including different levels of application of a range of policy measures
+      such as those mentioned above. The studies have supported the development
+      of context-specific low carbon transport strategies and pathways tailored
+      to meet particular problems and opportunities. Specific applications have
+      included the use of scenarios and multi-criteria appraisal in Oxfordshire
+      (for Oxfordshire County Council) and Swindon (for Swindon Borough Council
+      and the DfT). Here the research was used to provide an evidence base to
+      help develop the Local Transport Plan. The work was also discussed with
+      local stakeholders, politicians and the public [c].
+    Elsewhere, the same research has been applied for Transport Canada in
+      Victoria, in Auckland for the University of Auckland and Auckland Council,
+      and also in an Asian context via projects in Delhi (for Asian Development
+      Bank) and Jinan, China (University of Oxford, Future of Cities Programme)
+      [d]. In each, a low-carbon transport strategy and investment
+      programme was developed and policy measures suggested for investment by
+      the city authority. Further simulation modelling games were developed for
+      Swindon and Auckland, this time with MCA application against low CO2
+      transport strategies. A major essay on urban transport and carbon emission
+      reduction [e] encompasses much of the research project, including
+      the development and application of scenario methodologies and the testing
+      of these in London and Oxfordshire.
+    

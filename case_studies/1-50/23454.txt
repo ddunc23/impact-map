@@ -1,0 +1,157 @@
+CaseStudyId: 23454
+Title: 
+    Inborn errors of metabolism: diagnosis and treatment
+    
+
+ImpactDetails
+
+    MCADD
+    Our demonstration of an automatable method for MCADD screening and the
+      resulting benefits to patients contributed to a decision to undertake a
+      pilot study of MCADD screening (UKCSNS-MCADD) which was co-ordinated by
+      the MRC Centre of Epidemiology for Child Health at the UCL Institute of
+      Child Health, London [a]. This pilot study showed good results,
+      and so MCADD screening was adopted in England in 2009 and Wales in 2012
+      using our methods [b]. Since screening began, we can estimate
+      (based on epidemiology in ref 2 above) that around 60 lives have been
+      saved and around 60 cases of long-term disability prevented. One such
+      example was recently highlighted on the Great Ormond Street Hospital
+      website &#8212; the parents of a child identified by screening could be given
+      specialist dietary advice and training on what to do in an emergency [c].
+    Fabry disease
+    Our CTH method has been adapted for screening programmes. For example,
+      screening of 172,000 newborns in Taiwan identified 89 infants with low
+      activity of the Fabry enzyme; these infants were further assessed using
+      our urine CTH method [d]. Enzyme replacement therapy (ERT) has
+      been approved by for the treatment of Fabry disease, and early treatment
+      can help to avoid complications. As well as contributing to early
+      diagnosis, our tests provide early evidence of the success of ERT by
+      falling levels of CTH in the urine. We are commissioned to test urine
+      samples from patients receiving enzyme replacement therapy by one of the
+      companies producing the enzyme (Genzyme). Between 2008 and 2013 we
+      analysed 760 samples per year. Income from the CTH tests (&#163;37,000 p.a.)
+      and other tests undertaken in our laboratories (&#163;41,000 p.a.) contributes
+      to maintenance of equipment and funds further method development [e].
+    Movement disorders
+    Our diagnostic tests and new treatments for movement disorders are now in
+      use in clinical practice. The treatment we devised for genetically
+      determined manganese build-up dramatically alleviated symptoms of
+      parkinsonism or dystonia in four sufferers during the period 2008-13 [f].
+      This work was featured on the website of the European Parkinson's Disease
+      Association [g].
+    As a result of our work on Aromatic Amino Acid Decarboxylase Deficiency
+      (AADC), diagnostic tests are now available [h]. Without our
+      research all the families on this website would have no diagnosis for
+      their child's extremely debilitating disorder. Now those that have not
+      responded to drugs are likely to be able to have gene therapy in a joint
+      UK/US venture. Our work on diagnosis of AADC is featured on the AADC
+      Research Trust website [i].
+    Epilepsy
+    Our research on epilepsy has resulted in new diagnostic tests and better
+      treatment for infants and children now in use. We perform diagnostic tests
+      on 230 urine samples and 46 DNA samples per year, sent to us from
+      paediatricians looking after infants and children with severe epilepsy
+      around the country. Between 2008 and 2013, we identified the genetic
+      biochemical defect in 35 children (14 with pyridoxine 5'-phosphate oxidase
+      (PNPO) deficiency; 21 with antiquitin deficiency). These are potentially
+      fatal disorders. They respond poorly to antiepileptic drugs but respond
+      very well to high doses of vitamin B6 as pyridoxine or pyridoxal
+      phosphate. Our diagnostic test thus enables more successful treatment to
+      be given. [e]
+    Our research was quoted in a recent guideline on treatment of neonatal
+      seizures [j]. Referencing [5] above, along with another
+      publication from our group, the guidelines recommend: "Most cases of
+        pyridoxine-dependent epilepsy are due to alpha-aminoadipic semialdehyde
+        dehydrogenase (also known as antiquitin, or ATQ) deficiency, an
+        autosomal recessive inborn error of metabolism caused by defects in the
+        ALDH7A1 gene that lead to accumulation of alpha-AASA. Mutation analysis
+        of the ALDH7A1 gene is recommended in patients with abnormal biochemical
+        screening and/or clear evidence of pyridoxine or folinic acid
+        responsiveness."
+    Progressive liver disease
+    Our research on progressive liver disease means that children can now be
+      given bile acid replacement therapy for an increasing number of bile acid
+      synthesis disorders, preventing death from liver disease or the need for a
+      liver transplant [k]. We analyse samples from patients presenting
+      with cholestatic liver disease in the UK and overseas (280 samples, 4
+      treatable positives per year). For the period 2008-13, this equates to 24
+      lives saved / transplants avoided. In 2011, a bile acid preparation,
+      Orphacol, was licensed by the European Medicines Agency for the treatment
+      of inborn errors in primary bile acid synthesis. In the submission, they
+      state that: "The literature provided by the applicant showed that, where
+      available to investigators, the clinical use of cholic acid has been
+      documented since at least the mid-1990s through the work primarily
+      conducted by the Jacquemin, Clayton and Setchell groups". The document
+      references 10 of our papers [l].
+    
+ImpactSummary
+
+    Investigators at UCL have developed new diagnostic tests, new treatments
+      and new methods for monitoring treatment of inborn errors of metabolism.
+      Certain of these tests are now used to screen all newborns in the UK, all
+      infants with liver disease and all infants with drug-resistant epilepsy.
+      This is improving outcome for &gt;120 UK children per year. For
+      untreatable disorders, prenatal tests prevent the birth of a second
+      affected child in the family.
+    
+UnderpinningResearch
+
+    Inborn errors of metabolism are genetic disorders characterised by a
+      defective protein that disturbs an important metabolic pathway. Inborn
+      errors of metabolism are individually rare but collectively common
+      diseases, and can cause a very wide range of symptoms and signs from liver
+      disease to convulsions to movement disorders to loss of consciousness on
+      fasting.
+    MCADD
+      Medium-chain acyl-CoA dehydrogenase deficiency (MCADD) is a rare genetic
+      condition in which a person has problems breaking down fatty acids for
+      energy. It affects around 1 in 10,000 babies born in the UK each year, and
+      is life-threatening if not discovered early, as any drop in an affected
+      baby's blood sugar levels can result in severe illness or death. In 1998,
+      working with Micromass UK Ltd, we showed that electrospray ionisation
+      tandem mass spectrometry could be used to measure octanoylcarnitine in
+      blood spots thus providing the basis for an automatable method for
+      screening for MCADD [1]. We showed that once MCADD had been
+      diagnosed and appropriately managed, the prognosis was excellent (whereas
+      in undiagnosed patients the mortality was 20-25% and a further 20% of
+      children were left disabled) [2].
+    Fabry disease
+      Fabry disease is a rare lysosomal storage disorder, affecting around 1 in
+      58,000 individuals. The condition has serious complications including
+      severe neuropathic pain, renal failure, cardiomyopathy and coronary artery
+      disease, and strokes. Patients often die prematurely as a result of these
+      complications. In 2002 we published a new method for determination of
+      ceramide trihexoside (CTH) in plasma and urine of patients with Fabry
+      disease [3]. Such measurements have proved useful in monitoring
+      enzyme replacement therapy. This method is now the gold standard test for
+      the screening and monitoring of enzyme replacement throughout the UK and
+      worldwide.
+    Movement disorders
+      We were the first to show, in 1993, that parkinsonism in infants can be
+      caused by a disorder affecting the synthesis of dopamine (aromatic amino
+      acid decarboxylase [AADC] deficiency); some affected patients have shown a
+      good response to dopamine agonists and monoamine oxidase inhibitors, and
+      new treatments have been developed by ourselves and others which build on
+      our early work [4]. We have also shown that dystonia in older
+      children can be caused by a disorder leading to the build-up of manganese
+      in the brain [5]. This disorder can be effectively treated with a
+      manganese chelator and iron supplementation. We developed tests for
+      dopamine and serotonin metabolites in cerebrospinal fluid (CSF) (for
+      diagnosis of AADC) and we found the gene responsible for the manganese
+      disorder, thereby providing a genetic test. Overall, this work has led to
+      the development of useful diagnostic tests and new treatments for children
+      and adults with movement disorders.
+    Epilepsy
+      In 2005 we identified the genetic defect responsible for a severe seizure
+      disorder in infancy which we had previously shown could be treated
+      effectively with pyridoxal phosphate (the active form of vitamin B6). In
+      2006 we showed that severe seizures in the newborn that respond to
+      treatment with pyridoxine (another form of vitamin B6) could be due to
+      another genetic defect (antiquitin deficiency) [6].
+    Progressive liver disease
+      We have shown that liver disease in infancy and neurological disease in
+      older children and adults can be caused by disorders of bile acid
+      synthesis and these disorders can respond extremely well to bile acid
+      replacement therapy. Without treatment children can progress to cirrhosis
+      and liver failure [7].
+    

@@ -1,0 +1,137 @@
+CaseStudyId: 26479
+Title: 
+    Development of new treatments for uveitis
+    
+
+ImpactDetails
+
+    Our research over the last 15 years has developed new local and systemic
+      treatments for uveitis, and these have become standard practice. Our work
+      has introduced new treatments where none existed, specifically patients
+      with uveitis that is not responsive to steroid therapy or in which steroid
+      therapy is contraindicated because of adverse effects. For these patients,
+      treatment with mycophenolate or intraocular methotrexate may be
+      sight-saving. In other patients, as a result of these treatments, vision
+      has been restored and the dose of systemic steroids reduced or stopped
+      completely. MMF is now the major second-line drug used in management of
+      uveitis. Our demonstration of its effectiveness in 1999 was key in
+      bringing the potential of this drug to the attention of the inflammatory
+      eye disease community. Our study was also quoted in US guidelines in 2000
+      [a] and provided the impetus for several additional studies over
+      the years (e.g. Teoh et al 2008 [b]). A recent review of the
+      management of uveitis demonstrates that the use of MMF is established
+      practice [c].
+    A further recent article states: "Antimetabolites now enjoy favor as a
+        first choice of treatment with IMT [immunomodulatory therapy] in most
+        cases of posterior uveitis." Two of the key drugs used are MMF and
+      MTX [d]. The importance of MMF and MTX as treatments for uveitis
+      is further emphasised by a recently commenced clinical trial that compares
+      the two agents as first line therapy for steroid unresponsive uveitis [e].
+    Robust data concerning the numbers of patients affected globally by
+      uveitis where steroids are either ineffective or toxic are not available.
+      However, from our own institution MMF is the major drug used with steroids
+      in about 80% of these patients [f].
+    Cystoid macular oedema is a particularly challenging complication of
+      uveitis and is the most common cause of blindness and visual impairment in
+      chronic uveitis patients occurring in up to one third. Our studies have
+      contributed greatly to the present best practice in the management of this
+      condition. We demonstrated that vision could be improved by injecting TA
+      into the eye where systemic and periocular medication had failed. This led
+      to a profusion of papers on TA and then to the longer acting intraocular
+      steroids being developed. Our research also introduced intraocular
+      methotrexate as a successful treatment option for macular oedema in
+      patients who cannot have intraocular steroids. A recent review notes the
+      use of both intraocular TA and methotrexate in the management of uveitic
+      cystoid macular oedema. Regarding the former, it notes that "intravitreal
+        triamcinolone (various formulations) is commonly used for CME" [g].
+      A number of studies are cited, of which ours was notably the first and
+      largest. Our paper on intraocular methotrexate is also cited in both this
+      review, and another from India in 2013 [h].
+    A further complication of uveitis is glaucoma, which developes in up to
+      20% of patients. Prior to our research, ocular hypotensive prostaglandin
+        analogues had been used successfully in primary open angle glaucoma
+      but there was major concern about their use in uveitis patients. Our study
+      allowed these very effective drops to be brought into the management of
+      uveitic glaucoma and reduced the need for surgery [i].
+    Our demonstration in 2011 that anti-TNF drugs can reduce the risk
+      of visual loss in patients with Behcet's disease, who have the worst
+      visual prognosis of all patients with uveitis, is now being quoted
+      worldwide in support of this treatment [j].
+    
+ImpactSummary
+
+    Research at the UCL Institute of Ophthalmology over the last 15 years has
+      developed new treatments for management of uveitis and its
+      sight-threatening complications, which have subsequently become standard
+      practice. Our work, in previously untreatable disease, has allowed
+      restoration of vision in many patients and prevention of further visual
+      loss in others. Many patients have been able to reduce systemic
+      medication, limiting adverse effects of treatment.
+    
+UnderpinningResearch
+
+    Uveitis is an uncommon eye condition, which affects two to five in every
+      10,000 people in the UK every year. Although rare, it is a leading cause
+      of visual impairment in patients of working age. Chronic uveitis is
+      associated with a high incidence of vision-threatening complications such
+      as cataract, macular oedema, and, most importantly, glaucoma, which may
+      cause irreversible visual loss. Research at UCL, over the last 15 years,
+      has developed new treatments for uveitis and its complications.
+    In 1999 we assessed the usefulness of mycophenolate mofetil (MMF), an
+      immunosuppressant used extensively in transplant medicine, but not
+      previously used in uveitis. Our findings indicated that MMF was a useful
+      immunosuppressive drug for controlling ocular inflammation [1]; it
+      proved to be more effective with fewer adverse effects than other drugs
+      used to treat uveitis (ciclosporin and methotrexate).
+    Further to this, in 2001 we undertook a pilot study in six patients with
+      idiopathic uveitis complicated by visually significant cystoid macular
+      oedema (CMO) that was resistant to periocular and/or systemic
+      corticosteroid treatment. We demonstrated that one injection into the eye
+      of the steroid triamcinolone (TA) was an effective short-term treatment
+      for resistant CMO in uveitis [2]. This paper changed the way that
+      refractory macular oedema was considered in uveitis. Previously it was
+      thought that oedema was refractory because permanent blood-retinal barrier
+      breakdown had occurred. By demonstrating that vision could be improved by
+      injecting TA into the eye where previous systemic and periocular
+      medication had failed, the research had shown that oedema was reversible
+      using this method of steroid delivery. A larger study in 2005 confirmed
+      these findings, showing that in patients with uveitic CMO, intravitreal TA
+      can effectively reduce CMO and improve visual acuity. In some patients it
+      allows the cessation and/or major reduction of systemic immunosuppressive
+      therapy [3]. For the first time, previously incurable visual loss
+      could now be treated, resulting in vision gain and subsequent improvement
+      in the quality of life for patients. This led to a profusion of papers on
+      TA and then to the licensing of longer acting intraocular steroids, now a
+      NICE-approved therapy.
+    In 2009 we undertook a study to determine whether the use of topical
+      prostaglandin (PG) analogues to treat raised intraocular pressure (IOP) in
+      patients with uveitis resulted in an increase in uveitis reactivation or
+      CMO. This was thought likely and these drops were then contraindicated in
+      uveitis. We demonstrated that PG analogues are potent topical medications
+      for lowering raised IOP in patients with uveitis and are not associated
+      with an increased risk of CMO or uveitis reactivation [4]. The
+      study allowed these very effective drops to be brought into the management
+      of uveitic glaucoma and reduced the need for surgery to prevent visual
+      loss.
+    In the same year we undertook a pilot study in 15 patients to evaluate
+      the use of intravitreal methotrexate (MTX) for the treatment of uveitis
+      and uveitic CMO as an alternative to intravital steroids. We showed that
+      in these patients, intravitreal MTX can improve visual acuity and reduce
+      CMO and, in some patients, allows the reduction of immunosuppressive
+      therapy [5]. This study introduced intraocular methotrexate as a
+      successful treatment option for macular oedema in patients who cannot have
+      intraocular steroids &#8212; this led to an international series and widespread
+      use and for the first time offered a non-steroid intraocular treatment
+      regime for those in whom periocular/intraocular steroids are
+      contraindicated. Many of these patients were able to come off systemic
+      therapy as a result with good vision maintained.
+    Most recently, we assessed the visual prognosis of patients with ocular
+      Beh&#231;et disease, who have the worst visual prognosis of all patients with
+      uveitis, to determine factors predictive of visual loss and severe visual
+      loss. These patients are all young and both eyes are usually affected. We
+      showed that the use of anti-TNF-&#945; drugs was associated with a
+      statistically significant reduction in the rate of severe visual loss,
+      with a greatly reduced risk of visual loss at 5 and 10 years [6].
+      This has led to the early introduction of biologics for treatment in these
+      patients.
+    

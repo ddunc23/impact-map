@@ -1,0 +1,131 @@
+CaseStudyId: 26546
+Title: 
+    B cell depletion: an effective therapy in rheumatoid arthritis
+    
+
+ImpactDetails
+
+    As a result of the research described above, rituximab is now in
+      widespread use as a treatment for RA, with usage rising every year [a].
+      By the end of July 2013, Roche estimated that 228,801 patients have been
+      treated with rituximab for RA [b].
+    In March 2006, the FDA approved rituximab for use in combination with
+      methotrexate in adult patients with moderately to severely active RA who
+      have had an inadequate response to anti-TNF&#945; therapy. Approval by the
+      European Medicines Agency (EMA) came in July of the same year. Towards the
+      end of 2006, a consensus statement and guidance document on the use of
+      rituximab for routine care of patients with RA was issued by the European
+      League Against Rheumatism (EULAR), describing the treatment as "a major
+      advance in the therapeutic armamentarium for patients with rheumatoid
+      arthritis" [c].
+    In 2007, NICE issued guidance (updated in 2011) recommending rituximab as
+      follows:
+    Rituximab in combination with methotrexate is recommended as an option
+        for the treatment of adults with severe active rheumatoid arthritis who
+        have had an inadequate response to, or have an intolerance of, other
+        disease-modifying anti-rheumatic drugs (DMARDs), including at least one
+        tumour necrosis factor (TNF) inhibitor [d].
+    British Society for Rheumatology (BSR) and British Health Professionals
+      in Rheumatology (BHPR) issued further guidelines on the use of rituximab
+      in 2010 [e]. Rituximab was also recommended in guidelines issued
+      by the American College of Rheumatology (ACR) in 2008, updated in 2012 [f].
+    Benefits to patients
+    The use of rituximab extends treatment to those patients who cannot have
+      anti-TNF&#945; drugs because of contra-indications (a history of cancer or
+      pre-malignant conditions and patients with history of recurrent and/or
+      serious infections or considered to be at a high risk of infection). Data
+      from a collaboration of different European registries shows that 36% of
+      patients received rituximab as first-line biologic [g].
+    Rituximab is also indicated as a second line treatment for patients where
+      anti-TNF&#945; drugs failed, and this amounts to between 30 and 40% of patients
+      that are considered for biologic therapy. One patient, for whom three
+      anti-TNF&#945; drugs had failed, described the impact of rituximab as follows:
+    "Blood tests showed that my levels of inflammation were the lowest
+        that they'd been for years. I was less tired and had more mental and
+        physical energy. I resumed several of my hobbies... Mabthera transformed
+        my life... the effects have been radical. I can truthfully say that I
+        haven't experienced this level of wellbeing for many years" [h].
+    A major advantage of rituximab is that it can be given as two infusions
+      two weeks apart (or four smaller weekly injections), with effects
+      persisting for 6-12 months thereafter. From the patient's perspective,
+      this is a more convenient schedule of administration than other biologics
+      (typically administered 12-24 times per year). Furthermore, as the UCL
+      team and others have demonstrated, rituximab infusions can be repeated on
+      an annual basis for several years. Loss of response to rituximab in
+      patients with RA that have previously responded well is rare, and it is
+      well tolerated with excellent safety profiles in RA and in patients with
+      many other conditions [i].
+    Economic impacts
+    Rituximab costs &#163;5,000 per annum less than other biologics. In the UK it
+      is generally the next choice before other more expensive alternatives such
+      as tocilizumab, abatacept or belimumab. Use in patients in this setting
+      has already generated considerable savings to the NHS. The economic impact
+      of rituximab has been greater in low and middle income countries (for
+      example, Brazil) where the lower cost of rituximab makes it the first-line
+      biologic for RA [j].
+    Use of rituximab in other conditions
+    The success of B cell depletion therapy in RA has led directly to it
+      being used for autoimmune rheumatic diseases (such as systemic lupus
+      erythematosus, ANCA associated vasculitis, Behcets syndrome, myositis,
+      anti-phospholipid syndrome, Sjogren's syndrome, neuromyelitis optica).
+      Rituximab is licensed for ANCA-associated vasculitis [k], is
+      approved for funding by NHS England for SLE [l], and has been
+      nationally commissioned for the treatment of Behcets disease [m]
+      and neuromyelitis optica [n].
+    
+ImpactSummary
+
+    Research at UCL pioneered B cell depletion to treat rheumatoid arthritis
+      (RA) and also stimulated the development of B-cell-directed therapies for
+      other autoimmune rheumatic, haematological and neurological diseases. Now
+      NICE approved, B cell depletion (based on rituximab) in RA is as effective
+      as the alternative (anti-TNF&#945; drugs) and an option for patients unable to
+      gain benefit from anti-TNF&#945; drugs. Rituximab offers drug-cost savings of
+      up to &#163;5,000/annum/patient and for many is a more convenient therapy,
+      being given as an infusion only every five months apart, or more. B cell
+      depletion has also proved to have an excellent safety profile, with many
+      receiving repeated courses of treatment. As a consequence of UCL research,
+      rituximab has brought substantial benefit to patients with many autoimmune
+      diseases, including over 200,000 who have been treated with rituximab for
+      RA so far.
+    
+UnderpinningResearch
+
+    In the 1980s and early 1990s it was a general view that rheumatoid
+      arthritis (RA) was caused by T cells that attacked specific targets in
+      joints. The consequent release of toxic cytokines by joint macrophages was
+      generally agreed to be responsible for inflammation. Yet, despite more
+      than 20 years of research, no consistently autoreactive T cell had been
+      identified. Research at UCL conducted by Jonathan Edwards and Geraldine
+      Cambridge led to the hypothesis that B cells played an essential role in
+      the pathogenesis of RA [1].
+    Following anatomical and immunohistochemical studies of normal and
+      diseased human synovium they found that a receptor (CD16) was
+      constitutively expressed on macrophages in synovial lining and to a lesser
+      extent in other sites affected in the disease. The consequence of CD16
+      activation was to stimulate macrophages to generate TNF&#945;, a powerful
+      pro-inflammatory cytokine known to be involved in joint inflammation. CD16
+      appeared to be activated by soluble complexes of particular
+      autoantibodies, previously described in RA patients. They suggested that
+      the constant supply of autoantibodies capable of forming these small
+      `activating' complexes was due to expansion of B cells (responsible for
+      autoantibody generation) in a manner that avoided usual pathways to
+      control their number [2]. This led to the hypothesis that removing
+      B cells would reduce the inflammatory stimulus and also break the vicious
+      cycle of autoreactive B cell expansion.
+    Towards the end of the 1990s, Roche developed a drug, rituximab (which
+      binds the CD20 marker on all mature B cells), for the treatment of B-cell
+      cancers notably lymphomas. Edwards and Cambridge were quick to recognise
+      that since both B-cell lymphoma and RA involved uncontrolled proliferation
+      of B cell clones, rituximab might well be what they had been waiting for
+      to treat patients with RA. Proof of concept followed with the clinical
+      success of a small trial of the B-cell-depleting agent, rituximab, in 5
+      patients with intractable RA in 1998/9 by the UCL team, and confirmed by
+      them in a larger cohort [3, 4].
+    The first randomised trial started in 2002 and was published in NEJM in
+      2004 [5]. The results indicated that rituximab produced results in
+      patients with RA that at least matched those of patients treated with TNF&#945;
+      blockade. Successful treatment of patients with systemic lupus
+      erythematosus by the group followed [6]. Rituximab was licensed
+      for the treatment of patients with RA in 2006.
+    

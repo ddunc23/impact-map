@@ -1,0 +1,188 @@
+CaseStudyId: 44229
+Title: 
+    Statistical Parametric Mapping
+    
+
+ImpactDetails
+
+    Before SPM there was no principled framework or easily usable software
+      that could be used to analyse and report functional brain images in the
+      scientific literature or elsewhere. By creating that ability in a
+      principled and extensible theoretical framework, the underpinning research
+      led to the establishment and dramatic growth of an entirely new scientific
+      field, imaging neuroscience. Establishing a new scientific field
+      has created a wide range of beneficiaries, including commercial
+      manufacturers (such as Siemens, Phillips and GE Healthcare) who provide
+      the brain scanners to such a new field.
+    SPM is used by academic neuroscientists, healthcare professionals and
+      neuroimaging consultants to analyse brain-imaging data. The basic
+      operations, of describing the imaging experiment in the form of a GLM and
+      interrogating the statistical results, are usually implemented via a
+      simple Graphical User Interface. Maps showing regions of significant
+      change can then be surfed in an interactive viewer.
+    The SPM software is released under a General Public Licence (GPL),
+      meaning that users are free to run the software, as well as to share
+      (copy, distribute), study and modify it. This greatly simplifies code
+      transparency and provides a software platform for the brain imaging
+      community to develop new technologies. A broad community of academic
+      neuroscientists and healthcare professionals has adopted SPM which is
+      disseminated using a proven delivery pipeline comprising (I) release of
+      open source software (II) delivery of specialised short courses (III)
+      collaborative research (IV) email support [a]. SPM is currently
+      the most widely used software package globally for brain imaging analysis
+      and now has 4,500 subscribers on its mailing list. A recent systematic
+      study of methods used to analyse brain imaging data showed SPM to be the
+      most popular software worldwide, used in 64% of studies (compared to 13.9%
+      for each of its two nearest rivals) [b].
+    Clinical Applications
+    SPM has been used by the neuroimaging company Imagilys to develop
+      a commercial product, BrainMagix, for use in brain surgery [c].
+      People with brain tumours, for example, may require surgery to remove
+      malignant tissue. The goal of surgery is to remove cancerous tissue
+      without damaging important parts of the brain. If structural imaging shows
+      damage close to language areas, for example, then patients will have fMRI
+      scans prior to surgery to map more precisely which regions that person
+      uses when speaking or understanding language. Surgeons will make reference
+      to the resulting SPM images before surgery to ensure these critical
+      regions will not be excised. Such presurgical planning has been used to
+      deliver impact in many neurological disorders including drug-resistant
+      epilepsy (as illustrated in case study UCL04-DUN).
+    New approaches to drug development in the pharmaceutical industry
+    All pharmaceutical companies use medical imaging in the drug development
+      process and recent years have seen attempts to develop drugs for many of
+      the major health issues today, from depression and dementia to epilepsy
+      and schizophrenia. Brain imaging is used here as a `biomarker' &#8212; if drugs
+      are effective they will change activity in specific brain regions. The SPM
+      software is used to assess whether this change is statistically
+      significant.
+    A factor in the transfer of SPM technology to industry has been the role
+      of two SPM co-authors, Dr Tom Nichols and Dr Andrew Holmes, who have had
+      extended periods working in the pharmaceutical industry (at GSK
+      and AstraZeneca respectively). Along with the fact that SPM is
+      distributed under GPL, this has resulted in SPM being widely used in
+      global drug research. Dr Nichols became the Director of Imaging Research
+      at GSK's Clinical Imaging Centre that used SPM approaches to measure brain
+      activity and structural changes associated with disease and the neural
+      effects of pharmacological agents in drug development [d]. Imanova
+      Ltd was established as a spin-out imaging provider company in 2011 and now
+      owns and manages the renowned Clinical Imaging Centre; this state of the
+      art facility was developed by GSK, and has benefitted from &#163;47m of
+      investment in equipment and infrastructure since opening in 2007. SPM
+      approaches are used routinely throughout Imanova [d].
+    SPM's use has now spread to many other companies involved in the drug
+      development process. These include other major pharmaceutical companies,
+      such as Eli Lilly and consultancies such as Mango Solutions
+        [e].
+    New software products
+    SPM has contributed to the development and use of commercial software
+      packages. SPM is built on the commercial programming language `MATLAB'
+      developed by MathWorks. SPM is one of MATLAB's core applications [f].
+      Each of the thousands of SPM users requires a MATLAB licence to run SPM
+      with significant commercial benefit to MathWorks. Several companies have
+      developed commercial software products based, in part, on the ideas and
+      framework underlying SPM. This includes software installed on all the
+      major MRI scanners now sold globally, for instance the inline BOLD imaging
+      software of the Siemens MAGNETOM Tim Trio (a commonly sold MRI
+      scanner) that provides basic real-time analysis of fMRI data [g].
+      Brain Innovation BV has developed BrainVoyager QX based on SPM for
+      fMRI, MEG and EEG data analysis [h]. It is now being used by
+      approximately 2,000 scientists and clinicians and a single licence is
+      currently available for about &#8364;5,000. These developments would not have
+      been possible without the SPM framework.
+    Creation of new sectors and companies
+    The emerging field of neuromarketing, an approach in which Professor Read
+      Montague (jointly appointed between Virginia Tech and UCL) was a pioneer,
+      proposes that the decisions people make are influenced by subconscious
+      brain activity, for example in brain regions dealing with emotional
+      responses, and this activity can be accessed using fMRI. SPM is used as
+      the basis of such an industry to detect, for example, which sets of
+      advertising stimuli produce significantly larger responses in these brain
+      regions. This approach has been developed commercially by Neurosense
+        [i]. Statistical parametric mapping approaches have also enabled the
+      creation of commercial companies that seek to detect deception such as No
+      Lie MRI (http://www.noliemri.com),
+      and those that support investigators such as Neurometrika [j]. SPM
+      has also been used to help provide part of the new evidence base to
+      evaluate illegal drugs (as illustrated in case study UCL04-CUR).
+    Training of non-academic professionals
+    UCL researchers have facilitated the development of a range of short
+      courses held over three days that explain SPM's main theoretical concepts,
+      and provide hands-on tuition in small groups to academic and non-academic
+      end users, which is now delivered across the world. Most of these courses
+      are run by universities, but some also by commercial enterprises such as
+      Neurometrika, who run several SPM courses primarily in the US but also
+      Brazil, Canada and China, for training academic neuroscientists and
+      healthcare professionals [j]. UCL run courses every year (two in
+      2008, and three per year since then), organised by academics from the
+      WTCN. There is one course per year in Zurich, Lausanne, Hamburg, Utrecht
+      and Edinburgh organised by local academics but including UCL faculty.
+      These courses have ~40 students each and fees vary from &#163;100 to &#163;1,000 [k].
+    
+ImpactSummary
+
+    Research by Professor Karl Friston at UCL has led to the development of
+      Statistical Parametric Mapping (SPM), a statistical framework and software
+      package. By providing a way to analyse signals measured from the human
+      brain in MRI scanners, SPM triggered the creation of an entirely new field
+      of imaging neuroscience. Beneficiaries include: commercial manufacturers
+      who provide imaging equipment; healthcare practitioners and patients,
+      where SPM is used to deliver new treatments; pharmaceutical industries
+      using SPM to deliver clinical trials; the IT industry developing new
+      software based on SPM; and entirely new industries such as neuromarketing
+      that could only have been created once SPM had been invented.
+    
+UnderpinningResearch
+
+    Statistical Parametric Mapping (SPM) is both the name of a statistical
+      framework for analysing brain images and the name of a software package
+      now standard in the field of imaging neuroscience. SPM is used for
+      analysing brain imaging data and was originally conceived by Karl Friston
+      when working at the MRC Cyclotron Unit at the Hammersmith Hospital in
+      1991. The initial application was to data from Positron Emission
+      Tomography (PET) and, in the spirit of open science, Friston shared his
+      SPM code with colleagues in the nascent brain imaging community. A new era
+      began in 1994 when Friston and colleagues opened the Wellcome Trust Centre
+      for Neuroimaging (WTCN) at UCL, and re-invented SPM to analyse functional
+      Magnetic Resonance Imaging (fMRI) data [1, 4, 5]. At the time
+      functional MRI was a new approach to brain imaging and there were no
+      principled frameworks in which to analyse the data produced by MRI
+      scanners. The underpinning research carried out by Friston provided such a
+      framework, together with accompanying software.
+    At the heart of SPM is the simple idea of fitting a general linear model
+      (GLM) at every location in a time series of functional brain images
+      measured using an MRI scanner while a subject lies in it. Parametric
+      statistical models are assumed at each location, using the GLM to describe
+      the data in terms of experimental and confounding effects, and residual
+      variability. Corrections for multiple dependent statistical comparisons
+      are then made using Random Field Theory. The output of SPM is an image, or
+      a `statistical parametric map', indicating statistically significant
+      changes in brain activity. This allows neuroscientists to relate brain
+      activity to human behaviour and has led imaging neuroscientists to a
+      mapping of the human brain, identifying specific areas for sensory,
+      emotional and decision-making processes. Without SPM, there would be no
+      principled framework for undertaking such analyses and thus no easy way to
+      undertake imaging neuroscience. The underpinning research carried out by
+      Friston and colleagues is now the basis for all brain imaging data
+      analysis (and all brain imaging software packages) throughout the world.
+    In 2000, further research by Friston and Ashburner at UCL significantly
+      extended the SPM approach to apply not just to functional brain images but
+      also to structural MRI data. This allowed statistical characterisation and
+      localisation of differences in grey matter density among or between
+      different groups of patients (or healthy humans) using a procedure known
+      as Voxel-Based Morphometry (VBM) [2]. Such an approach has now
+      been used, for example, to map the loss of grey matter in dementia by
+      pharmaceutical companies.
+    In 2005, further research by Friston and Penny at UCL permitted the
+      extension of the SPM framework and software to the analysis of
+      magnetoencephalographic (MEG) and electroencephalographic (EEG) data [6].
+      This allows neuroscientists to study brain activity as it evolves on a
+      fast time scale, and creates new beneficiaries in this emerging area.
+    Finally, research led to additional enhancements to the software to allow
+      neuroscientists to study interactions among brain regions using a
+      technique called Dynamic Causal Modelling (DCM) [3]. DCM fits
+      biologically realistic differential equation models to brain imaging data,
+      using Bayesian inference. It allows neuroscientists to detect changes in
+      brain pathways, rather than brain regions. It has been used, for example,
+      to show that connections from frontal to temporal regions were altered in
+      patients in a vegetative state, whereas other pathways remained intact.
+    

@@ -1,0 +1,112 @@
+CaseStudyId: 26519
+Title: 
+    Advances in gene therapy lead to successful treatment of haemophilia
+    
+
+ImpactDetails
+
+    Haemophilia B patients have a defective factor IX gene and cannot make
+      the protein factor IX, which is essential for normal blood clot formation.
+      They suffer from frequent, often life-threatening, bleeding episodes that
+      occur without any apparent injury. Current treatment involves injection of
+      factor IX protein concentrates every two to three days for the life-time
+      of the patient. This treatment is invasive, extremely expensive (&#163;150,000
+      per year) and only available to 20% of the world's haemophilia patients
+      who live in high income countries. Importantly, this treatment is not
+      curative and patients continue to bleed despite prophylactic factor IX
+      treatment which by necessity is administered intermittently, resulting in
+      significant periods when the plasma level is below 1% of normal.
+    Gene therapy overcomes these limitations by replacing the damaged factor
+      IX gene with a normal copy, thus allowing the patient to make factor IX
+      protein continuously without the need for regular injections. Our recent
+      study showed that a single injection of our novel AAV vector into six
+      patients with severe haemophilia B resulted in an increase in blood FIX
+      levels from undetectable levels before gene therapy to between 1-6% of
+      normal in all participants for a period that now extends to over three
+      years.
+    Four of the six patients have been able to stop regular injections with
+      FIX protein and still remain free of spontaneous bleeding episodes. This
+      is despite engaging in activities such as playing football and running a
+      marathon that had previously been associated with bleeding. The first
+      patient commented "This type of solution is something permanent and can
+        make a lot of difference". The sixth patient said "I have not
+        needed any of my normal treatment, either preventative or on-demand as a
+        result of an injury. Previously, I used to infuse at home three times a
+        week .... I play football, run and take part in triathlons &#8212; and
+        previously I might have had to infuse both before I took part and
+        possibly after as well. Not having to do that has been absolutely
+        brilliant" [a].
+    This, the first gene therapy success for haemophilia in the world, has
+      been lauded by experts in the field [b]. The results have been
+      widely covered by the media, including the BBC and the New York Times
+      amongst other news outlets across the world [c]. It has also been
+      covered on patient-facing websites [c].
+    There has been a significant saving to the NHS just from the first six
+      patients treated through reduction or elimination of the need for FIX
+      protein concentrates, amounting to more than &#163;1.5m, a figure which
+      increases with each month that passes. This approach has recently been
+      extended to four more patients who were all treated at the high dose level
+      and are expressing factor IX at 5-8% level over a follow-up period of 9-18
+      months.
+    Indeed, the same approach is now being developed by Nathwani and
+      Tuddenham for haemophilia A, the most common severe inherited bleeding
+      disorder affecting approximately 1 in 5,000 males. Patents for the novel
+      factor VIII expression cassette has been filed [e] and recently
+      licensed to BioMarin for [text removed for publication] [f].
+      This development is prompting increased investment in research, and is
+      accelerating clinical trials for gene therapy of haemophilia A. [text
+        removed for publication].
+    
+ImpactSummary
+
+    Haemophilia, an inherited bleeding disease, is treated by frequent and
+      extremely expensive infusions of recombinant versions of the missing
+      factors. Advances in gene therapy have now been achieved at UCL, with
+      successful treatment of Haemophilia B in 10 severely affected patients.
+      The novel factor IX expression cassette has been patented and licensed to
+      an industrial partner (UniQure). Savings to the NHS in excess of &#163;1.5m
+      have already been made and increase every month. Pre-clinical advances
+      have also been made in Haemophilia A, and the factor VIII expression
+      cassette has been patented and licensed to an industrial partner
+      (BioMarin).
+    
+UnderpinningResearch
+
+    Haemophilia is an inherited deficiency of one of the clotting factors
+      that achieve haemostasis and prevent uncontrolled bleeding. Since the
+      cloning of the factor VIII gene, which involved a seminal contribution
+      from Professor Edward Tuddenham at the UCL Cancer Institute, and the later
+      cloning of other clotting factor genes, the standard treatment for
+      haemophilia has been with the infusion of recombinant versions of the
+      missing factor. This approach is very expensive to the NHS (&#163;400m per
+      annum) and beyond the means of 80% of patients living in the developing
+      world.
+    In 1999, Tuddenham began a collaboration with Dr Amit Nathwani (also UCL
+      Cancer Institute) to develop gene therapy for Haemophilia A and B with the
+      intention of overcoming this problem and providing improved disease
+      control. The initial studies focussed on Haemophilia B (factor IX
+      deficiency) because the factor IX gene is smaller than the factor VIII
+      gene and is easier to package. Extensive iterative preclinical studies
+      performed in collaboration with St Jude Children's Research Hospital, in
+      Memphis, TN, USA led to highly improved in vivo delivery and expression of
+      the factor IX gene in mice and then in primates. This was achieved by
+      incremental technical modifications including codon optimisation of the
+      factor IX gene, the development of a self-complementary gene construct
+      and design of a small tissue specific promoter [1, 2].
+    Good Manufacturing Practice protocols for vector purification were
+      developed and in 2010 studies in patients commenced [3]. In the
+      initial report, the vector was infused at one of 3 doses into the
+      peripheral vein of six severely affected haemophilia B patients with
+      baseline factor IX activity &lt;1% of normal. Stable adeno-associated
+      virus (AAV)-mediated endogenous expression of factor IX at 2-6% of normal
+      levels was observed in all participants for a period of at least three
+      years (follow-up still on-going). Four additional subjects were recruited
+      in 2012 at the high dose level and they have stable expression of factor
+      IX at 5% of normal.
+    Building on the expertise developed during the haemophilia B work, a new
+      expression cassette for factor VIII has been designed that overcomes the
+      size barrier to incorporation in AAV and also allows highly efficient
+      synthesis compared to all previous expression vectors [4, 5].
+      Final pre-clinical toxicology studies are now ongoing to support a Phase
+      I/II trial of factor VIII gene transfer for Haemophilia A.
+    

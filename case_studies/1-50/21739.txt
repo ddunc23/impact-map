@@ -1,0 +1,207 @@
+CaseStudyId: 21739
+Title: 
+    Sodium channels, pain and analgesia
+    
+
+ImpactDetails
+
+    Clinical understanding and diagnosis of pain disorders.
+    Through our research, several human pain disorders have been linked to
+      mutations in both Nav1.7
+      and Nav1.8, leading to an increase in the clinical understanding of these
+      disorders and to their
+      correct diagnosis. By identifying peripheral ion channel mutations linked
+      to painful (and pain-free)
+      conditions, we have increased the potential for better diagnosis in this
+      patient population. The
+      Department of Clinical Neurophysiology at the National Hospital for
+      Neurology and Neurosurgery
+      (NHNN) receives approximately 100 requests per year for the differential
+      diagnostic assessment of
+      small fibre neuropathies. This differential diagnostic approach
+      increasingly uses sequencing for
+      mutations in Nav1.7 and Nav1.8 in cases of idiopathic pain, thus starting
+      a new line of diagnostic
+      procedure which may help to define useful therapeutic approaches [a].
+    Similar diagnostic work, using our findings, also takes place at other
+      centres. For example, genetic
+      testing in the Netherlands for mutations to Nav1.7 and Nav1.8 has revealed
+      that, of patients with
+      idiopathic painful neuropathy (which affects up to 5% of the general
+      population), ~30% have a
+      gain-of-function mutation in Nav1.7 [b] and ~10% have a
+      gain-of-function mutation in Nav1.8 [c].
+      Researchers involved in this study, which built on the earlier UCL
+      research, reported that: "a lot of
+        patients with small fiber neuropathy were sent to psychiatrists, or sent
+        home, and told, `You have
+        pain, but we don't see anything, so there's nothing wrong with you...
+        [The new findings offer] a
+        recognition that they have a real disease, and that there is something
+        causing the disease" [d].
+    This year, we showed that two patients with the more rare human pain
+      disorder, primary
+      erythromelalgia, also have gain-of-function variants of Nav1.7 [e].
+    Impacts on the pharmaceutical industry
+    The neuropathic pain market is huge, with peak sales of prescribed drugs
+      across the seven major
+      markets expected to reach $4.1bn by 2019. The major challenge in the pain
+      drug market is to
+      reduce the side-effects associated with treatment, and our discovery of
+      roles for Nav1.7 and
+      Nav1.8 in peripheral pain has provided the pharmaceutical industry with
+      ideal targets for the
+      development of more specific analgesics [f]. Indeed, all major
+      pharmaceutical companies now
+      have programmes based on these targets, with Nav1.7 being the most
+      appealing target because
+      our research showed that its loss leads to a pain-free phenotype in man.
+    As a result of our work, more than 1,000 patents on new analgesic
+      compounds targeting Nav1.7
+      and 1.8 are currently held by pharmaceutical companies (522 on Nav1.7 and
+      597 on Nav1.8 [g]),
+      with many of these compounds now in clinical trials. For example,
+      Convergence has developed a
+      novel small molecule state-dependent Nav1.7 blocker, CNV1014802, which
+      began Phase II trials
+      for the treatment of trigeminal neuralgia in 2011 [h]. Similarly,
+      Ralfinamide (Newron) and Eladur
+      (Durect/King/Pfizer), both Nav1.7 blockers, are undergoing Phase II
+      clinical trials for neuropathic
+      lower back pain and post-herpetic neuralgia. Ralfinamide and Eladur are
+      expected to go to market
+      and reach peak year sales of $120m and $198m, respectively, by 2019 [f
+        &#8212; see table 47].
+    We have provided the pharmaceutical industry with the transgenic mouse
+      lines developed in our
+      lab, saving significant time and money in the industrial development of
+      new analgesic compounds.
+      Currently, six licences for our mice are held by pharmaceutical companies
+      (including five of the
+      major companies; names can be provided confidentially). These have a
+      financial impact for UCL:
+      with each mouse line worth &#163;50,000, they bring in cumulative income in the
+      six-figure range [i].
+    Public engagement and media appearances
+    Our work on the genetic basis of pain has been featured on various TV
+      programmes (e.g. The One
+      Show, BBC, 2012; The Human Body, Discovery Channel, 2012) including most
+      notably in BBC
+      Horizon's The Secret World of Pain, 2011. This went out to an
+      audience of 1.96m, and the
+      Television and Radio Index for Learning and Teaching (TRILT) listed the
+      documentary as number
+      four in its weekly record of requested programmes [j].
+    Increasing public awareness of the many possible physiological origins of
+      pain is extremely
+      important because patients with chronic pain are often faced with the
+      additional trauma of their
+      pain being dismissed as "psychological" (by friends and relatives if not
+      doctors) when its
+      physiological basis is unclear. The BBC internet forum Ouch! Disability
+      Message Board also
+      included contributions from people featured in the documentary, including
+      Rebecca Key who
+      explained that the documentary had sparked enough public interest for a
+      seminar to be organised
+      by the charity Neurosupport, held in Liverpool on 15 June 2011 [k].
+    Similarly, it is an important revelation to many that pain is beneficial
+      and to live without it can lead
+      to serious physical injury. The documentary has had use in clinical
+      practices at the Children's
+      Hospital: Dr Konrad Jacobs, Psychologist on the Paediatric Rheumatology
+      Team, Oxford
+      University Hospitals, noted, "There is a scene in it that I have
+        started using clinically with children
+        with chronic pain. In this scene (around 4:18) two children explain the
+        consequences of not being
+        able to feel any pain. This scene can be used to explain that pain can
+        fulfil a useful function (but
+        unfortunately not in their case)" [l].
+    Newspaper coverage also noted the impact of the documentary in changing
+      the public's
+      understanding of pain. The Metro newspaper noted, "as ever, it's in the
+        genes and there's one
+        tricky customer that controls our experience of pain. Research into that
+        is helping treatment of it
+        and our understanding of how it works." A review in the Daily
+      Express highlighted, "All this mind-body
+        stuff is interesting but what makes it important and therefore good TV
+        is the way scientists
+        are turning it into useful treatments" [m].
+    
+ImpactSummary
+
+    More than three million people are in pain at any one time in the UK,
+      with inadequate analgesic
+      treatment because of side-effects or lack of drug efficacy. By identifying
+      roles for the voltage-gated
+      sodium channel subtypes Nav1.7 and Nav1.8 in peripheral pain, our research
+      has had a significant
+      impact on the clinical understanding of human pain disorders and
+      on the commercial
+        development of selective analgesics with fewer side-effects. We have
+      developed and
+      disseminated several transgenic mouse lines which are widely used
+      by the pharmaceutical
+      industry. Through media appearances, we have also increased public
+        awareness of the
+        physiological basis of pain.
+    
+UnderpinningResearch
+
+    Starting with the hypothesis that genes which are selectively expressed
+      in damage-sensing
+      neurons (nociceptors) might play important roles in pain pathways,
+      research by Professor John
+      Wood's group at UCL (Department of Biology, then Wolfson Institute for
+      Biomedical Research) has
+      discovered and delineated the involvement of two voltage-gated sodium
+      channel subtypes, Nav1.7
+      and Nav1.8, in peripheral pain.
+    In 1995, Armen Akopian, a Wellcome Trust-funded post-doctoral fellow in
+      the lab, used a
+      subtractive DNA hybridisation technique to find genes in rat dorsal root
+      ganglia that were not
+      expressed in heart, liver, cortex or cerebellum. In this way, we
+      identified 46 mRNA transcripts that
+      were expressed selectively in neonatal rat dorsal root ganglia (DRG) as
+      judged by Northern blots
+      and in situ hybridization [1]. Both known (e.g.
+      peripherin, calcitonin gene-related peptide, myelin
+      P0) and novel (e.g. C-protein-like, synuclein-like, villin-like)
+      identifiable transcripts were present in
+      the library. In terms of analgesia research, the voltage-gated sodium
+      channel Nav1.8 (previously
+      known as SNS) was an attractive new target. We then used knock-out mouse
+      technology to show
+      that this channel was important in pain pathways [2,3] and,
+      perhaps more importantly, we used the
+      promoter region of Nav1.8 to drive the expression of Cre recombinase to
+      generate knock-out mice
+      that lacked the expression of particular genes only in nociceptive neurons
+      [4]. This enabled us to
+      home in on a range of interesting and specific analgesic drug targets.
+    Using this approach in 2004, Mohammed Nassar, an MRC-funded post-doctoral
+      fellow in the lab,
+      was the first to show that Nav1.7 is a key molecule in peripheral pain
+      pathways in mice [4]. We
+      later showed that gain-of-function Nav1.7 mutant channels contribute to
+      human pain [5].
+      Complementarily, in collaboration with Professor Geoff Woods at Cambridge
+      University in 2006,
+      we found that hereditary loss of Nav1.7 function (due to three distinct
+      homozygous mutations in
+      three different families) led to congenital loss of human pain [6].
+      Thus, increased Nav1.7 function
+      leads to increased human pain, whereas loss of Nav1.7 function abolishes
+      human pain.
+    These important observations focussed the attention of the pain
+      pharmaceutical community on the
+      Nav1.7 channel as a useful and specific analgesic drug target. We have now
+      deleted Nav1.7 in all
+      sensory neurons of mice, which recapitulated the pain-free phenotype of
+      human Nav1.7 loss-of-
+      function mutants, and identified chemical blockers that are potent
+      analgesics in animal models [7].
+    

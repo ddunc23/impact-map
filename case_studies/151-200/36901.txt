@@ -1,0 +1,198 @@
+CaseStudyId: 36901
+Title: 
+    Hereditary autoinflammatory disease programme: from endogenous pyrogen
+      to the NHS cryopryin associated periodic syndrome (CAPS) Treatment Service
+      at UCL, Royal Free
+      Hospital.
+    
+
+ImpactDetails
+
+    Canakinumab was licensed for the treatment of CAPS, a new highly
+      effective medicine for a rare
+      orphan disease, in the EU [a] and the US in 2009 and in Japan in
+      2011 [b]. Data for licensing
+      arose principally from the clinical trials led by Hawkins.
+    The NHS CAPS Treatment Service, established in 2010 as a result of
+      Hawkins' research, and
+      funded directly by the Department of Health, provides the national service
+      for patients with
+      autoinflammatory diseases, offering a clinical and genetic diagnostic
+      service, and highly effective
+      treatment with specific cytokine inhibitors [c]. Fifty patients
+      with CAPS are currently receiving
+      canakinumab treatment in the UK centre, at an annual cost of &#163;3.6m, and
+      nearly 300 patients are
+      now being treated world-wide, 234 of whom have CAPS and the remainder
+      having other
+      autoinflammatory diseases [d].
+    An international registry to document the safety and efficacy of
+      canakinumab has been created [e],
+      to which Hawkins contributed design and serves as a member of the steering
+      committee. Among
+      the 241 CAPS patients enrolled on the registry, only two have discontinued
+      treatment due to poor
+      therapeutic response.
+    CAPS-causing mutations result in excessive production of interleukin
+      103b2 (IL-103b2), which causes
+      disabling multi-system inflammation from birth. Patients suffer severe
+      fatigue, fever and muscle
+      pains on a daily basis that mimic influenza, many symptoms of which are
+      also caused by excessive
+      IL-1&#946; clinical features include chronic anaemia and inflammation in the
+      skin, eyes, joints and brain
+      that presents as rashes, conjunctivitis, arthritis, chronic meningitis,
+      blindness, deafness and in
+      some cases cognitive impairment. About 25% of patients develop AA
+      amyloidosis that results in
+      kidney failure and death within 5-10 years. Growth and development are
+      impaired, and puberty is
+      delayed as a result of chronic severe inflammation. Patients with CINCA,
+      the most severe CAPS
+      phenotype, often die before adulthood.
+    Treatment of CAPS with the monoclonal IL-103b2 antibody, canakinumab,
+      results in complete or near-complete
+      remission of the disabling inflammation that affects the skin, eyes,
+      joints and brain and
+      causes the major flu-like symptoms and fevers. The overwhelming fatigue
+      that impedes
+      employment and social activities is abolished, corroborated in clinical
+      studies through normalisation
+      of the SF-36 quality of life and FACIT-F&#169; fatigue scores. In
+      the long term, there is every
+      expectation that continued treatment with canakinumab will prevent the
+      skeletal deformities,
+      blindness, deafness and amyloidosis that commonly occur. Catch-up growth
+      and age-appropriate
+      sexual maturation have been observed in adolescents with CAPS who have
+      been treated with
+      canakinumab.
+    Feedback from patients treated with canakinumab [f] includes:
+    "I could not have imagined such a change in fortune due to this
+        drug..."
+    "My whole body ached, I had difficulty walking and had to be carried
+        to bed. I missed a lot
+        of school with severe headaches, and could not even have a bath due to
+        the rash. I cannot
+        believe the effect of this drug, my symptoms have completely
+        disappeared."
+    "My joints and whole body would swell right up, and I would itch until
+        I would bleed, and had
+        terrible migraines. I am now NORMAL!!!"
+    "My joint inflammation and pains have completely disappeared"
+    "My daughter had terrible headaches, conjunctivitis, and rashes, and
+        was hardly able to get
+        of bed. She was shunned at school, and put in a remedial class. It got
+        so bad she took an
+        overdose. After the drug all the symptoms vanished; she is happy and
+        alive for the first
+        time, and is now working and has her first boyfriend at 20 years old!"
+    "Joints were excruciating, and now the symptoms have disappeared"
+    "The effects have been absolutely life changing for me".
+    "This is a wonder drug".
+    
+ImpactSummary
+
+    The UCL Centre for Amyloidosis and Acute Phase Proteins has identified
+      the cause and treatment
+      for the prototypical cryopryin associated periodic syndrome (CAPS), and
+      subsequently for a range
+      of other hereditary and acquired autoinflammatory disorders. As a result
+      of the research,
+      canakinumab was licensed for this condition. In recognition, NHS
+      Specialised Services
+      commissioned the UK CAPS Treatment Service in 2010 to deliver
+      life-changing IL-1 blocking
+      therapy to the national caseload of CAPS patients at UCL.
+    
+UnderpinningResearch
+
+    The notion of autoinflammatory diseases, i.e. chronic multisystem
+      inflammatory disorders without
+      evidence of cell-mediated or humoral autoimmunity, emerged with the
+      molecular characterisation
+      in the late 1990s of two monogenic inherited periodic fever syndromes,
+      familial Mediterranean
+      fever (FMF) and the TNF-associated periodic syndrome (TRAPS), both of
+      which are frequently
+      complicated by the development of reactive systemic (AA) amyloidosis,
+      causing renal failure and
+      early death.
+    Professor Philip Hawkins and Dr Helen Lachmann began to characterise the
+      phenotype of patients
+      referred to the NHS National Amyloidosis Centre with AA amyloidosis of
+      undetermined
+      inflammatory aetiology in the late 1990s. They identified patients in whom
+      there was evidence of
+      familial autoinflammatory disease, notably including those conforming to
+      the description of Muckle-Wells
+      syndrome, a rare disorder characterised by urticarial rash, aching limbs,
+      hearing loss and
+      amyloidosis. In collaboration with Dr Michael McDermott at Bart's and the
+      London, they performed
+      a genome wide genetic linkage study during 2000 in an Indian family with
+      Muckle-Wells syndrome,
+      and identified a defect in the NLRP3 (formerly NALP3) gene, which was
+      reported simultaneously
+      by a US group to be associated with familial cold urticaria, an apparently
+      different, less severe
+      hereditary inflammatory disease [1]. Hawkins and Lachmann
+      undertook a collaborative study with
+      Professor Jurg Tschopp in Lausanne through 2001-03, which demonstrated
+      increased activity of
+      mutated NLRP3 in the interleukin-1 (IL-1) processing inflammasome pathway
+      in myelomonocytic
+      cells, suggesting that excessive IL-1 production may contribute to the
+      pathogenesis of the disease
+      [4]. Hawkins' team firmly validated IL-1 as a therapeutic target in
+      patients with NLRP3 mutations in
+      2003 through the reverse translational approach by demonstrating rapid and
+      complete remission of
+      Muckle-Wells syndrome complicated by advanced amyloidosis following
+      treatment with
+      recombinant IL-1 receptor antagonist [2,3].
+    Further genetic and clinical phenotyping studies by Hawkins and Lachmann
+      confirmed that Muckle-Wells
+      syndrome, familial cold urticaria (now known as familial cold
+      autoinflammatory syndrome)
+      and the apparently sporadic very severe congenital disorder known as
+      chronic infantile
+      neurological, cutaneous and articular syndrome (CINCA) constituted a
+      continuous spectrum of
+      inflammatory disease caused by mutations in NLRP3 (now also known as
+      cyropyrin). They
+      subsequently collaborated with Novartis from 2004 to 2009, resulting in
+      the development of a fully
+      humanised monoclonal anti-IL-103b2 antibody, canakinumab, which they
+      demonstrated produces near
+      complete resolution of inflammatory disease activity in virtually all
+      patients with CAPS, and which
+      they have latterly shown also has high efficacy in other acquitted and
+      hereditary autoinflammatory
+      disorders including TRAPS. Proof of concept clinical studies [5],
+      followed by a pivotal randomised
+      controlled trial of canakinumab in CAPS led by Hawkins, resulted in the
+      approval of this new
+      biologic agent for this orphan indication in the US and EU [6],
+      and Phase II/III studies are now
+      underway in patients with TRAPS.
+    Further translational studies have shown that inappropriate acute or
+      chronic activation of the innate
+      immune system, mediated substantially by IL-1, contributes to many other
+      acquired chronic
+      disorders, ranging from rare entities such as Schnitzler syndrome, to
+      numerous very common
+      conditions potentially including diabetes mellitus, atherosclerosis and
+      asthma
+    This work was recognised by the NHS National Specialised Services, the
+      national organisation
+      responsible for the commissioning of highly specialised clinical services
+      (formerly the National
+      Commissioning Group), in supporting a national diagnostic and management
+      advisory service for
+      inherited `fever' disorders as part of the NHS National Amyloidosis Centre
+      in 1999, and
+      subsequently the UK CAPS Treatment Service in 2010 to deliver highly
+      effective IL-1 blocking
+      therapy to the national caseload of CAPS patients.
+    

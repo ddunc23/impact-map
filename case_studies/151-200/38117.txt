@@ -1,0 +1,198 @@
+CaseStudyId: 38117
+Title: 
+    Targeted intraoperative radiotherapy at the time of lumpectomy for
+      patients
+      with early breast cancer as an alternative to conventional 3-6 weeks of
+      postoperative radiotherapy
+    
+
+ImpactDetails
+
+    Over 200 breast cancer teams world-wide now use TARGIT including:
+      Cleveland Clinic; University
+      of California San Francisco; University of Southern California; Cornell;
+      Georgetown University;
+      Advocathealth hospitals in Chicago; Moffit cancer centre, Florida; about
+      two-thirds of breast
+      centres in Germany; several centres in the rest of Europe. The busiest
+      centre has treated over 500
+      cases and manufacturers Carl Zeiss report that in all, over 8,000 patients
+      have been treated with
+      TARGIT [a].
+    Thus, this idea and resulting research from UCL has revolutionised the
+      treatment paradigm from
+      radical radiotherapy to localised radiotherapy.
+    Impact on patients and their families: improvement in length and
+        quality of life, at a reduced cost
+    Many women are obliged to choose a mastectomy when they are not able to
+      take the prolonged
+      postoperative course of radiotherapy because of geography, time or money
+      constraints. Many
+      receive suboptimal treatment. With TARGIT, such women can have a
+      lumpectomy and preserve
+      their breast. Even amongst those who have a lumpectomy, TARGIT causes less
+      pain, higher level
+      of patient satisfaction, and higher quality of life scores than those
+      receiving conventional
+      radiotherapy [b]. There is a significant improvement in a woman's
+      cancer journey when the whole
+      of local treatment is completed at the time of the cancer operation,
+      rather than a daily 3-6-week
+      commute to the cancer hospital. TARGIT patients also have half the risk of
+      death from heart
+      disease or other cancers by avoiding toxicity. From the numbers in the
+      trial (13 fewer deaths
+      amongst 1,140 patients who were randomised to receive TARGIT at the time
+      of lumpectomy), one
+      can extrapolate that out of 8,000 patients, 91 such deaths have already
+      been prevented. In
+      communities where the patients have to pay for their treatment, TARGIT is
+      a fraction of the cost of
+      conventional radiotherapy &#8212; leading to more equitable availability of
+      treatment.
+    Impact on the routine treatment guidelines/recommendations for
+        patients in the community
+    The TARGIT-A trial was the first proof of principle of `partial breast
+      irradiation' and other methods
+      of giving partial breast irradiation have proliferated. TARGIT either as a
+      tumour bed boost or as
+      definitive treatment as well as other methods of partial breast
+      irradiation are now included in
+      guidelines issued by the European Society of Breast Cancer Specialists [c],
+      the European Society
+      of Medical Oncology (which are also endorsed by the Japanese Society of
+      Medical Oncology) [d]
+      and in German national guidelines [e].
+    In March 2011, at the biennial international "St Gallen consensus"
+      conference, 52 world experts
+      voted in favour of using intraoperative radiation in selected patients. At
+      this time the only level 1
+      randomised evidence was from the TARGIT-A trial [f]. In December
+      2012, the newsletter at the
+      largest breast cancer conference at St Gallen featured our late breaking
+      paper [g]. Our research
+      has also attracted significant media attention both in scientific
+      periodicals as well as lay press [h].
+    NICE is currently consulting on the use of TARGIT in routine practice [i].
+      The Marmot committee
+      on screening has suggested that in patients whose cancers are found only
+      on mammographic
+      screening, if TARGIT is used rather than EBRT, this would minimise side
+      effects due to the over-diagnosis
+      and overtreatment that is known to occur with mammographic screening [j].
+      We have
+      also demonstrated that TARGIT is a method of avoiding cardiac toxicity of
+      EBRT [k].
+    Impact on the healthcare delivery and budget
+    Breast cancer constitutes 1/3 of the workload of a typical radiotherapy
+      department and in many
+      areas there can be long waiting lists. When a significant proportion of
+      this time is freed up by using
+      TARGIT in the operation theatre, it can be used to treat other cancers in
+      a timely manner.
+    Assuming that each of the 8,000 patients who had TARGIT during their
+      lumpectomy would have
+      required 30 conventional radiotherapy sessions rather than the single
+      session at the time of
+      surgery, and that TARGIT takes the time equivalent of 4 routine
+      radiotherapy sessions, this is a
+      saving of 208,000 radiotherapy sessions to date. Assuming each session
+      costs a conservative
+      &#163;200, the saving of 208,000 sessions has already saved &#163;41.6m world-wide.
+      It is estimated that
+      adoption of TARGIT in the UK will save about &#163;60m per year from manpower
+      costs alone. A more
+      formal model has predicted this amount to be $280m in the US [l].
+    
+ImpactSummary
+
+    Research from UCL Division of Surgery has transformed the breast cancer
+      treatment paradigm so
+      women can complete their local treatment intraoperatively (~30 min), with
+      reduced toxicity. Our
+      work has challenged the dogma of giving several weeks of whole breast
+      radiotherapy (EBRT) after
+      lumpectomy for breast cancer with our idea of irradiating only the tumour
+      bed in selected cases; we
+      have developed and evaluated new technology called TARGeted Intraoperative
+      radioTherapy
+      (TARGIT) within the novel approach of risk-adapted radiotherapy. To date,
+      TARGIT has saved
+      180,000 hospital visits and could save &#163;60M(UK)/ $280M(USA)/year.
+    
+UnderpinningResearch
+
+    Radiotherapy for breast cancer remains an integral part of treatment and
+      reduces the risk of local
+      recurrence of cancer after breast-conserving surgery. However, many
+      patients have limited access
+      to radiotherapy and are unable to attend daily for 3-6 weeks for
+      post-operative radiotherapy. Such
+      patients will choose mastectomy, sacrificing the breast for the
+      convenience of avoiding a lengthy
+      and expensive course of radiotherapy. This problem is prevalent in many
+      parts of the developing
+      world, but also affects women in Europe and the USA who live far from a
+      radiotherapy centre.
+    The initial impetus for "single-shot" intra-operative radiotherapy for
+      breast cancer arose from
+      observations by Professor Jayant S Vaidya at Tata Memorial Hospital,
+      Mumbai during the early
+      1990s that although two-thirds of mastectomy specimens for small breast
+      cancers harbour occult
+      cancers distributed throughout the breast, well over 90% of breast
+      recurrences in the conserved
+      breast appear in the original tumour bed. Professor Vaidya moved to UCL in
+      1998 and, in
+      collaboration with Professors Michael Baum and Jeff Tobias, developed a
+      hypothesis for a novel
+      treatment: we proposed that radiotherapy be limited to the tumour bed and
+      administered as a "one-off"
+	  radiation treatment at the time of surgery, avoiding the expensive
+      15-to 30-day course of
+      EBRT and sparing many an unnecessary mastectomy. This became the TARGeted
+      Intraoperative
+      radioTherapy (TARGIT) technique [1, 2].
+    Through translational research in 2004-8 on the immediate effects of
+      radiation on a fresh wound, in
+      collaboration with Dr Samuele Massarut and Dr Gustavo Baldassare, we found
+      for the first time
+      that the fluid that collects in the wound after a lumpectomy is highly
+      favourable to cancer cells,
+      stimulating them to multiply and invade. This could partly explain the
+      propensity of recurrence to
+      occur in the tumour bed. We also found that giving TARGIT immediately
+      after a lumpectomy
+      nullifies such effects and creates a beneficial micro-environment that is
+      not conducive to tumour
+      growth and invasion [3].
+    We conducted an international randomised clinical trial (TARGIT-A trial)
+      (2000-2012) comparing
+      single-dose TARGIT with standard 3-6 weeks' radiotherapy in 3,451
+      patients. We found that
+      cancer control rates using TARGIT were similar to EBRT [4].
+      Updated results were presented at
+      the San Antonio Breast Cancer Conference (6 Dec 2012, General Session 4, http://goo.gl/4E10I)
+      confirming that, in selected cases, TARGIT given at the time of lumpectomy
+      within a risk-adaptive
+      approach gives similar cancer control as EBRT. In addition we showed that
+      it also results in
+      significantly fewer non-breast cancer deaths mainly from cardiovascular
+      causes and other cancers.
+      Long-term results of our phase 2 studies suggest that if TARGIT is given in
+        addition to EBRT as a
+      tumour bed boost, the local recurrence of cancer appears to be halved [5].
+      We have now launched
+      the TARGIT-B randomised trial to test this in young / high-risk patients.
+    Our discovery that abolition of the tumour stimulating effect of surgical
+      wound fluid by
+      intraoperative radiotherapy has opened up a new avenue of intervention for
+      disease. This effect
+      due to significant changes in wound proteins might spill over systemically
+      and may explain some of
+      the reduced non-breast cancer mortality that we have seen in our
+      randomised trial. The HTA
+      funded TARGIT-B trial will test this formally and begin a novel strategy
+      for drug discovery,
+      potentially benefiting future patients.
+    

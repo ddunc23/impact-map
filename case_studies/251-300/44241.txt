@@ -1,0 +1,152 @@
+CaseStudyId: 44241
+Title: 
+    Cell membrane biology in haemolytic anaemias: advances in diagnosis and
+      treatment
+    
+
+ImpactDetails
+
+    The underpinning research described above has improved the diagnosis of
+      the hereditary stomatocytoses, avoiding potentially harmful splenectomies
+      in these patients, and inappropriate investigation of artefactual
+      hyperkalaemia. This work has thus established a standard of care for this
+      patient group.
+    Since 2008, Stewart's team have analysed ~500 blood samples from Europe
+      and North America, successfully identifying hereditary stomatocytoses in
+      17 pedigrees. The impact of this on patient care and management has been
+      paramount, facilitating an accurate diagnosis, enabling counselling and
+      avoiding splenectomy for at least 30 individuals in the UK. One patient
+      described the impact of these findings on her family as follows,
+      contrasting those individuals who underwent splenectomy, with those who
+      were able to avoid it as a result of Stewart's research:
+    "Over the years a number of the family have had their spleens removed
+        either here or in Northern Ireland. Our own mother had a splenectomy and
+        she died in 2004 with problems which were associated with blood clotting
+        and Crohn's Disease. My elder sister has had the most problems including
+        a blockage in a vein leading to the liver after her splenectomy and now
+        has problems with bleeding from the gullet ... I have an aunt over in
+        Northern Ireland who had her spleen removed and she had constant
+        problems with her breathing. Those of us who have not had our spleens
+        removed (which includes myself and my younger brother) are well with
+        little problem or complication from DHS [dehydrated hereditary
+        stomatocytosis]. We have another aunt over in Northern Ireland who did
+        not have her spleen removed. She had 12 children without any major
+        problems. We have anaemia, and we need occasional transfusions (not all
+        of us), but none of the breathing problems or other complications which
+        other family members have experienced" [a].
+    A further impact of accurate diagnosis is the correct understanding of
+      high plasma potassium levels. In about half of the cases, high plasma
+      potassium levels have been explained on the basis of leaky red cells,
+      removing the need for repeated urgent hospital attendances for repeat
+      potassium measurements. A patient described the impact on her family as
+      follows:
+    "High plasma potassium levels... were a bother to us all as, after any
+        blood test we would be recalled to hospital as an emergency... One thing
+        that has changed our lives is the recognition that our habitually very
+        high plasma potassium levels are due to the abnormality in the red cell
+        membrane. This new understanding has saved us countless late-night
+        hospital visits for urgent repeat potassium measurements" [b].
+    This work has been widely cited and included in standard textbooks on
+      this subject [c].
+    As described above, Stewart's research identified a common single
+      nucleotide polymorphism (SNP) in the Caucasian population (`Cardiff' [ref
+      7, above]) which causes a milder non-haemolytic anaemia. When blood from
+      these individuals is cooled, the effect on the red cells is substantial,
+      resulting in major potassium leaks. As blood taken from donors is
+      routinely cooled, this raises the potassium in the donated blood from
+      these individuals. When administered to patients this risks unexpected and
+      potentially harmful true hyperkalaemia and the transfusion of damaged or
+      partly lysed red cells, making the transfusion less efficacious. As a
+      result of work by Stewart and Bruce, blood from such donors has been
+      identified in the existing pool of donated blood at the National Blood
+      Transfusion Service (NBTS). In reaction to this finding, the NBTS is now
+      in the process of implementing a screening strategy for this polymorphism
+      on all donated blood in order to avoid this complication. This will have
+      an impact at a national and potentially international level. The work is
+      the subject of a current patent application [d].
+    Finally, the underpinning research has improved the diagnosis of the rare
+      metabolic condition phytosterolaemia (sitosterolaemia), in which
+      absorption of both dietary cholesterol and plant sterols is unrestricted.
+      This can now be identified quickly by a blood count rather than mass
+      spectroscopy of lipids, enabling diagnosis of the condition to take place
+      via routine haematology, without expensive mass spectrometry. As a result
+      of this work, a number of individuals and families have been identified in
+      the UK (five families in Stewart's study, [ref 6, above]), in China [e]
+      and in the US [f]. The impact of the correct diagnosis is to
+      enable effective treatment of the condition. Patients with the condition
+      do not respond to the HMG CoA reductase inhibitors (statins), which are
+      currently the mainstay in the treatment of hypercholesterolaemia.
+      Individuals instead must be treated with a diet low in cholesterol as well
+      as plant sterols including sitosterol. With correct dietary treatment,
+      however, cholesterol remains low [g].
+    
+ImpactSummary
+
+    Research at UCL on human haemolytic anaemias known as the `hereditary
+      stomatocytoses' has improved diagnosis of these conditions, meaning that
+      patients now avoid unnecessary and potentially life-threatening
+      splenectomies, and inappropriate investigation and treatment for raised
+      potassium levels. Identification of a common single nucleotide
+      polymorphism that causes apparently normal red blood cells to leak salt
+      when cooled (as is normal procedure with donated blood) has raised
+      awareness of this issue in the NHS Blood and Transfusion service, with the
+      result that individuals with this condition have been identified among
+      existing donors, and work is underway to develop a screening method to
+      exclude such individuals from donating blood that cannot be stored safely.
+      Finally, the research has facilitated diagnosis of the recessive metabolic
+      disorder phytosterolaemia by blood count, allowing these individuals to be
+      given appropriate dietary treatment to control their cholesterol levels.
+    
+UnderpinningResearch
+
+    The hereditary stomatocytoses are a class of human haemolytic anaemias in
+      which the membrane of the red blood cell `leaks' the salt atoms sodium and
+      potassium. These `leaky' cells have a tendency to swell and burst in the
+      circulation. Research over the last 20 years by Professor Gordon Stewart
+      at the UCL Division of Medicine has made novel contributions to the
+      molecular understanding of these diseases, resulting in advances in
+      diagnosis and clinical management.
+    Prior to work by Stewart, patients with stomatocytosis were commonly
+      diagnosed with a related condition, hereditary spherocytosis. Stewart
+      identified that a crucial feature in diagnosis is the dependence of the
+      increased sodium-potassium permeability as temperature falls. This
+      discovery allowed the clear distinction of a series of phenotypic variants
+      and discriminated each of these variants from hereditary spherocytosis [1].
+      In that condition, removal of the spleen is beneficial; Stewart was the
+      first to demonstrate that splenectomised patients with hereditary
+      stomatocytosis, however, have an increased risk of venous thromboembolism
+      (deep vein thrombosis, DVT), with potentially fatal embolism of clot to
+      the lungs [2].
+    The research also demonstrated that many of these patients were also
+      being misdiagnosed with hyperkalaemia (high plasma potassium). True
+      hyperkalaemia is a medical emergency, but in these patients the plasma
+      potassium was normal in vivo. The high measured potassium was an artefact
+      of blood sample processing. If a freshly taken blood sample was allowed to
+      cool towards room temperature prior to separation of red cells from plasma
+      during routine blood sampling, potassium leaked from the red cells and
+      gave rise to factitious or `pseudohyperkalaemia'. These patients were at
+      risk of inappropriate referral to hospital and erroneous emergency
+      treatment for the raised potassium.
+    In collaboration with Dr Lesley Bruce (NHS Blood and Transplant) Stewart
+      showed that these diseases can be caused by mutations in at least three
+      different genes: SLC4A1, coding for the band 3 anion exchanger [1];
+      RhAG, coding for the so-called rhesus-associated glycoprotein, a
+      gas channel [3]; and SLC2A1, coding for the GLUT1
+      facilitative glucose transporter [4]. Salt-leaky mutations in
+      GLUT1 cause recognisable haematological-neurological-ophthalmological
+      syndrome [5].
+    In the course of this work, Stewart (in collaboration with Dr David Rees,
+      King's College London) also showed that the rare hypercholesterolaemic
+      metabolic condition phytosterolaemia can readily and inexpensively be
+      diagnosed via a specific haematological presentation [6]. This is
+      an important diagnosis, because the condition does not respond to statins,
+      the mainstay of treatment of raised cholesterol.
+    Among the many families studied by Stewart, that found in Cardiff [7]
+      is emerging as important. That family's asymptomatic non-haemolytic
+      condition is caused by a gene change that is already recognised as a
+      single nucleotide polymorphism, present at a frequency of 0.1% in the
+      caucasian population. Red cells from affected donors show a major salt
+      leak at refrigerator temperatures only, and the cells are unsuitable for
+      storage in blood transfusion, as the blood is likely to cause true
+      hyperkalaemia when administered to a recipient.
+    

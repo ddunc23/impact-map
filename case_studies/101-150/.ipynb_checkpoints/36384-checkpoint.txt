@@ -1,0 +1,139 @@
+CaseStudyId: 36384
+Title: 
+    Improving the diagnosis and management of Dementia with Lewy bodies by
+      imaging dopamine transporter uptake in the basal ganglia
+    
+
+ImpactDetails
+
+    Impact on clinical practice
+    The research described above has led to dopamine transporter imaging by
+      FP-CIT (DaTSCAN) SPECT becoming the standard method of diagnosis for DLB
+      around the world. In 2005, revised clinical criteria were issued by the
+      DLB Consortium, which concluded that "Low striatal DAT activity also
+        occurs in DLB but is normal in AD, making DAT scanning particularly
+        useful in distinguishing between the two disorders" [a]. In
+      July 2006, the European indication for DaTSCAN (previously authorised only
+      for patients with clinically uncertain Parkinsonian syndrome) was expanded
+      to include differentiation of probable DLB from Alzheimer's Disease. In
+      2006, the method was incorporated into NICE clinical guidelines for
+      dementia. These recommended that:
+    "Dopaminergic iodine-123-radiolabelled
+      2-carbomethoxy-3-(4-iodophenyl)-N-(3-fluoropropyl) nortropane (FP-CIT)
+      SPECT should be used to help establish the diagnosis in those with
+      suspected dementia with Lewy bodies (DLB) if the diagnosis is in doubt" [b].
+    That this technique has now become standard clinical practice is shown by
+      its inclusion in information provided in leaflets and online by
+      Alzheimer's Research UK, who say "To help make a specific diagnosis of
+        DLB, a type of scan called a DaT scan may be used to look for changes in
+        the brain which are more common in this type of dementia" [c].
+      A 2011 paper from Southampton University Hospitals Trust which
+      retrospectively reviewed 80 patients who had undergone FP-CIT (DaTSCAN)
+      SPECT over a one-year period, concluded that "It would seem that
+        DaTSCAN imaging has a marked influence on the working clinical diagnosis
+        and subsequent management of patients with suspected DLB" [d].
+    Impact on patients
+    Early, accurate diagnosis of DLB, in particular its differentiation from
+      Alzheimer's disease, is important for optimal management. It may provide a
+      better understanding of the symptoms and may induce changes in the
+      clinical management of patients, allowing initiation of effective
+      pharmacotherapy, and avoiding the consequences of neuroleptic sensitivity.
+      Patients and carers can be provided with information about the likely
+      symptomatology and illness course, which may help families, relatives and
+      caregivers to make correct decisions and future plans. Altogether this
+      translates into better management of patients with reduced carer burden
+      and better clinical outcome.
+    FDA approval
+    In 2009, GE Healthcare submitted an application to the US Food and Drug
+      Administration (FDA) requesting to license DaTSCAN for patients presenting
+      with symptoms or signs suggestive of dopaminergic neurodegeneration. This
+      application widely referenced the research described above, and Walker
+      provided expert advice to the panel. The FDA concluded that the best
+      clinical data provided for the application came from the autopsy study and
+      the application was approved in August 2009 [e].
+    Impact on guidelines
+    Walker contributed to guidelines issued in 2009 by the European
+      Association of Nuclear Medicine on DaT SPECT imaging which recommended
+      (citing the research described above) that "[123I]FP-CIT imaging is
+        indicated for the differentiation of dementia with Lewy bodies from
+        other dementias" [f]. Guidelines issued in 2011 by EFNS
+      (European Federation of Neurological Societies) and ENS (European
+      Neurological Society) cite our work in support of using 123I-FP-CIT SPECT
+      for distinguishing DLB from non-DLB dementia [g].
+    Industry investment in research
+    The FP-CIT (DaTSCAN) ligand belongs to GE Healthcare. There has been an
+      active collaboration between GE Healthcare and UCL, with Walker being
+      involved in the design and execution of a recent European study and with
+      GE Healthcare sponsoring explorative investigator-led studies (Morgan et
+      al 2013) and a PhD project within the group.
+    
+ImpactSummary
+
+    Research at UCL has greatly contributed to the understanding of the
+      dopaminergic system in Dementia with Lewy bodies (DLB) with an initial
+      publication in Lancet 1999 showing that patients with DLB have reduced
+      uptake of dopamine transporter compared to patients with Alzheimer's
+      disease and that this could be a useful biomarker for DLB. Since then the
+      research conducted on imaging of dopamine transporter uptake has had
+      national and international impact and significantly contributed to a
+      change made in the Revised Clinical Criteria for the diagnosis of Dementia
+      with Lewy bodies (McKeith et al 2005) which now includes "low dopamine
+      transporter uptake in the basal ganglia demonstrated by SPECT imaging" as
+      a "suggestive feature" for DLB.
+    
+UnderpinningResearch
+
+    Dementia with Lewy bodies (DLB) is a form of dementia that accounts for
+      up to 15 per cent of all cases of dementia in older people. It affects
+      over 100,000 people in the UK, and is increasing as the population ages.
+      DLB is difficult to diagnose, and is frequently mistaken for Alzheimer's
+      disease (AD). This leads to worse outcomes for patients, as prognosis, the
+      course of the disease and the clinical management of DLB differ in some
+      important aspects from other dementias such as Alzheimer's disease. The
+      research programme described below aimed to address the problem of
+      frequent misdiagnosis by developing a new brain imaging technique that
+      measures dopamine transporter uptake in the basal ganglia.
+    Early work carried out by Dr Zuzana Walker at UCL tested the idea that
+      imaging dopaminergic deficit in DLB (using the dopaminergic presynaptic
+      ligand FP-CIT and single photon emission computed tomography &#8212; SPECT) had
+      the potential to distinguish DLB from Alzheimer's disease. This was
+      published as an autopsy case study in the Lancet [1]. The concept
+      was further tested in a single centre study with initial autopsy results [2].
+      Following on from this research, other single centre studies (for example,
+      a study conducted by O'Brien in Newcastle in 2004) replicated these
+      results.
+    Over the five years following, we undertook a longitudinal follow-up of
+      the original imaging cohort. This led to the largest published
+      clinico-imaging-pathological cohort of patients with dementia and FP-CIT
+      SPECT in the world. We demonstrated that dopamine transporter imaging has
+      excellent sensitivity and specificity for the diagnosis of DLB when
+      compared to the gold standard (i.e. autopsy diagnosis) [3], [4].
+    In 2007 the diagnostic utility of dopamine transporter imaging in
+      dementia was further confirmed in a large European multinational imaging
+      trial involving 20 centres in 10 countries. This study was led by McKeith
+      (Newcastle) and sponsored by GE Healthcare (who had provided the ligand,
+      which is marketed commercially as DaTSCAN). Walker was a collaborator in
+      the study and substantially contributed to the design, execution and
+      publication. The results showed that dopamine transporter imaging has
+      excellent sensitivity and specificity as a test (biomarker) for DLB [5].
+      The utility of dopamine transporter imaging by FP-CIT (DaTSCAN) SPECT was
+      further confirmed in a one-year follow-up study of the original cohort of
+      patients entered into this trial. The follow-up study concentrated on
+      patients with possible diagnosis of DLB (some but not sufficient features
+      of DLB to fulfil criteria for probable DLB) [6].
+    Despite the excellent results of the FP-CIT (DaTSCAN) SPECT in
+      distinguishing DLB from AD, results from a further study led Walker to
+      urge caution when interpreting reduction in dopamine transporter imaging
+      as a diagnostic biomarker of DLB in the differential diagnosis of
+      Frontotemporal Dementia and DLB [7].
+    The results from the largest study of possible DLB cases come from a
+      recently completed European study designed by Walker and sponsored by GE
+      Healthcare entitled "DaTSCAN Imaging in Subjects with an Uncertain
+      Diagnosis of Dementia with Lewy Bodies". The first results were published
+      in an abstract in March 2013 at the American Academy of Neurology Meeting
+      [8]. The new data show that DaTSCAN imaging indicated abnormal
+      uptake in 43% of subjects with possible DLB at baseline. Physicians'
+      confidence and ability to make a correct diagnosis of probable DLB
+      significantly improved following dopamine transporter imaging by FP-CIT
+      (DaTSCAN) SPECT.
+    

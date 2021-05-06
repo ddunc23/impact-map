@@ -1,0 +1,140 @@
+CaseStudyId: 43997
+Title: 
+    Improved management of Acanthamoeba keratitis
+    
+
+ImpactDetails
+
+    Our work has impacted on the prevention, diagnosis and treatment of AK.
+      Guidelines for the prevention of AK now incorporate our findings. For
+      example, the British Contact Lens Association's Guide for
+        practitioners and support staff on reducing infection risk in contact
+        lens patients makes several references to our work on risk factors
+      in relation to swimming, extended-wear contact lenses, and hygiene related
+      to contact lens cases [a]. Guidance from the College of
+      Optometrists on the treatment of AK cites a study conducted at Moorfields
+      (Lim et al 2008) which built on the underpinning research described above
+      [b]. We have also worked to raise practitioner and public awareness
+      of the risks for AK &#8212; for example our research was widely reported in 2008
+      [c], and the topic featured in a 2011 article, Contact Lens
+        Problems on patient.co.uk (citing our work), and in a 2013 case
+      study article in The Optician [d].
+    Our work on risk factors for AK has been incorporated into contact lens
+      packaging. Furthermore, our work led to a new disposable contact lens case
+      being supplied with each bottle of contact lens solution sold. Our
+      research has stimulated further work to develop new and improved cleaning
+      solutions and cases, and has been cited in many patents for such products
+      [e]. Our demonstration that chlorine-based solutions are not
+      effective against AK has led to this type of solution being removed from
+      the market &#8212; for example Softab in 1995. In 2007, a similar occurrence of
+      an outbreak of AK infection was identified in the USA using our methods,
+      and was associated with the use of Complete Moisture Plus. This solution
+      was withdrawn and accordingly no such solutions were available in the
+      period 2008-13. Our research is used by manufacturers in the development
+      of more appropriate solutions, for example, Menicon cite our research in
+      their evaluation of the efficacy of a new multipurpose solution, MeniCare
+      Soft, against Acanthamoeba [f].
+    PCR for diagnosis of AK is becoming widely used in routine diagnostic
+      laboratories [g]. The sensitivity of this technique is between
+      85-95% (compared to culture, at up to 60%), and with 100% specificity. Our
+      clinical studies have identified the importance of early diagnosis and
+      introduction appropriate therapy (within three weeks of onset) as the
+      major predictor of disease outcomes, since corroborated by independent
+      studies [h].
+    Biguanides (PHMB and chlorhexidine) with or without a diamidine
+      (propamidine or hexamidine) have become the standard of care for this
+      condition around the world [i]. A survey of US ophthalmologists
+      and vision scientists conducted in 2011 revealed that "most respondents
+        (97.6%) had used combination therapy with multiple agents to treat
+        acanthamoeba keratitis at some point in the past, whereas a smaller
+        proportion (47.6%) had ever used monotherapy. Respondents most commonly
+        chose polyhexamethylene biguanide as the ideal choice for monotherapy
+        (51.4%), and dual therapy with a biguanide and diamidine as the ideal
+        choice for combination therapy (37.5%)" [j].
+    We have also formulated the only available guidelines both for the
+      management of persistently culture positive cases (about 5% of our
+      series), and for the management of the severe scleral inflammation that is
+      associated with the disease but which is unrelated to direct invasion of
+      organisms, and which has been the major reason for enucleation at our
+      centre; this treatment involves the use of systemic immunosuppressive
+      therapy and effective topical anti-amoebic therapy [k].
+    
+ImpactSummary
+
+    Our research identified an epidemic of Acanthamoeba infection
+      amongst UK contact lens wearers, established the epidemiology of
+      infection, introduced improved approaches to contact lens hygiene,
+      developed the most sensitive test to make a diagnosis and discovered a new
+      treatment for established infection. This has impacted on contact lens
+      wearers around the world, forming the basis for guidelines and patient
+      information leaflets, types of contact lens solutions, and treatments for
+      this rare but devastating condition.
+    
+UnderpinningResearch
+
+    Acanthamoeba keratitis (AK) is a rare corneal infectious disease caused
+      by the pathogenic free-living protozoan Acanthamoeba spp. Incidence of
+      the infection is low (1 in 100,000 in the EU), but has potentially
+      devastating consequences, causing vision to deteriorate and leading to
+      permanent blindness. In countries with a high prevalence of contact lens
+      wearing, this accounts for over 85% of cases of AK infection, but it can
+      also occur after corneal trauma, particularly in rural environments. AK is
+      on the rise in developing economies and there is no approved drug to treat
+      this disease. Through the systematic study of AK at the UCL Institute of
+      Ophthalmology (IoO), including laboratory, epidemiological and clinical
+      research, we have identified avoidable risk factors, developed better
+      techniques for diagnosis, and introduced and developed a novel class of
+      topical disinfectants (the biguanides).
+    Risk factors:
+    Through an integrated programme of epidemiological and clinical research
+      we first established that an epidemic of cases of AK had developed in the
+      UK in contact lens users in the 1990s. This was shown to be the result of
+      both reduced lens hygiene compliance, and because of the use of chlorine
+      disinfection solutions, which are ineffective against Acanthamoeba.
+      Users of the then newly introduced monthly disposable contact lenses were
+      at particular risk [1]. We subsequently showed in two national
+      surveys of AK that the disease was up to 20 times more common in the UK
+      than has been reported elsewhere, and that the incidence was increased in
+      hard water areas; a previous clinical study had shown that limescale build
+      up on domestic taps in hard water areas, harboured Acanthamoeba,
+      probably by providing the mixed microbial microenvironment that the
+      organism favours [2]. We subsequently demonstrated that
+      genetically identical organisms, present in their contaminated domestic
+      water supply, had infected a high proportion of AK patients [3].
+    We have shown that good contact lens hygiene practice is critical to the
+      prevention of AK including regular disinfection of lenses and lens case
+      hygiene or the use of daily disposable lenses, which eliminates the need
+      for lens disinfection and contact lens case use. In addition to hygiene we
+      have identified the risks of exposure to contaminated water by showering
+      and swimming whilst wearing contact lenses [2].
+    Diagnosis
+    In addition, our research has demonstrated that diagnosis and treatment
+      within 3 weeks of onset improves outcomes [4]. We were the first
+      to investigate the value of the identification of Acanthamoeba DNA
+      by Polymerase Chain Reaction (PCR) as the most sensitive and specific
+      method for the diagnosis of AK, since confirmed by several other
+      independent studies [5]. We have also investigated the use of
+      confocal microscopy, another widely used imaging technique for diagnosis,
+      particularly in the USA. We performed a masked multi-observer study and
+      measured the sensitivity and predictive value of this technique and the
+      resulting potential for misdiagnosis [6].
+    Treatment:
+    Acanthamoeba is notoriously difficult to treat (most patients with
+      cerebral disease die). In the eye, disease persists because the cysts are
+      resistant to most antimicrobials. At the same time that we recognised the
+      epidemic of cases in the UK there was little really effective treatment
+      apart from the use of a diamidine, to which many cases were resistant. The
+      result was that patients needed therapeutic corneal transplant surgery
+      with poor outcomes and high morbidity. In response to this we collaborated
+      with a protozoologist (Dr Simon Kilvington, University of Leicester) who
+      suggested the use of the biguanide Polyhexamethyl biguanide (PHMB) also
+      known as Polyhexanide. This was used as a swimming pool disinfectant, to
+      which the encysted from of Acanthamoeba was susceptible. We
+      introduced this in clinical studies with a dramatic and beneficial effect
+      on outcomes [7]. The success of polyhexanide as a therapy has been
+      recognised by the awarding of a EU grant of &#8364;4,050,255 to the Orphan Drug
+      for Acanthamoeba Keratitis (ODAK) project in 2012. Another biguanide,
+      chlorhexidine, has also been introduced, building on our early work. There
+      are no other anti-amoebics available that are consistently effective
+      against the encysted from of the organism.
+    

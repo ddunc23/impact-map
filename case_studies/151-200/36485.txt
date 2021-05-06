@@ -1,0 +1,219 @@
+CaseStudyId: 36485
+Title: 
+    Contributing to a healthy, low-carbon built environment
+    
+
+ImpactDetails
+
+    The health and wider aspects of low-carbon built environments now feature
+      prominently on political agendas across the world, and the health and
+      energy research by CBES as outlined above has made a major contribution to
+      this state of affairs. It has had direct and significant impacts on the
+      development and revision of guidance, regulation, and policy at regional,
+      national and international levels. This influence has assured subsequent
+      impacts from regional to global levels on the ways in which buildings are
+      currently constructed or are likely to be refurbished, and, in turn, on
+      improvements in human health and wellbeing across the UK and around the
+      world.
+    Impacts on regional policy:
+    CBES work has informed key Greater London Authority (GLA) guidance
+      relating to Urban Heat Islands (UHI), specifically as noted in terms of
+      measures to minimise summer cooling energy demand and health risks, whilst
+      retaining lower winter heating demands and decreased winter health risks
+      due to reduced exposure to cold. In response, the GLA drew upon UCL's
+      research to help produce its key policy document Managing Risks and
+        Increasing Resilience &#8212; The Mayor's Climate Change Adaptation Strategy
+      (2011), which details plans to tackle overheating in London [1].
+      The research has particularly supported the development by the GLA of
+      better evidenced-based policies and programmes to optimise its mix of
+      adaptation and mitigation measures, and to target limited funding as
+      effectively as possible [2].
+    Shaping national policy and practice:
+    CBES research into relative humidity and related growth of mould in
+    dwellings has catalysed and informed important changes in the Building
+    Regulations for England and Wales. In 2010, it resulted in amendments to the
+    moisture criteria guidelines (ADF 2010) for the control of mould growth in
+    dwellings [3]. Fundamental changes were made to the existing
+    guidance, in line with CBES's own research recommendation for its amendment.
+    Those changes included responses to more specific recommendations such as
+    the need to recognise and respond appropriately to the transient nature of
+    mould growth. The research provided policy makers with novel recommendations
+    about the daily, weekly and monthly maximum average levels of relative
+    humidity that should be permissible in dwellings. Changes to ADF 2010 have
+    had a significant impacts on the UK construction industry and, thereby, on
+    the UK population as a whole. Every dwelling constructed in England and
+    Wales since 2010 has been subject to ADF 2010; from 2011 to 2012, this
+    amounted to more than 230,000 households. Following the guidance improves
+    the safety of dwellings and allows house builders to demonstrate the legal
+    requirement for compliance with the Building Regulations.
+    Elsewhere, the research on UHIs (supplemented by further advice from the
+      CBES team) is informing the development by the Chartered Institution of
+      Building Services Engineers (CIBSE) of UHI guidance which will be included
+      in the 8th edition of their Environmental Guide A [4].
+      This important guide, which is currently undergoing substantial revision
+      and is due for release in 2014, will provide a primary reference source
+      for the 19,000+ members of CIBSE.
+    CBES research has also been used to develop new evaluation tools
+      informing further developments in policy and guidance. From 2011,
+      modelling techniques developed over the years by CBES were used in
+      collaboration with colleagues from LSHTM to develop the novel `Health
+      Impacts of Domestic Energy Efficiency Measures' (HIDEEM) tool for the UK
+      Department of Energy and Climate Change (DECC). This included the
+      construction of micro-environmental stock models to quantify indoor
+      environmental conditions and monetise the health impact associated with
+      energy efficiency changes in houses in Great Britain. These CBES methods
+      employed, for example, empirically derived relationships between house
+      temperatures and measures of energy efficiency, as well as physics based
+      models of pollutant concentrations. HIDEEM informs analyses of the cost
+      effectiveness of relevant policies by evaluating and monetising the health
+      impacts of the large-scale implementation of low energy interventions
+      within dwellings. Since its release in 2012, HIDEEM has been used by
+      DECC's Energy Efficiency Deployment Office (EEDO) to generate health
+      monetisation inputs to its 2012 Energy Efficiency Strategy. This, the
+      first in a series of documents to support the delivery of DECC's energy
+      efficiency policies, relates to and suggests ways to maximise energy
+      efficiency potential across the UK economy. Here, the HIDEEM tool was used
+      specifically to monetise the health impact of wall insulation measures: `DECC
+        modelling of the impact of the installation of solid wall insulation in
+        all properties in England gives a total improvement in the health of
+        those individuals in the properties of &#163;3.5bn-&#163;5.0bn over the lifetime
+        of the measures'. The report further notes the potentially
+      significant benefits of such increases in energy efficiency to wellbeing:
+      `a higher disposable income, as a result of lower energy bills, can
+        allow increased spending on other necessities. In addition, the health
+        benefits from properly installed energy efficiency measures can be
+        significant' [5]. DECC has also used the tool to support its
+      2013 Fuel Poverty Framework. That document notes that modelling work
+      carried out using HIDEEM suggests "substantial health-related costs
+        associated with cold homes". The influence of that work on the
+      policies set out here is evident as the report continues: `For this
+        reason, we believe that we should continue to prioritise vulnerable fuel
+        poor households for support. In addition, we will continue to build the
+        evidence base on health impacts' [6].
+    International impacts: The reach of these research impacts on
+      construction and human health has been very considerably extended by the
+      further influence of the relative humidity research on international
+      guidelines. In 2008, CBES was invited to provide expert advice to the
+      World Health Organisation (WHO) on best practice in, and the international
+      regulatory framework for, humidity and mould growth. CBES drew on its
+      research work to supply that advice via contributions to two expert
+      meeting reports. These resulted in the publication in 2010 of important
+      new WHO mould guidance documents. This guidance `provides
+        policy-related recommendations and identifies potential ways for
+        international, national and local authorities to prevent, reduce or
+        mitigate exposure to dampness and mould' &#8212; all in order to
+        `enable policy-makers to identify appropriate measures to support and
+        advocate in the field of public health protection and ... provide them
+        with relevant examples and guidance for policy and regulatory measures'
+      [7].
+    More broadly, CBES work has contributed to a fundamental shift in the
+      awareness and understanding among international policy-makers of the
+      possible co-impacts of carbon mitigation measures. Its research
+      elucidating the health impacts of housing energy efficiency interventions
+      [d] has particularly profoundly influenced international awareness
+      of and engagement with the issues it raised. The significance and reach of
+      that influence was demonstrated in statements of support made by the UN
+      Secretary-General Ban Ki-Moon, WHO Director Margaret Chan, and US
+      Department of Health and Human Services Secretary Kathleen Sebelius, all
+      of whom acknowledged the global significance of the research project to
+      which CBES [d] made a substantial contribution at the launch of
+      its findings in December 2009 [8].
+    The expert knowledge of CBES researchers of the specific health impacts
+      of carbon mitigation measures is now being combined with their wider
+      expertise about the impacts of decarbonisation on factors other than
+      health [e]. This combined expertise led, in 2013, to an invitation
+      by the International Energy Agency (IEA) to deliver expert input
+      (alongside DECC) to its `Capturing the Multiple Benefits of Energy
+      Efficiency' initiative. That key input from CBES, which related both
+      specifically to the HIDEEM tool and to wider aspects of the unintended
+      consequences of decarbonisation, has now supported the development of a
+      key IEA Handbook [9].
+    
+ImpactSummary
+
+    Research conducted by Davies et al within the UCL Bartlett's Complex
+      Built Environment Systems (CBES) group on built environment choices and
+      their implications &#8212; particularly for energy use and health &#8212; has
+      contributed to a fundamental shift in global understanding of the possible
+      health impacts of carbon mitigation measures, and has informed key policy
+      formulation relating to this. At regional and national levels, research by
+      CBES has informed London's Climate Change Adaptation Strategy, and led to
+      changes in the Building Regulations for England and Wales, and produced a
+      tool used by the UK Department of Energy and Climate Change to inform
+      aspects of its Energy Efficiency Strategy. The international impacts of
+      CBES arise both from its broad influence on policy-makers' awareness and
+      understanding of the implications of energy efficiency policies, and from
+      more specific contributions to the development of World Health
+      Organisation guidance.
+    
+UnderpinningResearch
+
+    The case for taking action to tackle climate change is now persuasive,
+      and it is high-income countries that must reduce greenhouse gas emissions
+      the most. For around a decade, this issue has been the focus of work
+      conducted through a series of funded research projects in the Bartlett's
+      EPSRC Platform-funded Complex Built Environment Systems (CBES) group now
+      led by Professor Mike Davies (who joined UCL in 2004). That group aims
+      particularly to improve understanding of the physical performance of built
+      environment choices and their implications for energy use, health,
+      conservation, productivity and climate change. CBES is primarily
+      interested in developing solutions to the practical problems of designing,
+      constructing, and managing appropriate environments within and around the
+      built environment, and has been at the forefront of vital work associated
+      with the decarbonisation of housing stock. It has demonstrated the
+      potential for such large-scale programmes to produce unintended detriments
+      to health, but also substantial co-benefits. The research outlined here is
+      unified by its shared emphasis on establishing appropriate methods to
+      recognise and minimise the former whilst maximising the latter to produce
+      a simultaneously low-carbon and healthy built environment.
+    Work at CBES on the control of relative humidity in dwellings and the
+      growth of mould through appropriate ventilation responds to tension
+      between the need to maximise ventilation rates in order to reduce
+      the risk of mould growth, and the desire to minimise such airflows
+      in order to reduce energy use/carbon emissions. Work commissioned by the
+      Department of Communities and Local Government (DCLG) in 2005 to address
+      the issue of preventing damaging mould growth in dwellings via appropriate
+      ventilation involved a combination of laboratory, modelling and fieldwork.
+      The research demonstrated the need to amend ventilation guidance in the
+      then current Building Regulations, which did not, for example, address the
+      critical importance of the transient nature of mould growth in the most
+      appropriate manner. These and other important research findings were
+      published in outputs offering new recommendations to policy makers for the
+      daily, weekly and monthly maximum average levels of relative humidity that
+      should be permissible in dwellings [a].
+    A second, related strand of CBES work has focussed on the health impacts
+      of Urban Heat Islands (UHIs) and overheating in dwellings. Responding to
+      the identification by the EPSRC of a key knowledge gap, the investigations
+      by CBES have particularly focused since 2007 on UHIs within London. This
+      work has produced new guidance on the measures that can be used to reduce
+      negative aspects of UHIs (increased summer cooling energy demand and
+      increased summer health risks due to overheating) whilst retaining their
+      beneficial effects (decreased winter heating demand and decreased winter
+      health risks due to reduced exposure to cold). This landmark body of
+      research also studied factors influencing overheating in dwellings and
+      provided guidance relating (amongst others) to: the relative importance of
+      the location of a dwelling in the UHI versus its intrinsic thermal
+      properties; and the impact of interventions on overheating in dwellings [b,
+        c].
+    Ground-breaking work conducted since 2009 expanded the remit of the CBES
+      research to a wider treatment of the issue of projected climate change and
+      the impact of energy efficiency interventions in dwellings on exposure to
+      cold, heat and a range of pollutants such as radon, particulates and
+      environmental tobacco smoke. The results were used in a collaborative team
+      led by Professor Paul Wilkinson of the London School of Hygiene and
+      Tropical Medicine (LSHTM) to extend the findings of CBES research to the
+      effects of such exposure on health [d]. Further work has also
+      dealt with a wider consideration of the possible unintended consequences
+      of decarbonisation policies [e]. This pioneering holistic approach
+      allowed the team to demonstrate both the dangers of inappropriate policy
+      formulation and implementation, and also the very significant potential
+      co-benefits.
+    CBES researchers involved in UCL research include: Hector
+      Altamirano-Medina (Lecturer), Mark Barrett (Senior Lecturer), Phillip
+      Biddulph (Senior Research Associate), Ben Croxford (Senior Lecturer),
+      Payel Das (Research Associate), Mike Davies (Professor), Steve Evans (RA),
+      Bob Lowe (Professor), Ian Hamilton (Lecturer), Alex Macmillan (SRA), Anna
+      Mavrogianni (Lecturer), Dejan Mumovic (Senior Lecturer), Eleni Oikonomou
+      (RA), Tadj Oreszczyn (Professor), Ian Ridley (Senior Lecturer), Clive
+      Shrubsole (RA), Philip Steadman (Professor) and Marcella Ucci (Lecturer).
+    

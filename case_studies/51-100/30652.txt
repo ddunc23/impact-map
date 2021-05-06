@@ -1,0 +1,305 @@
+CaseStudyId: 30652
+Title: 
+    Improved decision making by the power sector and energy saving by
+      consumers
+    
+
+ImpactDetails
+
+    The research on wind resource estimation (project (a), above) has
+      improved the understanding of
+      wind power production estimates at the Norwegian power company Agder
+      Energi, whose wind
+      mast data were used in the research. The finding that missing wind speed
+      data caused by frozen
+      wind masts can introduce bias into wind power production estimates and
+      profitability assessments,
+      and the new method for imputing the missing data that was developed,
+      raised awareness in the
+      Wind &amp; Site division at Agder Energi in 2008 about the extent of the
+      problem with missing data
+      from wind measurements and the need to employ more suitable statistical
+      methods for dealing with
+      this problem than those that are currently used within the company [A].
+    Specifically, the research made a two-fold direct contribution: (i)
+      highlighted how Agder Energi's
+      matrix approach is not as stable as their sectoral regression one in
+      dealing with missing data; and
+      (ii) developed a methodology to assess the economic impact of missing data
+      both in terms of
+      expected revenues and the distribution of revenues. Although these
+      knowledge transfers cannot
+      yet be quantified, they have provided valuable insights about the
+      suitability of alternative
+      approaches for correcting for missing data.
+    DER-CAM (project (b), above) is enabling energy consumers to
+      manage their energy resources
+      better and minimise energy costs. It is also having an environmental
+      impact since the use of
+      energy resources is being managed more efficiently. DER-CAM has been
+      deployed at sites
+      including the Segundo Dining Commons building at the University of
+      California at Davis (in 2011),
+      the Santa Rita Jail in Alameda County, California (in 2012), and the
+      Mechanical Engineering
+      building at UNM (in 2012) [B].
+    DER-CAM was installed at UNM to manage the operation of chilled water
+      storage tanks and an
+      absorption chiller powered by hot water from a solar array. The building
+      required an automated
+      procedure for forecasting cooling demand, scheduling optimal dispatch of
+      the absorption chiller,
+      and charging-discharging storage units optimally, operations which could
+      not be handled by relying
+      on simple rules of thumb or heuristics. The university reports that
+      "DER-CAM proved to be the
+      most effective solution" for managing their systems optimally and that the
+      use of DER-CAM has
+      resulted in tangible cost savings that are "especially significant over
+      the shoulder season" [C].
+      Thus, they are realising significant reductions in their energy bill by
+      using solar power for cooling
+      via storage in an automated way. UNM also benefits from the ease of use of
+      DER-CAM; they
+      informed us that "one of the principal advantages of using DER-CAM is
+      that, once set up, it does
+      not require user intervention to set system parameters" [C].
+    UCL research has also improved knowledge and understanding of the power
+      sector and options
+      pricing among industry professionals and policymakers through the
+      following knowledge transfer
+      events:
+    (1) Two ELDEV workshops, underpinned by the UCL research in project (a),
+      above, in addition to
+      other UCL research conducted as part of the ELDEV project, were held in
+      Trondheim, Norway,
+      during 2009 and 2010, and were attended by numerous power companies. For
+      example, Agder
+      Energi, Statkraft, and Tr&#248;nder Energi represented the Norwegian power
+      sector, which faces issues
+      about valuing renewables and transmission investment. Participants gained
+      an improved
+      understanding of the factors involved in making decisions under
+      uncertainty, e.g., modelling energy
+      prices, hedging risk exposure via financial and physical positions, and
+      investment appraisal. In
+      addition, their increased awareness of the issues raised by the ELDEV
+      project stimulated industrial
+      companies in Norway to co-fund subsequent research projects. For example,
+      ELCARBONRISK
+      (2010-2014, NOK 13.5 million with participation of power companies Eidsiva
+      Energi and Tafjord
+      Karft) and PURELEC (2011-2014, NOK 8.5 million with involvement of power
+      companies NTE and
+      SAE Vind) are both focusing more on modelling energy prices and analysing
+      investment in
+      renewables, two issues that were highlighted in ELDEV.
+    (2) Two workshops sponsored by the UK Energy Research Centre (UKERC) in
+      2008 and 2009 on
+      financial methods, underpinned by the UCL research in references [4] and
+      [5] in project (c), have
+      transferred knowledge from UCL academics to industry and policymakers. The
+      2008 workshop had
+      around 35 attendees, including representatives from power companies
+      (including EDF Energy),
+      consulting firms and ministries (including the Ministry of Energy, Mexico)
+      [D]. The 2009 UKERC
+      workshop was hosted by the Department of Energy and Climate Change (DECC)
+      with about fifty
+      participants. This exchange allowed UK policymakers to gain a better
+      understanding of the benefits
+      and limitations of using financial methods. Furthermore, the 2009 workshop
+      counted as part of
+      DECC's economics training for the year.
+    (3) The findings of the optionality research conducted in project (c),
+      above, during the "An Options
+      Approach to UK Energy Futures" project were disseminated to the public and
+      private sector via two
+      events held at the LBS: "Decision Analysis and Real Options for Energy"
+      (24 April 2012) and
+      "Climate Policy, Risk and Energy Investment" (2-3 May 2012). The knowledge
+      transfer facilitated
+      by these events, which had around 20 and 80 attendees respectively, has
+      enabled companies
+      active in the power sector to advise managers and clients better about
+      financial fundamentals and
+      the propagation of risk. An attendee (of both events), from the PR firm
+      Ketchum, reported that "The
+      workshop really helped us to understand the energy market dynamics and
+      investment options
+      much better, including the risks and inherent optionality involved in
+      capex-related corporate
+      decision-making process" and that "For us as communication consultants,
+      this knowledge and
+      increased understanding of the underlining financial and business
+      fundamentals of the energy
+      infrastructure investment has enabled us to advise our clients much better
+      in terms of both the
+      corporate positioning and strategic communications &#8212; especially given the
+      challenging and rather
+      uncertain operating environment" [E].
+    
+ImpactSummary
+
+    Financial engineering and optimisation provide both power companies and
+      consumers with better
+      decision support in deregulated energy sectors. UCL research has delivered
+      the following benefits
+      to decision makers: (i) a clearer understanding of the role of statistical
+      analysis in imputing missing
+      data on wind speeds and (ii) reduction in energy costs by optimised
+      scheduling of energy
+      technologies. Other benefits have been (i) investment in follow-up
+      research projects by industrial
+      companies and (ii) knowledge transfer via workshops.
+    
+UnderpinningResearch
+
+    Since 2005, UCL's Department of Statistical Science has been involved
+      with three research
+      projects that have addressed real-world problems: (a) ELDEV
+      (funded by the Mid-Norway
+      Business Research Fund) focused on using financial engineering to improve
+      business practices at
+      power companies; (b) The Distributed Energy Resources Customer
+      Adoption Model, or DER-CAM,
+      (funded by the US Department of Energy and the California Energy
+      Commission) used
+      optimisation to devise investment and operational strategies for users of
+      small-scale on-site power
+      generation; and (c) "An Options Approach to UK Energy Futures"
+      (funded by the Natural
+      Environment Research Council) took a more qualitative perspective to
+      illustrate the consequences
+      for UK energy policy of incorporating real options, i.e., managerial
+      discretion over investment
+      timing/sizing or technology choice. Thus, all problems have directly
+      addressed real-world decision
+      making in deregulated energy sectors in Norway, the US, and the UK.
+    (a) To assess the likely generating capacities of wind farms at
+      promising sites, power companies
+      use anemometers to measure the wind speed at those locations. However,
+      these instruments tend
+      to freeze in the winter, resulting in the systematic loss of data. Since
+      wind speeds are highest in
+      the winter, ignoring these missing data or using a na&#239;ve correction
+      adversely affects the value of
+      new wind farms. A new methodology to correct for missing wind speed data
+      from anemometers
+      was developed during 2008 and 2009 by UCL researcher Afzal Siddiqui
+      (Lecturer in Statistics
+      2005-2010; Senior Lecturer 2010-present) together with Agder Energi
+      employee Klaus-Ole
+      Vogstad [1]. This work was conducted as part of the ELDEV project.
+    The seasonality-based approach that was developed is novel in that it
+      preserves the
+      autocorrelation structure of wind speeds and directions while modelling
+      electricity prices accurately
+      via a mean-reverting jump-diffusion (MRJD) process. Using artificially
+      removed data from the
+      Geitvassfjellet site, the researchers demonstrated that the proposed
+      methodology is able to restore
+      accurately the probability density function of the annual revenues from a
+      proposed wind turbine [1].
+      UCL's specific contribution was in the form of stochastic models for
+      electricity prices and a
+      statistical procedure for imputing wind speeds.
+    (b) Greater deregulation of the energy sector is likely to lead to
+      more decentralised decision
+      making by energy producers and consumers alike. While large power
+      companies have the
+      resources to manage such a transition, consumers often lack the expertise
+      in optimisation and
+      computation to do so. DER-CAM has been developed to help consumers with
+      this problem; it
+      enables them to minimise emissions or the cost of operating their energy
+      system by assessing
+      their energy profile, prevailing market information, and information on
+      their distributed energy
+      resources technology. A large number of resources (both for energy
+      production and storage) can
+      be handled, as well as flexible demand and details of building
+      thermodynamics. DER-CAM can
+      determine which on-site power generation and combined heat and power
+      systems a user should
+      install, and how and when they should be operated in order to minimise
+      energy bills.
+    DER-CAM has been developed jointly by Siddiqui and researchers from
+      Berkeley Lab since 2000.
+      Since joining UCL in 2005, Siddiqui has made significant mathematical
+      contributions to the current
+      version of DER-CAM, including the incorporation of complex thermodynamic
+      constraints [2]. This
+      improvement to DER-CAM was implemented so that the University of New
+      Mexico (UNM) could
+      use the model to optimise their cooling equipment scheduling.
+    (c) Most models used for energy policy assume perfect foresight
+      and price-taking behaviour by
+      decision makers. The work in the "An Options Approach to UK Energy
+      Futures" project &#8212; conducted
+      by Siddiqui together with Derek Bunn and Michail Chronopoulos from the
+      London
+      Business School (LBS) &#8212; showed that, in contrast to this assumption,
+      managerial discretion over
+      investment timing/sizing or technology choice is actually affected by
+      uncertainty and imperfect
+      competition.
+    The project, conducted during 2011 and 2012, involved the development of
+      a high-level framework
+      for illustrating the principal features of optionality in the energy
+      sector. In particular, the theory of
+      real options was used to illustrate how uncertainty, competition, and
+      power companies' flexibility to
+      delay investment decisions lead to vastly different outcomes than those
+      predicted by traditional
+      models [3]. This finding indicates that policymakers need to adjust how
+      their support schemes or
+      market designs are implemented. Taking a UK example, it was shown how a CO2
+      price floor would
+      subvert the incentive of a fossil-fuel power plant to be the industry
+      leader by removing the
+      operational flexibility that makes it preferable to a renewable-energy
+      plant. UCL's specific
+      contribution was in Siddiqui's review of real options models to showcase
+      their policy relevance,
+      assistance with positioning the paper, delivery of tutorials on options
+      pricing, and numerous
+      presentations.
+    Much of the theoretical background to this project, concerning the value
+      of flexibility and strategic
+      interactions, was conducted by Siddiqui working with Stein-Erik Fleten
+      from the Norwegian
+      University of Science and Technology [4] and Ryuta Takashima from the
+      Chiba Institute of
+      Technology [5]. UCL's contribution was central: in both papers, Siddiqui
+      formulated the problem,
+      solved the models numerically where necessary, and formalised the
+      analytical propositions.
+      Siddiqui and Fleten [4] examined mutually exclusive investment
+      opportunities in either a readily
+      available renewable energy technology or a more ambitious one that needs
+      further R&amp;D to bring
+      down its cost for subsequent commercialisation. The main result was a
+      valuation of the option to
+      conduct R&amp;D in the ambitious technology. Surprisingly, it was found
+      that a high level of uncertainty
+      in the electricity price reduced this option value as long as the learning
+      rate was low because
+      higher expected prices made even a rudimentary ambitious technology
+      attractive. Siddiqui and
+      Takashima [5] took a strategic real options approach to investigate how
+      staged investment under
+      uncertainty is affected by the presence of a rival. Such discretion over
+      not only investment timing
+      but also modularity is a hallmark of most infrastructure industries
+      including energy and
+      telecommunications. It was found that a modular investment strategy is
+      worth relatively more to a
+      duopolist than to a monopolist because the former is partially able to
+      offset the loss in market
+      share. Moreover, it was also shown analytically that a duopolist's
+      disadvantage relative to a
+      monopolist worsens as volatility increases only if its loss in market
+      share from the entrance of a
+      rival is relatively high.
+    

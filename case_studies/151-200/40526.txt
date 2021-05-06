@@ -1,0 +1,209 @@
+CaseStudyId: 40526
+Title: 
+    Situational crime prevention policy and practice
+    
+
+ImpactDetails
+
+    Policing and broader criminal justice responses to crime have
+      traditionally focussed on catching offenders post offence, and
+      administering punishments to deter future offending. Against the grain of
+      this bias towards reactive approaches, the mission of SCS has been to
+      develop models of evidence-based crime prevention policies and practices.
+      Through direct engagement of end users, SCS has had significant impacts in
+      helping to redress this bias. These have been felt both on broader crime
+      prevention policies and routine policing practices, and on specific crime
+      problems.
+    Informing and influencing policy and practice in the UK and
+          overseas
+    Crime prevention policies in the UK have been strongly influenced by SCP
+      and POP, and SCS research has played an important role in this. The
+      research findings showing the effectiveness of these approaches have been
+      conveyed to policymakers through knowledge exchange activities, testimony
+      to select committees, and membership of key advisory bodies. In 2010, for
+      example, Laycock drew on SCS research when she appeared before the House
+      of Commons Select Committee on Home Affairs to argue for the greater use
+      of situational crime prevention. In its subsequent report to Parliament
+      later that year the Committee responded directly to Laycock's testimony
+      welcoming "the renewed emphasis given to designing-out crime in the
+        Cutting Crime strategy and the establishment of the Home Secretary's
+        Design and Technology Alliance" [1, p. 55].
+    Since 2011, Wortley has contributed to the Minister's Forum for
+      Innovation in Crime Prevention, which helps shape government policy on
+      crime prevention. A letter from the Home Office states: "The work of
+        the Department and its advocacy for, and expertise in, situational crime
+        prevention strategies are well known by officials responsible for Crime
+        policy within the Home Office and to the experts within my own area,
+        Home Office Science, whose task it is to ensure that we provide the best
+        evidence on which to base policy developments". As an example it is
+      noted that "at a recent Forum `away-day' he [Wortley] led a session on
+        preventing theft from the person, which is one of the only crime types
+        to have increased recently, and in particular focussed on the need to
+        convert good ideas for prevention into concrete policies and practices"
+      [2].
+    SCS staff also have worked directly with police forces and crime
+        prevention agencies internationally, through continuing professional
+      development courses, workshops, seminars, consultancy, and the provision
+      of advice to provide concrete examples of how SCP and POP may be
+      implemented in practice. For example, in 2003 the New Zealand Police
+      approached researchers at the SCS for assistance with their implementation
+      of evidence-based crime prevention policies. Since 2008, SCS staff have
+      visited New Zealand on three occasions: in 2010 Laycock contributed to a
+      research symposium at the NZ Police College; in 2012 Chainey spent 3 weeks
+      delivering training courses to NZ police across the country; and in 2013,
+      Laycock spent a month delivering specialist workshops to police analysts
+      and leaders (totalling over 20 seminars and 400 participants). The New
+      Zealand Police explicitly credits SCS with a significant role in shaping
+      their crime strategies and helping to reduce crime: "The Jill Dando
+        institute (JDI) has made a significant contribution to the development
+        of crime science and intelligence led policing in New Zealand. We are
+        grateful to JDI staff and associates who have increased our knowledge
+        base, contributed to the development of our key products and
+        fundamentally helped evolve the mindset within the New Zealand Police
+        over the last 10 years...Over the past 4 years we have achieved sizeable
+        reductions in crime against a backdrop of very high (and improving)
+        levels of public trust and confidence in Police" [4]. The adoption
+      of crime science strategies has received extensive coverage in New
+      Zealand's media, wherein the role of the SCS is explicitly acknowledged,
+      arguably contributing to the reported increased levels of public
+      confidence in police [4].
+    Facilitating reductions in specific crimes
+    The impacts of our work on bike theft [c, d] have been
+      particularly significant given the emphasis placed by health authorities
+      and governments on promoting greater use of bicycles to improve health and
+      reduce congestion. The British Crime Survey (2010/11) indicates that some
+      500,000 bicycles are stolen every year. The SCS/CSM collaborative research
+      has had significant impacts on helping to reduce that number. Following
+      the demonstration of improved locking practices associated with CaMden
+      bike stands, manufacture of the new stands was undertaken by Broxap Ltd
+      who have reported that 1,202 were rolled out nationally between 2008-13
+      [6]. In recognition of this project, Johnson and colleagues were invited
+      to write a Problem Oriented Policing guide (POP Guide 52) for the US
+      Department of Justice POP Center on Bicycle Theft [5]. This has proven an
+      important source of information for national and international crime
+      prevention professionals operating in this area, having been downloaded
+      more than 11,000 times per year since its publication in 2008 (according
+      to popcenter.org). Bike theft became a focus for Transport for London
+      (TfL) and the London Metropolitan Police, and with the assistance of SCS
+      they undertook a prevention project. A letter from TfL [7] states: `The
+        academic work undertaken by the JDI became the starting point for our
+        cycle theft project, particularly the POP Guide 52: Bicycle Theft ....
+        Using a partnership approach we achieved a 5.4% decrease in cycle theft
+        in London during 2010/11 (1253 fewer offences). The
+        approach has been recognised internationally and was awarded the 2011
+        Herman Goldstein (award) for Excellence in Problem Oriented Policing'.
+    Largely due to increased media coverage, internal child sex
+        trafficking has, in recent years, been widely recognised in the UK
+      as a pressing public issue. SCS research has challenged the perception,
+      dominating public debate, that internal sex trafficking is a racially
+      motivated crime [e, f]. Extensive media coverage of the research by, among
+      others, Newsnight, Huffington Post, Guardian, Independent [8], has
+      extended the reach of the research and informed public understanding of
+      the issues. Through these and other contributions to the development of a
+      lively national debate, the SCS research has also influenced the
+      formulation of national policies on tackling this issue, including the
+      Child Exploitation and Online Protection Centre (CEOP) Thematic
+      Assessment, `Out of Mind, Out of Sight' (2011); Metropolitan Police
+      Authority Report on Child Sexual Exploitation (2011); and the UK National
+      Action Plan on Tackling Child Sexual Exploitation (2001) [9]. SCS enjoys a
+      fruitful relationship with SOCA (now NCA), supported both by research
+      student internships with the Agency and by Brayley's status (since 2013)
+      as a fulltime investigator. The practical value of the research is
+      acknowledged by the Agency: "Of particular value in recent years has
+        been the work done by the Department around the topic of Internal Child
+        Sex Trafficking (ICST)... In 2010, SOCA actively supported two research
+        projects carried out by Professor Gloria Laycock with two masters
+        students, Ella Cockbain and Helen Brayley. One project examined the
+        social networks of offenders and victims and the other deconstructed the
+        offence into a `crime script'. The research has been influential in
+        helping to shape SOCA's response to ICST" [6].
+    Drawing on the body of SCP research carried out within the SCS, and
+      working within the partnership models outlined by Tilley [a, b], staff
+      have shared their expert advice with police forces, crime
+      prevention practitioners, and criminal justice policy makers, both
+      domestically and abroad.
+    
+ImpactSummary
+
+    Research produced by UCL's Department of Security &amp; Crime Science
+      (SCS) and Jill Dando Institute of Security &amp; Crime Science has been
+      used in the UK and internationally to shape policies and guide practices
+      using situational methods to prevent crime. Working closely with police
+      forces, crime prevention practitioners and policy makers, SCS staff have
+      provided evidence, expertise and advice to support particular crime
+      prevention initiatives and approaches to crime prevention more broadly.
+      The impact of the research is demonstrated by acknowledged contributions
+      to policy, policing and crime prevention practices, and to fighting the
+      specific crimes of bike theft and internal child sex trafficking.
+    
+UnderpinningResearch
+
+    UCL Security &amp; Crime Science (SCS) is a world-leading centre for
+      situational crime prevention (SCP) theory and practice. Research in this
+      field involves: (i) analysing specific crime problems in order to identify
+      the situational factors that enable or encourage them; (ii) devising
+      strategies to modify immediate environments in order to reduce
+      opportunities and incentives for crime; and (iii) implementing, evaluating
+      and, if necessary, modifying these countermeasures. Because SCP targets
+      the proximal causes of crime it is of great utility to police and policy
+      makers, who are interested in practical solutions to immediate crime
+      problems. The impacts described here are directed at two levels of
+      application and are underpinned by research conducted by Professors Shane
+      Johnson (UCL 2004-present), Gloria Laycock (UCL 2001-present), and Nick
+      Tilley (UCL 2008-present), and Dr Aiden Sidebottom (lecturer, UCL
+      2012-present).
+    (1) SCP as a general model of prevention. This line of research
+      aims to have SCP principles adopted as routine policy and practice in
+      policing and crime prevention more generally. Here, the problem-solving
+      method underpinning SCP is central. Tilley is a leading authority on the
+      delivery of SCP through Problem Oriented Policing (POP), with which it has
+      close affinities, and since joining UCL in 2008 he has worked with other
+      SCS researchers to refine the implementation of POP approaches. One study
+      undertook the successful implementation of a supermarket bag-theft
+      prevention project (involving the design of a new shopping trolley)
+      carried out in collaboration with Warwickshire Police and Warwickshire
+      Council. This project is used to argue more generally for a partnership
+      model in which universities can work more closely with police and other
+      agencies [a]. Another study surveyed 203 practitioners in order to
+      identify the use, and perceived strengths and weaknesses, of various
+      problem-solving models [b]. Drawing on these findings the authors examined
+      the implications for an improved problem oriented model of crime
+      prevention.
+    (2) Preventing specific forms of crime. SCP focuses on specific
+      forms of crime in specific contexts. We have selected two crimes &#8212; bicycle
+      theft and internal child sex trafficking &#8212; to illustrate our breadth,
+      multidisciplinarity, engagement, and impact.
+    Bicycle theft: A collaboration between Johnson and designers from
+      Central St Martin's (CSM) College of Art and Design led to the development
+      of strategies to help reduce bike theft (2005-2010). Johnson directed the
+      empirical work, analysing environmental factors contributing to bike
+      theft, and evaluating the efficacy of proposed solutions. In a scoping
+      study in 2005-06, poor locking practices were identified as a key problem
+      for bicycles parked in the street; existing n-shaped stands not
+      encouraging the locking of all components of the bicycle (wheels and
+      frame), with 70% of bicycles inadequately secured [c]. Based on this
+      research, the CaMden (M-shaped) bike stand was developed to encourage
+      cyclists to secure all components of their bike. Research in 2007
+      involving 2,268 observations found that the CaMden stands facilitated
+      significantly better locking practice than other prototypes and n-shaped
+      stands. Additional research showed that locking practices improved
+      significantly when correct locking instructions were posted on bike stands
+      [d].
+    Internal child sex trafficking: Research at SCS shows that those
+      who sexually offend against children are strongly influenced by
+      situational factors. Laycock, with two research students (Ella Cockbain
+      and Helen Brayley), worked with the Serious and Organised Crime Agency
+      (SOCA), now the National Crime Agency (NCA) in 2010 to apply SCP to
+      trafficking by groups of offenders within the UK of children for the
+      purposes of sexual exploitation. One study [e] examined the social
+      networks of offenders and victims to map connections that support the
+      abuse and which might be disrupted. For example, in one case they
+      identified an offender network built around a central ringleader and
+      argued that targeting this individual might dissolve the network. Another
+      study [f] developed a `crime script' &#8212; a detailed breakdown of the steps
+      involved in the crime commission process, designed to identify
+      `pinch-points' for prevention &#8212; for internal child sex trafficking. For
+      example, the identification of strategies employed by offenders to locate
+      and groom girls for abuse provided important insights allowing the
+      development of advice for potential victims on self-protection strategies.
+    

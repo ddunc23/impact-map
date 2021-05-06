@@ -1,0 +1,129 @@
+CaseStudyId: 36268
+Title: 
+    Improving reading and visual search in stroke patients
+    
+
+ImpactDetails
+
+    Outcomes for patients have improved
+    There are at least three peer-reviewed articles proving that moving text
+      therapy is effective for hemianopic alexia, with the first dating back to
+      1993. Despite this, until the launch of Read-Right, the therapy was not
+      available for suitable patients to access. We decided to make the therapy
+      freely available.
+    Read-Right went live in June 2010 and has had 16,703 unique
+      visitors generating 177,078 page views from 30,878 visits. 38% of visits
+      are returning visitors. 657 patients with hemianopic alexia have
+      used or are using the site.
+    Eye-Search went live in September 2012 and has had 3,090 unique
+      visitors generating 37,885 page views from 7,281 visits. An impressive
+      57.5% of visits are returning visitors. 217 patients with
+      hemianopia have used or are using the site.
+    Patients from all over the world can benefit from these applications. At
+      present, the top five countries where users log in from are: UK (48%), USA
+      (25%), Australia (10%), Canada (3%) and Japan (3%) [a].
+    Patients can fill in an on-line questionnaire to let us know how much
+      they have benefitted or not. Not everyone fills it in, but those who do
+      rate Read-Right as 7.7/10 and report that they are now reading between 30
+      and 60 minutes more per day.
+    One patient reported that "Read-Right has restored my self-belief and
+        allowed me to take control of my own recovery" [b].
+    A novel clinical intervention has been developed, trialled and
+        positive outcome demonstrated
+    Both websites contain clinically-proven therapeutic interventions that
+      have been trialled in phase II studies. The data collected from patients
+      using the applications are akin to a phase IV clinical trial (real-world
+      efficacy outside close monitoring that occurs in smaller trials). This has
+      led to two peer- reviewed publications to date [see section 3]. It
+      is the first time that web-based therapies for neurological conditions
+      have been proven to work.
+    Public involvement in research has improved
+    Since 2008, 42 patients with hemianopia have helped us in person to
+      develop both therapy web sites. Most have come on one or more occasion to
+      UCL Multimedia to 'beta' test various components of each application. Many
+      more patients (~100) have been involved in online testing and have
+      provided feedback once the therapy applications have been released. This
+      has led to changes being made to the 'live' versions.
+    One patient, Mr Mark Jarvis, has been heavily involved in developing the
+      applications and engaging with the research. Jarvis helped Read-Right
+      through many iterations. He also fronts the explanatory video that appears
+      on the website and on the UCL part of YouTube [c] (675 views to 31
+      July 2013). He was also the focus of a Mail on Sunday article
+      (11th Jul 2010) [d].
+    Jarvis and Leff have subsequently taken part in a Research Volunteers
+      Workshop UCL (10 Jun 2011), highlighting the patient involvement in
+      development Read-Right [e].
+    Public awareness of a health benefit has been raised
+    Read-Right was profiled as an example of how patients with stroke could
+      embrace new technology to improve their outcome in Media Planet
+      (distributed with The Independent) in May 2010 [f] and in
+      an article in the Daily Express (15 January 2013) [g].
+    The Stroke Association have highlighted both web applications in press
+      releases and also on their website. Read-Right has also featured in Stroke
+      Matters (Nov 2010), a publication that goes out quarterly to all
+      subscribers (free) [h].
+    
+ImpactSummary
+
+    Research by Dr Alex Leff at the UCL Institute of Neurology in
+      collaboration with UCL Multimedia, has led to the development of two free
+      online therapies for stroke patients with visual deficits. Read-Right
+      (launched June 2010) treats patients with hemianopic alexia (the commonest
+      acquired reading disorder) and Eye-Search (launched September 2012) treats
+      spatial disorientation and visual search impairment. The websites contain:
+      1) diagnostic tests, 2) therapy, and 3) interval tests. These materials
+      have been developed from peer-reviewed research. The websites are also
+      research tools; patients sign an online consent form and their data are
+      used to test whether online therapy actually works. At 31 July 2013, 657
+      patients were using Read-Right and 217 Eye-Search.
+    
+UnderpinningResearch
+
+    Dr Leff is a world expert on hemianopia, how this affects reading, and
+      how it can be remediated [1, 2]. Initial work demonstrated that
+      patients with hemianopia (a visual field defect), that affected their text
+      reading, could benefit from reading moving text. This was done in the
+      context of a placebo-controlled trial [3].
+    In that study, the therapy materials (moving text) were recorded onto VCR
+      tapes and posted to participating patients. When it proved successful,
+      there was no clear way to make the therapy available for suitable
+      patients. Leff therefore began a collaboration with the UCL Multimedia
+      team (Maurice Brown, Multimedia Developer and Patrick Robinson, Multimedia
+      Manager) who suggested using the internet to deliver the moving-text
+      therapy. A working prototype was developed but it soon became clear that
+      more resources would be required to deliver a patient-friendly version
+      that could be used without the help of a health-care professional. This
+      prompted two immediate questions: if patients were to use the therapy
+      themselves, how would they know they had the condition? And, how would
+      they know if the therapy was working for them? Leff expanded the brief to
+      include an online visual field test and interval tests of reading ability
+      that users would be directed back to after set periods of practice. He
+      applied to The Stroke Association and received a research grant for
+      &#163;162,000 to make the Read-Right website a therapy and research tool. The
+      bulk of the grant was used to fund the salary of a full-time web designer
+      (Yean-Hoon Ong) who is responsible for the design, functionality and
+      user-support of both sites.
+	  Patients with hemianopic alexia were recruited
+      from Leff's NHS hemianopia clinical service at the National Hospital for
+      Neurology and Neurosurgery, UCLH. They have been actively involved in the
+      design of both websites, meeting regularly with Ong and Leff to
+      iteratively test and implement all aspects of the sites.
+    The visual field test was validated in a study undertaken at the
+      Institute of Neurology in 2011. The results were published in 2012 with an
+      accompanying editorial commentary on 'internet teleneurology' [4].
+      Analysis of the Read-Right patient data in 2011 demonstrated significant
+      therapeutic effects on reading speeds comparable with previous trials,
+      achieving a clear dose effect of 46% after 20 hours of practice [5].
+    Prompted by the success of Read-Right, Leff decided to apply to The
+      Stroke Association for a no-cost extension to allow Ms Ong to work on a
+      new, more ambitious therapy site that would target the more common problem
+      that almost all patients with hemianopia have: difficulty finding things.
+      The Eye-Search therapy web app contains: a more effective version of the
+      Read-Right visual field test; a sensitive test of visual neglect
+      (developed with the help of Professor Masud Husain, UCL); an activities of
+      daily living assessment (developed with the help of Stephanie Wolff,
+      occupational therapist, Manchester); and a timed test of visual search
+      (main outcome measure). The therapy, finding a ball that jumps
+      semi-predictably into the affected visual field, has been shown by the
+      team to improve visual search speeds in patients with hemianopia [6].
+    

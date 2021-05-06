@@ -1,0 +1,148 @@
+CaseStudyId: 36385
+Title: 
+    Improvements to quality of life and safety for people with swallowing
+      difficulties following analysis of fluid thickeners
+    
+
+ImpactDetails
+
+    Our programme of research into thickened drinks used in clinical practice
+      has had an influence on commercial products for dysphagia, and on the
+      practitioners using these products. Both of these factors have resulted in
+      increased benefit for patients with dysphagia.
+    Impact on the manufacturers of drink thickeners.
+    Our research has been utilised by all three of the companies producing
+      thickening products (Fresenius Kabi, Nutricia and Nestl&#233;), both through
+      direct use and citation of our research, and via our training of their
+      product developers and representatives (for example at the European
+      Society for Swallowing Disorders 2012, and BAPEN 2012). These companies
+      have utilised our work in the development of new products, in the
+      refinement of existing products, in the training of their employees and in
+      the training of healthcare providers. In addition it has been used in
+      their discussions with NHS staff who procure these products for use in
+      individual health trusts. (Every NHS Trust uses these products, and the
+      total market value is around &#163;12-15m per annum [a].)
+    Fresenius Kabi cite our research throughout an `advertorial' for their
+      product, Thick and Easy [b]. This has been used in international
+      journals such as Dysphagia, and also the professional magazine from the
+      Royal College of Speech and Language Therapists. Fresenius also report
+      that the research has been used in product development:
+    "The research has also helped us start some new product development
+        projects by giving us the improved information around the products
+        available in the market" [c].
+    Nutricia have also cited one of our papers in an advert for their Nutilis
+      range [d]. They report that:
+    "The findings from [O'Leary et al 2010] helped Nutricia to develop an
+        internal standard for viscosity, which has enabled Nutricia to
+        objectively measure viscosity when determining the different stages of
+        our dysphagia products (Nutilis Range)... Nutricia have used the
+        research from Dr Christina Smith and colleagues to improve the standards
+        of the Nutilis range, which is designed to benefit the care of patients
+        living with dysphagia" [e].
+    The improvements to the thickening products, as described by the
+      companies have resulted in a better product used in healthcare. In
+      addition, the improvements are reflected in the clarity of their
+      advertising.
+    Impact on clinical practice through training of healthcare providers.
+    As mentioned above, companies have used our work in the training of
+      healthcare providers. Many of these companies provide extensive training
+      and education to healthcare staff who make thickened drinks for patients.
+      Fresenius Kabi, for example, report that:
+    "Research at UCL by Dr Christina Smith and colleagues has revealed
+        that there are a number of misconceptions around thickening drinks that
+        have led to products being misunderstood and potentially affecting
+        practice carried out by Speech and Language Therapists. The findings
+        have been incorporated into our training sessions to ensure correct
+        usage of the products and increased understanding into how liquids and
+        thickeners work together allowing health care professionals and patients
+        to use our products with better knowledge around the way the product
+        works which ultimately improves practice" [c].
+    The more carefully this training is provided with increased knowledge of
+      the behaviours of the thickening products, the better provision for
+      patients.
+    We have also directly trained healthcare workers through study days (such
+      as the adult dysphagia special interest group in June 2011; the Scottish
+      Speech and Language Therapists Special Interest Group in April 2013) and
+      practical symposia at conferences (e.g. European Society for Swallowing
+      Disorders, October 2012) [f].
+    Resulting impacts on patients
+    Our research into the behaviours of thickening products providing clearer
+      information on the use of these products has influenced the prescribing to
+      individuals with swallowing difficulties. For example, a Speech and
+      Language Therapist at University Hospital Lewisham reported that the
+      hospital had changed their use of the products as a direct result of the
+      research [g].
+    The international reach of the research is demonstrated the International
+      Dysphagia Diet Standardisation Initiative (IDDSI) which is utilising the
+      results in setting forth their guidelines.
+    
+ImpactSummary
+
+    Swallowing disorders (dysphagia) result in prolonged hospital stays and
+      can lead to death. An important method in the management of dysphagia is
+      the use of fluid thickeners. Fluid thickeners both slow the flow of fluid
+      through the oropharynx and increase the sensory input to mediate
+      swallowing, thus increasing safety. Research at UCL's Language and
+      Communication Research Department has led to improvements in the
+      development and standardization of fluid thickeners, the training of
+      healthcare workers who prepare them, and increased understanding for
+      industry, healthcare and patients. The results are used in the development
+      of new commercial thickeners, refinement of current commercial thickeners,
+      training industry employees, development of international guidelines for
+      dysphagia management, training NHS staff, and prescribing thickeners for
+      people with dysphagia.
+    
+UnderpinningResearch
+
+    Dysphagia is the term used to describe disorders that affect our ability
+      to eat, drink and swallow. It is a global disability affecting
+      approximately 14% of people over the age of 60 years, 40-78% of people
+      post stroke, 20-40% of people with Parkinson's disease, and is found in
+      20% of the general elderly primary care population. It also affects
+      children, most notably those with cerebral palsy and Down's syndrome. The
+      potential problems of choking, chronic aspiration, malnutrition and
+      dehydration can be fatal, and have a profound impact on quality of life.
+      Persistent swallowing problems add significantly to delay in discharge
+      from hospital (adding to NHS costs) with some nursing homes unwilling to
+      accept patients who are fed through a nasogastric tube.
+    An important technique in the management of swallowing disorders is
+      modifying a person's diet by changing the thickness/viscosity of foods and
+      drinks through the addition of commercially available powders. Almost all
+      individuals with dysphagia will be prescribed a thickening powder, with
+      some people using thickeners over many years.
+    In the laboratory, Drs Christina Smith and Ben Hanson examined the flow
+      behaviours of thickened drinks during their preparation by carers and over
+      the time period when drinks may be left for a patient to consume them.
+      This work corroborated carers' subjective impressions of continued
+      thickening over time and was additionally able to quantify the degree of
+      thickening at different times after preparation allowing carers and
+      patients to know the thickness of their drinks at different times [1].
+    Following on from this research, thickened drinks were prepared using
+      instructions provided on the packaging of thickener products and these
+      were compared with the terminology provided by the National Descriptors
+      developed by professional bodies (Royal College of Speech and Language
+      Therapists, British Dietetics Association and National Patient Safety
+      Agency). This study clarified for professionals how to prepare drinks
+      using thickeners and recommended following product guidelines for
+      thickening water rather than using unreliable subjective judgements such
+      as visualising the product [2]. As well as publication in academic
+      journals, a summary of both papers was also produced for a professional
+      magazine to maximise the information dissemination [3].
+    Smith and Hanson further demonstrated how thickened drinks change during
+      swallowing as a result of salivary amylase, with some thickeners returning
+      to their unthickened state [4]. They then went on to propose a
+      solution to preserve the thickened drink, thus maximizing patient safety.
+      Examining behaviour of the two (starch-based and gum-based) primary groups
+      of commercially available thickeners and how they change depending upon
+      the base fluid, they demonstrated a 10-fold difference in the thickness
+      of a drink (white wine being the thinnest and lemon barley water the
+      thickest) with the addition of the same quantity of thickening powder [5].
+    The work described above has clear implications for the preparation of
+      drinks for people with swallowing difficulties. The research has been used
+      by industry in training (Fresenius Medical Care), product description
+      (Nutilis and Fresenius Medical Care) and ongoing product development
+      Nutilis and Fresenius Medical Care). It has attracted UK research council
+      and industry funding. It has altered clinical practice by clarifying for
+      industry and clinicians the critical issues in the use of thickeners as a
+      therapeutic intervention.
+    

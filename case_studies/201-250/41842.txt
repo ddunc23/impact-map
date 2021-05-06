@@ -1,0 +1,171 @@
+CaseStudyId: 41842
+Title: 
+    Community intervention through women's groups improves maternal and
+      newborn survival and health in low-resource settings
+    
+
+ImpactDetails
+
+    As a result of the underpinning research described above, scale-up of
+      participatory women's groups has begun in various parts of India. Our work
+      has also begun to influence policy in other low and middle-income
+      countries. The results of our meta-analysis influenced WHO's decision to
+      develop a training module on the intervention for global dissemination.
+    From 2008-13, UCL and Ekjut worked to scale up the intervention in the
+      high-mortality eastern Indian states of Jharkhand and Odisha. In total,
+      the project led to work with 4,676 women's groups across 17 districts in
+      four states, covering a population of over two million people [a].
+      In 2012, the Department of Health and Family Welfare in Jharkhand
+      incorporated the intervention into the curriculum of the Accredited Social
+      Health Activist, a cadre of community health volunteers working in the
+      country's poorest areas, and rolled out the intervention across the state
+      [b]. In 2013, the intervention was rolled out in the state of
+      Odisha in a collaboration between the Departments of Health, Women and
+      Child Development, and Rural Development, together with the UK Department
+      for International Development (DFID). DFID India made the decision to
+      promote the women's group intervention as a cost-effective strategy to
+      improve maternal and newborn health and to test its application to other
+      health issues, including maternal and child under-nutrition [c].
+      The roll-out in Odisha covers a population of over one million women [d].
+    The results of our work have received vast media coverage in India and
+      internationally. An article in The Hindu in 2010 interviewed
+      mothers who had benefited from the programme. One described the impact of
+      the programme as follows: "Earlier, we didn't clean our hands before
+        cooking and eating. We'd just leave the baby and go off to work. Now we
+        clean and grow vegetables ourselves. We keep the water clean in the
+        house. Women in the village help one another and sometimes pool money to
+        transport someone to hospital for delivery and visits to the doctor."
+      Another said: "Earlier, when a problem arose, we would pray. Now, I go
+        to a doctor at the slightest problem. I ate spinach, fish and vegetables
+        during and after my recent pregnancy. I breast-fed for six months from
+        the first day" [e]. This story was also covered by the Guardian
+      and Time, as well as on Indian national television [f].
+      The New York Times also reported favourably on the publication of
+      our first Mumbai trial, where the results were less successful, reflecting
+      on the use of evidence in global policy and the political pressure to show
+      only positive findings [g].
+    In Malawi, the intervention has been adopted as a model for improving
+      maternal and newborn health by the Ministry of Health, UNFPA and the
+      Uchembere Network. Project team members participated in the development of
+      the Government of Malawi's plan for community interventions, part of the
+      Health Sector Strategic Plan (2011-6) and the Malawi Road Map for
+      Accelerating the Reduction of Maternal and Neonatal Mortality [h].
+      Further media coverage for MaiKhanda included an interview with Voice of
+      America in June 2013 [i].
+    Through the non-governmental organisation Women and Children First, we
+      are supporting further uptake of the women's group intervention in
+      Bangladesh, Malawi, Ethiopia and Uganda, using an implementation guide
+      developed jointly with UCL, the Perinatal Care Project of the Diabetic
+      Society of Bangladesh and Ekjut India [j]. The organisation aims
+      to extend the thematic content of the women's groups model to test its
+      effectiveness for addressing other maternal and child health issues,
+      including family planning, prevention of mother to child transmission of
+      HIV, and under- five's health and nutrition.
+    In December 2012, Costello and Prost participated in a World Health
+      Organisation (WHO) workshop to design a module on community mobilisation
+      with women's groups for maternal and newborn health, which will supplement
+      WHO's existing guidance on Caring for Newborns and Children in the
+      Community [k]. The results of our meta-analysis were also
+      presented to WHO in early 2013 and influenced their decision to develop a
+      training module for community health workers intended for global
+      dissemination; this will have an impact on developing country health
+      systems around the world [l]. The meta-analysis results were also
+      launched at a large event in the Houses of Parliament and at the Women
+      Deliver International Conference, both in May 2013.
+    
+ImpactSummary
+
+    UCL researchers and overseas partners have developed a successful
+      community intervention to improve maternal and newborn health, which is
+      now saving lives in India's poorest communities and is being taken up in
+      other low- and middle-income countries. The intervention involves village
+      women's groups working together to identify, prioritise and address common
+      problems during and after pregnancy using local resources. The process was
+      tested successfully in Nepal, led to a 45% reduction in newborn mortality
+      in an award-winning trial in rural India, demonstrated an impact on
+      maternal mortality in a meta-analysis of seven trials across four
+      countries, and has already been scaled up to a population of over 1.5
+      million in rural India's poorest communities.
+    
+UnderpinningResearch
+
+    Nearly ninety-nine per cent of the world's maternal and newborn deaths
+      occur in low- and middle- income countries. South Asian and African
+      nations shoulder a substantial proportion of this burden.
+    From 2000 to 2004, Professor Anthony Costello and Dr David Osrin at the
+      UCL Institute for Global Health (IGH) worked with MIRA, an NGO in Nepal,
+      to develop and test a community intervention, which involved women's
+      groups in identifying, prioritising, and addressing common problems during
+      the perinatal period using participatory methods. The intervention was
+      tested in a large community cluster-randomised controlled trial (RCT) in
+      Nepal, where it led to a 30% reduction in neonatal mortality [1].
+      The intervention increased care-seeking during pregnancy and institutional
+      deliveries, and was also linked to improved newborn care practices in the
+      home.
+    From 2005 to 2012, Costello and Osrin, along with Dr Tim Colbourn, Dr
+      Edward Fottrell (both IGH) and Dr Audrey Prost (UCL Institute of Child
+      Health) worked with partner organisations in India, Malawi, Nepal and
+      Bangladesh to test the impact of the women's group intervention on
+      maternal and newborn health in other under-served communities.
+    In rural India, the trial of the women's group intervention led by our
+      partner, Ekjut, resulted in a 45% reduction in newborn deaths over two
+      years in rural, largely indigenous communities among the poorest in India
+      [2]. Further research also found that, in this rural trial,
+      mortality reduction was greatest among the poorest mothers, suggesting
+      that women's groups can be an effective way of targeting inequalities [3].
+      The intervention's evaluation won the Society for Clinical Trials' 2011 Trial
+        of the Year award.
+    The intervention was also tested in slum communities in Mumbai, India, in
+      a project led by local organisation SNEHA (Society for Nutrition,
+      Education &amp; Health Action) in collaboration with Osrin. In this
+      setting, the effects were not as great as for the rural population. One
+      reason for this was that newborn survival was already better than in the
+      other settings in which groups were implemented [4].
+    Research in Malawi has been ongoing since 2003, when the MaiMwana project
+      was set-up by UCL researchers Sonia Lewycka and Mikey Rosato to test the
+      effect of the women's group intervention in Africa for the first time. The
+      results of the MaiMwana women's group intervention were impressive: a 74%
+      reduction in maternal mortality, and a 41% reduction in newborn mortality
+      [5]. In 2007 another less-intensive women's group intervention,
+      MaiKhanda, was tested, also by cluster randomised trial, by UCL
+      researchers Tim Colbourn and Bejoy Nambiar. MaiKhanda also achieved
+      significant results: a 16% reduction in perinatal mortality (stillbirths
+      and deaths in the first week of life) and a 23% reduction in newborn
+      mortality in areas where the women's group intervention was combined with
+      a health facility quality improvement intervention [6].
+    The intervention did not have the same impact on mortality as observed in
+      Nepal and rural India when applied to a population of around 500,000 in
+      rural Bangladesh with partners BADAS-PCP between 2005 and 2007. This
+      caused us to question why the intervention had been so successful in some
+      settings but not in others and we concluded that population coverage of
+      the intervention was likely to be key (i.e. the ratio of community women's
+      group per population). We therefore decided to test the intervention at a
+      higher population coverage, increasing the number of groups from a
+      coverage of one per 1,400 to one per 300 population. The results showed
+      that when delivered at this higher population coverage and with greater
+      participation or pregnant women and women of reproductive age, the
+      intervention reduced newborn mortality by more than one third and was
+      highly cost-effective [7].
+    In 2013, a meta-analysis led by Prost and Colbourn collated data from
+      seven trials testing the impact of women's groups, and found that the
+      intervention reduced maternal mortality by around a third, or, in trials
+      where the groups had greater than 30% of pregnant women as members, by 55%
+      [8]. This is the first time that a community intervention other
+      than training Traditional Birth Attendants has demonstrated an impact on
+      maternal mortality at a population level.
+    Partner organisations:
+    
+      Ekjut, India: http://ekjutindia.org
+
+      SNEHA, India: http://www.snehamumbai.org/
+
+      MaiMwana Project, Malawi: http://www.maimwana.malawi.net/MaiMwana/Home.html
+
+      Diabetic Association of Bangladesh: http://www.dab-bd.org/pcp.php
+
+      MIRA, Nepal http://www.mira.org.np/mira/
+
+      MaiKhanda, Malawi http://www.maikhandatrust.org/About_Us.html
+
+    
+    

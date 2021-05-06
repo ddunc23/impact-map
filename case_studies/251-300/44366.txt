@@ -1,0 +1,194 @@
+CaseStudyId: 44366
+Title: 
+    Improving treatments for non-Hodgkin lymphomas
+    
+
+ImpactDetails
+
+    Our research has changed the way patients with NHL are managed in the UK
+      and worldwide. This
+      work has resulted in improved patient survival, quality of life and
+      appropriate resource utilisation.
+    In relapsed and resistant DLBCL our research has helped to establish the
+      benefit of ASCT in this
+      situation. The subsequent CORAL trial indicated that there was no benefit
+      to post-ASCT rituximab
+      maintenance therapy and this saves approximately &#163;18,000 per patient. In
+      the front line treatment
+      of DLBCL, the finding that R-CHOP given every three weeks is as effective
+      as the more intensive
+      two-weekly R-CHOP, which requires growth factor support, has allowed
+      discontinuation of this
+      more expensive strategy.
+    In advanced follicular lymphomas, our research provided the trial data
+      that has underpinned the
+      policy of withholding chemotherapy until symptoms intervene. The advantage
+      of this is to avoid
+      toxicity of treatment. The subsequent evidence we provided of the effect
+      of rituximab in these
+      patients improved the treatment for these patients still further. These
+      policies have been
+      incorporated into UK guidelines, which state that: "Observation remains
+        an appropriate approach
+        in patients with asymptomatic advanced stage follicular lymphoma in an
+        attempt to delay the need
+        for chemotherapy. This is particularly the case for patients over 70
+        years of age" [a]. In the US,
+      guidelines from the National Comprehensive Cancer Network state that: "Observation
+        may be
+        appropriate in Stage I and II disease where potential toxicity of
+        involved field radiotherapy
+        outweighs potential clinical benefit" and in patients with more
+      advanced disease who are
+      asymptomatic, "Watchful waiting is the only approach advised" [b].
+      The European Society for
+      Medical Oncology also made similar recommendations in their 2010
+      guidelines [c]. Based on the
+      incidence of indolent forms of NHL, since 2008 approximately 900 patients
+      per year in the UK
+      have been able to delay chemotherapy with its attendant toxicities [d].
+      This strategy also
+      conserves resources without detriment to the patients. The average age of
+      presentation of
+      follicular lymphoma approaches 70 years of age, and up to 40% of surviving
+      asymptomatic
+      patients above this median age at presentation will not have need of any
+      chemotherapy over the
+      following 10 years [e], a period during which competing causes of
+      death will have intervened.
+    Our studies have established the role of allogeneic RITs in patients with
+      relapsed and resistant
+      lymphomas. The BCSH guidelines state that "Reduced Intensity
+        Conditioning allogeneic
+        transplants should be considered for younger follicular lymphoma
+        patients who have relapsed" [a],
+      and a similar statement is contained in the European guidelines [c].
+      The US NCCN guidelines [b]
+      advocate a similar approach and suggest that allogeneic stem cell
+      transplants should be
+      considered in selected cases such as those patients who have failed an
+      autograft, did not mobilise
+      sufficient stem cells for such a procedure or who had persisting bone
+      marrow disease.
+    In summary, the establishment of allogeneic transplantation strategies in
+      relapsed and resistant
+      non-Hodgkin's lymphomas, both indolent and DLBCL, is undoubtedly saving
+      lives. Based on
+      European Group for Blood and Marrow Transplantation (EBMT) activity data
+      for the period
+      spanning 2006 to 2011 [f, g], we estimate that 26,000 patients
+      with NHL underwent autologous
+      and 6,000 underwent allogeneic transplants. From prior EBMT publications
+      on transplantation for
+      lymphoma that 60% of these transplants were performed for indolent NHL or
+      DLBCL. We can
+      therefore estimate that approximately 6,500 patients with have been cured,
+      and in the case of
+      indolent lymphoma 2,000 patients have attained durable remissions,
+      following autologous and
+      allogeneic transplantation.
+    
+ImpactSummary
+
+    Clinicians and scientists at UCL have been central to the design and
+      management of single centre
+      and multi-centre lymphoma trials within the UK and internationally. The
+      trials have enabled a
+      balanced approach to the non-Hodgkin lymphomas (NHL), supporting more
+      conservative
+      strategies in certain well-defined situations but also providing evidence
+      for the value of very
+      intensive therapy in appropriate patients. These trials have contributed
+      to patient survival, quality of
+      life and appropriate resource utilisation.
+    
+UnderpinningResearch
+
+    The non-Hodgkin lymphomas (NHL) are malignancies of the cells of the
+      lymphoid system. They
+      are the sixth most common cause of cancer and the reported incidence has
+      risen dramatically over
+      the last 40 years. There are many different types of NHL with variable
+      speeds of progression,
+      response to treatment and ultimate cure rates. Broadly there are those
+      that are aggressive but
+      respond well to chemotherapy, including in many cases resulting in cure.
+      Conversely there are
+      variants that progress slowly, and although the chances of cure are small,
+      patients can survive
+      many years with their disease.
+    In aggressive NHL (Diffuse Large B-Cell Lymphomas; DLBCL), one of the
+      commonest types of
+      NHL, our major contribution has been to establish the role of autologous
+      stem cell transplant
+      (ASCT) in patients who relapse after primary chemotherapy. The regime we
+      invented consists of
+      two parts: initially high dose chemotherapy to ablate the bone marrow
+      using the `BEAM' regimen (a
+      combination of carmustine, etoposide, cytarabine and melphalan) followed
+      by autologous stem cell
+      transplantation (ASCT; using stem cells harvested previously from the
+      patient's blood) [1]. This
+      regime has been the mainstay of treatment for relapsed NHL since 1995. Our
+      subsequent studies
+      have confirmed that relapsed patients are the most appropriate candidates
+      for ASCT as there is no
+      advantage to using ASCT earlier in the treatment path [2].
+      Chemotherapy alone remains the
+      optimal first-line treatment and we have shown that intensifying
+      chemotherapy (the combination of
+      cyclophosphamide, doxorubicin, vincristine and prednisolone with
+      rituximab; R-CHOP) on a two-weekly
+      as opposed to a less intensive three-weekly regimen [3] does not
+      improve outcome. In a
+      recent international trial (the CORAL trial) we demonstrated that after an
+      autograft for relapsed and
+      resistant DLBCL there is no added benefit of rituximab administered as
+      maintenance therapy [4].
+    In indolent NHL, we showed that for asymptomatic patients, a policy of
+      watchful waiting allows
+      chemotherapy to be postponed by an average of two and a half years with no
+      reduction in survival
+      rates [5]. This became standard care for the 30-40% of all
+      follicular lymphoma patients who are
+      asymptomatic at the time of diagnosis. Subsequently in 2010 we reported on
+      results of a trial to
+      compare rituximab therapy with watchful waiting. We found that treatment
+      with rituximab has
+      advantages over watchful waiting: at three years, 54% of patients in the
+      watch-and-wait arm had
+      required chemotherapy compared to only 18% in the rituximab arm and there
+      was improved quality
+      of life [6]. As a result, since this work was presented in
+      abstract form in 2010, monotherapy with
+      rituximab alone is now widely used in this situation.
+    Lastly, for patients who relapse after ASCT, we refined optimal usage of
+      allogenic stem cell
+      transplantation in NHL. Allogeneic transplantation (where the stem cells
+      are from a donor rather
+      than the patient's own) had been demonstrated to be associated with a
+      graft-versus-lymphoma
+      activity in a number of retrospective registry reviews performed by the
+      European Group for Blood
+      and Marrow Transplantation, an effect of the foreign stem cells that were
+      infused to repopulate the
+      bone marrow. However this procedure was too toxic in NHL, with high
+      mortality rates directly
+      related to procedural toxicity. In addition, the donor stem cells mounted
+      an immune response
+      against not only the lymphoma, but other healthy tissues, so-called
+      graft-versus-host disease
+      (GvHD). We introduced reduced intensity transplants (RITs) incorporating
+      depletion of the harmful
+      GvHD-inducing immune cells with alemtuzumab but preserving those that had
+      anti-lymphoma
+      effects. This greatly reduced the toxicity and mortality associated
+      with allogeneic transplantation
+      [7]. In 2010, in the setting of relapsed follicular lymphoma, we
+      showed that excellent results (not
+      bettered anywhere world-wide) are achieved with RIT, augmented by donor
+      lymphocyte
+      transfusions, resulting in progression-free survival at four years of 76%
+      (90% if there is a matched
+      sibling donor) [8].
+    

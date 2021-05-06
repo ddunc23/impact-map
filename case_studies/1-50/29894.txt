@@ -1,0 +1,223 @@
+CaseStudyId: 29894
+Title: 
+    Improving prostate cancer diagnosis and care using computer simulation
+        and medical image registration
+    
+
+ImpactDetails
+
+    Prostate cancer is the most common male cancer in the UK, many countries
+      in Europe, North America, and Australasia. The disease is a leading cause
+      of cancer-related death in the western world.
+    Dr. Barratt's development of novel criteria for diagnosing prostate
+      cancer from computer modelling of needle biopsy has been of benefit to
+      clinicians, men suspected of having prostate cancer, and men already
+      diagnosed with the disease who require a comprehensive assessment of the
+      extent and type of their disease prior to treatment. As a result of this
+      research, clinicians now have access to clinical tools for
+      implementing and validating MR-directed prostate biopsy as well as tools
+      for accurately classifying patient risk and determining viable treatment
+      options [a,b]. Patients directly benefit from this research
+      through the significant improvement in accuracy of needle biopsy
+        investigations, which in turn provides greater confidence when
+        deciding between different treatment options [a,b].
+    Development and adoption of clinical tools: From 2007
+      onwards, Barratt's collaboration with clinicians at University College
+      Hospital (UCH) led to new clinical criteria for image-directed biopsy
+      using computer modelling of this procedure. For transperineal,
+      template-guided biopsy mapping, these criteria were quickly adopted
+        into clinical practice at UCH and from September 2009, applied to all
+        patients undergoing this procedure, whether or not the patient was a
+      volunteer within a clinical trial [b]. The criteria were also incorporated
+      within an intuitive and easy-to- understand clinical classification
+        scheme that also includes histological information on the
+      aggressiveness of disease, measured by the so-called Gleason Grade. This
+      scheme, commonly known as the "Traffic Light Scheme" and developed by
+      clinicians in collaboration with Dr Barratt's team, provides a highly
+      visual way of documenting patient risk by using a colour-coded system that
+      is easily recognisable to patients. It has been found to be particularly
+      useful during patient consultations as a means of allowing the patient to
+      see where the burden of disease is and to make an informed choice,
+      together with the clinician, about which treatment option to pursue [a,b].
+    Since its introduction as part of the routine clinical protocol at UCH in
+      2009, the Traffic Light scheme for classifying prostate cancer risk has determined
+        the treatment options offered to more than 741 men with the disease
+      who underwent a template-guided biopsy mapping before 31 July 2013 [b].
+      This includes men treated under the NHS and privately both outside and
+      inside ongoing clinical trials; the results of this test are often used to
+      determine eligibility for clinical trials. The scheme is also used as part
+      of the protocol of a major 3-year NHS/NIHR-sponsored Health Technology
+      Assessment trial, the PROMISE trial, which began recruiting in 2012 and
+      currently includes four centres in the UK. The aim of this study is to
+      evaluate the clinical efficacy of MR in the diagnosis and characterisation
+      of prostate cancer in a hospital setting in England and Wales. The trial
+      has recruited 50 patients so far.
+    The scheme was adopted by 15 centres in the UK and internationally
+        between 2008 and 31 July 2013, including The Royal Marsden, St.
+      Mary's (London), Bristol, Basingstoke and the Whittington Hospital, with
+      plans for it to be introduced into all nine hospitals in the London Cancer
+      Network by 2014. In Europe, the scheme is now used in hospitals in Zurich
+      and Lausanne in Switzerland. The current estimate of the total number of
+      patients whose treatment has been determined by this scheme is in excess
+      of 1,200.
+    As a further indication of the impact of this research on medical
+      practice, a recent review of prostate cancer diagnosis [c], published in
+      the influential British Medical Journal, also recommends that new
+      biomarkers should be validated against the thresholds employed in this
+      scheme, citing [output 4, above]. It is also anticipated that the scheme
+      will be included as part of the national guidelines issued by the
+        Royal College of Pathologists, which is currently under development
+      and is due to be published in 2014 [b].
+    Patient benefits: The MR-directed biopsy outlined above
+      enables biopsy sampling that is sufficiently accurate for tumours to be
+      targeted selectively. In this approach, tissue samples are collected only
+      from regions that appear to be tumours in the MR images, which makes the procedure
+        more efficient, more accurate, less invasive (and therefore posing a
+        lower risk of infection), and cheaper compared with established biopsy
+        techniques.
+    Clinical trials: The image registration software that
+      implements the techniques described in Section 2 is being used for
+      targeted biopsy and therapy as part of two clinical trials. In one trial,
+      the surgical value of using this software in an initial series of 24
+      patients was analysed [d]. The results indicate that the use of the
+      software to determine precisely where an MRI-visible tumour is located
+      within ultrasound images obtained during the high-intensity focused
+      ultrasound (HIFU) therapy led to a change in the surgical plan,
+        determined using the standard clinical method, in half of the patients.
+      In these patients, the size of the treated region was increased to
+      ensure that the tumour was fully ablated. Clinical follow-up data are not
+      yet available, but the longer-term impact of employing this technology is
+      that the treatment is more effective than it would have been if
+      performed using standard clinical methods in a substantial proportion of
+      patients.
+    To date, in fifty patients who went on to be treated using minimally
+      invasive, MR-directed therapy within a clinical trial and as a result of
+      criteria, the therapy was delivered using the image registration
+      technology developed in this research [a]. The clinical experience with
+      these patients is being used as evidence of clinical safety and efficacy
+      as part of a submission for CE marking a commercial medical device that
+      incorporates this technology.
+    
+ImpactSummary
+
+    UCL's research has led to changes in patient care for men with prostate
+      cancer, through the implementation of less invasive, image-directed
+      treatment and diagnostic strategies, and clinical trials that use these
+      techniques. The use of medical image registration software to deliver
+      high- intensity ultrasound therapy in a targeted manner has been shown to
+      change the treatment plan in half of the patients participating in a
+      clinical study. New biopsy criteria are now used routinely to classify
+      patient risk at University College Hospital, where, since 2009, clinicians
+      have determined the treatment options for more than 741 prostate cancer
+      patients. The scheme has been adopted, by 15 other hospitals in the UK and
+      internationally, where it has become the recommended standard of care, and
+      has been used to treat more than 1,200 patients.
+    
+UnderpinningResearch
+
+    Dr. Barratt is an academic member of the UCL Centre for Medical Image
+      Computing. His field of expertise includes medical image analysis,
+      especially medical image registration, image processing, and computational
+      modelling of soft-tissue organ motion and surgical procedures for the
+      prediction and compensation of organ deformation in image-guided surgery
+      systems. He has also applied computational modelling to investigate the
+      expected efficacy of new surgical techniques. A key insight arising from
+      the research he has conducted since 2007 is that three- dimensional (3D)
+      computational models of soft-tissue and surgical instrument motion provide
+      a powerful tool for solving conventionally challenging image registration
+      problems in which structures move and deform between images. Such models
+      also provide a powerful tool for simulating surgical procedures for the
+      purposes of developing new clinical protocols to implement and interpret
+      the results of those procedures. Specifically, statistical shape models
+      that represent subject-specific variation in organ shape, for
+      example, due to physical deformation when in contact with a surgical
+      instrument, provide physically constrained representations that are
+      helpful in regularising deformation fields computed by image registration
+      algorithms.
+    In Dr. Barratt's research, two novel approaches have been developed in
+      close collaboration with clinicians at University College Hospital (UCH)
+      [1-3]:
+    Firstly, computational biomechanics (finite-element analysis) has been
+      used to simulate organ deformations, given a static 3D mesh representation
+      derived from a medical image. The resulting deformed shapes are used as
+      synthetic training data for building a statistical shape/motion model.
+      This approach is particularly useful for applications where the organ
+      deformation cannot be quantified using imaging in advance, either because
+      quantifying this deformation using imaging is not feasible or too
+      expensive, or when physical deformations are due to instruments only used
+      at the time of surgery. In such cases, prior information in the form of a
+      pre-built 3D deformable organ model enables deformations to be predicted
+      much more rapidly than applying finite-element methods directly. Potential
+      problems of numerical instability and determination of boundary conditions
+      from typically poor-quality intraoperative images are also avoided.
+    Secondly, an algorithmic framework has been developed for registering
+      deformable geometric organ models (for example, represented by a
+      triangulated mesh) directly to images of the same organ. Again, this
+      approach is particularly useful for surgical applications where a
+      simplified, easy- to-interpret geometric representation of the organ of
+      interest is ideal for surgical planning and transferring salient clinical
+      data between different clinical teams. Models typically contain only
+      information that is surgically relevant, such as tumour size, shape and
+      location, and can be visualised easily using standard graphics hardware.
+      Much of Dr. Barratt's research has focused on applying this approach to
+      problems in prostate cancer biopsy and therapy, utilising patient-specific
+      statistical shape/motion models of the prostate generated from magnetic
+      resonance imaging (MRI) data [1-3].
+    The clinical motivation for this work is problems encountered when
+      attempting to validate and implement clinically an MRI-directed
+      approach to prostate cancer diagnosis and treatment. In this approach,
+      pathological and anatomical information from MRI images of the prostate
+      obtained prior to a surgical procedure are used to plan and guide the
+      procedure by superimposing a graphical representation of MRI-visible
+      tumours onto real-time ultrasound images obtained during the procedure for
+      the purposes of guidance. This overcomes the current limitation that most
+      prostate tumours are not visible in ultrasound images and therefore
+      targeting them is highly challenging without computer assistance. It also
+      provides a cost-effective and accessible alternative to performing
+      surgical procedures within an MRI scanner (i.e. under MRI guidance), which
+      is prohibitively expensive and currently only available in a small number
+      of centres across the world.
+    As the research outlined above developed, and MRI-directed prostate
+      needle biopsy applications were explored, further research was undertaken
+      to apply computer modelling methods to simulate the biopsy procedure and
+      to develop new criteria for estimating tumour burden (i.e. volume). This
+      work involved the development of computer models of needle insertion,
+      based on anatomical information obtained from pelvic MRI images, that
+      included physical effects such as needle bending and image registration
+      errors (estimated from work undertaken in other parts of the research
+      programme as well as from the results of other research groups). Detailed
+      3D geometric computer models of the prostate, including tumour size, shape
+      and location, were reconstructed automatically from images of surgically
+      excised prostate specimens using software developed by Dr. Barratt's
+      research group. The software used image processing, combined with image
+      registration, to detect tumour regions and re-orientate consecutive
+      histological images [1-3].
+    Three computer simulation studies were carried out between 2010 and 2012
+      to:
+    i) devise new criteria for estimating tumour burden from transperineal,
+      template-guided biopsy samples [4];
+    ii) compare different biopsy strategies for the detection of clinically
+      important cancer (i.e. cancer that requires treatment) [5]; and
+    iii) investigate and highlight issues associated with tumour-targeted
+      biopsy, including the proposition of example new criteria, derived from
+      computer simulations [6]. These studies are closely linked with the
+      application of novel image registration techniques developed as part of
+      the core research activity [1-3]. Such criteria are vitally important for
+      patient management, since they dictate the treatment options available to
+      patients as a result of undergoing this procedure.
+    These computer simulation studies involved predicting the cancer core
+      length of tissue sample &#8212; i.e. the length of cancerous tissue in
+      millimetres &#8212; for different biopsy schemes, using 3D computer
+      reconstructions from a historical database of histopathological images of
+      a step-sectioned prostate specimens. The simulations took account of
+      various sources of error, such as needle deflection, that can arise during
+      a biopsy, and provided data for a statistical analysis from which cut-off
+      criteria were determined to estimate disease burden.
+    Key researchers: Dr Dean Barratt, Senior Lecturer (2007 -
+      present); Dr. Yipeng Hu &#8212; Research Assistant and part-time PhD student
+      (Oct 2007 - Sep 2012); Research Associate (Oct 2012- present); Dr. Tim
+      Carter &#8212; Senior Research Associate (July 2009 - Sep 2011); Dr. Steven
+      Thompson &#8212; Research Associate (Jan - Oct 2012); Professor David Hawkes -
+      Professor of Imaging Science and Director of the UCL Centre for Medical
+      Image Computing (2007- present)
+    

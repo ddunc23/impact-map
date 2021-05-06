@@ -1,0 +1,143 @@
+CaseStudyId: 43830
+Title: 
+    Rare diseases research and translation in muscle channelopathies:
+      establishing a national diagnostic service and developing the first proven
+      effective treatment for patients
+    
+
+ImpactDetails
+
+    Patients with genetic muscle channelopathies experience debilitating
+      episodes of muscle paralysis (periodic paralysis) and/or episodes of
+      severe muscle stiffness (myotonia or paramyotonia). Many patients develop
+      significant disabling permanent muscle weakness over time. Accurate
+      diagnosis is difficult as the conditions are rare, so affected patients
+      often experience a long delay of years before a correct diagnosis is
+      achieved and effective treatment instituted. Unfortunately patients are
+      often misdiagnosed and sometimes the variable severity and intermittent
+      nature of some of the symptoms leads to the erroneous suggestion that the
+      symptoms are psychological. Specialist clinical, electrophysiological and
+      molecular genetic assessment is required to make an accurate diagnosis.
+    As a result of our research, our centre was commissioned by NHS Highly
+      Specialised Services to provide the only diagnostic and treatment centre
+      in the UK for channelopathies. We are directly funded by the Department of
+      Health to provide this service, which has received in excess of &#163;6m to
+      date. Our clinical service offers a one-stop, same-day assessment in which
+      over 2,000 patients to date have been evaluated clinically and then
+      undergo detailed electrophysiological testing in collaboration with a
+      consultant neurophysiologist. With informed consent, patients are then
+      offered detailed genetic testing to achieve a DNA-based diagnosis in the
+      DNA laboratory. Patients are followed up to receive genetic counselling
+      and treatment. Effective medications are available in accurately diagnosed
+      patients and often significantly improve quality of life [a]. We
+      are now the only UK national reference laboratory for genetic muscle
+      channelopathies, and our service is recognised by the European network for
+      rare disease diagnosis [b].
+    Our research has defined the best practice in treating patients with
+      these rare conditions, as recognised by the Specialised Commissioning
+      Group who say: "The work of the Queen Square NCST group collating and
+        the related research group has been at the forefront of developing the
+        international evidence base for best practice in diagnostics [DNA and
+        Electrophysiology] and patient management over the past 10 years" [c]
+    In terms of diagnostics, we have devised very efficient pathways
+      including novel electrophysiological protocols to aid rapid diagnosis and
+      gene testing selection [d]. We have performed over 8,000 genetic
+      tests and 1,000 electrophysiological tests on patients since the service
+      began. Previously this patient group often did not receive an accurate
+      diagnosis or their conditions were labelled as psychogenic. Often there
+      were unacceptably long delays in making the diagnosis and this has been
+      changed.
+    As described in section 2, our highly phenotyped genetically stratified
+      cohorts have allowed us to lead the first international randomised trial
+      of a treatment in a muscle channelopathy. This identified an effective
+      treatment for muscle channelopathy patients and was published in JAMA 2012
+      with an accompanying full editorial entitled "Mexiletine for the treatment
+      of myotonia: a triumph for rare disease networks" [e]. It also
+      attracted much attention from patient groups and the scientific community
+      [f]. We now have successfully obtained exclusive Orphan drug
+      indication for mexiletine with the European Medicines Agency which is a
+      critical step in enabling and supporting the process for full marketing
+      authorisation and European licensing of mexiletine for this indication [g].
+    We support many patient organisations and provide national patient
+      education days. Hanna is a member of the Medical Advisory Council for
+      Periodic Paralysis International, an international patient organisation
+      based in Canada [h]. He also acts as scientific advisor to the
+      Channelopathy Foundation, based in Switzerland [i]. At the Centre
+      for Neuromuscular Diseases we hold annual Patient Information Days on
+      muscle channelopathies; these include interactive patient talks,
+      opportunities to meet scientists and doctors and patient-led "ask the
+      experts" question sessions [i].
+    
+ImpactSummary
+
+    Understanding and finding treatments for rare disease represents a major
+      challenge across medicine. We have shown this is possible for rare muscle
+      channelopathies and our work has directly benefited the lives of patients.
+      Our 15 year basic research programme has elucidated the genetic
+      architecture and identified new disease mechanisms for these disabling
+      muscle conditions. We also determined the true disease frequency through
+      the only UK epidemiology study. We translated fundamental research into
+      new DNA-based diagnostic testing and electrophysiological diagnostics for
+      rapid and reliable diagnosis. Our research led directly to our centre
+      being commissioned by the NHS (&#163;6m) as the only UK centre for diagnosis
+      and management and we established the UK NHS national genetics
+      channelopathy reference laboratory. We have built the world's largest
+      genetically stratified patient cohorts which allowed us to lead the first
+      international randomised controlled trial. This trial showed clear
+      efficacy of a reprofiled mexiletine. This led to a successful European
+      orphan product status application for this indication and national
+      treatment guidelines.
+    
+UnderpinningResearch
+
+    Many important neurological diseases are episodic causing patients to
+      experience attacks of unpredictable severe neurological dysfunction
+      separated by periods of apparent normality. The commonest episodic
+      neurological disorders are epilepsy and migraine and their precise
+      molecular pathophysiology is an important unsolved neuroscience challenge.
+      In addition, there are severe disabling disorders of episodic muscle
+      dysfunction such as episodic total muscle paralysis and intermittent and
+      severe disabling muscle stiffness-myotonia affecting 1 in 50,000 people
+      worldwide.
+    Over the last 15 years we have established a world leading collaborative
+      interdisciplinary clinical, genetic and cellular electrophysiological
+      research programme led by Professor Michael Hanna in the UCL Institute of
+      Neurology that has progressed fundamental understanding of the
+      pathophysiology of episodic neurological diseases, and has resulted in new
+      diagnostic tests speeding diagnosis and improving patient outcomes. We
+      collated the world's largest cohort of over 1,800 families with inherited
+      channelopathies and have identified hundreds of unique mutations in
+      specific genes responsible for the diseases. The molecular
+      electrophysiological consequences on single ion channel function have been
+      studied using detailed cellular expression techniques allowing a more
+      precise understanding of the underlying pathophysiology. Many key
+      observations have been made that have resulted in improved fundamental
+      knowledge which has translated into improved diagnostics and patient
+      outcomes [1].
+    By studying large groups of patients with different intermittent muscle
+      symptoms we have been able to show how genetic dysfunction of muscle
+      sodium, potassium, calcium or chloride channels can relate to specific
+      episodic muscle conditions including periodic paralysis, muscle stiffness
+      syndromes (myotonia) and episodic cardiac arrhythmias [2]. We have
+      shown that the genetic architecture of the commonest form of periodic
+      paralysis predicts the presence of an abnormal gating pore current in
+      muscle sodium or calcium channels supporting the presence of a brand new
+      mechanism for disease causation [3]. We have also defined
+      previously unrecognised neonatal ion channel diseases including
+      intermittent neonatal hypotonia and neonatal stridor. In addition, we have
+      shown that mutations in important presynaptic neuronal potassium and
+      calcium channels can lead to episodic ataxia &#8212; a disorder characterized by
+      profound disabling attacks of unpredictable unsteadiness. Furthermore, we
+      have shown that such patients are 17 times more likely to develop epilepsy
+      compared to the background population risk [1].
+    We have shown that therapy response relates to genotype and this has
+      directed more effective therapy selection with clear positive patient
+      impact [4]. We developed highly specialized electrophysiological
+      techniques that we apply to patients and we have shown that this allows us
+      to predict the likely genotype and direct genetic testing [5].
+    We have led international randomised controlled trials in the UCL MRC
+      Centre for Neuromuscular Disease, Directed by Hanna, and recently
+      established the first proven treatment in muscle channelopathy [6].
+      This has led to a successful European orphan status applications and new
+      guidelines.
+    

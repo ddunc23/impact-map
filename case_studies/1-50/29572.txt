@@ -1,0 +1,97 @@
+CaseStudyId: 29572
+Title: 
+    Standard of care established for advanced biliary tract cancer
+    
+
+ImpactDetails
+
+    About 1,200 people are diagnosed with biliary tract cancer each year in
+      the UK and 12,000 in the US. For the majority of patients, it is an
+      incurable cancer and before 2010 there was no established standard of
+      care; some patients had best supportive care, others single agent drugs.
+      Therefore, there was an urgent need to find effective treatments.
+    Our research showed that the doublet regimen of gemcitabine and cisplatin
+      increases the median survival from 8.2 months (gemcitabine alone) to 11.7
+      months, i.e. an extra 3.5 months of life on average. This is equivalent to
+      reducing the chance of dying by 36%. Importantly, the side effects/harm
+      associated with the doublet therapy were similar to the single agent. This
+      improvement in patient outcomes led to revised international guidelines on
+      treating biliary tract cancer, recommending this doublet therapy as
+      routine care since 2011:
+    
+      The European Society for Medical Oncology (ESMO), following the first
+        presentation of the ABC02 results in 2011, stated that the trial "set a
+        new standard of care", and assigned it Level II evidence (`Evidence is
+        obtained from at least one well-designed experimental study') [a].
+      In 2012, the British Society of Gastroenterology recommended the
+        doublet therapy for advanced or metastatic unresectable
+        cholangiocarcinoma (with Grade A evidence) [b].
+      The United States NCCN Clinical Practice Guidelines recommended the
+        use of gemcitabine/cisplatin and assigned the trial as `Category 1
+        evidence' ("Based upon high-level evidence, there is uniform NCCN
+        consensus that the intervention is appropriate") [c].
+    
+    The recommendations have been endorsed by the International Liver Cancer
+      Association [d]. Subsequent national trials for biliary tract
+      cancer must now examine new treatments in addition to
+      gemcitabine/cisplatin [e]. The treatment is recommended on NHS
+      Choices [f], and by Macmillan [g] as standard chemotherapy
+      for biliary tract cancer. In August 2013, we surveyed 43 key centres
+      treating biliary tract cancer, of whom 12 responded. All of these had
+      adopted the new regime as standard of care, reporting improved survival
+      and a well-tolerated regime. This amounted to over 230 patients treated [h].
+    The ABC02 trial data were used to examine cost-effectiveness by an
+      independent research group [i]. Total Quality Adjusted Life Years
+      (QALYs) for gemcitabine/cisplatin (0.751) was greater than for gemcitabine
+      alone (0.561), with total costs of $44,885 and $33,653 respectively.
+      Gemcitabine/cisplatin had an incremental cost-effectiveness ratio of
+      $59,480 per QALY gained, compared to gemcitabine alone. The authors
+      concluded that the doublet therapy "is a cost-effective treatment
+      alternative to gemcitabine monotherapy by currently accepted standards of
+      willingness to pay".
+    
+ImpactSummary
+
+    Before 2010, there was no accepted standard treatment for patients with
+      advanced biliary tract cancer. The ABC02 trial showed that the combination
+      of two drugs (gemcitabine and cisplatin) significantly improves survival,
+      with acceptable side effects. Consequently, national and international
+      guidelines have been revised to recommend this regimen as a standard of
+      care. Furthermore, in ongoing trials of novel therapies,
+      gemcitabine/cisplatin has become the comparator group, and the aim is to
+      improve survival above what this can already achieve.
+    
+UnderpinningResearch
+
+    The prognosis for patients with advanced biliary tract cancer
+      (cholangiocarcinoma) is poor, with only half of them surviving to about
+      eight months. UCL/UCLH is one of the main UK centres for treating these
+      patients, and has been involved in several associated research projects
+      over the years. One of these involved developing and participating in a
+      randomised phase II study [1] to examine whether doublet
+      chemotherapy (gemcitabine and cisplatin) is better than gemcitabine alone
+      (UCL/UCLH Principal Investigator, Dr John Bridgewater, Consultant
+      Oncologist; Chief Investigator Dr Juan Valle, Christie Hospital
+      Manchester). This study showed very promising results for the doublet
+      regimen, and was used to justify and design a large phase III trial
+      (ABC02).
+    ABC02 successfully received funding from Cancer Research UK, with
+      Bridgewater as the Chief Investigator. Professor Allan Hackshaw (CRUK-UCL
+      Cancer Trials Centre) had oversight of the design and statistical
+      analyses. The trial concept originated from Bridgewater and Valle, with
+      support through the NCRN Lower Gastrointestinal Cancer Clinical Studies
+      Group. UCL was responsible for trial design, study conduct and statistical
+      analyses, and was the trial Sponsor.
+    This study was one of the first large scale national studies in biliary
+      tract cancer in the UK, involving 37 recruiting hospitals (410 patients
+      recruited 2002-8). It was independently peer-reviewed by Cancer Research
+      UK, conducted across the UK National Cancer Research Networks (NCRN) and
+      published in the New England Journal of Medicine [2]. These
+      attributes confirm the high quality of this seminal trial.
+    The ABC02 trial showed that the combination of two drugs (gemcitabine and
+      cisplatin) significantly improves survival, with acceptable side effects.
+      Following the success of ABC02, and the implementation of doublet therapy
+      into routine care, UCL has designed, conducted and sponsored all
+      subsequent UK national trials in biliary tract cancer developed through
+      the NCRN Clinical Studies Group (ABC03, ABC04 and ABC05).
+    

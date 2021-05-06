@@ -1,0 +1,167 @@
+CaseStudyId: 36809
+Title: 
+    Use of the structure of serum amyloid P, a modulator of amyloid
+      formation, for drug discovery and development
+    
+
+ImpactDetails
+
+    The first therapeutic applications of modulating the interaction of serum
+      amyloid P with its ligands revolved around compounds that interact with it
+      to remove it from pathogenic amyloid fibres and therefore render those
+      fibres more vulnerable to proteolytic degradation. A lead compound, CPHPC,
+      was developed and shown to cross-link two SAP pentamers, removing the
+      protein both from circulation and from interaction with amyloid. The
+      discovery of this compound was critically dependent on the insights into
+      cooperative ligand binding discovered through the decamericSAP/dAMP
+      structure solved in Wood's lab at Birkbeck and reported in reference [2]
+      above.
+    A biotech company, Pentraxin Therapeutics Ltd (PTL), was spun out of UCL
+      in 2001 to design drugs for the treatment of amyloid-related diseases and
+      develop them; serum amyloid P became its first validated target [a],
+      resulting in a series of patents. For example, in 2008, formulations of
+      CPHPC were patented as a possible treatment for Alzheimer's disease [b].
+      Preliminary results (published by the Centre for Amyloidosis and Acute
+      Phase Proteins) showed SAP depletion in vivo [c]; however
+      despite these and other promising results in mouse models and human data
+      showing that CPHPC causes a fall in circulating concentrations of SAP,
+      this drug has made little progress in clinical trials as a monotherapy for
+      Alzheimer's disease.
+    Wood and his co-workers in the Centre for Amyloidosis and Acute Phase
+      Proteins at UCL and at PTL have now licensed a combination of CPHPC and
+      anti-SAP antibodies to GlaxoSmithKline (GSK) as a treatment for systemic
+      amyloidosis [d]. This therapy involves administering CPHPC (i/d
+      GSK2315698) first to remove SAP from the patients' circulation and then
+      administering an anti-SAP antibody (i/d GSK2398852); with no SAP in
+      circulation, this antibody should be directed to amyloid-bound SAP to
+      activate the patients' immune systems and destroy the amyloid.
+    The first Phase I clinical trial of the combination therapy began
+      recruiting patients diagnosed with systemic amyloidosis in June 2013 [e].
+      This is a two-part trial; the first part is a dose escalation study to
+      determine the safety of the two components and the second will assess its
+      dose-response and effect on SAP concentrations in more detail. It is
+      co-sponsored by three London hospitals and so contributes to the
+      continuation of skilled employment in the UK, both at GSK and at these
+      sites. GSK have hailed the importance of their collaboration with the
+      Centre for Amyloidosis and Acute Phase Proteins as part of their strategy
+      of academic engagement in drug discovery [d, f]. The potential
+      value of this combination therapy has already attracted the attention of
+      patient groups, despite its early stage of development; Amyloidosis
+      Australia has described it as "...the most wonderful news about
+        Amyloidosis we had heard in the past 8 years" [g].
+    The known function of circulating SAP as a mediator of the inflammatory
+      response is being exploited by the innovative biotech company Promedior
+      Inc., based in Lexington, MA, USA. Promedior's work focuses on the
+      development of recombinant forms of SAP (Pentraxin-2 or PTX-2) as
+      treatments for fibrosis. This term refers to the formation of excessive
+      connective tissue in response to inflammation, a response that plays an
+      important part in many types of chronic organ failure. The mechanism for
+      the activity of PTX-2 against fibrosis is based on its specific,
+      calcium-mediated recognition of so-called "damage-mediated molecular
+      patterns" (DAMPs) which are exposed when cells are damaged. This promotes
+      the removal of the damaged proteins by immunoglobulins on the surface of
+      macrophages. The mechanism of this interaction was elucidated using recent
+      crystallographic data obtained by Promedior, which shows the calcium-and
+      immunoglobulin-binding sites lying on opposite sides of the pentraxin
+      complex. These studies, also, would not have been possible without access
+      to the initial structures obtained by Wood's group at Birkbeck from 1994
+      onwards.
+    The most advanced compound in the Promedior pipeline is currently (summer
+      2013) an injected form of PTX-2 designated PRM-151 [h]. This is in
+      early clinical trials for the treatment of idiopathic pulmonary fibrosis
+      (IPF), a chronic, progressive lung disease that kills about 5,000 people
+      annually in the UK. The FDA and EMA have designated PRM-151 as an "orphan
+      drug" for this condition, giving Promedior some specific commercial and
+      marketing incentives [i]. A Phase I trial in IPF patients and
+      healthy volunteers has shown that PTX-2 is safe, suggested that it can
+      reduce fibrocyte levels in IPF patients, and recommended it for further
+      clinical trials [j, k]; a Phase 2 trial is now in progress.
+    Pentraxin formulations are also being developed for fibrous diseases of
+      the retina. A Phase 2 clinical trial of PRM-151 to prevent scarring
+      following trabeculectomy in glaucoma enrolled 124 patients from 14
+      European study centres and was completed in November 2012 but is not yet
+      published. A variant form of recombinant SAP, PTX-169, has now been
+      developed for injection into the eye. Pre-clinical results presented at
+      the Association for Research in Vision and Opthalmology in 2012 indicate
+      that this compound shows promise in diabetic retinopathy and age-related
+      macular degeneration, each of which affects millions of people worldwide [l];
+      clinical trials are planned. Promedior is a thriving company and its
+      SAP-based programmes make a significant contribution to economic growth
+      and skilled employment in Massachusetts.
+    
+ImpactSummary
+
+    Serum amyloid P, or pentraxin-2, is a pentameric calcium-binding protein
+      that binds to amyloid fibrils. It has been implicated in the protection of
+      those fibrils from proteolytic digestion and in the immune response to
+      tissue damage. The structure of pentraxin-2 was first solved by Steve Wood
+      and his co-workers in Tom Blundell's lab at Birkbeck in the 1990s. Wood
+      has continued his work on the pentraxins at UCL, and the company Pentraxin
+      Therapeutics Ltd was spun out of UCL to design and develop
+      pentraxin-binding ligands (based on its structure) as potential treatments
+      for Alzheimer's disease and amyloidosis. Promedior Inc. in the US is
+      developing recombinant forms of pentraxin to control fibrosis. Several of
+      these molecules are now in clinical trials.
+    
+UnderpinningResearch
+
+    Deposits of a fibrillar form of protein known as amyloid have been
+      associated with a wide range of human diseases including Alzheimer's
+      disease, the most common form of dementia. Amyloid fibres formed from
+      different proteins have essentially the same "cross-beta" structure. A
+      number of other proteins have been discovered to be associated with
+      amyloid fibres, among them a protein called serum amyloid P (SAP). This
+      protein has been shown to not be required for fibre formation in vitro
+      but is now known to stabilise the fibres in vivo.
+    Knowledge of the three-dimensional structure of this protein has been an
+      essential pre-requisite to understanding the mechanism of its interaction
+      with amyloid. The structure of the native, pentameric form of SAP was
+      first determined by a group led by Steve Wood in the former Department of
+      Crystallography at Birkbeck, working under the overall direction of
+      Professor (now Sir) Tom Blundell. This work was published in Nature
+      in 1994 [1] and the structure released by the Protein Bank with
+      the code 1SAC. The paper had attracted 336 citations by August 2013.
+    Serum amyloid P is known to bind to amyloid fibres; to other protein
+      ligands including fibronectin and glycosaminoglycans; and to DNA in a
+      calcium dependent manner. This 3D structure, the first to be determined
+      for a pentraxin, revealed that each SAP monomer has a fold remarkably
+      similar to that seen in a family of carbohydrate-binding proteins, the
+      legume lectins. Binding positions were identified in the crystal structure
+      for two calcium ions, largely coordinated by the side chains of negatively
+      charged amino acids that are conserved throughout the SAP family. SAP is
+      known to be remarkably resistant to protease digestion in the presence of
+      calcium, and this may be partly responsible for the protease resistance of
+      amyloid fibrils in vivo.
+    Following the determination of the crystal structure of SAP, the group
+      undertook a comparative analysis of the pentraxin family, comparing the
+      sequences, tertiary structures and quaternary arrangements of SAP with
+      human C-reactive protein (CRP), Syrian hamster SAP and Limulus polyphemus
+      CRP. Calcium-mediated ligand binding by each of these proteins was found
+      to be similar, but sequence differences in the hydrophobic pocket
+      explained the differential ligand specificities exhibited by the
+      homologous proteins [2].
+    Work by Wood and Dr Erhard Hohenester, a postdoctoral fellow at Birkbeck,
+      to solve the structure of a decameric complex of SAP with a bound ligand,
+      2'-deoxyadenosine-5'-mono-phosphate (dAMP), was undertaken at Birkbeck
+      (and written up and published after Wood left in 1996) [3]. This
+      novel structure for the SAP-ligand complex showed the calcium sites
+      shielded against competing ligands and illustrated that the modest
+      affinity of this protein for small ligands could be enhanced by
+      cooperativity between the subunits of a complex. This cooperativity in
+      ligand binding was utilised in the discovery of the candidate drug
+      molecule CPHPC, discussed below. Wood and his co-workers originally
+      speculated that knowledge of the binding mode of SAP to calcium and to
+      carbohydrate- and phosphate-containing compounds might lead to the
+      development of drugs to treat amyloidosis by modulating SAP binding to
+      amyloid and hence amyloid's proteolytic digestion. In work started at
+      Birkbeck, his group later published the structure of SAP bound to a
+      carbohydrate ligand, confirming many of these speculations [4].
+    Wood has continued his productive work on amyloid proteins after leaving
+      Birkbeck, first at Southampton and then at UCL. He is now a Professor in
+      the Centre for Amyloidosis and Acute Phase Proteins, Division of Medicine,
+      University College London, and he continues to collaborate with his former
+      colleagues at Birkbeck as a core member of the ISMB. His current work
+      builds upon the work described above, including targeting the related
+      PTX-1C-reactive protein for new treatments for myocardial infarction and
+      stroke.
+    

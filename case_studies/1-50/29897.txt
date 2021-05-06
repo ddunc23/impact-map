@@ -1,0 +1,200 @@
+CaseStudyId: 29897
+Title: 
+    A clinical management service for stroke prevention
+    
+
+ImpactDetails
+
+    The research described in section 2 has led to widespread benefits to
+        patients and healthcare providers, along with the adoption of a new ISO
+        standard for electronic health records. Healthcare providers in
+      south-east England have adopted a new anticoagulation management
+        technology, which is unique in the UK [a]. This has been
+      commercialised by the new UCL spinout company Helicon Health.
+    The success of the Helicon Heart stroke prevention service is crucially
+      enabled by distributed teams of clinicians having access to a shared and
+      medico-legally robust EHR for every patient, which meets all of the
+      requirements, standards and architectural features summarised in Section
+      2. Helicon Heart tailors UCL's complete ISO EN 13606 conformant EHR
+      implementation specifically to cardiovascular shared care. It incorporates
+      a care plan for patients at risk, especially those needing preventive
+      anticoagulation treatment, and provides computerised decision support to
+      ensure that care is optimally managed.
+    The use of Helicon's stroke prevention and anticoagulation management
+      system is important because each patient has a narrow and unique safe
+      dosage window, subject to variation over time, which can be influenced by
+      lifestyle changes, other medications and certain foods; it therefore
+      requires regular blood test monitoring (every few weeks) and careful dose
+      adjustments. Both too high and too low a level of anticoagulation can lead
+      to serious or fatal haemorrhages, or stroke. Anticoagulants are one of the
+      three classes of drugs most commonly associated with fatal medication
+      errors in the UK, and in the top five in the US and Australia. The NHS
+      Litigation Authority has reported that medication errors involving
+      anticoagulants fall within the top ten causes of claims against NHS trusts
+      [b], and have amongst the highest litigation cost of any NHS treatment: in
+      the UK, an average of fifty patients per year experience serious adverse
+      events arising from preventable warfarin-induced complications; ten of
+      those patients die. In financial terms, every prevented stroke saves the
+      NHS &#163;16,000 per annum [c]; the estimated saving to each CCG is
+      approximately &#163;500,000 per annum, to which the Helicon Heart service makes
+      a significant contribution, as discussed below.
+    Following the successful evaluation of a pilot version in 2004 [d], the
+      EHR repository was enhanced for greater resilience and performance, and
+      the clinical application enriched following user feedback. It was
+      installed in the Whittington Hospital and accessed by an early adopter
+      community of GPs and high street pharmacists; it went into full clinical
+      use from August 2008 [e]. Helicon Heart is now being used by 5 NHS
+      Clinical Commissioning Groups (CCG) across north London and Hertfordshire,
+      covering 2 Hospital Trusts, 30 General Practice delivery sites and 3
+      Community Pharmacies (including Boots). The system underpins clinical
+        care for 3,000 at-risk patients, and Helicon Health has secured
+      additional contracts to extend this to 4,500 patients from 2014 [f]. This
+      shared EHR system facilitates collaboration between community staff
+        and hospital specialists [g, h, i], and has enabled the Whittington
+      Hospital to transfer over 600 patients over the last few years from
+        the more inconvenient and expensive hospital service to a more local
+      GP or Community Pharmacy service, whilst being able to continue to remotely
+        monitor their quality of care [a]. This has released capacity in the
+      hospital for the referral of new and often more complicated patients. A
+      member of the Haringey Clinical Commissioning Group said the service,
+      which the CCG has been using throughout the impact period, "provided a
+      safe option for monitoring INRs1 in primary care. It provides the
+        commissioners, providers and patients with information that assures them
+        of the quality of the service being provided" [h]. This service was
+        highlighted in the NHS Customer Service Excellence award made to the
+        Whittington Cardiovascular Department. It commended the community-based
+        anticoagulant and stroke prevention service as a "transformational
+        service" to the Cabinet Office [j].
+    Now that the system is widely distributed across many sites, clinical
+      governance is vital. A Clinical Governance Board oversees the quality and
+      safety, for which Helicon Heart generates real-time clinical
+        governance quality measures, which is possible because of the
+      high-quality and comprehensive EHR data it contains. This information is a
+      huge asset for the clinical governance process and provides great learning
+      opportunities for different general practices who can compare each others'
+      quality performance. The governance data show that most of the hospital,
+      GP and pharmacy sites are maintaining satisfactory anticoagulation control
+      metrics and are improving year on year. The system has helped to
+      demonstrate that community sites deliver safe and well-regarded care [h].
+      This is particularly appreciated by patients, for whom a visit to their GP
+      or local community pharmacy is usually much more convenient than being
+      treated as a hospital outpatient. An independent patient satisfaction
+      study was commissioned in 2009, undertaken by UCL staff who are world
+      experts in health technology assessments but had no prior connection to
+      this project. They showed that patients unanimously favoured the new
+        anticoagulation service, which they found to be more convenient, had
+      shorter waiting times, required a minimally invasive test (less bruising),
+      and led to them getting the results and treatment instructions immediately
+      [g]. They could take away a clear and well-structured paper summary of
+      their condition, care and treatment that could also be shown to any other
+      care provider.
+    Creation of spin-out company: In May 2012, UCL Business and
+      Whittington Health formed the spin-out company, Helicon Health, to support
+      the roll out of anticoagulation and stroke prevention services (Helicon
+      Heart) including the EHR system, decision support and clinical governance
+      [k]. The company employs 10 people and generated &#163;200,000 income in its
+      first year. This company has joint funded with UCL the enrichment of the
+      Helicon Heart system to cover atrial fibrillation management, another
+      critical factor in stroke prevention, which was completed in May 2013. [f]
+    Wider adoption of ISO standard: ISO EN 13606 is the only
+      internationally endorsed standard for communicating EHRs between
+      heterogeneous systems. Countries that have publicly adopted the ISO EN
+      13606 EHR interoperability standard since its publication in 2008 include
+      the UK (NHS England), Sweden, Spain and Brazil. It is, however, mandatory
+      in all EU countries. Countries still considering its adoption include
+      Norway, Ireland, Japan, Korea, Rwanda and Australia. Several EHR vendors
+      have chosen to use it as the basis for their EHR systems. These standards
+      are now being adopted by the NHS for its logical record architecture: for
+      example, every week over 11,000 patients change their general practice in
+      England safe in the knowledge their whole life general practice record
+      will be available at their first consultation with their new GP using ISO
+      EN 13606 based messages.
+    
+ImpactSummary
+
+    Helicon Health is a UCL spin-out company providing a stroke prevention
+      clinical management service (Helicon Heart) developed through UCL health
+      informatics research. In partnership with Whittington Health, a large
+      north London hospital, Helicon Heart provides stroke prevention management
+      to 5 NHS Clinical Commissioning Groups (CCG) across north London and
+      Hertfordshire, covering 2 Hospital Trusts, 30 General Practice delivery
+      sites and 3 Community Pharmacies. The system underpins clinical care for
+      3,000 at-risk patients, and Helicon Health has secured additional
+      contracts to extend this to 4,500 patients in 2014. Every prevented stroke
+      saves the NHS &#163;16,000 per annum; the estimated saving to each CCG is
+      approximately &#163;500,000 per annum, to which the Helicon Heart service makes
+      a significant contribution.
+    
+UnderpinningResearch
+
+    Clinical information is recognised to be highly complex, knowledge
+      intensive and contextual. Tens of billions of pounds in eHealth programme
+      investments across the world over the past decade have still not delivered
+      in any country a scalable means of capturing and communicating a unified
+      Electronic Health Record (EHR) for each patient. The representation of
+      EHRs comprehensively, interoperably and in a medico-legally robust way is
+      one of the fundamental challenges of health informatics.
+    Since 1996 UCL has led European research to develop an EHR information
+      architecture (information models, knowledge models, persistence
+      architecture and services) to represent "cradle to grave" EHR information.
+      This research has directly led to international requirements
+      specifications and interoperability standards for a federated architecture
+      to consolidate EHR data from multiple heterogeneous clinical systems in a
+      semantically coherent way, including the representation of healthcare
+      context and provenance to ensure medico-legally acceptable interpretation.
+      Dipak Kalra (Professor of Health Informatics, at UCL since 1995) has led
+      much of this research, which has spanned 14 EC, EPSRC and MRC funded
+      projects, totalling &#163;44 million to date, with partners from many European
+      countries from academia, industry, healthcare organisations, health
+      insurers and health ministries. The UCL component of this funding was &#163;5.6
+      million and resulted in publications from UCL on:
+    
+      formally specified requirements for EHR representation and
+        interoperability [1];
+      information models (in Unified Modeling Language, UML) for the
+        representation of clinical meaning, provenance and context within EHRs
+        [2];
+      access control and privacy protection frameworks to support
+        differential access policies within an EHR federation;
+      the challenges and best approaches to enable semantic
+        interoperability;
+      comprehensive Service Oriented Architecture (SOA) to enable
+        componentised implementation and deployment [3,4];
+      interfacing the EHR to decision support algorithms and components;
+      optimising repository (persistence) design to enable high-performance
+        query and retrieval; the integration of clinical advisory components
+        within EHRs to support evidence-based and safe clinical practice;
+      the re-use of federated EHR repositories as a research platform.
+    
+    On the basis of this research, in 2002 Professor Kalra was appointed to
+      lead standards development Project Teams in CEN (the European Committee
+      for Standardization) and ISO (the International Organization for
+      Standardization) on the electronic health record, which have published 12
+      requirements and interoperability standards in this area since 2008, such
+      as ISO 13606 Part 1 [5].
+    In order to ensure that these standards are in practice technically
+      implementable, that the ISO 13606 EHR specifications do meet clinical care
+      requirements and that fully functioning clinical systems can be built on
+      top of these EHRs, Professor Kalra established a software engineering
+      research team led by Dr Tony Austin (Principal Research Associate, at UCL
+      since 1997). This team has implemented the full set of international EHR
+      interoperability standards, together with a rapid application development
+      platform to enable specific clinical applications (for any speciality or
+      care setting) to be designed and developed [6]. This has enabled the EHR
+      repository and services to, in effect, be profiled and deployed in
+      particular usage scenarios and yet always to maintain a complete EHR for
+      each patient across all of the deployment settings. The largest deployment
+      (now branded as Helicon Heart) supports shared care for anticoagulation
+      and stroke prevention between hospitals and GPs across north London and
+      East Hertfordshire. The system includes a decision support middleware
+      component that improves anticoagulation control and reduces the risk of
+      complications. The middleware is implemented in Java, backed by a
+      PostgresQL database and web service infrastructure, deployed on servers
+      hosted inside the NHS firewall (therefore meeting stringent NHS standards)
+      and is collaboratively supported by the UCL research team and NHS IT
+      staff. There are additional deployments of the (same) EHR system for
+      managing dementia.
+    The evaluation feedback from these clinical settings has informed the
+      standardisation processes and also led to an iterative maturing of the UCL
+      EHR products.
+    

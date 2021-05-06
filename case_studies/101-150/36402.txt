@@ -1,0 +1,130 @@
+CaseStudyId: 36402
+Title: 
+The Phonological Assessment Battery (PhAB) &#8212; improving diagnosis of
+dyslexia in children
+
+
+ImpactDetails
+
+The publication of PhAB had a dramatic impact on assessment practice of educational
+psychologists, the lead profession in the UK for assessment and diagnosis of dyslexia. Concern
+had been growing about traditional assessment practice which was not evidence based and led to
+under-identification of dyslexia in bilingual children. There was increasing awareness about the
+importance of phonological skills in dyslexia and PhAB provided, for the first time, a reliable and
+well-validated means of assessing these skills with mono-lingual and bilingual children aged 6-15
+years. There was widespread adoption of the use of PhAB by educational psychologists to the
+benefit of the many children, particularly those from bilingual or socially disadvantaged
+backgrounds whose needs the traditional assessment approach failed to identify. Although other
+tests of phonological skills have been developed since PhAB, 10 years after its publication it was
+authoritatively reviewed as `the best available test of phonological processing with UK norms' [a].
+In the period 2008-121, over [text removed for publication] copies of the PhAB were sold. The
+total number of record forms sold (in the packs and individually) amounts to [text removed for
+publication] record forms. One form is used per child being assessed, thus providing an indication
+of the number of children with whom it has been used during this period [b].
+The most important impact of PhAB is on the children who have benefited from having their special
+needs identified and been able to access appropriate intervention. Undiagnosed dyslexia has been
+implicated in low self-esteem, poor school attendance, adjustment problems and criminal
+behaviour in adolescence, as well as academic failure which has lifelong consequences. PhAB
+provided practitioners with an assessment tool which offered significant advances over previous
+approaches because it was focused on the core impairments in most cases of dyslexia and
+informed targeted intervention to address the problems identified. It also allowed earlier
+identification of problems and, through being made accessible to teachers as well as educational
+psychologists, enabled many more children to be reached. A review in a major dyslexia textbook
+said: "Both the content of the battery and the clear theoretical rationale that underpins it are
+impressive" [c].
+From the outset PhAB was designed to be accessible to additionally trained teachers as well as
+educational psychologists. This has greatly extended the reach of the battery and served to
+maximise the numbers of children who have benefitted from the resource. In the period 2008-10,
+55% of sales were made directly to schools [a]. A major recommendation of the 2009 Government
+report on identifying and teaching children and young people with dyslexia (the Rose Report)
+concerned teacher professional development and the need to devise tailored interventions for
+children struggling with literacy, including those with dyslexia. Leading professional development
+resources for teachers recommend the use of PhAB for use in assessments of dyslexia from which
+tailored interventions will be developed [d, e, f]. One review, published in a journal for practitioners,
+said: "The battery is designed for use by EPs, speech and language therapists, support teachers
+and SENCOs. My experience of using this battery would suggest that all of these workers could
+find this a useful tool, certainly those directly involved in education. On the whole I would
+recommend it highly to all the above and will certainly be using it myself on a regular basis" [f].
+PhAB has now become firmly embedded in educational policy across the UK and further afield. It is
+positively reviewed and/or recommended on the websites of many education authorities in the UK
+as well as at a national level in the Republic of Ireland [h]. It is used in at least 126 local authorities
+across Great Britain and Northern Ireland and during the period 2008-10 sales were recorded in 34
+countries [b]. It is used by specialist centres that regularly assess children for dyslexia and also
+train many specialist teachers and assessors each year. For example the Helen Arkell Dyslexia
+Centre reported in 2011 "We usually use the PhAB in our assessments when possible and
+encourage our trainees to do so as well" [i].
+Further corroborating testimony from the Principal Educational Psychologist for the Borough of
+Luton (who was a member of the Executive Committee of the National Association of Principal
+Educational Psychologists throughout the assessment period, and was Chair 2008-10) says:
+"Having been designed from the outset to be accessible to and interpretable by teachers,
+PhAB has been a very important tool in the services and support delivered to schools by
+educational psychologists and specialist teachers, and in the assessment practice of
+special educational needs coordinators in mainstream schools. While other phonological
+assessment tools have been published in the UK after PhAB, none of these have been as
+well reviewed or as highly regarded by educational psychology practitioners, and none
+have enjoyed the widespread implementation by teachers that has been achieved by
+PhAB... It is in widespread use by local authority specialist teaching services and special
+educational needs coordinators across the UK, and is recommended as an established and
+highly regarded assessment tool by educational psychologists [j]."
+In November 2010, more than 13 years after its publication, the publisher reported that PhAB
+`continues to sell well and be used widely, particularly by specialist teachers and clinical
+practitioners.' It was also reported that a major North American publisher was interested in
+publishing PhAB for North America. A second edition of PhAB was commissioned in July 2011.
+
+ImpactSummary
+
+Research on impairments in phonological skills underlying developmental dyslexia was
+instrumental in producing a major change in assessment practice for children with dyslexia, in
+particular for bilingual children who were previously significantly under-diagnosed. The assessment
+instrument developed, the Phonological Assessment Battery (PhAB), was the first such measure
+available to educational practitioners in the UK. Widely recommended in professional guidance, it
+remains the most commonly used phonological instrument by educational psychologists and
+teachers nationally. It has been used with nearly 38,000 children around the world in the period
+2008-13 and a second edition is currently in preparation.
+
+UnderpinningResearch
+
+A programme of research led by Professor Uta Frith at UCL during the 1990s investigated the
+phonological basis of developmental dyslexia, in particular with regard to dyslexia assessment and
+bilingual populations [1, 2]. Ground-breaking research with neuroimaging researcher Eraldo
+Paulesu (Milan) and developmental psychologist Maggie Snowling (York at that time)
+demonstrated that such adults show a distinctive pattern of brain activation when carrying out
+phonological tasks [3]. Connectivity between anterior and posterior language areas was found to
+be much weaker for them in comparison with matched controls who had shown typical reading
+development as children. The discovery of a neurobiological basis for dyslexia impacting on
+phonological processing suggested that the different manifestations of dyslexia across different
+languages may primarily relate to differences in the challenges for dyslexic learners of differences
+in the consistency of their orthographies.
+Cross-linguistic studies conducted with Heinz Wimmer and Karin Landerl compared German and
+English children, both with dyslexia and typically developing. As predicted, the same underlying
+phonological processing deficit was identified in both the English and German dyslexic groups. In
+both cases children learning to read in English, the less consistent of the languages, performed
+more poorly than the children learning to read in German [4, 5]. This work was extended to Italian
+and French speaking and dyslexics. This established a universal neurophysiological basis for the
+underlying phonological difficulties in dyslexia while, at the same time, behavioural signs of
+dyslexia differed in the 3 languages. Italian dyslexic readers were able to read accurately, if slowly,
+but showed the same phonological processing problems as English dyslexics.
+The impact of this work, as described in this case study, was crucially dependent in addition on a
+programme of translational research that was established alongside Professor Frith's basic
+research programme. A Research Seminar Group at UCL met at UCL between September 1992
+and July 1995, led by Professor Frith, Professor Norah Frederickson, Director of the Educational
+Psychology training programme at UCL (an expert in assessment practice in educational
+psychology) and Dr Rea Reason of Manchester University (an educational psychologist with
+expertise in teaching children who have dyslexia). An invited group of researchers and
+practitioners was assembled with the explicit aim of translating the ongoing programme of research
+at UCL into practice. The other members of the Research Seminar group were: Peter Brooks
+(Helen Arkell Dyslexia Centre), Tim Bunn (Leicestershire LEA), Tony Cline (Educational
+Psychology Group, UCL), Ann Forrester (Tameside LEA), Dr Alison Gallagher (MRC Cognitive
+Development Unit, UCL), Simon Gibbs (Cleveland LEA), Dr Andy Miller (University of Nottingham),
+Diana Walton (Hackney LEA) and Jo Wilson (Buckinghamshire LEA).
+In 1995 a research edition of the Phonological Assessment Battery (PhAB) was produced and an
+edition of the practitioner journal Educational and Child Psychology (Volume 12, number 1), guest
+edited by Norah Frederickson and Rea Reason and authored by members of the Research
+Seminar Group, was devoted to the phonological assessment of dyslexia and the development of
+the five subtests which comprise PhAB. The first article by Uta Frith applied the causal modelling
+approach of Morton and Frith (then in press in Cicchetti &amp; Cohen), in explaining the basic research
+findings and their implications for practice. In parallel to Professor Frith's basic research on
+dyslexia in monolinguals and bilinguals, applied research was undertaken on the use of PhAB with
+dyslexia and bilingual children, which was incorporated in the manual of the Standardised Edition
+of PhAB, which published by NFER-Nelson (now Granada Learning) in 1997, following a national
+standardisation by NFER.

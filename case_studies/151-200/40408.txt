@@ -1,0 +1,223 @@
+CaseStudyId: 40408
+Title: 
+    Improving the quality of care of people with and at risk of
+      cardiovascular
+      diseases
+    
+
+ImpactDetails
+
+    The research of Hemingway's group has directly informed national and
+      international public health
+      policy, clinical guidelines and the development of underpinning methods
+      which have subsequently
+      been implemented and have had an important impact on the healthcare and
+      health of the UK and
+      international populations, and our capacity for carrying out research for
+      patient benefit.
+    Clinical investigation of patients with suspected or confirmed
+        coronary disease
+    Since the early post-war period the exercise electrocardiogram (ECG) has
+      been the most widely
+      performed diagnostic test for stable angina. In March 2010, however, NICE
+      guidelines on Chest
+        pain of recent onset (CG95) recommended the following: "Do not
+        use exercise ECG to diagnose or
+        exclude stable angina for people without known CAD". Hemingway was a
+      member of the Guideline
+      Development Group and his research is cited 16 times in the guideline [a].
+      This has led to one of
+      the most significant changes in the diagnostic pathway of patients with
+      suspected stable angina for
+      decades. In the light of recent evidence showing the modest incremental
+      value for exercise ECG &#8212;
+      the strongest contemporary UK evidence coming from our research &#8212; NICE
+      made this bold
+      recommendation, which has subsequently been implemented.
+    This recommendation has since gone on to change clinical practice. For
+      example, an analysis of
+      diagnostic testing at the Newcastle Rapid Access Chest Pain Clinic in 2011
+      reported that: "The
+        proportion of the study population before and after the guidelines
+        undergoing exercise testing was
+        50.1% vs 0.0%; for calcium score/CT coronary angiography 0.0% vs 14.7%;
+        for functional imaging
+        25.6% vs 13.4%; and for invasive coronary angiography 15.3% vs 25.8%.
+        The proportion not
+        requiring further testing was unchanged (30.0% vs 31.0%)" [b].
+      An analysis from the Royal Derby
+      Hospital in 2013 reported that "implementation of the 2010 NICE
+        guidance...resulted in a greater
+        proportion of initial discharge to primary care with less frequent
+        outpatient review and similar rates
+        of referral for coronary angiography" [c].
+    CG95 also made recommendations based on our research on sex and ethnicity
+      in angina pain.
+      The guideline recommended: "Do not define typical and atypical features
+        of anginal chest pain and
+        non-anginal chest pain differently in men and women" (recommendation
+      1.3.3.2) and "Do not
+        define typical and atypical features of anginal chest pain and
+        non-anginal chest pain differently in
+        ethnic groups" (recommendation 1.3.3.3). These two recommendations
+      (arising from ref. 5 above)
+      for the first time make an unequivocal statement to clinicians that
+      typical anginal pain does not
+      differ by sex and ethnicity. This is important because it has previously
+      been used as a post-hoc
+      justification of why rates of procedure use might differ between these
+      groups.
+    Treatment of patients with angina
+    From the perspective of the patient, or the health system payer, one of
+      the most significant
+      decisions taken among patients with angina relates to the mode of
+      revascularisation (coronary
+      artery bypass graft [CABG] or percutaneous coronary intervention [PCI]).
+      Our work was cited ten
+      times in the NICE guidelines on Management of stable angina
+      (CH126) issued in July 2011 and
+      directly influenced recommendations, all of which were `Key priorities for
+      implementation' [d].
+    First, `When either procedure would be appropriate, explain to the
+        person the risks and benefits of
+        PCI and CABG for people with anatomically less complex disease whose
+        symptoms are not
+        satisfactorily controlled with optimal medical treatment. If the person
+        does not express a
+        preference, take account of the evidence that suggests that PCI may be
+        the more cost-effective
+        procedure in selecting the course of treatment.'
+    Second, `When either procedure would be appropriate, take into account
+        the potential survival
+        advantage of CABG over PCI for people with multivessel disease whose
+        symptoms are not
+        satisfactorily controlled with optimal medical treatment and who have
+        diabetes or are over 65 years
+        or have anatomically complex three-vessel disease, with or without
+        involvement of the left main
+        stem.'
+    Our published unique `real world' cost and outcome data highlighted the
+      prevalence of patients
+      who are judged appropriate for both forms of revascularisation (refs [1]
+      and [3] above) and
+      underpinned to specification of these recommendations. Our UK evidence
+      base added to that
+      internationally has led to a slowing in the rate of increase of PCI for
+      stable coronary disease.
+    Co-existing depression among people with myocardial infarction
+    Our systematic reviews and meta-analyses of the role of depression in the
+      prognosis of coronary
+      disease have contributed in part to recommendations in European guidance
+      on the need to assess
+      psychosocial factors in these patients. Hemingway contributed to the 2007
+      guidelines on
+      cardiovascular disease prevention in clinical practice from European
+      Society of Cardiology, and the
+      most recent (2012) guidelines directly cite our work in support of the
+      identification of depression as
+      a specific risk factor in CVD [e]. These are the strongest
+      recommendations to date that clinicians
+      might consider psychosocial factors in addition to the better recognised
+      behavioural and biological
+      factors.
+    
+ImpactSummary
+
+    Research led by Professor Harry Hemingway at UCL on the quality and
+      outcomes of care of
+      people with, or at risk of, cardiovascular diseases has informed
+      guidelines and clinical
+      management in a number of areas. The work influenced NICE guidelines on Chest
+        pain of recent
+        onset (CG95) with regard to the use of exercise electrocardiography
+      (ECG) in the diagnosis of
+      stable angina and approaches to sex and ethnicity in diagnosis. Our
+      research also underpinned
+      recommendations on revascularisation in the NICE guidelines on Management
+        of stable angina
+      (CH126). Additionally, the research has led to recommendations about the
+      need to assess
+      psychosocial factors including depression in people with myocardial
+      infarction.
+    
+UnderpinningResearch
+
+    Clinical practice in cardiovascular medicine does not necessarily keep
+      pace with evidence-based
+      recommendations. Beginning in 1994, Hemingway led a prospective study of
+      consecutive patients
+      undergoing coronary angiography at three London hospitals. Previous
+      studies had suggested that
+      `appropriateness' might offer a missing link in optimising clinical
+      practice with evidence-based care,
+      for several inter-related reasons. However, it was unknown whether these
+      ratings of
+      appropriateness for coronary revascularisation or coronary angiography
+      were valid in terms of
+      clinical outcomes. Among consecutive `real world patients' we hypothesised
+      that people who were
+      appropriate for a procedure but who did not receive it (underuse) would go
+      on to experience worse
+      outcomes. Ours was the first (and still among the few) studies to
+      prospectively test, and confirm,
+      this hypothesis [1].
+    Our appropriateness studies allowed us to go beyond clinically na&#239;ve but
+      widely published crude
+      differences in rates of procedures e.g. between ethnic minorities, women
+      and men (which are to be
+      expected based on well known differences in the epidemiology of coronary
+      disease) to assess
+      whether procedure rates are clinically fair. What we demonstrated was that
+      there was little
+      evidence that South Asians had clinically important (in terms of death and
+      heart attack risk)
+      differences from the rest of the population in appropriateness for
+      revascularisation [2].
+    We used a novel method to address the clinically important decision
+      arising when revascularisation
+      with both coronary artery bypass grafting (CABG) and percutaneous coronary
+      intervention (PCI)
+      are considered clinically appropriate. Based on our formally-defined
+      appropriateness criteria, and
+      long-term follow up (five years) we demonstrated the cost-effectiveness of
+      revascularisation with
+      CABG, but showed that revascularisation with PCI was not cost effective [3].
+      These results were
+      subsequently demonstrated (among selected patients) in randomised trials.
+    We exploited linked electronic health records in primary care in Finland
+      to provide the first large-scale
+      evidence that stable angina has a considerably higher incidence than
+      myocardial infarction
+      and affects women and men with similar incidence risks. Furthermore,
+      stable angina in women,
+      among easily identifiable clinical subgroups, has similarly high absolute
+      rates of prognostic
+      outcomes compared with men [4].
+    Between 1996 and 2002 we investigated the role of exercise
+      electrocardiography in the initial
+      evaluation of people with suspected stable angina and found that it
+      contributed little new prognostic
+      information beyond simpler clinical measures [5].
+    Our systematic reviews and meta-analyses since the late 1990s have tested
+      the long-held clinical
+      impression that social and psychological factors might influence outcome
+      in coronary disease.
+      Most recently, in a systematic review looking at depression in particular,
+      we found some evidence
+      that depression may be important but also identified the need for
+      methodological improvements in
+      the research [6].
+    Our research has led to the establishment of the Farr Institute of Health
+      Informatics Research,
+      funded to a total of &#163;9.3m from 10 UK funders (including MRC, Wellcome
+      Trust, NIHR, British
+      Heart Foundation.) We have also established the National Institute of
+      Cardiovascular Outcomes
+      Research, with &#163;5.3m funding to curate and exploit quality registries for
+      acute coronary syndromes
+      and other cardiac conditions.
+    Key academic co-investigators involved in the research include: Professor
+      Gene Feder (initially
+      QMUL, Bristol since 2009), Professor Adam Timmis (QMUL), Professor Douglas
+      Altman (Oxford).
+    

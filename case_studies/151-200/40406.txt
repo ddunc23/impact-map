@@ -1,0 +1,152 @@
+CaseStudyId: 40406
+Title: 
+    Study A leads to changes in Tuberculosis treatment guidelines
+    
+
+ImpactDetails
+
+    TB is a major health problem, with 9.4 million new cases and 1.7 million
+      deaths in 2009 [a]. WHO guidelines issued in 2003 [b]
+      recommended a regimen of daily ethambutol, isoniazid, rifampicin and
+      pyrazinamide for 2 months, followed by ethambutol and isoniazid for 6
+      months (2EHRZ/6HE) as one of the category 1 regimens for the treatment of
+      drug sensitive M Tuberculosis. However, that regimen had not been
+      evaluated in a randomised controlled trial. Study A found that this
+      regimen was clearly inferior to a regimen with the same 2-month intensive
+      phase, followed by 4 months of isoniazid and rifampicin.
+    The results of Study A were published in 2004. It took several years for
+      the results of the research to change international guidelines, perhaps
+      partly because the results were disappointing to international agencies,
+      who would have preferred not to use rifampicin after the initial intensive
+      phase of treatment because of the risk of acquired resistance to this drug
+      in patients who failed treatment. However, eventually the results did
+      begin to influence international policy, as they provided evidence that
+      filled an important gap in knowledge of how to treat TB.
+    In 2006 the International Standards for Tuberculosis Care cited the Study
+      A results [c], and recommended 2EHRZ/4HR as the preferred
+      treatment regimen, but that 2EHRZ/6HE could be used where adherence
+      through the continuation phase cannot be assessed. It was considered to be
+      of particular relevance for the developing world, where the majority of
+      people with active TB live.
+    Study A was included in an influential 2009 meta analysis, which said "The
+        most important finding of this review is that all three treatment
+        outcomes were significantly worse with regimens that used rifampin for
+        the first 1-2 mo rather than throughout therapy. This finding adds
+        considerable weight to similar findings by Jindani and colleagues, who
+        compared regimens containing 2 mo versus 6 mo of rifampin" [d].
+    Eventually, in 2010, the WHO guidelines were updated in a periodic review
+      [e]. This involved carrying out a systematic review of the
+      evidence, which included the results from Study A, which were graded as
+      the most convincing of the available evidence. One of the principal
+      investigators of the trial (Professor Andrew Nunn) was a member of the
+      expert advisory group which helped to develop the new guidelines. The new
+      WHO guidelines included the recommendation that "New patients with
+        pulmonary TB should receive a regimen containing 6 months of rifampicin:
+        2EHRZ/4HR". Indeed, the foreword states the importance of this
+      change: "The World Health Organization's Stop TB Department has
+        prepared this fourth edition of Treatment of tuberculosis: guidelines,
+        adhering fully to the new WHO process for evidence-based guidelines.
+        Several important recommendations are being promoted in this new
+        edition.
+    First, the recommendation to discontinue the regimen based on just 2
+        months of rifampicin (2HRZE/6HE) and change to the regimen based on a
+        full 6 months of rifampicin (2HRZE/4HR) will reduce the number of
+        relapses and failures. This will alleviate patient suffering resulting
+        from a second episode of tuberculosis (TB) and conserve patient and
+        programme resources."
+    WHO guidelines are very influential for national TB policy, particularly
+      in African countries, which face a high burden of TB. A survey of national
+      tuberculosis policymakers found that WHO was an important and frequent
+      source of information to inform TB policymaking in Africa. This means that
+      the WHO recommendation, based on Study A, has influenced which TB
+      treatment regimens are used in many countries. National guidelines for TB
+      have been updated to refect the new treatment regimes including Ethiopia,
+      South Africa, and Zimbabwe [f]. Routine data collected by WHO
+      shows that in 2011, 196 out of 206 countries reported using the 6 month
+      regimen with rifampicin throughout for new TB patients. The number of new
+      TB cases (excluding multi-drug resistant TB) in these 196 countries
+      totalled 7,883,245 in 2011, so the results of Study A have had a
+      wide-reaching impact (although it should be noted that not all of these
+      countries were previously using the 8 month regimen) [g].
+    From the perspective of these eight million patients, the 2EHRZ/4HR has
+      several benefits over the previous 8-month regimen. As well as reducing
+      the number of people who have unfavourable outcomes and require
+      retreatment, it also reduces the inconvenience of attending for treatment
+      (whether fully supervised or not) and reduced the time in which they were
+      exposed to toxic drugs.
+    National Ministries of Health have benefited from the research, as the
+      2EHRZ/4HR patient kit is US$ 4-10 less expensive than the 2EHRZ/6HE
+      patient kit [d]. Reducing the number of people requiring
+      retreatment also reduces costs. This allows more people to be treated with
+      the available (limited) resources.
+    It is difficult to determine the exact impact Study A's finding have had
+      in reducing unfavourable outcomes. However if we assume that the reduction
+      of relapses and treatment failures is the same in real life as in the
+      trial, and that around 7.9 million people were treated with the 2EHRZ/4HR
+      regimen in 2011, then the impact of Study A in that year alone was to
+      prevent over 400,000 relapses and failures, compared to if those people
+      had been treated with the eight month regimen. However, the actual number
+      of relapses prevented directly due to Study A is likely to be lower than
+      this, as not all countries were previously using the 8 month regimen, and
+      some of those countries that did change may have done so for other
+      reasons.
+    
+ImpactSummary
+
+    Prior to the change in WHO recommendations which occurred following this
+      study many patients in Africa and other developing countries were
+      receiving an inferior regimen for the management of tuberculosis, a
+      consequence of which meant that many had to be retreated. Since the
+      implementation of the revised WHO Guidelines in 2010 almost all countries
+      have now switched to the gold standard tuberculosis treatment regimen
+      based on 6 months of isoniazid and rifampicin
+    
+UnderpinningResearch
+
+    Study A was a multi-centre randomised controlled trial testing two
+      8-month regimens (one of which was recommended in international guidelines
+      at the time) against the gold standard 6-month regimen for treatment of
+      newly diagnosed pulmonary tuberculosis. The trial was sponsored by the
+      International Union Against Tuberculosis and Lung Disease (IUATLD) and
+      involved 1,355 patients from eight centres in Africa and Asia. This was
+      the first TB trial to utilise a non-inferiority trial design.
+    From 1993 onwards WHO recommended an 8-month regimen without rifampicin
+      in the maintenance phase, in preference to a 6-month regimen with
+      rifampicin throughout. WHO guidelines (issued in 2003) recommended a
+      regimen of daily ethambutol, isoniazid, rifampicin and pyrazinamide for 2
+      months, followed by ethambutol and isoniazid for 6 months (2EHRZ/6HE).
+      However, that regimen had not been evaluated in a randomised controlled
+      trial. Study A compared that regimen with a 6-month regimen with the same
+      initial intensive phase as the first regimen, followed by four months of
+      daily rifampicin and isoniazid (2EHRZ/4HR).
+    Study A demonstrated that the WHO-recommended 2EHRZ/6HE regimen was
+      clearly inferior to the 2EHRZ/4HR regimen [1]. 12 months after the
+      end of chemotherapy 10.4% treated with 2EHRZ/6HE had unfavourable
+      outcomes, compared to only 4.9% of those treated with 2EHRZ/4HR. At 30
+      months the failure/relapse rates were 11.7% of those treated with
+      2EHRZ/6HE and 6.0% of those treated with 2EHRZ/4HR [2]. The study
+      was carried out between March 1998 and June 2004 and the results 12 months
+      after stopping treatment were presented at the IUATLD meeting in Montreal
+      in October 2002, and were published in 2004 [1]; the 30 month
+      follow-up results were published in 2011 [2].
+    Key researchers and the positions they held at the time of the
+        research
+    The International Union Against Tuberculosis and Lung Disease is a long
+      established NGO working to support national tuberculosis programmes
+      world-wide. Its mission is to bring innovation, expertise, solutions and
+      support to address health challenges in low- and middle-income
+      populations. The IUATLD conceived the trial and invited Andrew Nunn at the
+      MRC Clinical Trials Unit (MRC CTU) to be an investigator because of his
+      long-standing involvement in TB clinical trials, as he had been
+      statistician for previous practice-changing trials. The MRC CTU took the
+      lead in statistics, in the non-inferiority design of the study, in the
+      interim analyses for the Data Monitoring Committee and analyses for the
+      published findings. Andrew Nunn was also closely involved in the writing
+      of the papers for publication. IUALTD chose to work with MRC CTU because
+      of the Unit's expertise in trial design and statistical analysis.
+    Dr Amina Jindani and Professor Donald Enarson were both employed by the
+      IUATLD, Professor Enarson as the Scientific director, Dr Jindani was the
+      chief investigator on the study; Professor Andrew Nunn who was at that
+      time Head of Division Without Portfolio, MRC Clinical Trials Unit, was the
+      senior statistician.
+    

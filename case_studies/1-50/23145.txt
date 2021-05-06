@@ -1,0 +1,208 @@
+CaseStudyId: 23145
+Title: 
+    Inclusion of flexible sigmoidoscopy in the UK Bowel Cancer Screening
+      Programme
+    
+
+ImpactDetails
+
+    The major impact of the research has been the implementation of Flexible
+      Sigmoidoscopy as a
+      single examination at age 55 as part of the National Bowel Cancer
+      Screening Programme.
+      Following the publication of the trial outcomes in the Lancet in April
+      2010, and the results of the
+      successful pilot programme in the Journal of Medical Screening in June
+      2010, the Prime Minister
+      David Cameron announced in October 2010 that once-only FS screening would
+      be included in the
+      NHS National Bowel Cancer Screening Programme. &#163;60m was pledged over the
+      next four years to
+      introduce this latest cancer screening technology, with estimates that
+      flexible sigmoidoscopy could
+      save 3,000 lives a year [a]. Then Health Secretary, Andrew Lansley
+      announced that pilot schemes
+      for the new screening programme would begin in spring 2011 [b],
+      subject to approval by the UK
+      National Screening Committee [c].
+    The existing NHS Bowel Cancer Screening Programme is based on biennial
+      faecal occult blood
+      testing using the guaiac-based test (gFOBT), with an immunochemical test
+      (iFOBT) being piloted
+      in 2014. An `options appraisal' of colorectal cancer (CRC) screening
+      modalities commissioned by
+      the NHS Cancer Screening Programme in 2004 from SCHARR (University of
+      Sheffield School of
+      Health and Related Research) had used the baseline data from the FS trial,
+      and concluded that FS
+      screening was likely to be highly cost-effective compared with other
+      methods because it reduced
+      incidence of CRC and therefore the costs of the programme would be likely
+      to be offset by a
+      substantial reduction in the costs of treatment. SCHARR repeated the
+      analysis in 2012 using the
+      full FS trial outcome data and concluded that: `For a strategy of
+        one-off FS screening, the optimal
+        effectiveness (QALYS) is achieved with a one-off FS screen in the age
+        range 55-60. The most
+        cost-effective strategy was FS at age 55 followed by biennial iFOBT
+        screening for ages 56-74,
+        irrespective of whether the comparator was the current screening
+        programme of biennial gFOBT
+        60-74 or no screening. This strategy was associated with the greatest
+        net monetary benefit and
+        also the greatest reduction in CRC incidence, CRC mortality and CRC
+        treatment costs'. The report
+      also concluded that `it may be cost-effective to spend considerable
+        resources on increasing
+        screening awareness' which has been a parallel focus of our
+      research, with a particular emphasis
+      on promoting awareness in order to reduce socioeconomic disparities in CRC
+      screening uptake
+      [d]. Professor Wardle now has programme grant funding from NIHR
+      trial for a trial (ASCEND) of
+      methods to reduce socioeconomic disparities in CRC screening uptake as
+      Co-PI with Professor
+      Rosalind Raine (also UCL).
+    In January 2011, the Department of Health's document Improving
+        Outcomes: A Strategy for
+        Cancer set out the plans for FS screening [e].
+      Implementation of the FS programme began in early
+      2011, with three `pathfinder' screening sites set up to finalise the
+      invitation and organisation
+      procedures [f]. One of the centres explored a novel method of
+      invitation, but the conclusion from
+      the 4,022 invitations across the three sites was that the invitation
+      system Wardle and her team had
+      developed in the FS Trial and applied in the Demonstration Pilot
+      (comprising a `flyer' giving brief
+      information about the programme, followed by a dated and timed invitation
+      that could be confirmed,
+      changed or cancelled, followed by a self-administered enema with detailed
+      information about the
+      test), was likely to be most successful.
+    Plans are now finalised for national implementation, and six sites began
+      screening between March
+      and July 2013 to finalise invitation procedures and patient information
+      materials [g]. Professor
+      Wardle's group has been commissioned to carry out real-time audits of
+      uptake, patient-reported
+      outcomes 24 hours after the test, and patient satisfaction at 12 weeks
+      when any follow-up
+      procedures should be completed, in the starter sites. This will allow
+      rapid identification of any
+      problems and make it possible to implement small modifications to optimise
+      procedures in advance
+      of the national rollout.
+    To the end of July, around 2,220 people had received FS screening between
+      the pathfinder and
+      starter sites. Data from the FS trial indicated that one colorectal cancer
+      diagnosis is prevented for
+      each 191 people screened. So even with the small number of people screened
+      so far, it is likely
+      that 11 of these terrible diagnoses have been prevented [h].
+    
+ImpactSummary
+
+    Our evidence that a single flexible sigmoidoscopy (FS) dramatically
+      reduced bowel cancer
+      mortality and incidence, combined with evidence of high public
+      acceptability in our pilot
+      programme, led the Prime Minister to announce in late 2010 that once-only
+      FS would be included
+      in the UK National Bowel Cancer Screening Programme. The new FS screening
+      programme
+      started in March 2013 in six pilot centres, and is being progressively
+      implemented nationally, with
+      full roll-out expected by 2016. All eligible adults will be invited for
+      screening around the time of
+      their 55th birthday using the invitation and bowel preparation
+      protocols developed for the trial. If
+      uptake rates similar to those in the pilot are achieved, bowel cancer
+      rates could be cut by a
+      quarter, and deaths by a third, giving the UK the best colorectal cancer
+      (CRC) outcomes in the
+      world.
+    
+UnderpinningResearch
+
+    Colorectal cancer (CRC) is the second most common cause of cancer death,
+      and among the most
+      feared cancers because of the effects of surgical treatment. Professor
+      Jane Wardle from the
+      Department of Epidemiology and Public Health at UCL has a long-standing
+      collaboration with
+      Professor Wendy Atkin (Imperial) to evaluate the potential of flexible
+      sigmoidoscopy (FS) to
+      prevent CRC through finding and removing pre-cancerous adenomas.
+    The natural history of CRC suggested that a single FS examination in the
+      age range when
+      adenomas are likely to have developed, but before CRC incidence starts to
+      rise, could provide
+      protection for 10-25 years. With Professor Atkin and colleagues, Professor
+      Jane Wardle
+      developed and piloted screening and pathology protocols, quality control
+      procedures, patient
+      management systems, patient information materials, and invitation
+      protocols, which included
+      pioneering the use of a mailed, self-administered enema to be carried out
+      at home before the test.
+      The trial team then carried out pilot studies of FS screening in
+      asymptomatic 55-64 year olds in
+      Welwyn Garden City and Leicester. The results demonstrated that FS could
+      be safe and
+      acceptable, and the yield of neoplasia suggested there would be a
+      significant impact on CRC
+      incidence [1].
+    The success of the pilot studies led onto the main randomised controlled
+      trial in which almost
+      400,000 adults around the UK were randomised either to be invited for FS
+      screening at their local
+      hospital or to usual care, using a novel, two-stage invitation procedure
+      which allowed us to make a
+      robust estimate of efficacy [2]. Baseline findings revealed high
+      rates of pre-malignant adenomas,
+      most of which were low risk and could be safely removed during FS. Rates
+      of referral for
+      colonoscopy were manageable (around 5%), with evidence that the risk of
+      harm from the test was
+      low [3]. Professor Wardle was responsible for the psychosocial
+      elements of the trial and showed
+      that uptake and acceptability were high in both men and women, and the
+      psychological impact was
+      favourable [4]. After 11 years of follow-up for cancer
+      registrations and deaths, intention-to-treat
+      analyses showed a 23% reduction in incidence and a 31% reduction in
+      mortality, with per-protocol
+      analyses (attenders vs controls) showing a 33% reduction in incidence and
+      43% reduction in
+      mortality [5]. Incidence of distal colorectal cancer (rectum and
+      sigmoid colon), the secondary
+      outcome of the trial, was reduced by half. These were the best results
+      ever reported in a cancer
+      prevention trial, and the progressive divergence in incidence and
+      mortality curves between
+      screened and control groups indicates prolonged and continuing protection.
+    In the meantime, Professor Wardle had been commissioned by the National
+      Cancer Screening
+      Committee to set up a `demonstration' study of an FS screening programme
+      in a socio-economically
+      and ethnically diverse area of North London, with FS carried out by nurse
+      endoscopists. In collaboration with Professor Atkin, she modified the
+      trial procedures for a
+      population programme, and concurrently evaluated a range of methods for
+      promoting uptake. An
+      uptake rate of 55% was achieved in the pilot programme [6], and
+      patient-reported outcomes were
+      almost unanimously positive [7]. The Prime Minister announced in
+      2010 that FS screening would
+      be added to the National Bowel Cancer Screening Programme. Starting in
+      March 2013, a single
+      FS screening test will be offered to all adults aged 55. Professor
+      Wardle's group have been
+      commissioned to monitor uptake and patient-reported outcomes using methods
+      developed in the
+      trial. She is also collaborating in the continued follow-up of the FS
+      trial participants and they expect
+      to publish 15 year outcomes in 2014.
+    

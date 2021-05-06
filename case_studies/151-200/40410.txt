@@ -1,0 +1,165 @@
+CaseStudyId: 40410
+Title: 
+    Amyloidosis and acute phase proteins: world leading clinical service
+    
+
+ImpactDetails
+
+    The NHS National Amyloidosis Centre (NAC) established by Pepys and
+      Hawkins in 1999 is directly funded by the NHS to provide diagnostic and
+      clinical management services for the national caseload of patients with
+      amyloidosis [a]. Patient flow has increased uninterruptedly from
+      ~40 new patients in 1999-2000. Within the assessment period, annual
+      patient flow and NHS funding have increased from 1877 patient evaluations
+      / &#163;2,239,000 in 2008 to 3444 cases / &#163;5,356,000 in 2013 [b]. Since
+      2008, 2,950 new and 10,955 completed follow up assessments comprise ~70%
+      of all UK amyloidosis patients, representng the largest, most diverse
+      cohort of amyloidosis patients worldwide. Since 2012, the Centre has
+      provided an online amyloidosis genetic testing service for the UK [c].
+    Improving diagnosis. Our correction of the diagnosis of
+      amyloidosis (see [3,4]) in about 5% of new cases per year
+      underpins steady improvement in mortality and outcome measures. Combining
+      genetic and proteomic testing with refined immunohistochemistry has
+      increased definitive amyloid fibril typing, which is key for appropriate
+      treatment, from ~70% to ~98%.
+    Our development of CT-SPECT 123I-SAP imaging, as part of
+      2,100 total SAP scans p.a., enables evaluation of individual organ amyloid
+      load and localised amyloid deposits in non-visceral sites. We have
+      introduced CT-SPECT with 99mTc-DPD scintigraphy, repurposing
+      this diphosphonate bone tracer for diagnosis, typing and serial evaluation
+      of cardiac ATTR amyloidosis as outlined in [5], leading directly
+      to installation of a new NHS CT-SPECT suite in 2012, and new recurrent NHS
+      funding from April 2012 of &#163;250,000 p.a. Our sophisticated novel cardiac
+      MRI for evaluation of cardiac amyloidosis has won a further &#163;250,000 p.a.
+      of recurrent central NHS funding [b].
+    Improving disease staging and monitoring. Our further refinement
+      and validation of serum biomarkers for staging disease severity have been
+      adopted by pharma and academia in the first industry and academic Phase
+      III clinical trials of chemotherapy in AL amyloidosis [d,e].
+      Recommendations for treatment of AL amyloidosis with the
+      cyclophosphamide-bortezomib-dexamethasone chemotherapy regimen we reported
+      [8], and for the new response criteria we reported in [7]
+      have been adopted in April 2013 guidelines issued by The National
+      Comprehensive Cancer Network (NCCN), an alliance of the world's leading
+      cancer centres [f]. Consensus of experts on a modern framework for
+      clinical trial design and drug development in AL amyloidosis was agreed at
+      the first Roundtable on Clinical Research in Immunoglobulin Light-chain
+      Amyloidosis (AL), a meeting sponsored by the Amyloidosis Foundation
+      (Clarkston, MI, USA) in 2010, and published in 2012 [e].
+    Improving treatment and survival. Refined use of serum free light
+      chain measurements has greatly improved monitoring of responses to
+      chemotherapy in AL amyloidosis [2]. We have also demonstrated the
+      feasibility and limitations of solid organ transplantation in amyloidosis.
+      With careful selection, approximately 2% of patients receive an organ and
+      outcomes match those in general transplant registries; renal
+      transplantation in AL amyloidosis, the most serious type, has doubled
+      during the past 5 years. Almost all patients with AL amyloidosis attending
+      the Centre now benefit from combination chemotherapy regimens that include
+      the novel proteasome inhibitor agent, bortezomib. This and other new high
+      cost, high efficacy drugs, licensed in the past 6 years for treatment of
+      myeloma, are available on the NHS to almost all patients with AL
+      amyloidosis as a direct result of our published clinical research work [g],
+      which completely changed the chemotherapy paradigm. Enforcement of the
+      necessary funding was achieved in association with the British Society of
+      Haematology, the UK Amyloidosis Network (led by us) and crucially the
+      patient support charity, Myeloma UK. Survival of AL amyloidosis patients
+      under the care of the National Amyloidosis Centre has improved
+      substantially during the past 12 years: (NAC figures: 4 yr survival 2001-3
+      was 34%; 2004-7 was 38%; 2008-2012 was 50%).
+    The Centre's advances are rapidly disseminated to specialist centres and
+      collaborations internationally through scientific/medical publications,
+      international meetings and personal contacts. We established the UK
+      Amyloidosis Network (2009) attracting over 150 participants at the
+      February 2013 annual meeting [h], and the ONS-based epidemiology
+      study of amyloidosis incidence (~5-10 per million p.a. in England),
+      enabling clinical service development in the UK. We lately created the UK
+      Amyloidosis Awareness Group (UKAAG) with whom the NAC has developed a
+      comprehensive website [h, i] patient information literature and a
+      regular newsletter to enable patient and public engagement and promote
+      awareness of this rare disease. Myeloma UK have confirmed: "The recent
+        creation of UKAAG has been warmly welcomed and has given patients an
+        important platform to formally feed in their views about their treatment
+        and care. In particular the creation of a comprehensive website with
+        high-quality information about amyloidosis, that can be trusted 100%,
+        provides a great deal of comfort." [i]
+    The Centre has received charitable donations from patients, relatives,
+      friends and other supporters, as direct gifts and via wide ranging
+      charitable fund raising events organised entirely by donors, enabling
+      flexible support for new research and patient care initiatives in the
+      Centre for Amyloidosis and Acute Phase Proteins and National Amyloidosis
+      Centre; total funds donated are over &#163;1.2 million [j].
+    
+ImpactSummary
+
+    The UCL Centre for Amyloidosis and Acute Phase Proteins conducts
+      world-leading research and development that has rapidly fed through to
+      patient care. These include advances in the diagnosis of amyloidosis and
+      clinical characterisation of many new subtypes including genetic forms,
+      development and application of new biomarkers to monitor disease activity
+      and progress, new modalities of imaging and better treatment. The
+      consequences have been new standards of clinical care adopted nationally
+      and internationally, improved and more accurate diagnosis, steady
+      improvements in the outcomes of this disease, major investment by the NHS
+      and adoption of new clinical metrics by the pharmaceutical industry to
+      enable research on specific new therapies currently in development.
+    
+UnderpinningResearch
+
+    Amyloidosis is a disorder characterised by organ failure resulting from
+      the accumulation of protein as abnormal fibres. There are various types
+      notably including those arising as a result of long-standing inflammation
+      (AA amyloidosis) or secondary to a haematological malignancy, myeloma (AL
+      amyloidosis) or in association with ageing (ATTR amyloidosis). Highlights
+      of the extensive clinical research programme in amyloidosis at UCL that
+      have led to better management of these patients include:
+    Elucidation of the crucial precursor-product relationship in amyloid
+        fibrillogenesis, which underlies pathogenesis and thus treatment.
+      Seminal studies in unprecedentedly large patient populations with AA [1]
+      and AL [2] amyloidosis have demonstrated for the first time the
+      relationships between production of the amyloid fibril precursor proteins
+      serum amyloid A protein (SAA) and monoclonal immunoglobulin free light
+      chains (FLC) respectively with amyloid load and clinical outcome. These
+      studies not only systematically demonstrated the capacity for regression
+      of amyloid following treatment of underlying disorders, encouraging a
+      proactive approach to treat the underlying cause, but defined monitoring
+      of SAA and FLC concentration as standards of care in AA and AL amyloidosis
+      that enable treatment strategies to be guided by their early effect on
+      these accessible measurements.
+    Understanding of key aspects of hereditary amyloidosis. Until our
+      genetic study [3], hereditary systemic amyloidosis was thought to
+      be incredibly rare and to affect only a few dozen families worldwide. Most
+      affected patients either remained undiagnosed or were incorrectly assumed
+      to have AL amyloidosis resulting in needless and harmful chemotherapy. Our
+      study of 350 patients identified a hereditary cause in 10% of cases,
+      resulting in genetic testing being introduced in the NHS National
+      Amyloidosis Centre as a new standard of care. We have subsequently
+      identified more than 70 patients with hereditary renal amyloidosis, and
+      have characterised the phenotype, diagnostic pathway and role of organ
+      transplantation in this subtype [4].
+    Design and introduction of powerful new diagnostic imaging methods.
+      We invented 123I-serum amyloid P component scintigraphy in
+      1990 to image amyloid deposits in vivo, and during the past 5 years have
+      developed 3D high resolution dual modality CT-SPECT (single-photon
+      emission computed tomography) to enable accurate quantification and
+      characterisation of amyloid in non-visceral sites. We have also developed
+      99mTc-DPD scintigraphy to image cardiac amyloid deposits of
+      transthyretin (ATTR) type, repurposing this diphosphonate radionuclide
+      tracer to enable diagnosis and clinical assessment of elderly patients
+      with this hitherto very difficult to diagnose disorder. We were the first
+      group to systematically demonstrate the utility of cardiac magnetic
+      resonance imaging (CMR) in 2005 [5], and have subsequently
+      developed specific CMR methods to characterise and quantify cardiac
+      amyloid deposits of all types.
+    Major advances in monitoring of disease and therapy. We have led
+      and participated in major international collaborative studies that have
+      evaluated and defined the clinical utility of various biomarkers to stage
+      severity of disease [6] and monitor response to treatment [7]
+      in AL amyloidosis, the most common and serious type of the disease. These
+      findings have now been adopted throughout the world, both for specialist
+      clinical practice and in clinical trials. Our clinical studies of cyclic
+      multiple agent chemotherapy [8] have defined current best practice
+      for the majority of AL amyloidosis patients who are not fit enough to
+      undergo stem cell transplantation.
+    This research was led by Professor Philip Hawkins and Professor Sir Mark
+      Pepys of the UCL Centre for Amyloidosis and Acute Phase Proteins.
+    

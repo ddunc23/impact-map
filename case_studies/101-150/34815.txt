@@ -1,0 +1,129 @@
+CaseStudyId: 34815
+Title: 
+    Buccal midazolam: a novel treatment for generalised convulsive seizures
+    
+
+ImpactDetails
+
+    As a result of the underpinning research described above, buccal
+      midazolam has become the drug of choice for the treatment of status
+      epilepticus in the community, quoted in guidelines as part of the care
+      pathway for status epilepticus. It was included as first-line therapy in
+      the Advanced Paediatric Life Support (APLS) status epilepticus algorithm
+      for the first time in 2005 [a]. In the same year, the Scottish
+      Intercollegiate Guidelines Network recommended the same, citing our study
+      directly [b].
+    Both available pharmaceutical formulations of buccal midazolam have
+      arisen as a result of work conducted at UCL. The first, Epistatus
+      (midazolam maleate), was developed by Scott and Neville at ICH, and was
+      brought to market under a commercial licence agreement between UCL
+      Business and Special Products Ltd [c]. It has been employed
+      clinically for over 10 years, being manufactured under a `specials'
+      licence issued by the MHRA. The second, Buccolam (midazolam
+      hydrochloride), arose from work conducted at UCL School of Pharmacy and
+      resulted in the foundation of Therakind Limited, a spin-out company
+      designed to develop the product further. In 2010, a controlling
+      interest in Therakind was sold to ViroPharma Inc. [d], and in
+      2011, Therakind was granted a centralised Paediatric Use Marketing
+      Authorisation (PUMA) by the European Medicines Agency (EMA) for Buccolam
+      as a treatment of prolonged acute seizures in individuals 3 months to 18
+      years of age, the first of its kind [e]. The pharmacokinetic and
+      pharmacodynamic properties of Buccolam described within the EMA
+      application cite and rely upon the initial data generated on buccal
+      midazolam at the ICH [1, above] [f].
+    This authorisation has allowed distribution and access to Buccolam to the
+      one million children and adolescents with epilepsy in Europe. Importantly,
+      as Buccolam is a licensed product (unlike almost all other paediatric
+      prescriptions), it is easier to obtain as a repeat prescription in the
+      community rather than having to return to secondary or tertiary care &#8212; a
+      significant advantage for patients/caregivers.
+    In 2012, buccal midazolam was recommended in NICE Clinical Guideline 137
+      on Epilepsy as first line therapy for treating children, young people and
+      adults with prolonged or repeated generalised, convulsive seizures in the
+      community [g].
+    In addition to the inclusion in National Guidelines, buccal midazolam is
+      included in many local guidelines for treatment of status epilepticus in
+      the UK, for example North Bristol NHS Trust [h] and Great Ormond
+      Street Hospital [i] and in other parts of the world [j].
+      The charity Young Epilepsy report that: "Professor Scott's work on
+        buccal midazolam has fundamentally changed practice in the management of
+        status epilepticus. The research has led to the development of a new
+        product that has not only proven to be an effective drug therapy for
+        status epilepticus but also a more socially acceptable method of
+        administration" [k]. Buccal midazolam has now clearly
+      superseded rectal diazepam as the drug of choice for treating status
+      epilepticus in the pre-hospital setting [l].
+    Scott and colleague have worked with the charity Young Epilepsy to
+      develop training programmes for professionals and schools on all aspects
+      of epilepsy in children, including training packages for the
+      administration of emergency medication.
+    Benefits are not isolated to clinical metrics such as seizure termination
+      rate, requirement for hospital or intensive care admission. Patients and
+      their care-givers are afforded a higher quality of life through freedom of
+      activity, retention of dignity and security in the knowledge that they may
+      safely give/receive an effective treatment. The Scottish Medicines
+      Consortium approved buccal midazolam in Scotland in 2012 and estimated
+      that for the approximately 1,000 patients who will receive it annually
+      there would be a cost saving on the drugs budget of &#163;100,000 per annum [m].
+    
+ImpactSummary
+
+    As a direct result of work led by Professor Rod Scott and colleagues at
+      the UCL Institute of Child Health (ICH) midazolam, administered by the
+      buccal cavity, has become first-line therapy in the NICE pathway for
+      treating children, young people and adults with prolonged or repeated
+      generalised, convulsive seizures in the community. It also forms part of
+      the APLS guidelines. Buccal midazolam has demonstrated clinical
+      superiority over the previous paediatric standard of care (rectal
+      diazepam) with an equivalent safety profile and greater patient/social
+      acceptability. Its use is now widespread in Europe and the USA and a
+      licensed preparation is now available.
+    
+UnderpinningResearch
+
+    Convulsive status epilepticus (CSE), where epileptic seizures last at
+      least 30 minutes, is the commonest neurological medical emergency in
+      childhood and is associated with significant morbidity and mortality. For
+      many years, a rectal preparation of diazepam was the most commonly
+      recommended treatment for this condition, but this route was unacceptable
+      to many parents and carers and was associated with treatment delay and
+      avoidance, increasing the risk of intensive care admission for treatment
+      of status epilepticus. As most seizures start in the community setting, a
+      safe, effective and socially acceptable agent that can be administered by
+      emergency medical technicians and parents/carers was required. We
+      therefore developed buccal midazolam as an alternative to rectal
+      diazepam
+    Our initial studies (1996-9) evaluated the pharmacokinetics and
+      pharmacodynamics of midazolam (midazolam maleate; a benzodiazepine)
+      administered via the buccal route, using blood sample and
+      electroencephalography (EEG)-based methods, and demonstrated both the
+      drug's easy absorption and rapid effect on the brain [1]. Once we
+      had determined the correct dose, we carried out a randomised controlled
+      trial comparing buccal midazolam with rectally administered diazepam. In
+      this study of 79 prolonged seizures in children with very severe epilepsy
+      in a residential school setting, we showed that buccal midazolam was at
+      least as effective as rectal diazepam, and was more socially acceptable [2].
+      Subsequent trials in Europe and Africa have confirmed our findings, and
+      have even demonstrated clinical superiority (seizure termination rate) to
+      rectal diazepam in certain circumstances, along with significantly quicker
+      administration and greater acceptability.
+    Our research has subsequently moved to exploring the epidemiology of
+      status epilepticus and whether status epilepticus can damage the brain. In
+      2002 we established the North London Convulsive Status Epilepticus in
+      Childhood Surveillance Study, in which we prospectively collected data on
+      the management of CSE in the community. We demonstrated a low pre-hospital
+      treatment rate (61%) for CSE, with termination of only 22% of episodes.
+      For each minute of delay from CSE onset to arrival at Accident and
+      Emergency, there was a 5% increased risk of seizures lasting &gt;60minutes
+      with attendant risk of adverse outcomes and requirement of higher levels
+      of care (intensive care) [3]. This work also confirmed that status
+      epilepticus is common and that the range of causes differs in children
+      when compared to adults [4].
+    In other research, we have shown that status epilepticus leads to
+      swelling of the hippocampus and that part of the brain subsequently fails
+      to grow as expected during childhood [5]. We have also shown that
+      status epilepticus is associated with learning difficulties and
+      difficulties with memory [6]. As at least part of these
+      difficulties result directly from the prolonged seizure, this work further
+      demonstrates the need for treatments such as buccal midazolam.
+    

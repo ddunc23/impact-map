@@ -1,0 +1,209 @@
+CaseStudyId: 30007
+Title: 
+    Development and transplant of human organs using nanocomposite
+        materials
+    
+
+ImpactDetails
+
+    Its work on next-generation biomaterials and development of the patented
+      POSS nanocomposite polymers allowed the UCL research team to bring the
+      first fully synthetic organ into the clinical setting. This has had a
+      transformative effect on organ development and replacement therapies and,
+      in turn, the outcomes for and wellbeing of patients around the world.
+    Introduction of new therapy: Although it is possible to surgically
+      resect tracheal tumours, most are already of an inoperable size by the
+      time of diagnosis. As such, the synthetic trachea addressed a pressing
+      clinical requirement for alternative therapeutic options. In 2011, a
+      patient with advanced tracheal cancer who had exhausted all existing
+      treatment options was referred to cardiothoracic surgeon Professor
+      Macchiarini at the Karolinska Institutet, Stockholm. In turn, Macchiarini
+      approached Seifalian for help. Seifalian used his POSS-PCU polymer [output
+      1] and knowledge of developing and seeding 3D scaffolds [output 4] to
+      manufacture the synthetic trachea implant, which consisted of a 12cm
+      trachea along with two bronchi &#8212; the largest such implant ever attempted
+      and the world's first wholly tissue-engineered synthetic organ
+        transplant [a,b]. By using the patient's CT scans, Seifalian was
+      able to model the implant on the exact dimensions of the patient's own
+      trachea, making implantation significantly easier. Mechanically, the
+      synthetic trachea had similar properties to a native organ, including
+      ring-like cartilage structures, with porous materials between them
+      allowing 15% stretchability. UCL's researchers developed a bioreactor for
+      the organ's development, which dripped the patient's own stem cells onto
+      the porous scaffold under physiological conditions in an incubator.
+      Because it used his own stem cells, there was no need for the patient to
+      take the immunosuppressive drugs required after donor transplants. The
+      trachea and bronchi were implanted in June 2011; more than two years on,
+      the patient has a functioning organ and is doing very well. Describing the
+      implantation and its effects, Professor of Laryngology at the Royal
+      National Throat, Nose and Ear Hospital said: "This is the first time that
+      a trachea made from a synthetic scaffold (here repopulated using stem
+      cells), has preserved life and quality of life for longer than a few
+      months...follow up is now 2.5 years" [c].
+    This was the first instance in which doctors had ever been able to
+      manufacture human organs using synthetic scaffolds, and then incorporate
+      autologous stem cells. As such, the work not only saved the life of the
+      patient in whom the synthetic trachea was implanted, but revolutionised
+        the development of organs more broadly. The success of previous
+      lab-generated transplants, which lined a decellularised donor trachea with
+      the patient's stem cells, had been limited by a number of problems that
+      Seifalian's trachea was able to overcome. These included the very real
+      difficulties of obtaining the necessary donor organs; even assuming that
+      these could be found, moreover, the decellularising is suitable only for
+      small sections of trachea, rather than an entire organ, and risks damaging
+      their underlying structure, leading to their collapse once they are
+      implanted in the patient. The danger of donor cells not being completely
+      removed produces a further, significant risk of prompting a potentially
+      serious immune system response in the organ recipient [c]. The
+      considerable comparative benefits of Seifalian's synthetic organ
+      development are explained by a Professor of Plastic Surgery at the Royal
+      Free Hospital, who explains that the POSS nanocomposite: "provides a
+      platform to create innovative solutions to reconstructive problems facing
+      military and civilian casualties. It has applications in many regions of
+      the body... It has the advantage of being a material that can be modified
+      to allow tissue integration or to reduce adhesion as well as being
+      biodegradable and non biodegradable" [g]. The global significance of the
+      contribution made by the synthetic trachea to organ development and
+      replacement was acknowledged by Seifalian's receipt of the "most
+      innovative new product" award at the 2012 Life Science Awards in Germany
+      [f].
+    The research has, moreover, been used to develop organs other than the
+      synthetic trachea. These include lacrimal (tear) ducts, which have
+      been implanted into five patients since September 2010. Without treatment,
+      patients whose tear ducts have had to be removed because of cancer or
+      trauma, would have constantly watering eyes, making effective replacement
+      imperative for those affected. The UCL tear duct conduit, which is made
+      from nanocomposite polymer and coated with silver nanoparticle, replaces
+      the previous standard therapeutic use of a glass tube to direct tears into
+      the nasal cavity, a practice with generally poor clinical outcomes and a
+      high risk of breakage. The surgeon who performed the surgery in several
+      patients reports that complications have been almost non-existent and tear
+      flow well-regulated [d]. The conduit was filed for patent in 2011 [h].
+    The UCL team has also developed the world's first bypass graft
+        capable of in-situ endothelialisation from the patient's own
+      endothelial progenitor stem cells in circulating blood. Bypass grafts can
+      be manufactured using a specially designed and developed automated
+      extrusion system, which produces grafts up to 100cm in length with a
+      diameter ranging from 1-16mm, suitable for replacing even long blood
+      vessels in legs. Vascular bypass grafts were carried out in two patients
+      in 2010 and 2011; both patients are doing well. POSS-PCU is a particularly
+      suitable material for cardiovascular devices because of its
+      anti-thrombogenicity and viscoelastic properties. In October 2013,
+      clinical trials of the use of this graft for coronary artery bypass began
+      at Heart Hospital London, and of vascular access at Royal Free Hospital.
+      [e]
+    Commercial impacts: UCL has used the research to develop more than
+      10 patents, with the POSS polymer granted a US patent in 2010 [j].
+      A number of other patents have been filed since 2008, including a heart
+      valve prosthesis made from POSS-PCU, and synthetic scaffolds and organ and
+      tissue transplantation [j]. Seifalian's POSS materials have also begun to
+      produce commercial benefits, with new businesses established to
+      commercialise the technology. These include SmartTech, set up in 2013 as a
+      joint venture with Pharmidex and Flexicare Medical, which is
+      commercialising the use of POSS-PCL for nerve regeneration and stents.
+      Another spinout business, Belsize Polymer, was also established in May
+      2013 in order to take organs including trachea, facial organs and breast
+      filler to clinical trial and commercialisation [j].
+    
+ImpactSummary
+
+    Researchers in UCL's Centre for Nanotechnology and Regenerative Medicine
+      have pioneered a transformative therapy using their platform technology of
+      next-generation nanocomposite biomaterials to create wholly synthetic
+      human organs for transplant, including the world's first synthetic
+      trachea, lacrimal (tear) ducts and bypass grafts. These products improve
+      patient outcomes in situations where conventional therapies have not
+      worked. Because the organs are functionalised with peptides and
+      antibodies, as well as seeded with the patients' own stem cells, patients
+      do not require immunosuppression. A university spinout company has been
+      set up to commercialise the use of UCL's patented nanomaterial for
+      cardiovascular devices as well as other organs.
+    
+UnderpinningResearch
+
+    Biomimetics involves the extraction and exploitation of biological design
+      principles found in nature. There is a close relationship between nano-,
+      micro- and macroscale structures and their chemical function in biological
+      systems. Macro-scale architectural mimicry attempts to replicate
+      biophysical properties such as 3D structure, and mechanical (elasticity,
+      strength) and surface (roughness) properties. At the micro- and
+      nano-scale, however, the focus of biomimicry is the biochemical and
+      nanotopographical replication of materials, enabling precise matching to
+      the structure and function of complex natural materials.
+    Since 2004, Alexander Seifalian (Professor of Nanotechnology and
+      Regenerative Medicine, UCL 1998-present) has led a multidisciplinary team
+      of physicists, materials scientists, engineers, biologists and clinicians
+      in work on biomimicry at UCL. The research team has used the approach
+      outlined above to generate a range of technologies for the development of
+      human organs. Taking its inspiration from natural structures such as
+      butterfly wings, the team seeks to mimic covalent nanostructures within a
+      polymer matrix. The Morpho butterfly's wings, for example, are
+      superhydrophobic due to nanoscale surface roughness; replicating this
+      quality in a biomaterial can help inhibit infection after surgery.
+    In 2005, Seifalian developed and patented two novel non-biodegradable and
+      bioabsorbable nanocomposite polymers based on the integration of the
+      nanocage, polyhedral oligomeric silsesquioxane (POSS) (core structure 1.5
+      nm), into a backbone of poly(carbonate-urea)urethane (PCU) [1]. In further
+      extensive studies conducted (under good laboratory practice [GLP] and god
+      manufacturing practice [GMP]) between 2007 and 2011, Seifalian performed in
+        vivo toxicology and biocompatibility testing with these POSS-PCU
+      nanocomposite materials. The research showed that the incorporation of
+      POSS with polyurethane protects the structure's flexibility and elasticity
+      from oxidative and hydrolytic degradation. Indeed, POSS-PCU was shown to
+      exhibit a range of properties making it a desirable material for organ
+      regeneration scaffolds: it is non-toxic, exceptionally biocompatible,
+      biostable, and supportive of the attachment and proliferation of various
+      cell types. POSS-PCU is particularly suited for cardiovascular
+      applications due to its oxidative and hydrolytic stability and inherent
+      ability to prevent blood clot formation. The concept of incorporating
+      POSS-PCU was subsequently used in synthesising `smart' scaffolds to
+      regenerate a multitude of organs and tissues, including for use in
+      paediatric patients.
+    The potential to deliver `smart' organ development scaffolds was expanded
+      further by the research team's production of the second polymer, POSS-PCL
+      (poly(caprolactone urea-urethane) [2]. A different member of the POSS
+      nanocomposite family, POSS-PCL is the bioabsorbable version of POSS-PCU.
+      Further research conducted at UCL demonstrated that, whilst POSS-PCL
+      shares POSS-PCU's inherent versatility, its better able to be fine-tuned
+      in terms of its stability: more specifically, it showed that the
+      degradation of POSS-PCL could be controlled using either hydrophilic
+      groups in the soft segment (polyester groups), or amino acids in the hard
+      segment of the polymer backbone. This finding allowed the research team to
+      control the rate of POSS-PCL degradation from 8 weeks to 12 months. The
+      implications of this discovery for organ development were significant,
+      since it meant that POSS-PCL could both be used to provide an initial 3D
+      scaffold to support cells, and would then degrade at the same pace as new
+      tissue formed. Different organs require varying levels of bioabsorbtion &#8212;
+      for example, skin needs 8 weeks while a nerve conduit slowly biodegrades
+      over 12 months. In children, this means that as the biological matrix
+      grows, the synthetic scaffolding materials can be gradually bioabsorbed
+      and replaced by biological material.
+    Using the nanocomposite polymer to create organs required Seifalian's
+      team to manufacture 3D scaffolds from it, functionalised with proteins and
+      peptides and/or seeded with stem cells. To this end, Seifalian conceived a
+      number of extrusion methods, including coagulation phase inversion [3],
+      casting, electrospinning, and 3D organ printing (bioprinting). His
+      research team used a series of bioreactors to study cell/tissue
+      development using stem cell technology. Further research into
+      nanoparticles, such as fume silica, quantum dots, and gold and silver
+      nanoparticles, allowed them to attach peptides and antibodies to the
+      scaffold, as well as to track stem cells and their differentiation [4].
+      Together, these developments enabled the manufacture of synthetic organs
+      specifically tailored for individual patients based on CT scans of their
+      native organs. Development focused on the production of synthetic trachea,
+      bypass graft, oesophagus and membrane patches.
+    Using these platform technologies, Seifalian's team implanted the world's
+      first synthetic trachea in 2011 [5]. They have also implanted the first
+      synthetic tear duct with silver-coated nanoparticle; vascular bypass
+      graft; and (as compassionate cases) nose and ear, which Seifalian plans to
+      take to clinical trial. In vitro and in vivo tests
+      conducted under GLP in 2012 showed that the grafts developed by the UCL
+      team performed much better than control grafts, made of PTFE
+      (polytetrafluoroethylene). Whilst all of the control bypass grafts became
+      blocked within the first 14 days after implantation, just 15% of the UCL
+      grafts suffered blockages over the nine-month period of the trials. Other
+      organs under development include a transcatheter heart valve and stents
+      for both for paediatric and adult patients (both at preclinical stage
+      under GLP) [6], as well as urethra bladder cardiac patch and bone, all of
+      which are still at R&amp;D stages.
+    

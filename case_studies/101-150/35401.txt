@@ -1,0 +1,126 @@
+CaseStudyId: 35401
+Title: 
+    Amyloidosis and acute phase proteins: development of new drugs and a new
+      approach to academia-industry collaboration
+    
+
+ImpactDetails
+
+    Pepys's drug discovery intellectual property portfolio, comprising more
+      than 20 granted patents [a], is held by the UCL spin out company,
+      Pentraxin Therapeutics Ltd, which he founded in 2001 [b]. The
+      company, created as a vehicle for commercialisation of the IP, was
+      initially funded exclusively by loans from UCL totalling more than &#163;1.5
+      million and has not sought external investment. It conducts its activities
+      entirely through its relationship with UCL and its external collaborations
+      and has no employees. In 2009 and 2010, Pentraxin licensed two of its drug
+      programmes to GlaxoSmithKline (GSK) in multi-million pound deals and is
+      developing them in close collaboration with GSK where several hundred
+      employees participate at various levels [c, d]. Pentraxin has
+      repaid all its loans from UCL and is now in profit with substantial
+      further milestone and royalty payments in prospect if programmes are
+      successful.
+    The most advanced programme, aiming to eliminate visceral amyloid
+      deposits, is the first in class obligate therapeutic partnership of CPHPC,
+      a small molecule drug, and a mouse monoclonal anti-human SAP antibody
+      which has been fully humanised by GSK. The first human patient studies are
+      now in progress and are progressing very well [d, e]. The
+      programme has been chosen by GSK as its flagship candidate for potential
+      adaptive licensing in the process being led by the MIT Centre for
+      Biomedical Innovation through its New Drug Development Paradigms (NEWDIGS)
+      initiative. There is a very strong movement towards streamlining and
+      improvement of the regulatory licensing pathway for new medicines so that
+      patients with unmet medical needs get access to novel treatments more
+      rapidly and more efficiently than at present. The UCL/Pentraxin/GSK
+      amyloidosis programme is in the vanguard.
+    GSK also licensed Pepys's IP covering compounds for treatment of
+      transthyretin amyloidosis and the programme has passed its initial
+      developability milestone. Typical industry costs for a drug development
+      programme to this stage are &#163;6-8 million.
+    The discovery and development of CRP inhibitors for myocardial
+      infarction, stroke, cancer cachexia and inflammatory diseases has been
+      supported by the MRC and BHF and has received expert guidance from GSK.
+    Work on SAP depletion by CPHPC for Alzheimer's disease has been supported
+      at the experimental level by the MRC. Via the UCLH/UCL BRC, the NIHR is
+      now funding preparatory work for the first clinical trial of CPHPC in
+      Alzheimer's disease, with GSK as major participants contributing crucially
+      to project management, funding and provision of their existing CPHPC
+      results. Furthermore GSK have an option to licence CPHPC for this
+      indication.
+    The transmission of drug discovery directly from a university into big
+      pharma is a very rare achievement, particularly across such a broad range
+      of different programmes. In 2011, GSK named Professor Pepys as the first
+      "academic superstar" in its programme to develop long term ongoing
+      partnerships with academia as part of its drug discovery programme [d,
+        f]. GSK has changed its R&amp;D model over the last 5 years,
+      including the creation of the Academic Discovery Partnership Unit and
+      Discovery Partnerships with Academia. The aim is to make the company more
+      productive, agile, and focussed on areas of scientific potential [g].
+    The Head of the Academic Discovery Partnership Unit at GSK confirmed the
+      ways in which close working with the UCL team has been important in
+      progress towards bringing a drug to market:
+    [Text removed for publication] [d].
+    
+ImpactSummary
+
+    The UCL Centre for Amyloidosis and Acute Phase Proteins has designed and
+      developed new chemical entities targeting serum amyloid P component (SAP),
+      C-reactive protein (CRP) and transthyretin, for novel therapeutic
+      approaches to amyloidosis, Alzheimer's disease, cardiovascular and
+      inflammatory diseases. The UCL spin out company, Pentraxin Therapeutics
+      Ltd, founded by Sir Mark Pepys to hold his intellectual property (IP), has
+      licensed two programmes to GlaxoSmithKline (GSK). These highly
+      synergistic, collaborative multi-million pound developments, strikingly
+      exemplify new working relationships between academia and the
+      pharmaceutical industry.
+    
+UnderpinningResearch
+
+    Elucidation by Pepys of the role of SAP in amyloidosis (1977-95) led to
+      his invention, in collaboration with Roche, of the bis D-proline drug,
+      CPHPC, which produces sustained depletion of circulating SAP by a novel
+      pharmacological mechanism, first demonstrated at UCL in the early 2000's [1].
+      Patients with systemic amyloidosis are significantly stabilised while
+      being treated with CPHPC but the drug does not remove all SAP from their
+      amyloid deposits and the amyloid does not regress [4]. These
+      observations led Pepys to invent the use of anti-SAP antibodies to target
+      residual SAP in the amyloid deposits of CPHPC treated subjects [5].
+      The antibodies trigger remarkable, clinically silent elimination of
+      visceral amyloid in experimental models, which has not previously been
+      achieved. GSK licensed the invention in 2009. They have conducted phase I
+      studies of CPHPC in healthy volunteers and amyloidosis patients, have
+      fully humanised Pepys's optimal mouse monoclonal anti-human SAP antibody,
+      and the first clinical trial of CPHPC plus antibody is currently in
+      progress, so far with no adverse effects.
+    SAP is universally present in human amyloid deposits, including the
+      cerebral and cerebrovascular amyloid deposits in Alzheimer's disease (AD).
+      SAP also binds to most neurofibrillary tangles. Brain content of SAP is
+      thus higher in AD than in normal subjects, and since SAP is directly
+      neurocytotoxic it likely contributes to neurodegeneration, in addition to
+      its role in amyloidogenesis. The complete removal of SAP from the
+      cerebrospinal fluid, by administration of CPHPC in Alzheimer's disease, is
+      thus an attractive therapeutic approach [3]. Experimental work has
+      been supported by the MRC and preparatory work for a first clinical trial
+      in Alzheimer's disease is currently in progress funded by the NIHR through
+      the UCLH/UCL Biomedical Research Centre (BRC) and strongly supported by
+      GSK.
+    Transthyretin causes both acquired senile cardiac amyloidosis, a hitherto
+      grossly under diagnosed condition, and hereditary systemic amyloidosis.
+      The Pepys team designed and patented novel small molecule compounds
+      targeting transthyretin [6], pursued possible development
+      supported by one of the first Wellcome Trust Seeding Drug Discovery
+      Initiative awards (&#163;3.89 million), but then licensed the IP to GSK for a
+      close collaboration which has yielded new IP.
+    Human CRP potently activates complement when it binds to dead and damaged
+      cells and this exacerbates tissue damage after ischaemic injury in the
+      heart and brain, validating inhibition of CRP binding as a therapeutic
+      strategy [2]. Development of Pepys's small molecule CRP inhibitor
+      approach has been funded by the first award (&#163;4 million) made by the MRC
+      under their Developmental Clinical Studies scheme and latterly also by the
+      British Heart Foundation (BHF).
+    Pepys joined UCL in 1999, when he was appointed Professor and Head of the
+      Department of Medicine at the Royal Free Campus of University College
+      London, and is currently Principal Clinical Research Associate and
+      Emeritus Professor of Medicine. He was awarded a Knighthood in the 2012
+      New Year Honours list for services to biomedicine.
+    

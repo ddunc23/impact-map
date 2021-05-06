@@ -1,0 +1,148 @@
+CaseStudyId: 38185
+Title: 
+    vCJD prion infection: improving diagnosis and surveillance
+    
+
+ImpactDetails
+
+    Our blood test is now in use at the National Prion Clinic (NPC) to allow
+      diagnosis of vCJD. The immediate impact of this is that patients can be
+      diagnosed quickly, other conditions can be excluded, and care plans can be
+      put in place quickly. Impacts currently at an interim stage are the
+      development of high throughput tests for screening blood in transfusion
+      services both in the UK and overseas.
+    Using the existing World Health Organisation diagnostic criteria for
+      vCJD, disease can only be classified as `probable' in the presence of
+      significant neurological deficit and confirmed as `definite' by means of
+      neuropathological examination. Despite their relentlessly progressive
+      nature and devastating prognosis, securing a firm early diagnosis for
+      these disorders remains crucial. This is firstly as the differential
+      diagnosis of prion disease includes potentially reversible conditions,
+      such as limbic encephalitis caused by voltage gated potassium channel
+      antibodies, or primary central nervous system (CNS) vasculitis. Secondly,
+      early diagnosis removes uncertainty, which in itself is distressing, and
+      obviates the need for further investigation. Patient care plans can be
+      established, patients and families counselled accordingly and appropriate
+      infection control measures implemented [a]. Introduction of a
+      sensitive and specific blood-based molecular diagnostic test for prion
+      disease will facilitate early disease diagnosis and entry into therapeutic
+      trials. In addition, such a test has obvious applications in reducing
+      iatrogenic transmission of disease, screening of blood products for
+      transfusion, food and medicinal products.
+    The National Prion Clinic (NPC) is the national referral centre for prion
+      disease and is based at the National Hospital for Neurology and
+      Neurosurgery [b]. The clinic is integrally linked with the MRC
+      Prion Unit. Our blood test is in increasing diagnostic use in the NPC and
+      samples are received for investigation from neurologists both nationally
+      and internationally. Approximately 115 patients have been tested so far
+      through the clinic [c]. In addition to its immediate clinical use
+      the test is suitable for screening applications as an extended validation
+      series of 5,000 control samples demonstrated that the test is 100%
+      specific for prion disease.
+    A study by the Health Protection Agency (HPA) to determine the prevalence
+      of prion infection in solid organs released preliminary results in August
+      2012 [d]. They found 16 definitively positive appendices out of
+      32,441 suitable samples examined, equating to a final prevalence estimate
+      of 493 per million (95% CI: 282 to 801 per million). The central estimate
+      of around 1 infection per 2,000 UK citizens is clearly alarming coupled
+      with the known potential for transmission via blood transfusion, and
+      demonstrates the long-term significance of our work. [text removed for
+      publication].
+    Although the number of transfusion recipients positively identified as
+      having received packed red cells contaminated with vCJD is small, much
+      larger cohorts of at-risk individuals exist including around 6,000
+      recipients of contaminated plasma products, haemophiliacs and
+      thalassaemics.
+    Other groups identified and also notified by the HPA as being at
+      heightened risk of prion disease include the highly transfused, surgical
+      contacts of prion disease patients and recipients of cadaver- derived
+      human growth hormone. Whilst most notified individuals appear to
+      understand and accommodate the health protection message, it is not
+      surprising that the NHS National Prion Clinic is regularly referred and
+      counsels distressed individuals in such risk groups who may also have had
+      their healthcare disrupted by misunderstanding on the part of NHS
+      professionals. The availability of a blood test will provide better risk
+      assessment and resolve issues of personal risk in notified groups [a].
+    Several commercial organisations have had historical interest in
+      developing a blood test for prion disease but abandoned their research
+      efforts after reaching the conclusion it was not possible. As a result
+      there is renewed interest within industry to develop such tests, knowing
+      that blood does contain sufficient abnormal PrP for detection. The test
+      has been patented as a step towards commercialisation [e].
+    vCJD has been the subject of intense public and policy debate;
+      publication in the Lancet of our blood test method and preliminary results
+      has resulted in considerable press coverage. Recent press reports (for
+      example, The Telegraph, 28 April 2013) have highlighted the
+      importance of a blood test in protecting public health in the UK with
+      predictions of up to 1,000 people likely to die from vCJD as a result of
+      receiving contaminated transfused blood. Coverage in the Daily Mail,
+      3 February 2011, attracted comments from members of the public welcoming
+      the test and wishing for reassurance that they were not at risk [f].
+    
+ImpactSummary
+
+    The MRC Prion Unit was established at UCL in 1998 to address national
+      public health issues posed by bovine spongiform encephalopathy (BSE) and
+      variant Creutzfeldt-Jakob disease (vCJD). One of our key strategic
+      priorities has been to create a validated blood test for vCJD in order to
+      protect public health through the screening of donated blood and organs
+      for transplantation. The blood test we have developed has been
+      demonstrated to detect infection in over 70% of patients with vCJD with,
+      to date, 100% specificity and is now in use at the National Prion Clinic
+      for evaluation.
+    
+UnderpinningResearch
+
+    Prion diseases remain a strategic priority area for both the MRC and the
+      Department of Health, with early diagnosis a key aim. The confirmation of
+      blood transfusion-associated vCJD has highlighted the need to advance
+      blood-based diagnostics for prion infection to protect the UK blood
+      supply. Further, the advances in therapeutics research in the Unit and
+      Department of Neurodegenerative Disease necessitate parallel advances in
+      early diagnosis and progression biomarkers to support imminent clinical
+      trials.
+    Detection of disease-associated, abnormal forms of the prion protein such
+      as PrPSc is the most specific criterion for the diagnosis of
+      prion disease in humans and animals. However, the high specificity
+      associated with PrPSc detection has always been counterbalanced
+      by a limit on the sensitivity of detection. Research led by Professor John
+      Collinge over the past few years has been successful in identifying new
+      methods for the specific detection of abnormal forms of PrP without
+      sacrificing sensitivity. These methods have been used in conjunction with
+      our own monoclonal antibodies generated against unique, alternative folded
+      conformers of PrP to develop sensitive ELISA and western blot methods
+      capable of diagnosing prion infection from neural or tonsillar tissue
+      biopsies.
+    Although the quantities of PrPSc deposited in neural tissues
+      are sufficient during the symptomatic phase of illness for detection by
+      conventional immunoassays, quantification of infectious titre using rodent
+      models has indicated that the levels of infectivity in blood are extremely
+      low and over a million-fold lower than in infected CNS material. Ongoing
+      research studying the interaction of PrP with metals [1, 2] has
+      led to the development of methods for the selective capture of PrPSc
+      and prions on solid-state surfaces [3]. Combining our capture
+      technologies with cells selected for susceptibility to prion infection has
+      allowed us to describe quantitative cell culture assays for infectivity
+      that approach the high levels of sensitivity required to detect the low
+      levels of prions and abnormal PrP associated with blood [4, 5]. A
+      similar approach has been adopted for the capture of abnormal PrP from
+      whole human blood using an optimised solid-state capture matrix derived
+      from investigation of an extensive range of potential binding surfaces
+      coupled with direct immunodetection of the surface-bound material. The use
+      of whole blood as an analyte ensures that all abnormal PrP is available
+      for detection in the assay irrespective of which compartment it is
+      associated with. Our previous work developing antibodies and methods for
+      abnormal PrP detection avoids use of any proteolytic processing ensuring
+      all abnormal PrP isoforms are available for detection.
+    The combination of our endeavours in monoclonal antibody production and
+      selective capture of abnormal PrP have resulted in the first available
+      blood test for vCJD [6]. The assay has been validated on a large
+      set of samples from the USA, where exposure to BSE can be considered
+      negligible, and has a determined specificity of 100% whilst retaining
+      sensitivity for infection of 71%. The blood test is now in routine use
+      within the National Prion Clinic as part of patient assessment and
+      differential diagnosis.
+    Researchers
+    Professor John Collinge, Professor Charles Weissman, Dr Graham S Jackson,
+      Dr Julie A Edgeworth, Dr Simon Mead
+    

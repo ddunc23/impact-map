@@ -1,0 +1,143 @@
+CaseStudyId: 41640
+Title: 
+    A new pharmacological approach for treating ADHD
+    
+
+ImpactDetails
+
+    Attention Deficit Hyperactivity Disorder has a worldwide prevalence in
+      children of about 5% and persists in adulthood in 50-60% of cases. ADHD is
+      not a primary learning disorder but its core diagnostic features are
+      deficits in cognitive performance and response control [`hyperactivity',
+      `inattentiveness' and `impulsivity']. These impairments
+      disrupt academic development and can lead to complex social problems in
+      adulthood. The majority of adult patients further experience serious
+      co-morbidity including: perseveration, substance misuse, emotional
+      lability, bipolar disorder, criminality and suicidality, all of which
+      impair the quality of life of the patient and their family and can reduce
+      life-expectancy. An unexplained increased risk of other medical conditions
+      (e.g. obesity, asthma) as well as accidents and social problems leads to
+      ADHD patients costing 2-fold more than the average patient (NICE, 2009).
+      It was predicted that about &#163;78 million would be spent on pharmacotherapy
+      alone for ADHD patients in the UK in 2012 (NICE, 2009). This figure did
+      not take into account the broader economic costs of this illness.
+    Only three drugs are licensed to treat ADHD in the UK: the
+      psychostimulants d-amphetamine &amp; methylphenidate, and the
+      noradrenaline uptake inhibitor atomoxetine. There is widespread unease
+      about long-term use of psychostimulants, and all these treatments can have
+      harmful cardiovascular side-effects and carry a risk of misuse.
+      Furthermore, more than 25% of patients do not respond to any of these
+      treatments. Thus, there is a pressing need for a new approach to
+      pharmacotherapy of ADHD, based on a strong scientific rationale.
+    New ADHD Animal Model: Commercial Impact
+    Our research has led to the discovery that disruption of NK1 receptor
+      function causes deficits in cognitive performance and response control
+      similar to those seen in ADHD patients. This research has opened up new
+      directions for investigation of the underlying causes of ADHD as well as
+      the discovery and development of new drug targets. A paper describing some
+      of our recent findings has received more than 2,700 hits since it was
+      published in May 2011. This research has already received MRC funding of
+      more than &#163;600,000 [a].
+    We were awarded an EU patent in 2010 relating to the use of the NK1R-/-
+      mouse to investigate the underlying neurochemical abnormalities in ADHD
+      and as a screen for putative drug treatments for ADHD [b]. We have
+      a US patent application pending [c]. A subsidiary of Charles
+      River, Cerebricon (based in Finland), which specializes in validation and
+      marketing of rodent behavioural models, has negotiated an exclusive
+      licence with UCL Business [d]. This enables them to market the
+      NK1R-/-for use in research related to the causes and treatment of ADHD and
+      now advertise this on their website. This venture is expected to be highly
+      successful: "In conjunction with Cerebricon's strategy of increasing
+        our portfolio of pre-clinical models by extending from neurology to
+        psychiatry we are very pleased to have the opportunity to in-license
+        what we believe will prove to be the best and most fully validated mouse
+        model of ADHD for our drug development clientele" &#8212; Dr Yrjanheikki,
+      CEO of Cerebricon [e].
+    New Genetic Locus for ADHD in Humans: Health Impact
+    Our research using the NK1R KO mice led us to discover a link between the
+      mutations in the human homologue of the gene, tacr1, and ADHD.
+      This discovery is significant to clinical psychiatry at two levels. One is
+      that new treatments targeted at specific individuals, according to the
+      genetic subtype of the disorder that they have inherited, can now be
+      attempted. Secondly, the findings identify a molecular pathophysiology
+      which cuts across traditional diagnostic boundaries and indicates that the
+      use of biomarkers which identify genetic effects acting in sub categories
+      of mental illness will be more powerful and useful than traditional
+      clinical diagnostic categories [f].
+    Public Engagement
+    Because of ADHD's often disruptive nature, sufferers can face difficulty
+      in public situations. Increasing public understanding of the disorder is
+      therefore extremely important. Clare Stanford makes regular media
+      appearances to discuss psychopharmacology in general [g], and has
+      written an article on ADHD, which is aimed at the general public and
+      posted on the website (Information for the Public) hosted by the British
+      Association for Psychopharmacology [h].
+    The development of new treatments for almost all human diseases and
+      disorders requires animal research. However, this can be a contentious
+      issue. Clare Stanford is President of the Laboratory Animal Science
+      Association and has contributed to meetings that aim to increase public
+      understanding of animal research (e.g. meetings for the RSPCA) [i].
+    
+ImpactSummary
+
+    Clare Stanford's group has opened up a new line of research for drug
+      treatment of Attention Deficit Hyperactivity Disorder. Based on this work,
+      UCL Business has been awarded an EU patent for the NK1R `knockout' mouse
+      as an investigative tool and pharmaceutical screen. Cerebricon, a
+      subsidiary of Charles River, has taken an exclusive licence to market this
+      mouse and advertise it on their website. Our studies have also enabled us
+      to identify a new genetic locus in which abnormalities are linked to ADHD
+      in humans, and to identify a new drug candidate for treating ADHD.
+    
+UnderpinningResearch
+
+    The core diagnostic features of Attention Deficit Hyperactivity Disorder
+      (ADHD) are hyperactivity, inattentiveness and impulsivity.
+      All current drug treatments for ADHD augment monoamine transmission in the
+      brain. First-choice treatments are the psychostimulants d-amphetamine and
+      methylphenidate, despite being ineffective in nearly 30% of patients.
+    Several rat and mouse inbred strains have been used in preclinical
+      studies of ADHD. All express one or more of the abnormalities seen in
+      ADHD, which are relieved by psychostimulants to some extent. However, none
+      matches all key characteristics of ADHD and its treatment.
+    Our experiments with the substance P-preferring (NK1) receptor knockout
+      (NK1R-/-) mouse, in collaboration with Professor Stephen Hunt (UCL),
+      started in 2004. We aimed to explain why blocking the activation of NK1R
+      has antidepressant effects in humans, as was thought to be the case at the
+      time. In the course of this work, we discovered that NK1R-/- mice have
+      profound abnormalities in monoamine transmission in the brain. As well as
+      an increase in serotonin release, which had been reported already, we
+      found increased noradrenaline release and a striking deficit in dopamine
+      release in the prefrontal cortex. The latter change is inconsistent with
+      an antidepressant profile. We also noted that NK1R-/-mice are hyperactive
+      compared with wildtypes [1]. This hyperactivity is induced by
+      either genetic mutation (NK1R-/-) or pharmacological antagonism of NK1R
+      and so is a direct consequence of a lack of functional NK1R. Moreover, it
+      was prevented by treatment with d-amphetamine or methylphenidate, as in
+      ADHD [3].
+    These findings led us to propose that neurochemical and behavioural
+      abnormalities, arising from a lack of functional NK1R, could underlie
+      abnormalities seen in ADHD. This prompted a human genetic study, in
+      collaboration with Professor Hugh Gurling (UCL), which found a strong
+      association between four genetic markers in the tacr1 gene (the
+      human equivalent of the NK1R gene) and ADHD in a large population sample [4].
+      Since then, polymorphism(s) of the tacr1 gene have also been found
+      to be associated with bipolar affective disorder, suicidal behaviour and
+      alcoholism, all of which show a high incidence of co-morbidity with ADHD.
+    In an MRC-funded project (2008-11), we showed that NK1R-/- mice display a
+      higher behavioural inattentiveness, impulsivity, and perseveration
+      (which has been reported in ADHD patients) and that d-amphetamine relieved
+      perseveration but not inattentiveness or impulsivity
+      [5]. This pattern of deficits in cognitive performance and their
+      response to amphetamine is consistent with the abnormalities in monoamine
+      transmission in the NK1R-/- mouse, and could explain why some ADHD
+      patients do not respond to psychostimulants.
+    All these findings strengthen the validity of using NK1R-/- mice to study
+      underlying causes of, and treatments for, ADHD. They also underpin our
+      prediction that drugs that augment activation of NK1R, or its downstream
+      targets, would have beneficial effects in ADHD, particularly in patients
+      with polymorphism(s) of the tacr1 gene.
+    Finally, we have recently uncovered a potential role for nifedipine, a
+      drug already in use as an antianginal and antihypertensive, in the
+      treatment of ADHD, through its effect on L-type calcium channels [6].
+    

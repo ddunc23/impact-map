@@ -1,0 +1,103 @@
+CaseStudyId: 23130
+Title: 
+    Establishment of tacrolimus as the first choice calcineurin inhibitor for
+      the immunosuppression regimen in liver transplant recipients
+    
+
+ImpactDetails
+
+    Use of tacrolimus as the first line immunosuppression agent in liver
+      transplantation had begun to climb from 1999 onwards, although trials at
+      this stage had not demonstrated an unambiguous improvement over
+      ciclosporin. The research by Burroughs firmly established tacrolimus as
+      the optimal calcineurin inhibitor to use in immunosuppressive regimens
+      following liver transplantation, and has thus changed standard clinical
+      practice in the UK and worldwide. Tacrolimus-based immunosuppression has
+      become the "gold-standard". The results of the trial were confirmed in a
+      subsequent Cochrane meta-analysis of 16 trials which showed that treating
+      100 recipients with tacrolimus instead of ciclosporin would avoid acute
+      rejection and steroid-resistant rejection in nine and seven patients,
+      respectively, and graft loss and death in five and two patients [a].
+    In the US, the Organ Procurement and Transplantation Network (OPTN) and
+      Scientific Registry of Transplant Recipients (SRTR) Annual Data Report
+      2010 stated that; "Immunosuppressive strategies based on tacrolimus and
+        mycophenolate continue to be the dominant early regimen. In 2009, the
+        alternative calcineurin inhibitor cyclosporine was used relatively
+        infrequently (7.3%) compared with tacrolimus (85.8%)" [b].
+      In 2011, they reported that; "Initial immunosuppression for most
+        recipients is tacrolimus and mycophenolate mofetil (MMF), commonly in
+        conjunction with steroids... By 1 year after transplant, most patients
+        are no longer taking steroids and are taking tacrolimus with or without
+        MMF. With these immunosuppressive regimens, acute rejection occurs in
+        less than 20% of recipients during the first year" [c]. Of
+      14,658 patients transplanted between 2002 and 2010 in the US, 92% (13,515)
+      were on tacrolimus [d].
+    This landmark study therefore changed clinical practice and provided a
+      clear benefit to patients. A 2006 meta-analysis of 16 trials demonstrated
+      that tacrolimus reduced mortality by 15% and graft loss by 27% compared to
+      ciclosporin [e]. Assuming 550 liver transplants per year in the UK
+      since 2008, we can estimate that, with 90% of patients treated with
+      tacrolimus and 10% ciclosporin, tacrolimus-based immunosuppression has
+      resulted in 165 grafts and 192 lives being saved in total for the period
+      2008-13.
+    
+ImpactSummary
+
+    Research at UCL firmly established tacrolimus as the optimal calcineurin
+      inhibitor to use in immunosuppressive regimens following liver
+      transplantation. Compared to ciclosporin its use improved graft survival
+      by 6% and patient survival by 7%. Assuming 550 liver transplants per year
+      in the UK since 2008, we can estimate that, with 90% of patients treated
+      with tacrolimus and 10% ciclosporin, tacrolimus-based immunosuppression
+      has resulted in 165 grafts and 192 lives being saved during the period
+      2008-13.
+    
+UnderpinningResearch
+
+    Long-term immunosuppression with calcineurin inhibitors (ciclosporin or
+      tacrolimus) is essential for almost all patients undergoing liver
+      transplantation. However, the optimum initial immunosuppression regimen
+      was unknown by the late 1990s.
+    Previous immunosuppression trials had used rates and patterns of
+      rejection as measures of drug efficacy. Results from such studies had
+      shown lower rates of cellular rejection, steroid-resistant rejection, and
+      chronic rejection in tacrolimus-treated patients compared to those
+      receiving the old ciclosporin formulation. However this had been
+      superseded by the microemulsified preparation with better bioavailability.
+      Equally in liver transplantation the importance of acute cellular
+      rejection was questioned as there appeared no correlation between such
+      rejection and graft survival. Therefore patient and graft survival had
+      become regarded as the most meaningful efficacy measures of
+      immunosuppressive agents. At the time of the trial, results from follow-up
+      of the early US and European studies suggested better survival rates for
+      patients receiving tacrolimus than ciclosporin, although this was not a
+      robust finding.
+    Beginning in the mid-1990s, Burroughs was the instigator and chief
+      co-investigator of the TMC study together with O'Grady (King's College
+      London). The investigators undertook a trial to assess the
+      immunosuppressive efficacy of tacrolimus compared with micro-emulsified
+      ciclosporin, with their protocol standardising all aspects of drug dosing
+      and concomitant medication. The study showed that the clinical outcome at
+      one year was better with tacrolimus-based immunosuppression.
+    The trial's primary outcome was the combined frequency (whichever
+      occurred first) of death, retransplantation, or treatment failure for
+      immunological reasons, analysed by intention to treat This was achieved in
+      62 (21%) of 301 patients in the tacrolimus group versus 99 (32%) of 305
+      allocated microemulsified ciclosporin (p=0&#183;001). The authors recommended
+      that tacrolimus should be the first choice of calcineurin inhibitor for
+      patients receiving their first liver graft [1]. Three-year
+      follow-up data confirmed the continued advantage of tacrolimus. A total of
+      62.1% of patients randomised to tacrolimus were alive at 3 years with
+      their original graft and still on their allocated study medication,
+      compared with only 41.6% in the ciclosporin limb [2]. A further
+      randomised study comparing tacrolimus and ciclosporin as monotherapy, with
+      no routine or maintenance steroids demonstrated that monotherapy provided
+      adequate immunosuppression for 87% of tacrolimus versus 64% of ciclosporin
+      patients [3]. Long-term follow up showed that tacrolimus
+      monotherapy ab initio is a viable immunosuppressive strategy in liver
+      transplantation and was associated with lower rejection rates and renal
+      complications, compared to ciclosporin [4]. Finally, a systematic
+      review to assess the effect of lower doses of tacrolimus on acute
+      rejection rates and renal impairment confirmed that these are as effective
+      and have fewer side effects [5].
+    

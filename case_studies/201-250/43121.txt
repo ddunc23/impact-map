@@ -1,0 +1,140 @@
+CaseStudyId: 43121
+Title: 
+    Improved management of empyema in children
+    
+
+ImpactDetails
+
+    Empyema is a complication of pneumonia which causes significant
+      morbidity, with prolonged hospitalisations and multiple invasive
+      procedures. The incidence of paediatric empyema has risen dramatically
+      over the last decade, both in the UK and around the world [a].
+    Prior to the research described above, significant variance in the
+      management of paediatric empyema existed. Treatment was dependent on
+      institutional and practitioner preference, with concern over both the
+      state of the evidence base and a lack of standardised practice. This was
+      acknowledged in the British Thoracic Society Guidelines for the Management
+      of Pleural Infection in Children (2005) which said that "in the UK
+        there is little consensus over management among respiratory
+        paediatricians and thoracic surgeons" [b].
+    Through the demonstration by Sonnappa and Jaffe of clinical equivalence
+      between chest drain insertion with fibrinolytic instillation and
+      video-assisted thoracoscopic surgery, a clinical consensus favouring the
+      former has emerged. Supported by subsequent randomised trials in the US,
+      chest drain use is now established in international guidelines as
+      first-line management of empyema. Furthermore, it is now widely accepted
+      that routine CT chest scanning should not be performed in the management
+      of children with empyema, thus reducing exposure to harmful radiation.
+    Impact on international guidelines
+    The Thoracic Society of Australia and New Zealand reference our studies
+      in their recommendations on: the use of daily X-rays, drainage of pleural
+      fluid and use of VQ scans [c]. Clinical practice guidelines issued
+      by the Pediatric Infectious Diseases Society and the Infectious Diseases
+      Society of America on the management of community-acquired pneumonia in
+      infants and children, referencing both our study and the subsequent US
+      study, recommend: "Both chest thoracostomy tube drainage with the
+        addition of fibrinolytic agents and VATS have been demonstrated to be
+        effective methods of treatment. The choice of drainage procedure depends
+        on local expertise" [d]. The Canadian Paediatric Society
+      also refers to our research in their guidelines which state that "Although
+        there is still ongoing controversy and a need for additional randomized
+        trials, the best evidence suggests that either VATS, early thoracotomy
+        or small-bore percutaneous chest tube placement with instillation of
+        fibrinolytics (CTWF) results in the best outcomes as measured by
+        hospital length of stay. CTWF may be the most cost-effective choice"
+      [e].
+    Impact on hospital practice
+    Many hospitals in the UK and abroad have adopted our research finding in
+      drafting their local guidelines for managing empyema in children.
+      Guidelines from United Bristol Healthcare NHS Trust state that "Video-assisted
+        thoracoscopic surgery (VATS) may be an appropriate alternative to
+        thoracotomy. Early VATS, as a primary procedure, does not appear to
+        offer benefit over a chest drain and urokinase, but is routinely used in
+        some centres and in the US" [f].
+    Furthermore, guidelines from the Children's Mercy City Hospital in
+      Kansas, USA recommend that "Utilization of VATS or chest tube with
+        fibrinolytic agents have been shown to decrease morbidity compared to
+        chest tube alone with evidence suggests that treatment with VATS or
+        chest tube plus fibrinolysis decreases the duration of fever and
+        hospital length of stay" [g].
+    Our study is also referenced in the Children's Health Clinical Guideline
+      for Empyema provided by Auckland City Hospital, New Zealand [h].
+    Benefits to patients
+    This shift in practice has reduced exposure to the potential harms of
+      general anaesthesia and invasive surgery along with the associated
+      psychological stress to both paediatric patients and their parents/carers.
+      Furthermore, the use of CT scans itself carries significant morbidity.
+      Various studies have indicated an increased risk of cancer developing
+      later in life for those who have undergone CT scanning. An Australian
+      study, published in 2013, found that cancer incidence was increased by 24%
+      in patients exposed to a CT scan when aged 0-19 years, compared with the
+      incidence in the unexposed [i]. Thus our demonstration that
+      routine CT scanning is clinically unnecessary means that through the use
+      of plain chest X-rays and ultrasound scans for confirming a diagnosis of
+      empyema, children are exposed to much lower doses of ionising radiation,
+      reducing the risk of future malignancies.
+    Economic benefits
+    A 2008 US study used our data as the basis for their estimations of
+      cost-effectiveness and concluded that "On the basis of the best
+        available data, chest tube with instillation of fibrinolytics is the
+        most cost-effective strategy for treating pediatric empyema" [j].
+    
+ImpactSummary
+
+    The management of childhood pleural empyema has been standardised and
+      improved as a direct result of research at the UCL Institute of Child
+      Health (ICH). Pioneering trials demonstrated the clinical equivalence of
+      chest drain insertion with fibrinolytic installation compared to
+      video-assisted thoracoscopic surgery as a primary intervention. Chest
+      X-ray and ultrasound scanning were shown to provide enough information and
+      it was established that chest CT scanning had no role in the routine
+      management of empyema. International guidelines have been modified to
+      reflect this, reducing paediatric exposure to unnecessary general
+      anaesthesia, invasive surgery and ionising radiation. Cost savings are
+      estimated to be &#163;1.5 million/year in the UK alone.
+    
+UnderpinningResearch
+
+    Empyema is a significant cause of childhood morbidity which occurs in 1
+      in 150 children hospitalised with pneumonia. Many treatment options are
+      available for the management of empyema, including antibiotics alone or in
+      combination with thoracocentesis, chest-drain insertion, chest drain and
+      fibrinolytics, mini-thoracotomy, open decortication, and video-assisted
+      thoracoscopic surgery. However, treatment is not standardised and prior to
+      our research, patient care was dependent on local practice and physician
+      preference. Guidelines issued by the British Thoracic Society in 2005 on
+      the management of pleural infection in children highlighted the lack of
+      standardisation and the fact that there was little evidence to inform the
+      best management approach.
+    Between 2002 and 2008, Dr Samatha Sonnappa (Clinical Research Fellow,
+      Portex Respiratory Unit) and Professor Adam Jaffe (then Senior Lecturer in
+      Respiratory Research) conducted the first randomised study to
+      prospectively compare two standard treatments. These were percutaneous
+      chest drain insertion together with intrapleural urokinase instillation
+      and primary video-assisted thoracoscopic surgery (VATS), which is a more
+      invasive approach. The aim was to determine the primary intervention of
+      choice by assessing the length of post-intervention hospital stay.
+      Secondary end points were number of chest drain days, total hospital stay,
+      failure rate, radiological outcome at six months and total treatment
+      costs. The study revealed that there were no differences in clinical
+      outcomes between intrapleural urokinase and primary VATS. There was no
+      significant difference in the length of hospital stay after the
+      intervention, the total length of hospital stay, failure rate or
+      radiological outcome at six months post-intervention [1]. The
+      study also showed that percutaneous chest drain insertion with
+      intrapleural urokinase was cost saving, being approximately &#163;1,500 lower
+      than primary VATS (&#163;6,084 vs &#163;7,586, p&lt; 0.001) [1].
+    Furthermore, the research showed that chest CT scanning did provide
+      additional clinically relevant information to chest ultrasound scans and
+      chest X-rays, neither altering management decisions nor predicting
+      clinical outcome. It was shown to have a limited role in complex,
+      non-resolving cases or when other pathology was suspected, but the study
+      demonstrated that it should not be used as routine [2] &#8212; a
+      particularly relevant finding, given a number of recent studies which have
+      raised concerns about potential cancer risk after exposure to radiation in
+      childhood
+    In further work, a retrospective review of V/Q scans of children
+      originally recruited as part of the study, confirmed that these scans did
+      not provide additional information to functional assessment in a
+      clinically well child following empyema [3].
+    

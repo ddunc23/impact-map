@@ -1,0 +1,136 @@
+CaseStudyId: 21737
+Title: 
+    Healing chronic wounds with Nexagon
+    
+
+ImpactDetails
+
+    Most acute wounds heal without issue, but as we get older our bodies
+      become compromised by poor blood circulation and conditions such as
+      diabetes, leading to slower healing. This can result in stalled or
+      hard-to-heal chronic wounds or ulcers. Currently about two per cent of the
+      Western population develop a chronic leg or foot ulcer, and this figure
+      will rise as the population ages and diabetes becomes more prevalent.
+      Unfortunately a significant proportion of these chronic wounds fail to
+      respond to conventional treatment and result in amputation of the lower
+      limb. To date, there have been no effective therapeutic agents available
+      to treat these wounds. A key feature of the Nexagon technology is that it
+      is able to kick-start the healing of chronic wounds where healing has
+      stalled, thus addressing a widespread unmet clinical need.
+    Commercial impacts: Coda Therapeutics
+    CoDa Therapeutics was founded in 2003 by Becker and Green to develop
+      Nexagon technology. In October 2006 CoDa Therapeutics raised $23m in
+      series A financing, and with this they completed GMP manufacture and
+      toxicity testing. In July 2012 CoDa Therapeutics raised series B funding
+      of about $38m for venous leg ulcer and diabetic foot ulcer trials.
+    CoDa Therapeutics has 11 Biotech team members in New Zealand, including
+      five scientists based at the University of Auckland. There are around
+      seven staff members at the San Diego site, from where clinical trials are
+      organised [a].
+    Thus far there are 11 patents relating to Nexagon at different stages of
+      being granted worldwide and two more in preparation [b].
+    Compassionate use of Nexagon:
+    In 2008, CoDa Therapeutics were given approval for compassionate use of
+      Nexagon on an amputee patient with a below-the-knee wound that had not
+      healed for 18 months. The patient was scheduled for amputation above the
+      knee, but just two treatments with Nexagon, a week apart, triggered
+      healing and saved his leg from further amputation.
+    Nexagon has also been granted compassionate use approval from the New
+      Zealand regulatory authorities for treatment of persistent epithelial
+      defects following corneal burns. So far Nexagon treatment has saved the
+      eyes of over a dozen people when given for compassionate use [c].
+    Orphan drug designation:
+    In 2009, CoDa Therapeutics were awarded FDA Orphan Drug designation for
+      Nexagon for treatment of persistent epithelial defects (PED) following
+      corneal burns. Orphan Drug Designation entitles CoDa to seven years of
+      market exclusivity in the treatment of PED patients in the event of market
+      approval for this indication [d].
+    Results of clinical trials with Nexagon:
+    Clinical trials with Nexagon were started in 2008. Nexagon successfully
+      completed Phase 1 safety trials for both skin (NCT00736593) and eye
+      (NCT00654550) indications. In the Phase 1 trial for skin wounds, Nexagon
+      was found to be safe and well-tolerated following administration to 43
+      healthy volunteers given punch biopsy wounds. Phase 2 trials are now in
+      progress or completed for both skin and eye indications.
+    Nexagon has also shown positive results in Phase 2a and 2b clinical
+      trials for venous leg ulcers, treated by a topical once-weekly
+      application. The 98-patient Phase 2a clinical trial of Nexagon
+      (NCT00820196) showed that venous leg ulcers treated with Nexagon healed
+      five times faster than the current standard of care, with 31% healing
+      completely within four weeks, compared to 6% with the current standard of
+      care [e]. One participant in this study, who had suffered from
+      debilitating leg ulcers for three years, described this trial as "the
+        answer to my prayers... I tried everything possible and this is the only
+        thing that worked" [f].
+    The 300-patient randomised, vehicle-controlled, double-blind Phase 2b
+      trial (NCT01199588) was completed in December 2012 and showed Nexagon was
+      both safe, and showed an increase in complete healing of leg ulcers. CoDa
+      is preparing a paper describing the results of this trial that will be
+      submitted to a peer-reviewed medical journal.
+    A Phase 2 double-blind randomised vehicle-controlled clinical trial to
+      investigate the safety and clinical effect of Nexagon as a topical
+      treatment for subjects with a diabetic foot ulcer (DUNE; NCT01490879) was
+      started in July 2012, and expects to enrol 160 patients and complete in
+      August 2013.
+    Persistent Corneal Epithelial Defects occur following corneal damage,
+      particularly burns or chemical damage, when healing of the cornea does not
+      occur and eyesight is often lost. An efficacy and safety double-blinded
+      study of Nexagon for Persistent Corneal Epithelial Defects (NCT01165450)
+      started in November 2011, and is due for completion in October 2014. It is
+      being run by Dr B Jeng, University of California, San Francisco and
+      expects to enrol 72 patients.
+    Media coverage
+    Nexagon has received international media coverage due to its wide
+      potential importance [g].
+    
+ImpactSummary
+
+    Professor David Becker and colleagues at UCL's Department of Anatomy (now
+      Cell &amp; Developmental Biology) identified the gap junction protein
+      Connexin43 (Cx43) to be a new therapeutic target for wound healing. Becker
+      then developed NexagonTM, a topically applied antisense gel
+      that knocks down Cx43 production, and both accelerates the healing of
+      acute wounds as well as stimulating healing in chronic wounds. He
+      co-founded a company, CoDa Therapeutics, to develop this technology. The
+      company has raised $42m in finance and has completed good manufacturing
+      practice (GMP) manufacture, toxicity testing and Phase 1 safety trials for
+      both skin and eye indications. It has recently completed both Phase 2a and
+      2b clinical trials for venous leg ulcers. Nexagon has been given approval
+      for compassionate use on a number of occasions and, in 2009, Nexagon gel
+      was granted Orphan Drug Designation by the Food and Drug Administration in
+      the US for treatment of persistent epithelial defects of the eye.
+    
+UnderpinningResearch
+
+    In 1994 David Becker obtained a Royal Society University Research
+      Fellowship to investigate gap junction proteins, in collaboration with
+      Colin Green (formerly UCL, currently University of Auckland). Initial
+      findings of his research showed that the gap junction protein Cx43
+      normally down-regulates in wound edge keratinocytes and fibroblasts in the
+      first 24 hours after wounding as they become migratory, but it increases
+      in blood vessels in and around the wound site as they become inflamed and
+      leaky.
+    Becker therefore tested the hypothesis that down-regulation of Cx43 would
+      accelerate wound healing, and found this to be the case [1, 2].
+      Because of the obvious therapeutic relevance, the discoveries were covered
+      by a series of patents (listed in Section 5 below) starting in 1999.
+    Becker and colleagues developed Nexagon, a topically-applied antisense
+      gel that down-regulates Cx43 protein production and by this means
+      accelerates the healing of acute wounds, reducing inflammation and scar
+      formation.
+    Wound healing in diabetic patients is notoriously slow, and Becker and
+      colleagues then showed that Cx43 was abnormally up-regulated at the edge
+      of wounds in the streptozotocin-diabetic rat model. This abnormal Cx43
+      expression is responsible for the failure of wound-edge cells to migrate
+      and close the wound. Becker showed that reducing the Cx43 expression using
+      Nexagon restored healing rates to normal or better [3].
+    Wellcome Trust (Catalyst Biomedica) provided seed funding for proof of
+      concept studies with Nexagon (2001-3). Becker and Green then founded CoDa
+      Therapeutics (NZ) Ltd in 2003. Three years later (2006) they co-founded
+      CoDa Therapeutics, Inc, which is based in San Diego CA. Becker continued
+      preclinical studies at UCL in collaboration with CoDa, and found that that
+      biopsy samples from a wide variety of human chronic wound samples all have
+      a striking over-expression of Cx43 protein over a wide area of the wound
+      edge epidermis and dermis, which is likely to contribute to lack of
+      migration and healing [4, 6, 7].
+    

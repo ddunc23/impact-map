@@ -1,0 +1,151 @@
+CaseStudyId: 42605
+Title: 
+    Applied research leading to the regulation of drip pricing
+    
+
+ImpactDetails
+
+    The OFT estimates that UK consumers spent &#163;300 million on payment
+      surcharges at the ten largest airlines during 2009 alone [1]. Upon
+      receiving a super-complaint from Which? in March 2011, the OFT
+      commissioned research into the advertising of prices, part of which was
+      our experimental study as described in section 2. The experimental study
+      [e] became the prime evidence for the OFT's new stance against drip
+      pricing.
+    On 2 December 2010, OFT announced that it had identified, based on
+      `ground-breaking behavioural economics research' among other sources, that
+      drip pricing, time-limited offers and baiting sales were pricing
+      techniques with the potential to cause the greatest harm to consumers [2].
+      It warned that: "On drip pricing, for example, businesses that ensure all
+      compulsory charges are included in the headline price, and make details of
+      all genuinely optional charges available at the early stages of the buying
+      process are less likely to be subject to OFT enforcement action."
+    On 28 June 2011, the OFT took action on this finding, specifically in the
+      travel sector where abuse was felt to be most rampant. It announced that
+      it had put passenger travel companies "on notice to change misleading
+      debit and credit card surcharging practices or face enforcement action
+      under consumer protection laws" [3].
+    It further added: "Publishing its findings on these surcharges, following
+      a super-complaint from Which?, the OFT also calls for the law to
+      be updated to stop consumers being surcharged when buying goods and
+      services with any debit card."
+    As an immediate result, in July 2012, 12 major UK airlines (including
+      Easyjet and Ryanair) announced that they would include debit card charges
+      in their headline prices [4]. Thus, for instance, Ryanair announced that
+      its &#163;6 per flight administrative fee would be included in advertised
+      prices by August 2012, and in the website headline price by December. The
+      popularity of this move may be gauged by the fact that the news article
+      regarding this on the BBC website received 371 comments in a single day,
+      the content of which demonstrated the extreme frustration drip pricing had
+      caused consumers [4].
+    At this time, the EU Consumer Rights Directive, which would ban
+      businesses in many sectors, including the airline sector, from imposing
+      above-cost surcharges on any form of payment, was due to be implemented
+      from mid-2014. In December 2011, however, the UK government announced its
+      intention of becoming the first European country to ban this practice by
+      bringing forward its legislation. It cited the OFT recommendations based
+      on research as underpinning this decision [5].
+    In September-October 2012, the Department for Business, Innovation and
+      Skills (BIS) held a consultation on bringing the ban forward. This was
+      formally published on 18 January 2013 [6]. Meanwhile, on 18 December 2012,
+      the Consumer Rights (Payment Surcharges) Regulations 2012 was laid before
+      Parliament, and came into force from 6 April 2013 [7].
+    The research and its wide coverage in the press [e.g. 8] also contributed
+      to public debate on drip pricing and contributed important evidence to
+      general public dissatisfaction with the practice. As suggested by the
+      number of comments on the BBC news item described above, as well as the
+      439 comments received at the government announcement of December 2011, the
+      ban was immensely popular amongst UK consumers [9].
+    The UCL research has begun to influence regulation in other countries,
+      notably in the United States, where the Federal Trade Commission (FTC)
+      held a conference on drip pricing in 2012 where the OFT's chief economist,
+      Amelia Fletcher, presented the work [10]. As a result, in November 2012,
+      the FTC issued a warning to 22 hotel operators to stop drip pricing in the
+      United States [11].
+    
+ImpactSummary
+
+    From the 1990s UCL Economics invested in the capacity to conduct
+      fundamental and applied research in behavioural and experimental
+      economics. This was the basis for the research which provided the evidence
+      base for the Office of Fair Trading to identify and act upon misleading
+      pricing practices, particularly `drip pricing', in 2010. As a result, 12
+      major airlines announced that they would include debit card charges in
+      their headline prices, and government announced that the EU-wide Consumer
+      Rights Directive would be implemented a year earlier than it was due to go
+      into effect.
+    
+UnderpinningResearch
+
+    Experimental research on consumer decision-making builds on many years of
+      academic and applied work carried out at UCL. In the late 1990s Ken
+      Binmore (then Professor of Economics at UCL) started the dual strategy of
+      conducting experiments for purely academic work as well as to inform
+      real-world interventions at the Economic and Social Research
+      Council-funded Economic Learning and Social Evolution (ELSE) centre, where
+      often one informed the other. The most spectacular example of this was how
+      auction theory and experiments carried out at UCL informed the design of
+      the UK 3G auction in 2000, which raised an astonishing &#163;22.5bn and
+      triggered much subsequent research into the design and conduct of auctions
+      [a].
+    With Steffen Huck joining UCL in 2002, the Department began to build a
+      larger group in experimental and behavioural economics. In the area of
+      consumer decision-making, the group generated a wide array of high-quality
+      research. For example, in 2005 researchers examined the effects of
+      different forms of feedback information on the performance of markets that
+      suffer from moral hazard problems due to sequential exchange, and found
+      that two-sided market transparency is an important ingredient for the
+      design of well-functioning markets that are prone to moral hazard [b].
+      Subsequent work estimated risk preferences using novel elicitation
+      techniques [c], and explored the consequences of competition in the
+      presence of behavioural biases [d]. These studies provided the academic
+      foundation for capacity development in consumer policy questions.
+    In parallel, the group developed the capacity for more applied work. For
+      example, Huck and Brian Wallace developed experiments to inform Ofcom on
+      issues such as price transparency of telephone calls or ease of switching
+      telecom and internet providers. Huck also co-authored the first-ever
+      behavioural/experimental study for the European Commission, an
+      investigation into retail finance titled "Consumer decision making in
+      retail financial services".
+    In 2009, the Office of Fair Trading (OFT) commissioned UCL researchers
+      and London Economics to investigate various ways of `framing' prices, and
+      the impact on consumers. UCL's Huck and Wallace designed and carried out
+      the study, and did the data analysis and interpretation, while London
+      Economics provided administrative support and contributed to the policy
+      implications. The study investigates six different ways of "framing"
+      prices:
+    
+      Standard upfront per-unit pricing (serving as a baseline);
+      Drip pricing where the consumers see only part of the full price
+        upfront and price increments are dripped through the buying process'
+      Sales in which a sale price is given and a pre-sale price is also
+        given as a reference to the consumer, `was &#163;2 is now &#163;1' (actual prices
+        are identical to the baseline treatment);
+      Complex pricing where the unit price requires some computations, `3
+        for the price of 2';
+      Baiting in which sellers may promote a special price but there is only
+        a limited number of goods actually available at that price;
+      Time-limited offers where the special price is only available for a
+        pre-defined short period of time.
+    
+    These frames were investigated in an experimental search market in the
+      UCL experimental laboratory where 166 consumer subjects were endowed with
+      a concave utility function and could buy multiple units of a good sold by
+      two different sellers. There were search costs (travel costs) each time a
+      consumer visited one of the two sellers. Each subject was confronted with
+      the baseline and two of the other frames, and all possible combinations of
+      frames were explored.
+    The research showed that all frames had adverse effects on consumer
+      behaviour and welfare, but identified drip pricing as, by far, the worst
+      offender, followed by time-limited offers and baiting. Drip pricing wiped
+      out 25% of consumer surplus relative to the baseline with straight per
+      unit prices shown upfront. The study also examined in close detail the
+      question of the external validity of its laboratory results, demonstrating
+      that, if anything, drip pricing would be an even bigger problem in
+      real-world shopping. The study was published as a working paper [e] and
+      written up for a policy audience in an OFT report.
+    In addition to Huck and Binmore, UCL researchers working in areas
+      contributing to the consumer agenda included Syngjoo Choi (then Assistant
+      Professor; now Associate Professor at UCL), Ran Spiegler (Professor at UCL
+      since 2006) and Brian Wallace (Senior Research Fellow; at UCL since 2006).
+    

@@ -1,0 +1,149 @@
+CaseStudyId: 34171
+Title: 
+    Enabling Zyvex Labs to develop atomically precise manufacturing processes
+    
+
+ImpactDetails
+
+    Zyvex Labs is a leading company in the area of APM in the US. It is part
+      of Zyvex Corporation, which carries out fundamental research into APM,
+      often building its own tools. Zyvex now takes that technology to market by
+      developing commercial products in the nanomaterials and nanomanipulation
+      areas. The company has already developed a system that is in wide use
+      throughout the semiconductor industry (a nanoprobe, used to characterise
+      chips at 90nm and below); the UCL research has underpinned development of
+      a new system to be brought to market around 2015. It has also helped
+      generate new employment and $14 million in funding for the company [A].
+    Zyvex Labs is developing techniques to create nanoscale patterns with
+      atomic precision by manipulating hydrogen on Si(001), and then growing new
+      material on top of the patterns. The company is developing products for
+      market based on this patterning: control electronics for STMs, to allow
+      patterning; and turn-key systems to be added to STMs, to give a complete
+      patterning and growth system. Both of these systems will allow other
+      companies to produce patterns in hydrogen-terminated Si(001) and grow new
+      materials within the patterns.
+    While developing early ideas for APM based on hydrogen lithography and
+      subsequent growth, the President (at the time Chief Technical Officer
+      followed by Vice President) of Zyvex Labs realised the importance of
+      theoretical underpinning for the process. He writes, "I did an extensive
+      literature search on the subject. Your theoretical work stood out as the
+      best available data and in excellent agreement with the published
+      experimental data" [A]. Zyvex Labs and UCL set up a collaboration, under a
+      non-disclosure agreement, in May 2007.
+    UCL's data on hydrogen diffusion and epitaxial growth of silicon improved
+      Zyvex Labs' development process by giving important limits on the
+      atomically precise process being developed: during the early stages of
+      development, in early 2008, it indicated that the approach was feasible;
+      later, it was used to identify the temperatures at which hydrogen becomes
+      mobile, which were used to control and manage the growth processes [A].
+      This last point is particularly important: the growth of new silicon
+      requires elevated temperatures, and so the atomically precise control
+      would be impossible without UCL's data on the temperatures at which the
+      hydrogen mask would degrade. The UCL research findings in section 2 were
+      therefore used to set maximum annealing and growth temperatures for the
+      APM process, to ensure fidelity of patterns. As Zyvex Labs' entire process
+      and hence product relies on control of the position of the atoms on the
+      surface, the UCL results underpin its approach, and hence the products
+      that are being brought to market. The President writes: "Further, your
+      research on hydrogen mobility on silicon and epitaxial growth of silicon
+      is still very relevant and is referenced on a very regular basis as we are
+      carrying out this research" [A].
+    In addition to underpinning Zyvex Labs' approach, the UCL research has
+      helped the consortium led by Zyvex Labs to obtain just over $14 million in
+      funding between January 2008 and July 2013 [A]. This consists of two
+      research contracts from the US Defense Advanced Research Projects Agency
+      and a matching grant from the State of Texas, awarded to enable the
+      accelerated commercialisation and market adoption of atomically precise
+      devices and manufacturing approaches. These contracts started in August
+      2008 and have resulted in the hiring of at least five new employees at
+      Zyvex Labs, including one of the original experimentalists from Oxford
+      [A]. The UCL research underpinned the funding as it enabled Zyvex Labs'
+      development of atomically precise processes, which in turn allowed the
+      contracts to be awarded. The President of Zyvex Labs writes that UCL's
+      "work on the mobility of hydrogen on silicon surfaces has been enormously
+      influential on the research at Zyvex Labs and the funding of that
+      research" and that the funding was "made possible in no small measure by
+      your research" [A].
+    In 2013, UCL research has also been informing the approaches used by
+      Zyvex Labs in a new area: the development of manufacturing techniques for
+      quantum computing devices. This process will use hydrogen depassivation to
+      deposit dopant atoms with atomic precision, and Zyvex Labs is using the
+      recent UCL research on the electronic structure of dopants on silicon
+      surfaces to understand the effects of physical structure on dopant
+      properties and hence to design the devices [A]. [text removed for
+      publication]
+    
+ImpactSummary
+
+    The underpinning research involved modelling the diffusion of hydrogen on
+      silicon surfaces, and the electronic structure of dopant atoms on silicon
+      surfaces. This data was used to inform, guide and develop the atomically
+      precise manufacturing processes of Zyvex Labs. These processes remove
+      hydrogen atoms from a silicon surface to create patterns with atomic
+      precision for later overgrowth. As a result of the UCL research, Zyvex
+      Labs has already obtained funding of $14 million, several jobs have been
+      created, and at least two products are being brought to market.
+    
+UnderpinningResearch
+
+    Techniques for atomically precise manufacturing (APM) &#8212; the fabrication
+      of structures with the precision of one atom &#8212; are of interest to
+      industry. APM will enable industry to develop new technology ranging from
+      simple quantum dots and atomically accurate metrology standards, to
+      devices for the harvesting and storage of energy and for medical
+      applications. One method of achieving APM involves the growth of
+      structures on the Si(001) surface. A layer of hydrogen on this surface
+      acts as a mask against deposition of further material, so selective
+      removal of hydrogen atoms from the layer enables the selective deposition
+      of new material such as silicon and germanium, as well as dopant atoms for
+      quantum computing devices. The process becomes more complicated, however,
+      if elevated temperatures are required for growth of the new material,
+      since this can also cause hydrogen to diffuse about the surface, reducing
+      the efficiency of the method. The behaviour of hydrogen on the Si(001)
+      surface has therefore become an area of considerable importance, both
+      industrially and academically.
+    UCL research into the behaviour of hydrogen on Si surfaces has been
+      conducted by David Bowler who joined the Department of Physics and
+      Astronomy at UCL in July 1998. This research was part of a collaboration
+      that started whilst Bowler was at Oxford University and continued when he
+      moved to Keele University and then to UCL. The first key UCL contribution
+      (1998-2000) was part of an extensive joint experimental-theoretical
+      investigation with Oxford University of the behaviour of hydrogen on
+      Si(001) under various conditions [1]. In this work, researchers from
+      Oxford University conducted the experimental work, which consisted of
+      elevated-temperature scanning tunnelling microscope (STM) measurements of
+      hydrogen mobility, and UCL's Bowler conducted the theoretical work, which
+      involved modelling the diffusion barrier for hydrogen on Si(001), both on
+      the perfect surface and near step edges and defects. This modelling of
+      hydrogen diffusion gave a comprehensive picture of the energy surface,
+      including the diffusion barriers and the associated temperatures at which
+      hydrogen becomes mobile.
+    The next contribution (2001-2003) was performed entirely at UCL and was
+      relevant both to diffusion of hydrogen and growth of new silicon on
+      Si(001) [2]. This research involved modelling the formation of new Si
+      dimers during growth and hydrogen diffusion associated with this process.
+      Later research (2010-2012) performed by PDRA Veronika Brazdova and
+      supervised by Bowler consisted of modelling the electronic structure of
+      Si(110) [3], and understanding the diffusion of hydrogen on Si(110) [4]
+      and around a Si(001)/Si(110) corner. The key findings of this research
+      [1-4] hat underpinned the impact were the diffusion barriers for hydrogen
+      on silicon surfaces, both on the perfect surface and near defects and
+      steps.
+    More recently, UCL researchers have studied the effects of physical
+      structure on the electronic structure of dopant atoms on silicon surfaces
+      [5, 6]. The research involved STM experiments and density functional
+      theory (DFT) modelling of dopants on Si(111) [5] and Si(001) [6], and was
+      performed from 2009 to 2013 entirely within UCL. The effect of the
+      physical structure of the dopants on their electronic properties has been
+      found to lead to very different properties to the standard bulk behaviour:
+      on Si(111), Bi has been found to act as both an electron donor and an
+      electron acceptor, while on Si(001), Bi has been found to form a
+      spin-polarised, local state when coupled with a vacancy. These properties
+      have major implications for the design and construction of quantum
+      information devices built using APM, dopant atoms and silicon surfaces.
+    Key UCL researchers: David Bowler (PDRA 1998-1999; EPSRC
+      Postdoctoral Fellow 1999-2001; Royal Society University Research Fellow
+      2001-2009; Lecturer 2002-2006; Reader 2006-present), Veronika Brazdova
+      (PDRA 2006-present) and the UCL STM experimental group (K. Iwaya, P.
+      Studer, S.R. Schofield, C. F. Hirjibehedin and G. Aeppli).
+    

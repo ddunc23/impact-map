@@ -1,0 +1,135 @@
+CaseStudyId: 23147
+Title: 
+    Improving policy for sexual and reproductive health
+    
+
+ImpactDetails
+
+    Our review of chlamydia control activities in Europe was commissioned by
+      the European Centre for Disease Control and Prevention (ECDC) to inform
+      development of its policy. The resulting policy document, ECDC Guidance on
+      Chlamydia Control in Europe 2009 [a], states that the guidance was
+      developed by a technical expert group using the evidence gathered in the
+      EU report "Review of chlamydia control activities in EU countries" [b]
+      and systematic review of the effectiveness of chlamydia screening [6,
+        above]. It provides guidance to health policy makers in the EU about
+      national strategies for chlamydia control.
+    The systematic review of chlamydia screening was commissioned by NICE to
+      inform its guidance [c]. Our findings indicated that there was a
+      lack of evidence from randomised trials to show the effectiveness of
+      chlamydia screening and the final NICE Guidance made no recommendations
+      about chlamydia screening except for more robust research to examine the
+      effectiveness of different screening approaches [d]. This
+      recommendation contributed to decisions to fund two large randomised
+      trials &#8212; one in the Netherlands of a register based screening programme
+      and one in Australia of an opportunistic screening programme. The research
+      in the Netherlands concluded "There was no statistical evidence of an
+        impact on chlamydia positivity rates or estimated population prevalence
+        from the Chlamydia Screening Implementation programme after three years
+        at the participation levels obtained. The current evidence does not
+        support a national roll out of this register based chlamydia screening
+        programme" [e]. The systematic review had a persistent
+      influence on development of chlamydia screening policy nationally and
+      internationally.
+    Our research into chlamydia screening had wide impact, as it contributed,
+      through informed and constructive criticism, to public debate about the
+      National Chlamydia Screening Programme (NCSP) in England and its future
+      direction. Stephenson presented insights gained from the research to the
+      annual NCSP meeting (2007) and to the Independent Advisory Group at the
+      House of Lords (2008) [f]. She was among the experts who gave
+      evidence at interview to the National Audit Office for their report on
+      value for money of the NCSP (NAO 2009). She highlighted that since the
+      NCSP did not use unique identifiers or collect any clinical outcome data,
+      it was not able to evaluate its aims. The NAO report cites both our review
+      of chlamydia control activities in EU countries and the subsequent ECDC
+      Guidance on chlamydia control in Europe [g]. It concluded that the
+      delivery of the NCSP had not demonstrated value for money. In accordance
+      with our research findings, it stated that "due to uncertainties in the
+        scientific evidence on chlamydia, the Department does not know how often
+        infection leads to serious health problems and hence whether it is
+        cost-effective to invest so much public money in tackling this problem."
+      The NAO Report was swiftly followed by a highly critical report from the
+      Public Accounts Committee (2009-2010) [h]. In response to this
+      criticism, the NCSP focused on chlamydia testing in sexual health services
+      and primary care and has ceased screening in low risk groups that
+      identifies fewer positive cases [i]. These and other
+      organisational changes are expected to substantially improve value for
+      money. Between 2003 and 2009, c.&#163;100m was spent delivering the programme [h]
+      and cost savings on reconfiguration are expected to be considerable: "The
+        average cost per chlamydia screening episode (including follow up of
+        positive clients, overheads and local coordination) was found to be
+        &#163;45... An estimated cost of &#163;33 per screening episode should be
+        achievable, as screening volumes increase, chlamydia screening is better
+        integrated in all community sexual health pathways, sexual health
+        networks develop and regions move to collaborative procurement" [j].
+    While mathematical models tend to predict that screening will reduce the
+      prevalence of infection, there is currently no empirical evidence from the
+      NCSP to demonstrate a fall in prevalence. The latest (April 2013) update
+      on the National Chlamydia Screening Programme acknowledges the gaps in
+      current knowledge that our research highlighted and describes a new policy
+      of re-focusing chlamydia testing within health services, moving away from
+      population-based screening with coverage targets [k].
+    Reflecting on changes in chlamydia screening policy, Stephenson was
+      invited to present a plenary debate at the world congress of sexually
+      transmitted infections (Vienna, July 2013) on whether to abandon
+      population based chlamydia screening of asymptomatic young women [l].
+    
+ImpactSummary
+
+    Research by Professor Judith Stephenson and colleagues at the UCL
+      Institute of Women's Health into the effectiveness of chlamydia screening
+      has led to guidance to health policy makers in the EU about national
+      strategies for chlamydia control, and has influenced NICE guidelines on
+      the subject. In particular, our work has informed debate on the value for
+      money of the National Chlamydia Screening Programme (NCSP). Stephenson
+      advised the National Audit Office on this topic, and a resulting report
+      led to the NCSP focusing on chlamydia testing in sexual health services
+      and primary care rather than screening in low risk groups. These changes
+      are expected to make considerable cost savings to the NHS.
+    
+UnderpinningResearch
+
+    Our early research evaluated new molecular diagnostics for diagnosis of
+      genital chlamydia infection (nucleic acid amplification tests) which
+      compared favourably with the standard method (enzyme immunoassay) of the
+      day [1]. We then examined the feasibility of patients taking their
+      own samples (vaginal swabs) in a sexual health clinic compared with
+      clinicians taking cervical samples and showed that patient-taken samples
+      were acceptable to women and appropriately sensitive for the new molecular
+      diagnostics [2]. We went on to show the feasibility of women and
+      men taking their own samples outside the clinic setting in response to a
+      screening invitation sent to their home address and posting the samples to
+      a laboratory for chlamydia testing [3]. Together, these three
+      studies, in addition to baseline prevalence studies from Natsal [see
+        case study UCL02-JOH] were instrumental to the
+      rapid expansion and uptake of chlamydia testing in England. At the same
+      time, we made a strong case, based on review of the limited evidence base,
+      for the cost-effectiveness of chlamydia screening to be evaluated through
+      randomised trials before proceeding with implementation of a national
+      screening programme [4].
+    A systematic survey of chlamydia control activities in 29 European
+      countries was carried out 2006-2008, funded by the European Centre for
+      Disease Control and Prevention (ECDC). Stephenson collaborated with
+      Professor Nicola Low (PI, Bern University) on designing the survey and led
+      the work in the UK, including investigation of the National Chlamydia
+      Screening Programme (NCSP) as a case study. The survey showed wide
+      variation in the organisation of chlamydia control, with almost half of
+      the countries reporting no organised activity and national control
+      programmes in two countries. We outlined four levels for chlamydia control
+      programmes: Level A primary prevention, Level B case management, Level C
+      opportunistic testing, Level D screening programme and recommended a
+      step-by-step approach to ensure that accurate STI prevention and patient
+      management are in place before complex interventions such as screening are
+      considered, particularly as evidence for the impact of level C and D
+      programmes is lacking [5].
+    The early research described above sparked considerable debate and in
+      2006, Low's team and Stephenson were commissioned by NICE to carry out a
+      review of the effectiveness of chlamydia screening [6]. We
+      included 91 studies (5 systematic reviews or guidelines, 10 randomised
+      trials, 2 non-randomised trials, one time series and 73 prospective
+      studies) and produced multiple evidence statements to inform the NICE
+      guidance. We found a lack of evidence to support chlamydia screening in
+      the general population aged less than 25 and called for high-quality
+      trials of screening with clinical outcome measures to determine the
+      balance and harms of chlamydia screening [7].
+    

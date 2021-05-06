@@ -1,0 +1,164 @@
+CaseStudyId: 30002
+Title: 
+    Space vehicle surface force modelling for orbit prediction
+        (engineering applications) and orbit determination (science programmes)
+    
+
+ImpactDetails
+
+    The long-standing relationship between UCL and NASA Jet Propulsion
+      Laboratory and NASA Goddard Space Flight Centre founded on the research
+      outlined above has been sustained to the present day via invited
+      presentations at those institutions; publications in scientific journals
+      (including joint publications with NASA scientists, e.g. [6]) and in
+      conference presentations. Ziebart has convened conference sessions on
+      orbit dynamics at the American Geophysical Union and the European
+      Geosciences Union, stimulating further work in the field. As well as
+      supporting this important relationship with NASA's research centres, the
+      work led to the UCL's participation (2003 onwards) in the NASA Ocean
+      Surface Topography Science working team. Ziebart became a board member of
+      the International GNSS Service (IGS) in 2011, and provided leadership of
+      the IGS working group on satellite orbit dynamics. These relationships
+      have provided vital pathways for the impacts of the research described
+      above. They have led, in particular, to the use of UCL research to correct
+      errors in the orbit prediction and orbit determination of satellites,
+      enabling these satellites to provide more precise data for a range of
+      applications, including monitoring the effects of climate change, and in
+      GPS satellite navigation systems.
+    Contributions to the work of the Intergovernmental Panel on Climate
+        Change (IPCC):
+      Because thermal expansion and ice cover loss (glaciers, ice sheets)
+      contribute to rising sea level, ocean monitoring provides one of the best
+      ways of modelling long-term climate effects. Sea level monitoring is
+      carried out using high-accuracy altimetry satellites that are able to
+      record millimetre-level changes, enabling precise calculations of
+      temperature changes in the ocean over time. NASA's primary mission for
+      measuring sea level change was the Jason-1 satellite, which was
+      operational from 2001 to 2013. Every ten days, Jason-1 produced a model of
+      the shape of the world's oceans, providing accurate indications of
+      long-term changes in sea level. Jason-1 data constituted a critical
+      element in the geophysical data records (GDRs, compiled by NASA, and used
+      widely by oceanographers to monitor and model ocean dynamics) determining
+      changes in the ocean's surface, thus forming one of the most powerful
+      pieces of evidence to show that the Earth's climate is changing.
+      Throughout Jason-1's lifetime, the GDRs were submitted to the
+      Intergovernmental Panel on Climate Change (IPCC), the world's principal
+      climate science assessment body whose members include representatives of
+      195 governments. The solar radiation pressure and thermal re-radiation
+      modelling techniques established by Ziebart's team, which were adopted as
+      operational standards by NASA in 2010 removed significant systematic
+      biases in the satellite orbits, reducing aliasing and anomalies in the sea
+      level records passed to the IPCC [6].
+    In December 2007, the IPCC released its Fourth Assessment Report on the
+      scientific basis, impacts and mitigation of climate change. It included
+      details of the recorded change in sea level to that point, based on
+      Jason-1 outputs. Between 2008 and 2013, data from Jason-1 continued to be
+      passed to the IPCC, feeding into its 2008 Climate Change and Water
+      Technical Report [f] and informing the subject matter of its Working Group
+      1, which monitors and reports on the physical science bases of climate
+      change. Reports from this working group are discussed by policymakers and
+      other stakeholders at the UN's annual climate change conferences (UN COP,
+      four of which have been held between 2008 and July 2013). The first draft
+      of the group's contribution to the IPCC's Fifth Assessment Report,
+      including a summary for policymakers, was made available to governments
+      for comments in July 2013. A lead author for IPCC Working Group 1 says:
+      "This mission [Jason-1] provides one of the fundamental inputs to the
+      IPCC... the computation of orbits is an integral step in the chain of
+      producing meaningful data. This data is being used by sea level scientists
+      to improve projections of future sea level rise."
+    In turn, the IPCC's data "then affects directly the formulation of policy
+      seeking to mitigate the negative impacts of climate change upon the entire
+      population of the Earth." One direct application he points to is the use
+      of the data to determine planning for coastal infrastructure. [d]
+    GPS satellites: The development of Ziebart's techniques and their
+      subsequent testing (in particular the demonstration of the effectiveness
+      of earth radiation pressure and antenna thrust modelling) changed the way
+      in which the orbits of all GPS satellites are calculated &#8212; specifically
+      considering the directions and characteristics of forces previously not
+      considered. Those satellites have applications in monitoring the
+      earthquake cycle, measuring plate tectonics, precision agriculture as well
+      as for routine navigation applications in electronic devices such as
+      smartphones, which are used by many millions of people worldwide. The main
+      impact has been at the scientific end of the spectrum leading to an
+      accuracy improvement by a factor of 2.5 in the computed satellite orbits
+      [b].
+    These techniques were adopted as standard in 2010 by the International
+      GNSS Service, a voluntary federation of more than 200 worldwide agencies
+      that generates precise open-data GPS and GNSS products. The IGS produces
+      daily orbit calculations for all satellites; its adoption of the
+      techniques developed through UCL's work allowed it to improve its orbit
+      accuracy from 5cm to 2cm. IGS data usage is characterised by 700,000 site
+      visits a year, with circa 90 million downloads [e]. This data is used to
+      determine the terrestrial reference frame (TRF), the system of coordinates
+      used for monitoring the shape of the earth. The TRF forms the fundamental
+      basis for monitoring plate tectonics and height variation at tide gauges,
+      among other applications such as modelling sea level change and
+      post-glacial rebound, as well as commercial positioning services.
+    
+ImpactSummary
+
+    Departmental research led to changes in how radiation forces on several
+      classes of space vehicle (low earth orbit environmental measurement
+      satellites and medium earth orbit navigation missions like GPS) are
+      modelled by two NASA laboratories (Jet Propulsion Laboratory and Goddard
+      Space Flight Centre). This includes NASA's adoption of a UCL model as an
+      operational standard for Jason-1, which measured global sea level change
+      from 2001 to 2013. Jason-1 measurements are a critical component of data
+      supplied to the Intergovernmental Panel on Climate Change, thereby feeding
+      into policy formulation seeking to mitigate the effects of climate change
+      upon the entire population of Earth. The techniques also changed the way
+      in which GPS satellite orbits are calculated, with products used by many
+      millions of users.
+    
+UnderpinningResearch
+
+    Space geodesy uses satellites to measure planet characteristics such as
+      gravity field, sea level and ice cap variations, and tectonics. Modelling
+      the forcing effects of radiation (solar, terrestrial and radiation from
+      the satellites) is important for accurate predictions of GPS (and other)
+      satellite orbital trajectories. GPS positioning accuracy depends directly
+      upon our ability to determine, and predict, satellite orbits. Millions of
+      real-time users rely upon navigation devices decoding messages that
+      include mathematical models of instantaneous satellite locations &#8212; this
+      relies fundamentally upon accurate satellite force models. Put another
+      way, mis-modelling satellite motion introduces errors into user position
+      estimates.
+    Novel research on modelling space vehicle surface forces was undertaken
+      between 2001 and 2007 by Marek Ziebart (Professor of Space Geodesy, at UCL
+      since 2000) and his team (primarily Ant Sibthorpe, now at NASA JPL, at UCL
+      2002-2008, and Sima Adhya, now running a space mission insurance group in
+      the City of London, at UCL 2002-2005). Ziebart developed these ideas [1]
+      in his PhD and through further EPSRC and NERC-funded projects whilst at
+      UCL. The major developments &#8212; specifically design and implementation of
+      novel tool sets, and extension of the basic concepts &#8212; all took place at
+      UCL (2001-2007). The project demonstrated that high-accuracy radiation
+      flux models, detailed computer simulations of space vehicle geometry and
+      attitude, and surface material properties (both optical and thermal) could
+      be used in a novel and original fashion to model radiation surface forces
+      on satellites for engineering, scientific and commercial applications [3].
+      The approach broke new ground and was well received by the engineering and
+      scientific community because although the effects were known to be
+      important, existing approaches were considered overly simplistic and
+      error-prone.
+    The techniques developed (efficient spacecraft surface modelling, custom
+      ray-tracing methods, treatment of thermal response of both satellite
+      multi-layered insulation and solar panels, earth radiation force modelling
+      and antenna thrust modelling [3,4,5]) led to research collaboration (from
+      2003) with NASA Jet Propulsion Laboratory, NASA Goddard Space Flight
+      Centre and the US Air Force Research Laboratory. The UCL team proved their
+      approach's effectiveness to determine satellite positions in 2004 [2,3].
+      Improvements were shown in quality metrics both in orbit prediction (for
+      GPS satellites) and in sea surface height models (for altimetry
+      satellites). UCL space vehicle surface force models for satellite
+      altimetry platforms were subsequently adopted by NASA in 2010 for
+      operational production of orbits for scientific data processing.
+    Specific innovations developed during the 2001-2007 programme of research
+      include: using geometric primitives to reduce computational runtime; using
+      pixel arrays and enhanced ray-tracing methods to model radiation
+      interactions with satellite surfaces; modelling thermal forces on multi-
+      layered insulation; developing models of thermal gradients across solar
+      panels; modelling short and long-wavelength earth radiation fluxes; and
+      modelling antenna output thrust. These models were rigorously tested by
+      research groups external to UCL and were found to be superior to all other
+      approaches [6].
+    

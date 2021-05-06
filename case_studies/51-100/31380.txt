@@ -1,0 +1,130 @@
+CaseStudyId: 31380
+Title: 
+    Informing national and international influenza vaccination policy
+    
+
+ImpactDetails
+
+    Vaccination of healthcare workers
+    Hayward's DH Policy Research Programme research on vaccination of
+      healthcare workers against influenza in nursing homes and acute care
+      settings has led to national recommendations to immunise staff in nursing
+      homes and other social care settings [a] and is one of the main
+      streams of evidence supporting vaccination of healthcare workers against
+      influenza. Annual campaigns to increase uptake of the vaccination amongst
+      NHS staff have cited the publication for many years. (See, for example,
+      the current year's letter from the Chief Medical Officer [b].) The
+      evidence on low uptake contributed to DH decisions to set up mandatory
+      routine monitoring of influenza vaccine uptake in England and informs the
+      content of the DH "Flu Fighters" campaign (launched in 2010/11) aimed at
+      increasing uptake amongst front line healthcare staff including protection
+      of patients, safety and effectiveness as key messages. This has led to a
+      range of local NHS trust campaigns [c]. Since the publication of
+      our research, healthcare worker vaccination in acute trusts in England has
+      increased from a steady low of around 15% to around 45% in the 2010/11
+      season [d].
+    Internationally, the trial is cited in annual US guidance on healthcare
+      worker vaccination [e] and has also contributed to 27 States in
+      the US making healthcare worker influenza vaccination mandatory [f].
+      Our work was presented as key evidence in a 2013 test-case trial in Canada
+      on mandatory vaccination [g].
+    Informing US recommendations of prevention of stroke
+    Our systematic review and meta-analysis of the influence of influenza as
+      a trigger for acute vascular events was the first of its kind. It is now
+      cited in American Heart Association/American Stroke Association guidance
+      for prevention of stroke, recommending influenza vaccine for all those at
+      raised risk of stroke [h].
+    Routine vaccination of children
+    Our work has also impacted on the recent recommendation by the Joint
+      Committee on Vaccination and Immunisation (JCVI) of routine vaccination of
+      all children against influenza every year and the decision not to
+      recommend extension of vaccination to all adults aged over 50 years. This
+      decision was largely based on the findings of a dynamic transmission
+      model, commissioned by the DH and conducted by LSHTM and HPA, to assess
+      the effectiveness and cost effectiveness of the national influenza
+      vaccination campaign and consider options for extending this to other
+      groups. The model predicted that 30% coverage in children would result in
+      net savings of around &#163;65m and prevent loss of around 17,000 Quality
+      Adjusted Life Years annually. The model also suggested that extending
+      vaccination to all those aged greater than 50 years would not be cost
+      effective [i].
+    In order to increase confidence in the findings of the economic model the
+      committee requested that the age specific baseline levels of infection and
+      disease inferred by the model be validated against Flu Watch data
+      (provided prior to publication) to check that the model provided an
+      accurate representation of the true community burden. The fact that model
+      output and the empirical measures from Flu Watch matched gave confidence
+      in the validity of the model and thus supported the recommendation to
+      extend routine influenza vaccination to children but not to all adults
+      aged over 50. In deliberating on the type of vaccine to be used the Flu
+      Watch finding that cellular immune responses provide protection against
+      both seasonal and pandemic disease was discussed and contributed to the
+      decision to use Live Attenuated Influenza Vaccine (which stimulates both
+      cellular and humoral immunity) rather than Trivalent Inactivated Vaccine
+      (which only stimulates humoral immunity) [j]. The childhood
+      vaccination campaign is being launched in test regions in 2013.
+    
+ImpactSummary
+
+    Research undertaken at UCL's Centre for Infectious Disease Epidemiology
+      has provided evidence about vaccination of different groups against
+      influenza which have influenced policy and practice. In particular, our
+      work underpins the government's ongoing policy on vaccination of
+      healthcare workers, and is cited every year in the Chief Medical Officer's
+      letter to healthcare workers as well as international recommendations on
+      influenza vaccination of healthcare workers, including widespread
+      mandatory vaccination programmes in North America. Research on influenza
+      and acute cardiovascular events has informed US recommendations for
+      prevention of stroke through vaccination. Recent work also informed the
+      decision in the UK to extend regular influenza vaccination to children.
+    
+UnderpinningResearch
+
+    Research led by Dr Andrew Hayward at UCL's Centre for Infectious Disease
+      Epidemiology, in collaboration with others at Southampton University, the
+      London School of Hygiene &amp; Tropical Medicine (LSHTM) and the Health
+      Protection Agency (HPA), has informed national influenza vaccination and
+      control policy.
+    Between 2003 and 2005, Hayward designed and led a seminal cluster
+      randomised controlled trial, funded by the Department of Health (DH) to
+      encourage influenza vaccination of staff in 44 nursing homes [1].
+      The study, which involved more than 1,700 healthcare workers and 2,600
+      residents, showed a significant decrease in patient mortality,
+      Influenza-like illness (ILI), consultations for ILI with general
+      practitioners, and ILI hospitalizations during a moderate influenza season
+      among residents of homes in the healthcare worker vaccination arm,
+      compared with those residing in control facilities. This provided clear
+      evidence in favour of vaccinating healthcare workers, which is continually
+      cited in key communications and international recommendations on this
+      topic.
+    Hayward was also part of the team that conducting the only national study
+      of influenza vaccine attitudes amongst NHS staff [2, 3]. This
+      DH-funded study among 6,302 NHS staff showed that 19% of responders had
+      taken up influenza immunisation during winter 2002/3. Amongst those
+      vaccinated, the majority who accepted vaccination (66%) were most strongly
+      influenced by the personal benefits of protection against influenza.
+      Prevention of sickness absence and protection of patients were the prime
+      motivation for only 10% and 7% of subjects, respectively. Among 3,967 who
+      declined vaccination, the most common primary demotivators were concern
+      about safety (31%) and efficacy (29%). 22% were most strongly deterred by
+      lack of time to attend for vaccination. Free text answers indicated that
+      37% declined because of a perceived low ratio of personal benefits to
+      adverse effects. Subjects said they would be persuaded to take up
+      vaccination in future by easier access (36%), more information about
+      personal benefit and risk (34%) and more information about effects on
+      staff absence (24%).
+    Hayward is lead author in a systematic review and meta-analysis of the
+      impact of influenza on triggering acute cardiovascular events showing this
+      is an important preventable risk factor [4].
+    Since 2006, Hayward has led the MRC/Wellcome Flu Watch study, the world's
+      largest community study of influenza transmission and immunity. This study
+      recruited households across England to monitor levels of illness over five
+      flu seasons, via serological testing of pre- and post-season blood
+      samples, weekly follow up to record any flu-like illness, and nasal swabs
+      for those who reported such illness. The main results, which are under
+      review by the Lancet, provide the most robust measures to date of
+      influenza burden across different age groups and highlight the
+      particularly high rates in children [5]. Further results showed
+      the importance of T-cell mediated immunity in protecting against seasonal
+      and pandemic influenza.
+    

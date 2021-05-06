@@ -1,0 +1,238 @@
+CaseStudyId: 30511
+Title: 
+    Radon exposure: Informing advisory guidelines
+    
+
+ImpactDetails
+
+    Radon is the single biggest source of public radiation exposure in the UK
+      and is responsible for an estimated 1,100 lung cancer deaths a year [A].
+      Prior to the case-control studies of domestic radon described in section
+      2, it was generally thought that radon-related lung cancer occurred mainly
+      in individuals exposed to the gas at very high concentrations. This belief
+      arose because most of the previous evidence of a link between radon
+      exposure and lung cancer came from studies of miners who had been exposed
+      to high doses occupationally. Consequently, guidelines issued by official
+      public health bodies &#8212; both nationally and internationally &#8212; focused
+      almost entirely on the avoidance of high exposures above certain levels.
+    The finding of the domestic studies that there is a clearly detectable
+      risk of lung cancer at radon concentrations below the minimum levels for
+      intervention suggests, however, that the majority of radon-related lung
+      cancers occur in people exposed to only moderate concentrations; the risk
+      is low, but in the absence of preventive measures many more people are
+      exposed to the gas at these levels. This research finding therefore has
+      substantial implications for the most appropriate way to reduce the
+      average public exposure to radon, with a shift in emphasis from
+      measurement and remediation in existing homes to the installation of
+      preventive measures &#8212; such as thicker and better sealed damp-proof
+      membranes in floors &#8212; in large numbers of new homes. This change in
+      emphasis has been highlighted in national and international reports
+      evaluating the public health aspects of radon.
+    In the UK, the Health Protection Agency (HPA) has, since 2008, provided
+      government with updated advice about the risk of radon, which replaced the
+      previous advice published in 1990 by the National Radiological Protection
+      Board. This updated advice was influenced by the research findings of the
+      European pooling study (references [2] and [3] in section 3) and consisted
+      of recommendations about building regulations made in 2008 [B], followed
+      by further advice in 2010 on limiting public exposure to radon [C].
+      Recognition that there is a risk of lung cancer from radon concentrations
+      below the UK intervention level (together with other factors) led the HPA
+      to recommend to the Department of Health in the 2008 document that
+      "building regulations and supporting documents should be amended to ensure
+      that all new buildings, extensions, conversions and refurbished buildings
+      in the UK include basic radon protective measures" [B].
+    This advice was followed in 2009 by a substantial review by the HPA's
+      independent Advisory Group on Ionising Radiation (AGIR) of the effects of
+      radon on the health of the population [A], which further concluded that
+      changes by government to building regulations have the potential to reduce
+      the total number of deaths due to radon in a cost-effective way. The
+      European pooling study is extensively cited in this document and provided
+      important evidence that helped shape the AGIR's advice to the HPA; the
+      report states: "The association between the long-term average residential
+      radon concentration and the risk of lung cancer found in a pooled analysis
+      of individual data from 13 European studies is the best current basis for
+      risk estimation" [A]. It goes on to repeat the finding from the European
+      pooling study that there is an estimated 16% increase in lung cancer risk
+      per 100 Bq m-3 increase in concentration of radon gas. This
+      estimate was used by the AGIR in a cost-benefit analysis, to evaluate the
+      cost-effectiveness of current and possible future radon control policies
+      for the UK. Amongst other things, this analysis concluded that (1) not
+      only was the current government policy to install radon preventive methods
+      in all new homes in areas with average concentrations above 52 Bq m-3
+      cost-effective; but that (2) extending this requirement to all new homes
+      nationwide would also be cost-effective and would avert considerably more
+      lung cancers (242 in the first 10 years of the policy compared with 28)
+      [A]. In response to the AGIR review, the HPA published its current advice
+      to government in 2010 [C], which reiterates the recommendations of the
+      AGIR and additionally recommends that a new Target Level of 100 Bq m-3
+      should be introduced alongside the current Action Level of 200 Bq m-3.
+      Preventive measures are already required in new homes if the probability
+      of exceeding the Action Level is 1-3%; the Target Level is the
+      concentration above which the HPA recommends householders seriously
+      consider taking remedial action. Having two levels also "avoids the false
+      impression that there is a clear boundary between safe and unsafe radon
+      concentrations" [C]. This 2010 advisory document also states that the
+      European pooling study provides the "best information on the risks from
+      radon exposure in homes" currently available and repeats the findings of
+      that work [C].
+    Internationally, in 2009 the World Health Organization (WHO) published a
+      handbook on indoor radon [D], designed to aid the development of national
+      radon programmes and to inform stakeholders involved in radon control,
+      such as the construction industry. This handbook also cites the European
+      pooling study extensively, noting that it is the only one of the three
+      existing pooling exercises (this one and two smaller ones involving US and
+      Chinese data respectively) to correct for measurement error; indeed, the
+      authors of the WHO report applied approximate corrections to the risk
+      estimates from the other two studies to bring them into line with the
+      European one [D]. Two conclusions of the WHO that are heavily dependent on
+      the European pooling study are: "The majority of radon-induced lung
+      cancers are caused by low and moderate radon concentrations rather than by
+      high radon concentrations, because in general less people are exposed to
+      high indoor radon concentrations", and "Radon is much more likely to cause
+      lung cancer in people who smoke..." [D]. The handbook goes on to outline
+      the implications for policy, such as the need to provide protection
+      against low exposures. It also summarises the cost-benefit analysis in the
+      AGIR report and highlights it as a good example of how to use the risk
+      estimates as a scientific basis for policy making [D]. The increase in
+      absolute risk from radon exposure for smokers was also highlighted in the
+      2010 WHO guidelines on indoor air quality [E], where the different levels
+      of risk according to smoking status were provided and the European pooling
+      study was cited as one of the primary sources of evidence. These
+      guidelines are targeted at public health professionals involved in
+      preventing health risks of environmental exposures, and aim to provide a
+      scientific basis for legally enforceable standards.
+    The process of moving from reports by committees to changes in
+      legislation is a slow one, but in several countries there is a move
+      towards revising national policy on the control of risks from domestic
+      radon exposure, with a shift from searching for homes with high radon
+      concentrations and remediating them, to the introduction of radon
+      preventive measures in large numbers of homes. For example, Finland,
+      influenced by the south-west England study (reference [1] in section 3) as
+      well as by its own national study, changed its building code in 2004 to
+      require more effective radon preventive measures in new buildings; a
+      survey conducted in 2009 revealed that these improved measures had
+      resulted in a 33% lower average indoor radon concentration in new homes
+      [F]. In Germany there is current discussion, motivated in part by the risk
+      estimates from the European pooling study, on a move in this direction
+      [G], and the UK is also considering changes in light of the cost-benefit
+      study in the AGIR report.
+    
+ImpactSummary
+
+    UCL research on statistical methodology has underpinned important
+      investigations by scientists at Oxford University into the relationship
+      between exposure to the naturally occurring radioactive gas radon and lung
+      cancer. The resulting dose-response relationships and risk estimates have
+      informed advice given in 2008-10 to the UK government by the Health
+      Protection Agency about the risk of radon exposure and the
+      cost-effectiveness of radon control policies. They have also influenced
+      the conclusions of the World Health Organization about indoor radon and
+      lung cancer, as reported in their 2009 handbook. Furthermore, the research
+      findings have led to proposals for changes to building regulations in the
+      UK and elsewhere, and changes to the building code in Finland have
+      resulted in a reduction in the average indoor radon concentration in new
+      homes.
+    
+UnderpinningResearch
+
+    Evidence of an association between exposure to radon gas and increased
+      rates of lung cancer has been available for over 100 years, but this early
+      evidence was based on the exposure of uranium miners to very high doses of
+      radon. However, people are also exposed to low doses of radon simply by
+      living in their homes; granite &#8212; the underlying rock in many areas &#8212;
+      contains low concentrations of the gas, which seeps up through the ground
+      into buildings (the average concentration inside homes is 20 Bq m-3).
+      It is therefore important to estimate the risk of lung cancer associated
+      with these low doses, in order to judge whether and when preventive
+      measures should be taken. In the past, this estimation was done by
+      extrapolating from high to low doses of radon, but about 20 years ago
+      advances in instrumentation for measuring radon concentrations in the home
+      opened up the possibility of direct estimation of the risk of developing
+      lung cancer due to domestic exposure. In the last 20 years, several
+      countries have carried out case-control studies, in which lung cancer
+      patients are matched with a control group and the radon exposure histories
+      of both groups &#8212; obtained by retrospective measurements in the homes they
+      have lived in &#8212; are compared and, in particular, are used to estimate a
+      dose-response relationship. This requires adjustments for various other
+      factors, of which smoking history is the most important.
+    Since the early 1990s, Tom Fearn (Senior Lecturer 1989-96; Reader
+      1996-99; Professor 1999-present) in UCL's Department of Statistical
+      Science has worked closely with a group of scientists in the University of
+      Oxford's Clinical Trials Support Unit (CTSU) on a number of studies
+      relating to radon exposure. The CTSU group has been instrumental in
+      carrying out a large case-control study in the south-west of England [1],
+      and in pooling the results of 13 European case-control studies [2, 3].
+      This latter exercise did not just combine the published risk estimates,
+      but rather involved an analysis of the pooled data from all of the
+      studies. Fearn's contribution to the work was in providing statistical
+      methodology that underpinned the data analyses in the CTSU group's
+      studies, as well as contributing to the data analysis.
+    One relatively straightforward contribution from Fearn, with background
+      and data provided by Sarah Darby at CTSU and Jon Miles at the National
+      Radiological Protection Board, was a methodology [4] for applying a
+      seasonal variation correction to domestic radon measurements, which are
+      typically taken by placing a detector in the home for six months. This
+      seasonal variation correction is important because summer measurements of
+      internal radon concentrations are lower than winter ones (due to the
+      release of radon to the outside through open windows), and so a six-month
+      average is not an accurate estimate of the annual dose. The methodology
+      developed at UCL involved smoothing and extrapolation with periodic
+      functions, and was used to correct the dose measurements from the
+      south-west England study [1] that was carried out between 1988 and 1998.
+    A major difficulty in correctly estimating the dose-response relationship
+      in case-control studies of radon and lung cancer is that there is very
+      substantial measurement error in the radon measurements, with a typical
+      coefficient of variation being 50%. It is well known that error in the
+      x-variable flattens regressions, leading to slope estimates that are too
+      low. Correcting for this effect is a simple matter for linear regression
+      models; however, the model typically used to analyse these case-control
+      studies is a logistic regression of case-control status on dose and
+      covariates (such as smoking), fitted by maximum likelihood, for which the
+      simple correction methods do not apply. In the analysis of the south-west
+      England study [1], an approximate method by Cox and Reeves of Oxford
+      University was used to make the correction. Fearn was closely involved in
+      the implementation of this methodology; for example, advising on the
+      estimation of measurement error variances in the situation where the
+      exposure measurement is a sum over several homes with a proportion of
+      missing data.
+    For the European pooling study, on which work began in about 2003, this
+      approximate method for correcting for the radon measurement error was
+      considered to be inadequate. The main reason for this was the need to
+      include study-specific adjustment for a substantial number of covariates.
+      With large numbers of covariates maximum likelihood is biased, and it is
+      preferable to implement the analysis using stratification and a
+      conditional logistic likelihood, for which the Cox-Reeves approach does
+      not work. Fearn therefore developed a new methodology based on numerically
+      integrating the conditional logistic likelihood [5], with input on the
+      context from Darby at CTSU and some computing assistance from David Hill
+      at CTSU. This method is exact (if the distributional assumptions are
+      correct), but computationally expensive, and was used in the data analysis
+      reported in the European pooling study [2, 3].
+    In the case-control [1] and European pooling [2, 3] studies it was found
+      that appropriate correction for radon measurement error using the methods
+      described above roughly doubled the estimate of the slope in the linear
+      (for log odds) dose-response, i.e. the risk of developing lung cancer from
+      exposure to radon was estimated to be twice as great as previously
+      thought. This has important implications for policy decisions, where, for
+      example, cost-benefit analyses of the value of remedial action in
+      buildings need to be based on the correct estimates of risk. The two
+      studies resulted in similar estimates of the risk of lung cancer from
+      exposure to radon, but that from the pooled analysis has the advantage of
+      being both much more precise and more appropriate for international use,
+      because it was based on almost all the international data available at the
+      time. The pooled analysis also found that there was no evidence of a dose
+      threshold (i.e. a radon dose below which there is no effect), which also
+      has important implications for public health policy since there is no dose
+      that can be regarded as safe [2, 3]. A further important finding was that
+      exposure to radon multiplies the risk of lung cancer from smoking, so that
+      those who smoke &#8212; or who have smoked in the past &#8212; are at much higher
+      absolute risk than lifelong non-smokers.
+    Note that Fearn is not an author on references [2] and [3], despite
+      contributing substantially to the data analysis, because of a
+      two-per-study limit on authors (his contribution is instead acknowledged
+      on page 53 of reference [2]). Please also note that although the
+      methodology in reference [5] is described in detail in reference [2], the
+      paper is not cited there because it was published later, the large time
+      gap being due to differences in editorial practices between medical and
+      statistical journals.
+    

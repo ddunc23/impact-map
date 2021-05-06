@@ -8,8 +8,10 @@
 	<title>REF data map</title>
 	<script src='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.js'></script>
 	<link href='https://api.mapbox.com/mapbox-gl-js/v2.0.1/mapbox-gl.css' rel='stylesheet' />
+	<script src="https://cdn.jsdelivr.net/npm/@turf/turf@5/turf.min.js"></script>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-	<script src='https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js'></script>
+	<script src="underscore-umd-min.js"></script>
+	
 
 	<style>
 		body, html {
@@ -26,24 +28,40 @@
 			height: 100%;
 		}
 
+		.overlay-topleft {
+			top: 0;
+			left: 0;
+		}
+
+		.overlay-topright {
+			top: 0;
+			right: 0;
+		}
+
+		.overlay-bottomleft {
+			bottom: 0;
+			left: 0;
+		}
+
+		.overlay-bottomright {
+			bottom: 0;
+			right: 0;
+		}
 
 		.map-overlay {
 			font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 			position: absolute;
-			width: 200px;
-			top: 0;
-			right: 0;
+			width: 250px;
 			padding: 10px;
 			z-index: 10;
 		}
 			 
 		.map-overlay .map-overlay-inner {
-			background-color: #fff;
 			box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 			border-radius: 3px;
 			padding: 10px;
 			margin-bottom: 10px;
-			background-color: #111;
+			background-color: rgba(17,17,17,0.9);
 			color: #586e75;
 		}
 			 
@@ -101,15 +119,42 @@
 			min-width: 20px;
 		}
 
+		.mapboxgl-popup-tip {
+			border-top-color: #111!important;
+		}
+
+		.mapboxgl-popup-content {
+			background: rgba(17,17,17,0.9)!important;
+			color: #586e75!important;
+		}
+
+		.modal-content {
+			background: rgba(17,17,17,0.9)!important;
+			color: #586e75!important;
+		}
+
+		.modal-header {
+			border-bottom: 1px solid black;
+		}
+
+		.modal-footer {
+			border-top: 1px solid black;
+		}
 
 	</style>
 
 </head>
 <body>
 <div class="container-fluid min-vh-100 map_container">
+	<nav class="navbar navbar-dark bg-dark">
+	  <div class="container-fluid">
+	    <span class="navbar-brand mb-0 h1">UCL REF2014 Impact Case Study Map Prototype</span>
+	  </div>
+	</nav>
 	<div id='map'>
-		<div class="map-overlay top">
+		<div class="map-overlay top overlay-topright">
 			<div class="map-overlay-inner">
+				<h5>Impact Type</h5>
 				<fieldset>
 					<select id="impactType" name="impactType">
 						<option value="All" selected="selected">All</option>
@@ -123,11 +168,30 @@
 						<option value="Technological">Technological</option>
 					</select>
 				</fieldset>
-				<h4>Lives Touched: <span id="livesTouchedTotal">0</span></h4>
+				<h5>Projects: <span id="projectsTotal">0</span></h5>
+				<h5>Lives Touched: <span id="livesTouchedTotal">0</span></h5>
 				<canvas id="impactChart" width="200" height="400"></canvas>
+			</div>
+		</div>
+		<div class="map-overlay bottom overlay-bottomleft" style="display: none;" id="caseStudyDetailWindow">
+			<div class="map-overlay-inner" id="caseStudyDetailContent">
+				<p>Content</p>
+			</div>
 		</div>
 	</div>
+	<!-- Modal -->
+	<div class="modal fade" id="caseStudyDetailModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+
+			</div>
+		</div>
+	</div>
+
 </div>
+
+<script src='https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js'></script>
+
 <script>
 
 	mapboxgl.accessToken = 'pk.eyJ1IjoiZGR1bmMyMyIsImEiOiJxQVhaaVhjIn0.T7vhn1bLeeQoHCsWZ_mp2g';
@@ -138,7 +202,32 @@
 		zoom: 5.5 // starting zoom
 	});
 
-	const url = 'ucl_ref_data_geolocated_world_multi-point-randomlives-hexgrid.geojson';
+	const url = 'ucl_ref_data_geolocated_world_multi-point-randomlives-hexgrid-sample-metrics-updated-6.geojson';
+	const countries_url = 'countries_outlines.geojson';
+
+	// Global variable to hold map filter status
+
+	let isMapFiltered = false;
+
+	// helper function to generate colour shades
+
+	function shadeColor(color, shade) {
+	    var colorInt = parseInt(color.substring(1),16);
+
+	    var R = (colorInt & 0xFF0000) >> 16;
+	    var G = (colorInt & 0x00FF00) >> 8;
+	    var B = (colorInt & 0x0000FF) >> 0;
+
+	    R = R + Math.floor((shade/255)*R);
+	    G = G + Math.floor((shade/255)*G);
+	    B = B + Math.floor((shade/255)*B);
+
+	    var newColorInt = (R<<16) + (G<<8) + (B);
+	    var newColorStr = "#"+newColorInt.toString(16);
+
+	    return newColorStr;
+	}
+
 
 	const colourScheme = {
 		'Cultural': '#d33682',
@@ -176,25 +265,68 @@
 		'All': 0
 	};
 
+	let caseStudyIds = [];
+
+	let projectsTotals = {
+		'Cultural': 0,
+		'Economic': 0,
+		'Environmental': 0,
+		'Health': 0,
+		'Legal': 0,
+		'Political': 0,
+		'Societal': 0,
+		'Technological': 0,
+		'All': 0
+	}
+
+	const metricTypes = [
+	    'LIVESTOUCHED',
+	    'LIVESIMPROVED',
+	    'ECONOMICVALUE',
+	    'MEDIACOVERAGE',
+	    'PATIENTSTREATED',
+	    'POTENTIALPATIENTS',
+	    'STUDYPARTICIPANTS',
+	    'IMPACTEDBYPOLICYCHANGE'
+	]
 
 
+	let metrics = {
+		'Cultural': {},
+		'Economic': {},
+		'Environmental': {},
+		'Health': {},
+		'Legal': {},
+		'Political': {},
+		'Societal': {},
+		'Technological': {},
+		'All': {}
+	};
 
+	let metricsTotals = {
+		'Cultural': 0,
+		'Economic': 0,
+		'Environmental': 0,
+		'Health': 0,
+		'Legal': 0,
+		'Political': 0,
+		'Societal': 0,
+		'Technological': 0,
+		'All': 0	
+	};
+
+	
 	function updateLivesTouchedTotal(caseStudies, impactType) {
 		// updates the lives touched total, depending on impact type. If no impactType passed, gives the total for the whole data set
 		let livesTouchedTotal = document.getElementById('livesTouchedTotal');
-		let total = 0;
-		let features = null;
-
-		if (livesTouchedTotals['All'] == 0) {
-			Object.keys(livesTouchedTotals).forEach(function(key) {
-				total += livesTouchedTotals[key];
-			});
-			livesTouchedTotals['All'] = total;
-		} 
-
-		total = livesTouchedTotals[impactType]
-		livesTouchedTotal.innerHTML = total;
+		let projectsTotal = document.getElementById('projectsTotal');
+		let total = caseStudies[impactType]
+		let projects = projectsTotals[impactType];
+		livesTouchedTotal.innerHTML = total.toLocaleString("en-US");
 		livesTouchedTotal.style.color = colourScheme[impactType];
+		projectsTotal.innerHTML = projects.toLocaleString("en-US");
+		projectsTotal.style.color = colourScheme[impactType];
+
 	}
 
 	function updateLivesImprovedTotal(caseStudies, impactType) {
@@ -210,48 +342,126 @@
 
 		
 		total = livesImprovedTotals[impactType];
-		
-		//livesTouchedTotal.innerHTML = total;
-		//livesTouchedTotal.style.color = colourScheme[impactType];
 	}
 
 
-	// Load the json data so you can do stuff with it, outside of mapbox js
-		
-	let caseStudies = null;
+	function resetChart() {
+		let impactType = 'All';
+		let datasets = [];
 
-	// Create an empty variable to hold the chart so you can reference it later on
-	impactChart = null;
 
-	fetch(url).then(response => response.json()).then(function(data) {
-		caseStudies = data;
-		
+		if (impactType == 'All') {		
+			for (let i in metricsTotals) {
+				if (i == 'All') {
+					continue;
+				}
+				let dataset = {
+					data: [metricsTotals[i]],
+					label: i,
+					backgroundColor: colourScheme[i]
+				};
+				datasets.push(dataset);
+			}
+		} else {
+			let impactMetrics = metrics[impactType];
+
+			let currentColour = colourScheme[impactType];
+
+			for (let i in impactMetrics) {
+				let dataset = {
+					data: [impactMetrics[i]],
+					label: i,
+					backgroundColor: currentColour
+				}
+				datasets.push(dataset);
+				currentColour = shadeColor(currentColour, -100);
+			}
+		}
+
+	    impactChart.data.datasets = datasets;
+		impactChart.update();
+
+		updateLivesTouchedTotal(metricsTotals, 'All');
+
+		document.getElementById('impactType').selectedIndex = 0;
+
+	}
+
+	function populateTotalsChart() {
+
+		// Create totals using the new metrics ...
+
+		for (let i=0; i<caseStudies.features.length; i++) {
+			feature = caseStudies.features[i];
+
+			if (caseStudyIds.includes(feature.properties.CaseStudyI)) {
+				continue;
+			}
+
+			caseStudyIds.push(feature.properties.CaseStudyI);
+			projectsTotals[feature.properties.ImpactType] += 1;
+
+			impactType = feature.properties.ImpactType;
+			featureMetrics = feature.properties.metrics;
+
+			if (featureMetrics && metricTypes.includes(featureMetrics[0].metrictype) && typeof(featureMetrics[0].value) == 'number') {
+				
+				metricsTotals[impactType] += featureMetrics[0].value;
+
+				if (typeof(metrics[impactType][featureMetrics[0].metrictype]) == 'number') {
+					metrics[impactType][featureMetrics[0].metrictype] += featureMetrics[0].value;
+				} else {
+					metrics[impactType][featureMetrics[0].metrictype] = featureMetrics[0].value;
+				}
+			}			
+		}
+
+		projectsTotals.All = caseStudyIds.length;
+		document.getElementById('projectsTotal').innerHTML = projectsTotals.All;
+
+
+		for (let i in metricsTotals) {
+			if (i != 'All') {
+				metricsTotals['All'] += metricsTotals[i];
+			}
+		}
+
+		// Update the totals
+
 		for (i=0; i<caseStudies.features.length; i++) {
 			feature = caseStudies.features[i];
 			livesTouchedTotals[feature.properties.ImpactType] += feature.properties.livesTouch;
 			livesImprovedTotals[feature.properties.ImpactType] += feature.properties.livesImpro;
 		}
 
-		updateLivesTouchedTotal(data, 'All');
-		updateLivesImprovedTotal(data, 'All');
+		updateLivesTouchedTotal(metricsTotals, 'All');
+		updateLivesImprovedTotal(caseStudies, 'All');
 
 		// Create the bar chart
 
 		let ctx = document.getElementById('impactChart').getContext('2d');
 
-		let chartData = {
-			labels: ['Lives Touched', 'Lives Improved'],
-			datasets: [{
-				data: [livesTouchedTotals['All'], livesImprovedTotals['All']],
-				labels: ['Lives Touched', 'Lives Improved'],
-				backgroundColor: [
-					colourScheme['All'],
-					colourScheme['All'],
-				]
-			}]
+		let datasets = [];
+		
+		for (let i in metricsTotals) {
+			if (i == 'All') {
+				continue;
+			}
+			let dataset = {
+				data: [metricsTotals[i]],
+				label: i,
+				backgroundColor: colourScheme[i]
+			};
+			datasets.push(dataset);
 		}
 
-		impactChart = Chart.Bar(ctx,{
+		let chartData = {
+			labels: ['Lives Touched'],
+			datasets: datasets
+		}
+
+		impactChart = new Chart(ctx, {
+			type: 'bar',
 			data: chartData,
 		  	options: {
 				scales: {
@@ -259,16 +469,15 @@
 						stacked: true
 					}],
 					yAxes: [{
-						ticks: {
-							beginAtZero: true,
-							suggestedMin: 100,
-							suggestedMax: 40000
-						},
 						stacked: true
 					}]
 				},
 				legend: {
 					display: false
+				},
+				tooltips: {
+					mode: 'index',
+					intersect: true
 				}
 			}
 		});
@@ -277,39 +486,60 @@
 
 		let impactTypeSelect = document.getElementById('impactType');
 		impactTypeSelect.addEventListener('change', function() {
-			
 			let impactType = this.value;
+			let datasets = [];
 
-			let livesTouchedLabel = 'Lives Touched';
-			let livesImprovedLabel = 'Lives Improved';
-			let livesTouchedData = livesTouchedTotals[impactType];
-			let livesImprovedData = livesImprovedTotals[impactType];
 
-			let dataset = {
-				data: [livesTouchedData, livesImprovedData],
-				labels: [livesTouchedLabel, livesImprovedLabel],
-				backgroundColor: [
-					colourScheme[impactType],
-					colourScheme[impactType]
-				]
+			if (impactType == 'All') {		
+				for (let i in metricsTotals) {
+					if (i == 'All') {
+						continue;
+					}
+					let dataset = {
+						data: [metricsTotals[i]],
+						label: i,
+						backgroundColor: colourScheme[i]
+					};
+					datasets.push(dataset);
+				}
+			} else {
+				let impactMetrics = metrics[impactType];
+
+				let currentColour = colourScheme[impactType];
+
+				for (let i in impactMetrics) {
+					let dataset = {
+						data: [impactMetrics[i]],
+						label: i,
+						backgroundColor: currentColour
+					}
+					datasets.push(dataset);
+					currentColour = shadeColor(currentColour, -100);
+				}
 			}
 
-			impactChart.data.labels = [] 
-			impactChart.data.datasets.forEach((dataset) => {
-				dataset.data.pop();
-			});
-			impactChart.data.labels.push(livesTouchedLabel, livesImprovedLabel)
-		    impactChart.data.datasets[0] = dataset;
-		    impactChart.options.scales.yAxes.suggestedMin = 1000;
-		    impactChart.options.scales.yAxes.suggestedMax = 400000;
+		    impactChart.data.datasets = datasets;
 			impactChart.update();
 		});
+	}
 
+
+	// Hold the json data in a variable so you can do stuff with it, outside of mapbox js
+	let caseStudies = null;
+	let countriesData = null;
+
+	// Create an empty variable to hold the chart so you can reference it later on
+	let impactChart = null;
+
+	fetch(url).then(response => response.json()).then(function(data) {
+		caseStudies = data;
+		populateTotalsChart();
 	});
 
+	fetch(countries_url).then(response => response.json()).then(function(data) {
+		countriesData = data;
+	});
 	
-
-
 
 	map.on('load', function() {
 
@@ -317,6 +547,22 @@
 			type: 'geojson', 
 			data: url
 		});
+
+		map.addSource('countries', {
+			type: 'geojson',
+			data: countries_url
+		})
+
+		map.addLayer({
+			id: 'country_outlines',
+			type: 'fill',
+			source: 'countries',
+			layout: {
+				'visibility': 'none'
+			},
+			paint: {
+			}
+		})
 
 		map.addLayer({
 			id: 'refdata',
@@ -368,7 +614,7 @@
 
 			// Update the running total
 
-			updateLivesTouchedTotal(caseStudies, impactType);
+			updateLivesTouchedTotal(metricsTotals, impactType);
 
 		});
 
@@ -379,12 +625,22 @@
 			closeOnClick: false
 		});
 
-		map.on('mouseenter', 'refdata', function (e) {
+		map.on('mouseenter', 'refdata', function(e) {
 			// Change the cursor style as a UI indicator.
 			map.getCanvas().style.cursor = 'pointer';
 			 
 			let coordinates = e.features[0].geometry.coordinates.slice();
-			let description = e.features[0].properties.Title;
+
+			let fontColour = colourScheme[e.features[0].properties.ImpactType];
+			
+			description = '';
+
+			if (e.features[0].properties.ShortTitle == '') {
+				description = '<span style="color: '+ fontColour +'">' + e.features[0].properties.Title + '</span>';
+			} else {
+				description = '<span style="color: '+ fontColour +'">' + e.features[0].properties.ShortTitle + '</span>';
+			}
+
 			 
 			// Ensure that if the map is zoomed out such that multiple
 			// copies of the feature are visible, the popup appears
@@ -401,7 +657,279 @@
 			map.on('mouseleave', 'refdata', function () {
 				map.getCanvas().style.cursor = '';
 				popup.remove();
+		});
+
+		// Click interactions
+
+		// When a user clicks on the map, clear all filters
+
+		map.on('click', function(e) {
+			if (isMapFiltered == true) {
+				map.setFilter('refdata');
+				// Hide country shapes
+				map.setLayoutProperty('country_outlines', 'visibility', 'none');
+				document.getElementById('caseStudyDetailWindow').style.display = 'hidden';
+				document.getElementById('caseStudyDetailContent').innerHTML = '';
+				map.setPaintProperty('refdata', 'circle-radius',  ["interpolate", ["linear"], ["zoom"], 1, 3, 5, 2, 10, 20]);
+				map.removeLayer('LineString');
+				map.removeSource('LineString');
+				clickPopup.remove();
+				isMapFiltered = false;
+				resetChart()
+			}
+		});
+
+		let clickPopup = new mapboxgl.Popup({
+			closeButton: false,
+			closeOnClick: false,
+			maxWidth: '300px'
+		});
+
+		map.on('click', 'refdata', function(e) {
+
+			let coordinates = e.features[0].geometry.coordinates.slice();
+			let caseStudyId = e.features[0].properties.CaseStudyI;
+			let impactType = e.features[0].properties.ImpactType;
+			let description = e.features[0].properties.Title;
+
+
+			// Filter the studies GeoJSON so you can do stuff with it
+			let filteredCaseStudyGeoJSON = caseStudies.features.filter(feature => feature.properties.CaseStudyI == caseStudyId);
+			let props = filteredCaseStudyGeoJSON[0].properties;
+
+
+			// Hide country shapes
+
+			map.setLayoutProperty('country_outlines', 'visibility', 'none');
+
+			// Highlight the countries associated with this case study
+
+			let countries = props.Country;
+
+			let matched_countries = []
+			
+			for (let i=0; i<countries.length; i++) {
+				matched_countries.push(countries[i].Name)
+			}
+
+			map.setFilter('country_outlines', ['in', ['get', 'CNTRY_NAME'], ['literal', matched_countries]]);
+			map.setLayoutProperty('country_outlines', 'visibility', 'visible');
+			map.setPaintProperty('country_outlines', 'fill-color', colourScheme[impactType]);
+			map.setPaintProperty('country_outlines', 'fill-opacity', 0.1);
+
+			// filter the countries GeoJSON so you can do other stuff with it
+			let filteredCountriesGeoJSON = countriesData.features.filter(feature => matched_countries.includes(feature.properties.CNTRY_NAME));
+			
+			// Caluculate the centroid of each country and save it as geojson
+			for (let i=0; i<filteredCountriesGeoJSON.length; i++) {
+				centroid = turf.centroid(filteredCountriesGeoJSON[i].geometry);
+				filteredCountriesGeoJSON[i].geometry = centroid.geometry;
+			}
+
+			// Merge the two GeoJSON arrays and then calculate the total bounds
+
+			let allPoints = filteredCaseStudyGeoJSON.concat(filteredCountriesGeoJSON);
+
+			
+			let bounds = allPoints.reduce(function(bounds, study) {
+				let coord = study.geometry.coordinates;
+				return bounds.extend(coord);
+			}, new mapboxgl.LngLatBounds([coordinates, coordinates]));
+
+
+			let spatialGraph = {
+				'type': 'FeatureCollection',
+				'features': [
+				]
+			}
+
+			for (let i=0; i < filteredCaseStudyGeoJSON.length; i++) {
+				let lineString = {
+					'type': 'Feature',
+					'geometry': {
+						'type': 'LineString',
+						'properties': {},
+						'coordinates': []
+					}
+				}
+				let origin = coordinates;
+				let coords = filteredCaseStudyGeoJSON[i].geometry.coordinates;
+				lineString.geometry.coordinates.push(origin);
+				lineString.geometry.coordinates.push(coords);
+				spatialGraph.features.push(lineString);
+			}
+
+			map.addSource('LineString', {
+				'type': 'geojson',
+				'data': spatialGraph
 			});
+			
+			map.addLayer({
+				'id': 'LineString',
+				'type': 'line',
+				'source': 'LineString',
+				'layout': {
+				'line-join': 'round',
+				'line-cap': 'round'
+				},
+				'paint': {
+				'line-color': colourScheme[impactType],
+				'line-width': 1
+				}
+			});
+
+			map.fitBounds(bounds, {
+				padding: 300
+			});
+
+			// Set the filter to hide all the other case studies
+
+			map.setFilter('refdata', ['==', ['get', 'CaseStudyI'], caseStudyId]);
+			isMapFiltered = true;
+
+			// Set the layer style so the points are more visible
+
+			map.setPaintProperty('refdata', 'circle-radius',  ["interpolate", ["linear"], ["zoom"], 2, 6, 10, 4, 20, 40]);
+			
+			// Add the popup
+
+			let fontColour = colourScheme[impactType];
+
+			// Underscore html template
+
+			let popupTemplate = `
+				<h5 style="color: <%= fontColour %>"><%= title %></h5>
+				<p><strong style="color: <%= fontColour %>">Impact Type: <%= impactType %></strong></p>
+				<hr />
+				<h6 style="color: <%= fontColour %>">Investigators</h6>
+				<p><%= principalInvestigator %></p>
+				<h6 style="color: <%= fontColour %>">Impact Summary</h6>
+				<p><%= impactSummary %></p>
+				<h6 style="color: <%= fontColour %>">Countries Impacted</h6>
+				<p><%= countries %></p>
+				<h6 style="color: <%= fontColour %>">Research Locations</h6>
+				<p><%= places %></p>
+				<h6 style="color: <%= fontColour %>">Impact Metrics</h6>
+				<%= metrics %>
+				<button class="btn btn-sm btn-dark" id="show_detail">Read Case Study</button>
+			`;
+
+			let compiled = _.template(popupTemplate);
+			
+			let title = '';
+
+			// If there isn't a short title, use the long one
+
+			if (props.ShortTitle == '') {
+				title = props.Title;
+			} else {
+				title = props.ShortTitle;
+			}
+
+			let placesArr = [];
+			
+			for (let i=0; i<props.PlaceName.length; i++) {
+				placesArr.push(props.PlaceName[i].Name);
+			}
+
+			for (let i=0; i<props.UKLocation.length; i++) {
+				placesArr.push(props.UKLocation[i].Name);
+			}
+
+			let placesHtml = placesArr.join(', ');
+
+			let countriesArr = [];
+
+			for (let i=0; i<props.Country.length; i++) {
+				countriesArr.push(props.Country[i].Name);
+			}
+
+			let countriesHtml = countriesArr.join(', ');
+
+			// Create metrics list
+
+			let metricsHtml = '';
+
+			for (let i=0; i<props.metrics.length; i++) {
+				metricsHtml += '<p><strong>' + props.metrics[i].metrictype + ': ' + props.metrics[i].value.toLocaleString() + '</strong></p>';
+			};
+
+			// Compile the template 
+
+			popupHtml = compiled({
+				fontColour: fontColour, 
+				title: title,
+				impactType: impactType,
+				principalInvestigator: props.PI,
+				countries: countriesHtml,
+				places: placesHtml,
+				impactSummary: props.ImpactSumm.slice(0, 300) + '...',
+				metrics: metricsHtml
+			});
+
+			popup.remove();
+
+			clickPopup.setLngLat(coordinates).setHTML(popupHtml).addTo(map);
+
+			// Activate the 'read more' modal button
+			var detailModal = new bootstrap.Modal(document.getElementById('caseStudyDetailModal'));
+
+			document.getElementById('show_detail').addEventListener('click', function(e) {
+
+				modalContentTemplate = `
+				<div class="modal-header">
+					<h4 class="modal-title" id="staticBackdropLabel" style="color: <%= fontColour %>"><%= title %></h4>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>
+				<div class="modal-body">
+					<h5><strong style="color: <%= fontColour %>">Impact Type: <%= impactType %></strong></h5>
+					<h5 style="color: <%= fontColour %>">Investigators</h5>
+					<p><%= principalInvestigator %></p>
+					<h5 style="color: <%= fontColour %>">Countries Impacted</h5>
+					<p><%= countries %></p>
+					<h5 style="color: <%= fontColour %>">Research Locations</h5>
+					<p><%= places %></p>
+					<h5 style="color: <%= fontColour %>">Impact Metrics</h5>
+					<%= metrics %>
+					<h5 style="color: <%= fontColour %>">Impact Summary</h5>
+					<p><%= impactSummary %></p>
+					<hr />
+					<h4 style="color: <%= fontColour %>">Case Study: <%= fullTitle %></h4>
+					<p><%= impactDetails %></p>
+					<h5 style="color: <%= fontColour %>">Sources</h5>
+					<p><%= sources %></p>
+					<h5 style="color: <%= fontColour %>">Underpinning Research</h5>
+					<p><%= underpinningResearch %></p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-sm btn-dark" data-bs-dismiss="modal">Close</button>
+				</div>`
+
+				let compiled = _.template(modalContentTemplate);
+
+				let modalHtml = compiled({
+					title: title,
+					impactDetails: props.ImpactDeta,
+					fontColour: fontColour,
+					impactType: impactType,
+					principalInvestigator: props.PI,
+					countries: countriesHtml,
+					places: placesHtml,
+					impactSummary: props.ImpactSumm,
+					metrics: metricsHtml,
+					fullTitle: props.Title,
+					sources: props.Sources,
+					underpinningResearch: props.UnderpinningResearch
+				});
+
+				let modalContent = document.getElementById('caseStudyDetailModal').getElementsByClassName('modal-content')[0];
+
+				modalContent.innerHTML = modalHtml;
+
+				detailModal.toggle();
+			});
+			
+		});
 
 
 	});
@@ -409,8 +937,6 @@
 
 
 </script>
-
-
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 </body>
 </html>

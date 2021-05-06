@@ -1,0 +1,147 @@
+CaseStudyId: 21477
+Title: 
+    Combinatorial protein domain hunting to facilitate drug discovery
+    
+
+ImpactDetails
+
+    Domainex Ltd was incorporated as a private company in December 2001 to
+      exploit the innovative technology of combinatorial domain hunting
+      developed in the Savva laboratory for drug discovery purposes. The patent
+      protecting this technology has now been granted in Australia, the EU,
+      Canada, and Japan, and is pending in the USA. Domainex has received over
+      &#163;5m in private investment, contracts and grant funding in the 11 years
+      since it was established. The most recent investment round closed in June
+      2010 with the raising of around &#163;1.3m from Longbow Capital, The Capital
+      Fund (managed by YFM Venture Finance), Bury-Fitzwilliam and from Takeda
+      Research Investments [a].
+    Domainex was originally set up as a fee-for-service drug discovery
+      company and, following an initial investment of &#163;250,000 from the
+      Bloomsbury Bioseed Fund, the first company employees were hired in 2002 to
+      develop the CDH technology into a process that could be offered
+      commercially via this model. Since then a number of medium and large
+      biotechnology, agrochemical, and pharmaceutical companies have placed
+      contracts of ~&#163;30,000 to &gt;&#163;100,000 for CDH studies; this still forms
+      part of Domainex's work and helps fund the in-house drug discovery. By
+      2007, contractual milestones with the founder institutions were met, and
+      Domainex personnel moved to an incubator lab at the London Bioscience
+      Innovation Centre (LBIC) in Camden. A &#163;1m trigger point in the company's
+      revenues resulted in the transfer of IP to Domainex, and an accrued
+      overheads payment of &#163;78,000 to the host department at Birkbeck [b].
+    In 2007, a merger with the chemistry contract research organisation, NCE
+      Discovery, greatly expanded the remit of in-house research at Domainex by
+      allying the core CDH technology with state-of-the-art medicinal chemistry
+      expertise. This enabled the company to initiate internal drug discovery
+      programmes with the aim of reaching the lead optimisation stage before
+      seeking to partner, or outsource, for toxicology and clinical trials of
+      lead molecules. Following the merger, Domainex relocated to the Cambridge
+      Science Park. It moved to larger premises on the same site in mid-2011,
+      doubling its space, increasing its capacity for in-house medicinal
+      chemistry and drug discovery, and enabling it to expand its staff to the
+      present size. Late in 2009, Takeda Ventures, Inc., the corporate venture
+      arm of Takeda Pharmaceutical Company Limited, took an interest on the
+      Domainex board through acquiring an 8% stake during an investment round.
+      The company's primary investors are now Longbow Capital and YFM Equity
+      Partners; previous funders include The Capital Fund, and founder
+      scientists and institutions also remain stakeholders.
+    Domainex is now a thriving and successful small biotech company employing
+      about 30 people, mainly highly skilled scientists engaged in molecular
+      biology, biochemistry, computational and medicinal chemistry. It thus
+      makes a significant contribution to the local and national economy. It had
+      a turnover of &#163;1.95m for the year ended 30 April 2012, up from &#163;82,000 in
+      the year to 30 April 2008 [c].
+    Client companies and partners from the period 2008-13 include Ark
+      Therapeutics, Syngenta, ICR, and Sigma Aldrich [d]. Domainex was
+      also a partner on the EU Framework 6 Spine II Complexes consortium
+      2006-2009 [e] and has received grants from public bodies including
+      the Technology Strategy Board [f]. One major scientific
+      achievement of such collaboration was the structure of a CDH-optimised
+      protein kinase in complex with lead compounds from the pharmaceutical
+      company UCB [g].
+    The in-house drug discovery programme has initially centred on proteins
+      that are considered to be useful targets for oncology and
+      anti-inflammatory drugs and is now producing candidate compounds. The most
+      advanced programme in the pipeline focuses on two closely related kinases,
+      TANK-binding kinase 1 (TBK1) and IkappaB kinase epsilon (IKK03b5). This
+      has yielded patented inhibitors [h] that are now in the lead
+      optimisation stage. Domainex is seeking partners within the pharmaceutical
+      industry for the clinical development of these compounds, having raised
+      &#163;4m by end August 2013 [i]. The first are expected to be nominated
+      as candidate drugs in 2014 and to enter Phase I in 2015. Another patent
+      has been filed on the synthetic lethality of TBK1/IKK03b5 inhibitors and
+      other oncogenes, which includes the use of these oncogenes as biomarkers
+      and in combination therapies. The company also has an active programme
+      targeting a number of lysine methyltransferases, enzymes that are involved
+      in the epigenetic regulation of gene expression and that are known to play
+      a part in cancer development. Inhibitors of these enzymes are currently at
+      the lead optimisation stage.
+    Domainex has received several accolades both for its innovative
+      technology and for its proactive work on promoting collaborations between
+      academia and industry. The most recent of these was the 2010 Genesis Life
+      Science Innovation and Enterprise Programme Of The Year Award [j].
+    
+ImpactSummary
+
+    Combinatorial Domain Hunting (CDH) technology is a technique for
+      producing fragments of proteins that are soluble and tractable for
+      biophysical analysis. It was developed between 1999 and 2008 at Birkbeck
+      College, in the laboratory of Dr Renos Savva. This technology was patented
+      in 2001 and the biotech company Domainex Ltd was then formed to
+      commercialise it. In 2007, Domainex merged with a UCL spinout company, NCE
+      Discovery Ltd. The company has attracted over &#163;3m in investment and
+      employs about 31 people. In addition to its contract research programme,
+      it has developed an in-house drug discovery programme utilising CDH. Early
+      in 2012 a patent was filed on a series of inhibitors of the protein
+      kinases IKK03b5 and TBK1, which are validated drug targets for cancer and
+      inflammation, and the first of these are expected to begin clinical trials
+      in 2014.
+    
+UnderpinningResearch
+
+    Drug discovery programmes rely on the availability of protein targets for
+      drugs in pure, soluble forms and in relatively large (gram) quantities.
+      There are often difficulties with producing such proteins. Protein
+      truncation can overcome these, but limited proteolysis is not always
+      applicable and bioinformatics-informed truncation may be inaccurate and
+      unsuccessful, or resource-intensive. The technology of combinatorial
+      domain hunting (CDH), developed by Renos Savva and his co-workers at
+      Birkbeck College (Department of Biological Sciences) between 1999 and
+      2008, reliably produces stable, soluble truncated protein fragments
+      through exhaustively sampling expression of random fragments of the
+      encoding gene [1, 2]. These fragments bind ligands and are
+      suitable for structural studies, including X-ray crystallography.
+    CDH involves subjecting a sequence of DNA that corresponds to a
+      protein-coding gene to an enzymatic process leading to multiple
+      double-strand breaks in the DNA, and thence to a pool of randomly
+      truncated variants. Fragments of the desired approximate size are selected
+      using electrophoresis and cloned to form a library for parallel
+      recombinant protein production in E. coli. Detection at various
+      stages is via a short peptide fusion tag on every variant, which also
+      assists purification. Promising samples are then scrutinised using more
+      robust biophysical methods.
+    In practice, tens of thousands of gene fragments will be expressed within
+      each project, and these will be whittled down within a period of about
+      three months to give up to 20 protein fragments that are soluble and
+      tractable to further analysis, and that may provide suitable targets for
+      downstream drug discovery. These will often cover different parts of the
+      original protein, perhaps sampling different domains with different
+      binding sites and functionalities, increasing the scope of downstream
+      projects to discover small-molecule binders with a range of
+      pharmaceutically interesting properties.
+    As a proof of principle, CDH was applied to p85a, successfully
+      identifying soluble and highly expressed constructs encapsulating all its
+      known globular domains, and immediately suitable for downstream
+      applications [3]. A valuable extension of combinatorial domain
+      hunting, CDH2, enables empirical discovery of stable
+      protein-protein core complexes. CDH2 was demonstrated ab
+        initio using a previously well-characterized Hsp90/Cdc37 complex [4].
+      Without using a priori information, the isolation of stable
+      protein-protein complexes, suitable for further analyses was demonstrated.
+      This resource-efficient process can provide protein complexes for
+      screening of compounds designed to modulate protein-protein interactions,
+      thus facilitating novel drug discovery.
+    After testing the technology in concept, a patent was filed that also
+      covered the later implementation of the technology, CDH2 [5].
+      This patented technology led to the spin-out of Domainex Ltd in 2001,
+      initially as a contract research company for drug discovery.
+    

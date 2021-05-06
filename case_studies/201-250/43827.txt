@@ -1,0 +1,111 @@
+CaseStudyId: 43827
+Title: 
+    New treatment and treatment monitoring for iron overload in thalassaemia
+      patients
+    
+
+ImpactDetails
+
+    Two key changes in practice have arisen from our research. Firstly, there
+      have been improvements in chelation treatment for patients with
+      transfusional and non-transfusional iron overload, particularly with the
+      orally active chelator deferasirox. Secondly, there is improved monitoring
+      of patients with transfusional iron overload. This has resulted in
+      improved rates of survival from iron overload and better quality of life
+      for patients. Over half the TM patients in the UK [390] are followed by
+      the Joint Red Cell Unit of UCLH and the Whittington Hospital, led by
+      Porter (the UK Registry). Recent analysis has shown that survival is
+      improving progressively. The decade to 2009 saw an almost three-fold fall
+      in the proportion of patients with myocardial iron overload. Mortality is
+      substantially lower and cardiac iron overload is no longer the leading
+      cause of mortality [a].
+    The underpinning research described above, from preclinical to clinical
+      stages of development, has resulted in deferasirox, a novel orally active
+      chelating agent, becoming the first line treatment for transfusional iron
+      overload in the developed world. It was licensed by the FDA in 2005 [b]
+      and the EMA in 2006 [c]. Porter's contribution to the development
+      of deferasirox was recognised by Novartis when he was asked to accept the
+      Prix Galien prize at the House of Commons in 2008, awarded to Novartis for
+      innovative research in development in orphan drugs [d].
+      Deferasirox is now recommended in guidelines issued by the Thalassaemia
+      International Federation (TIF) [e], by the UK Thalassaemia Society
+      [f] in Canada [g] and in the US [h]. In excess of
+      65,000 patients have received deferasirox, a cumulative exposure of
+      163,350 patient years, with global sales exceeding $800m annually [i].
+      Use of this drug results in improved quality of life for patients, because
+      they no longer need to endure treatment administered by prolonged
+      infusion, but can take an orally active medication [j]. In 2012,
+      the license for deferasirox was extended to include the new indication of
+      the treatment of iron overload in non-transfusion dependent thalassaemia.
+      These patients become iron-overloaded because of excess iron absorption
+      from the GI tract, and deferasirox is now indicated where alternative iron
+      chelators are ineffective or poorly tolerated [k].
+    Improved monitoring had been particularly advanced by the use of MRI to
+      identify patients with the highest risk of cardiac disease from iron
+      overload. Early identification of high-risk patients allows intervention
+      with intensification of chelation therapy. This approach is now
+      recommended worldwide, as described in a recent review of guidelines which
+      said: "All guidelines recommend cardiac siderosis assessment by cardiac
+        T2* MRI" [l]. In the UK, longitudinal monitoring by cardiac
+      MRI has become standard practice [m]. This approach is
+      increasingly impacting on survival and quality of lives of children and
+      young adults with TM at risk of death each year in low and middle income
+      countries.
+    
+ImpactSummary
+
+    The iron and red cell disorders group at UCL has worked for over 20 years
+      on the pathophysiology of transfusion-dependent iron overload in
+      thalassaemia patients, using models of iron uptake and overload and
+      translating these into clinical practice. In collaboration with Novartis,
+      a new treatment, deferasirox, was developed, which is now the treatment of
+      choice for iron overload in the western world. In addition, a method for
+      monitoring iron overload in the heart was developed in collaboration with
+      Dr Pennell at the Brompton and pioneered in patients at UCL Hospital
+      (UCLH) and the Whittington Hospital. This has become the standard approach
+      worldwide.
+    
+UnderpinningResearch
+
+    Around 7% of the global population carries an abnormal haemoglobin gene
+      and between 300,000 and 500,000 children are born with clinically
+      significant haemoglobin disorders annually, predominantly in developing
+      countries. About 30% have thalassaemia syndromes, and for
+      transfusion-dependent thalassaemia major (TM) an estimated 50-100,000
+      children die each year in low and middle income countries. This is mainly
+      due to the effects of iron deposition in the liver, heart and endocrine
+      system, originating from multiple blood transfusions. Ultimately this is
+      fatal if the iron overload is not prevented. Iron initially accumulates in
+      the liver but, if not controlled by chelation therapy, may spread to the
+      heart causing heart failure from the second decade of life, which has been
+      the commonest cause of death in TM. Until recently the only way to prevent
+      iron overload was with the chelator desferrioxamine, which had to be given
+      via a needle and by continuous infusion for 8-12 hours a day at least 5
+      days per week. The burden of such a regimen was enormous and compliance
+      often poor.
+    From 1992 Professor John Porter advised Ciba-Geigy (now Novartis) about
+      oral chelators at both the pre-clinical and clinical stages of development
+      and an alternative chelating agent (deferasirox) was then developed by
+      Novartis. Porter was involved in the planning and execution of pivotal
+      registration trials (0107, 0108 [1-4] and 0109 [5]), which
+      established the role of deferasirox in the treatment of liver and heart
+      iron overload. Porter also played a central role in the design,
+      recruitment and interpretation of the pivotal study that determined the
+      place of deferasirox in patients aged 10 years and older who have chronic
+      iron overload as a result of non-transfusion-dependent thalassaemia (NTDT)
+      [6].
+    UCL investigators also have a long-standing interest in monitoring the
+      effects of iron chelators on heart failure in iron overload conditions [7]
+      and in collaboration with cardiologists at Brompton Hospital and UCLH have
+      been at the forefront of MRI developments for cardiac iron quantification.
+      This has been key to evaluating the effects of chelators on iron
+      mobilisation from the heart [8] and is now viewed as essential for
+      optimal management of heavily transfused patients and determining the
+      response to therapy. Patients in heart failure can be rescued as a late
+      event when in heart failure with reversal of cardiomyopathy and good
+      long-term survival [7]. Patients at UCLH and Whittington were the
+      first cohort of patients to be studied, in collaboration with the MRI unit
+      at the Brompton Hospital, using cardiac MRI. It is now clear that the
+      highest risk patients can be identified by cardiac MRI and treatment
+      intensified in those with high cardiac iron.
+    

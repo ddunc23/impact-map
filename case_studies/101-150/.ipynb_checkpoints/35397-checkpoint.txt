@@ -1,0 +1,140 @@
+CaseStudyId: 35397
+Title: 
+    Biological characterisation and impact of HIV drug resistance
+    
+
+ImpactDetails
+
+    The underpinning research described above has provided the key evidence
+      base to inform national and international strategy on the treatment of
+      HIV. Our work provided an initial understanding of the molecular basis of
+      drug resistance, and was pivotal to the development and implementation of
+      sequence-based resistance testing across the NHS, along with the
+      establishment of a national surveillance scheme. With more appropriate
+      first-line therapy, based on individual resistance patterns, the
+      subsequent risk of drug failure due to resistance has been reduced,
+      leading to an overall reduction in resistance. Transmitted drug resistance
+      in the UK has fallen from over 15% of new infections in 2000-2, to fewer
+      than 10% in 2007 and onwards [a] representing a reduction of 300
+      new infections with such resistance per year.
+    Our work is referenced widely in treatment guidelines around the world.
+      The British HIV Association recommend, based on our evidence of
+      significant levels of transmitted resistance, that drug resistance testing
+      is undertaken BEFORE initiating therapy [b] Our data represent the
+        first such demonstration in the UK in 2001, leading directly to a change
+        in national guidleines. The International AIDS Society-USA
+      guidelines also cite our research and named input in support of their
+      recommendations on the mutational definitions of antiretroviral drug
+      resistance [c].
+    Through a linked biological-epidemiological approach to measuring drug
+      resistance, we have established the national surveillance structure, on
+      behalf of Public health England. In 2011, we provided evidence to the
+      House of Lords Select Committee on HIV and AIDS, the report from which
+      stated; "It is essential, though, that treatment does not cause
+        longer-term harm. If a person fails to stick to a regime of
+        antiretroviral drugs, it can lead to the development of drug resistance,
+        as has been seen with antibiotics. Were such resistance to become
+        widespread, treatment efforts would be hampered in the long-term. This
+        is closely monitored. The United Kingdom has the largest resistance
+        database linked to clinical data in the world, to ensure that any
+        problems are quickly identified. With no vaccine and no cure, it is
+        important that surveillance systems robustly monitor and contain the
+        risk of emerging antiretroviral resistance (see paras 227 to 228)" [d].
+    In 2012, UCL led a major Seminar on the "Impact of HIV drug resistance in
+      the resource poor world" in conjunction with the WHO in Geneva, 2012 [e].
+      This was the first such meeting to include both generic and proprietary
+      drug producers, to establish the future of rational drug treatment for the
+      developing world. As a consequence, in 2013, the World Health Organisation
+      (WHO) changed its surveillance strategy to better guide appropriate
+      interventions in the developing world. Based on our findings from the UK
+      population, WHO established a monitoring function, in parallel with the
+      rollout of antiretroviral therapy [f]. As one of five such
+      specialist Laboratories worldwide, we supported this monitoring. In light
+      of our recent finding of an increase in transmitted drug resistance in
+      Eastern Africa, the WHO has altered their surveillance approach towards a
+      more feasible and cost-effective approach of those individuals starting
+      therapy. We are currently in the vanguard of a major policy change within
+      the WHO regarding recommendations for first and second line therapies for
+      the developing world. This will affect 35 million infected individuals,
+      with the likely impact being the introduction of viral quantification
+      monitoring to guide switch from first to second line therapy. This is
+      evidenced through a joint publication with WHO (e) and reference to our
+      work in the 2013 revised WHO Guidelines [Chapter 7 ref 165 g].
+    
+ImpactSummary
+
+    UCL investigators have been at the forefront of characterising and
+      assessing HIV drug resistance since 1990, soon after the very first HIV
+      drug was licenced. There are currently more than 25 drugs available, and
+      our work over the last 23 years has directly determined how best these
+      therapies are used, and monitored in infected patients. We have extended
+      our work to a global perspective, in conjunction with the current rollout
+      of antiretroviral therapy to areas of the world devastated by the epidemic
+      - work which now informs guidelines of the World Health Organisation
+      (WHO), and has resulted in a marked reduction in mortality.
+    
+UnderpinningResearch
+
+    An estimated 35 million people are infected with HIV worldwide, with the
+      vast majority living in the resource poor world. HIV therapy is now
+      provided as a combination of three drugs, in order to prevent drug
+      resistance developing. Our research has been at the forefront of
+      understanding the nature and impact of drug resistance and has therefore
+      shaped all national and international treatment guidelines since the early
+      1990's.
+    Our work started with the development of novel gene sequencing and
+      allele-specific methods to show that drug resistance underpinned the lack
+      of treatment effect within the first European pivotal trial of zidovudine
+      monotherapy (Concorde trial) [1] and subsequent dual therapy Delta
+      trial [2] (Tedder, Loveday, Weller). Indeed, this
+      established for the first time the use of genetic markers to directly
+      inform clinical practice. Subsequent rollout of viral gene sequence
+      technology to UK diagnostic laboratories led to the establishment of the
+      UK HIV Drug Resistance Database in 1999, based within UCL (Pillay)
+      and the MRC Clinical Trials Unit, now part of UCL (Dunn, Porter).
+      The purpose was to map the spread of drug resistance by HIV in the UK,
+      including the transmission of resistance [3] (Pillay, Phillips,
+        Sabin, Geretti). Indeed, applying new phylogenetic approaches, we
+      have demonstrated a continual spread of drug resistance viruses (Hue,
+        Kellam), and their ability to replicate fully, thus requiring new
+      classes of HIV therapy [4]. From this base we have extended our
+      national collaboration into a large European dataset, to provide the
+      definitive evidence for the detrimental impact of transmitted drug
+      resistance on outcome of therapy [5] (Pillay, Phillips, Cozzi
+        Lepri, Dunn, Porter), and thus determine the optimal therapeutic
+      strategies to maximise patient benefit.
+    During the last 10 years, we have taken this knowledge to map
+      transmission of drug resistance on a global scale. Through describing
+      resistance emerging during the pivotal MRC-funded DART trial of therapy in
+      Africa (Dunn, Pillay), and subsequently determining the risks and
+      predictors of such resistance (Gupta, Cozzi Lepri), we highlighted
+      the risk of a large scale transmission of resistance across the resource
+      poor world. Recently, we have indeed demonstrated that such transmission
+      is now a reality, in a paper co-authored with the World Health
+      Organisation [6] (Gupta, Pillay). This commitment to apply our
+        research to the areas of greatest need has led Deenan Pillay to be
+        seconded from UCL to become Director of the Wellcome Trust Africa Centre
+        for Health and Population Sciences, in South Africa-in the highest HIV
+        prevalance area in the world.
+    UCL Investigators
+    Richard Tedder, Senior Lecturer, Reader, then Professor of Virology
+      (1986-)
+      Clive Loveday, Senior Lecturer then Professor of Virology (1990- 2005)
+      Ian Weller Professor of HIV Medicine (1987-2010)
+      Deenan Pillay, Reader, then Professor of Virology (2003-)
+      Andrew Phillips, Senior Lecturer, Reader, then Professor of Epidemiology
+      (1990-)
+      Caroline Sabin, Senior Lecturer, Reader then Professor of Medical
+      Statistics (1996-)
+      Paul Kellam, Senior Lecturer, Reader then Professor of Host Pathogen
+      Research (2000-) (now joint appointment with Wellcome Trust Sanger
+      Institute)
+      Stephane Hue, Post-Doctoral Research Assistant, then Lecturer in Virology
+      (2006-)
+      Ravi Gupta, Clinical Research Fellow, then WT Intermediate Clinical
+      Fellow, Senior Lecturer in Infectious Diseases (2007-)
+      Alessandra Cozzi Lepri, Senior Lecturer in Epidemiology (2005-)
+      Anna Maria Geretti, Senior Lecturer in Virology (2005-2011)
+      David Dunn, Senior Lecturer, Reader (2000-)
+      Kholoud Porter, Senior Lecturer, Reader, Professor (1997-)
+    

@@ -1,0 +1,172 @@
+CaseStudyId: 40931
+Title: 
+    Influencing policy debate on immigration and its impacts on the UK
+    
+
+ImpactDetails
+
+    Research on the impact of immigration on public finances [c] filled a
+      perceived gap in public knowledge and also led to significant
+        influence on public debate in the UK. Public debate on immigration
+      is often highly emotional and partisan: by providing undisputed evidence
+      and clear figures on the effects of immigration, the research challenged
+      unfounded claims and meant that interest groups had to engage with the
+      evidence, thus influencing the tone and nature of the public debate. The
+      importance of this debate is exemplified by the dispute in the months
+      running up to the full access of Bulgarians and Romanians to the EU labour
+      market starting from January 2014, and the impact that may have on UK
+      public finances. Previously, no work existed that had examined the impact
+      of A8 immigration on UK public finances since 2004, and the debate was
+      dominated by anecdotes and best guesses, often vastly exaggerating the
+      burden that A8 migration imposed on the public purse. Our work [c] changed
+      that debate by providing well-researched evidence that could not be (and
+      has not been) disputed. The results of the research have been referred
+        to both in discussion within the broader media and in House of Commons
+        debates, as the only conclusive evidence on the fiscal impact of A8
+      immigration (see e.g. [6]).
+    The methodological innovations and empirical plausibility of our results
+      led to the work [a, b] being more broadly influential in policy discussion
+      regarding the economic impact of immigration in the UK. The research thus
+      provided an important challenge to conventional wisdom, and has been
+        frequently cited in policy debate. As the sole source of factual
+      evidence on the effects of immigration on wages and fiscal impact of
+      immigration, the research has been cited by government bodies and in
+      various policy documents, Parliamentary debates and inquiries, and the
+      media.
+    Impact on government bodies
+      The work in question relating to labour market impact [a], though
+      subsequently developed and published in a leading academic journal [b],
+      was initially commissioned for the specific purpose of advising the Low
+      Pay Commission (LPC) on implications of migration for the setting of the
+      minimum wage. Our work addressed these key questions by developing new
+      methodology to analyse the impact of migration around the 5th percentile
+      of the wage distribution, around where the minimum wage is set.
+    As the LPC's Chief Economist confirms, this research provided
+        important insights that aided the commission when setting the minimum
+        wage in 2007. Specifically, it "re-assured Commissioners that
+      minimum wage was providing an effective floor in the face of major changes
+      to the labour market as a result of increases in migration ... and
+      continues to influence the decisions of Commissioners" [1]. Concern about
+      the impact of recent increases in migration was a theme noted in earlier
+      reports and specifically addressed by the commissioned research [2],
+      feeding, along with other commissioned research, into the decision to
+      recommend a rise in the minimum wage from &#163;5.35 to &#163;5.52 in October 2007,
+      affecting an estimated 1.3 million low-paid workers in October 2007 to
+      October 2008.
+    More recently, the most important and influential official investigation
+      into the impact of immigration on the UK economy conducted under the
+      Coalition government was the January 2012 report of the Migration Advisory
+      Committee [6], which, again, refers repeatedly to the research in that
+      report [a]. The research is now widely recognised as the only informed
+      source of knowledge on this particularly important aspect of immigration
+      policy, and led to the commissioning of a further report [d] to inform the
+      Migration Advisory Committee publication mentioned above [6].
+    Influence on Select Committee inquiry and Parliamentary debate
+      A report for a House of Lords Select Committee inquiry into the economic
+      effects of immigration was published in April 2008 [3]. This was the first
+      comprehensive examination into the way immigration has impacted on the UK
+      economy and its citizens. It drew together all the existing empirical
+      evidence and interviewed a large number of experts on the subject and
+      significantly influenced the debate on migration in the years to come [4].
+      This referred repeatedly to [a, c] above (7 times to [a] and 7 times to
+      [c]), as well as evidence Dustmann and Preston were invited to give to the
+      Select Committee the preceding October. It noted our finding of an overall
+      positive wage effect but also the lowering of wages in the lowest paid
+      jobs. The report also recognised the finding from earlier work that "if
+      there is an impact of immigration on unemployment then it is statistically
+      poorly determined and probably small in size." Indeed, our work on
+      migration figures prominently in the evidence on which the report was
+      based [3] and in the Government's response [5], and it greatly enhanced
+      the impact of our findings on the effects of immigration on the public and
+      policy debate.
+    The research has figured in debates within the House of Commons in
+      relation to the minimum wage and cited, for example, by the then Secretary
+      of State for Business, Enterprise and Regulatory Reform to answer
+      questions in 2008 on the impact of immigration on wages [7]. It has been
+      recognised as the leading research allowing assessment of the impact of
+      immigration on the GDP per capita of the native population. For instance,
+      the then Home Office minister with specific responsibility for migration,
+      Liam Byrne MP, referred to the work [a] in the House of Commons in April
+      2008 as "the one good report in this area" [8]. In his oral evidence to
+      the House of Lords Economic Affairs Committee in June 2008, referred to an
+      estimate, based on the report [d], that migration contributed 0.15% per
+      annum to the GDP per capita of the native population [4], a number
+      described as "small, but ... not insignificant".
+    Impact on the media
+      The research described in section 2 remains the primary analysis of the
+      effects of immigration, both on wages and on public finances. As a result,
+      it has played a central role in informing media coverage of this issue,
+      particularly in the financial press. Examples may be found through the
+      impact period, and the research in [c], particularly, saw renewed interest
+      in 2012-13 in the run-up to allowing Bulgarians and Romanians into the UK
+      labour market. Indicative examples of media coverage are:
+    - the Independent described the net benefits of immigration (July
+      2009) [9].
+    - Petros Fassoulas in the New Statesman used the research to
+      argue that immigration is a boon for society (January 2009) [10]; 24,910
+      circulation.
+    - Tim Harford in the Financial Times cited research as evidence
+      of the net contribution A8 immigrants have made to the public purse (March
+      2013) [11]; 393k daily print and web readers.
+    - Brian Groom in the Financial Times cited the wages study as
+      evidence of the negligible effects on wages (March 2013) [12]; 393k daily
+      print and web readers.
+    
+ImpactSummary
+
+    Research at UCL provided the primary analysis of the effects of
+      immigration on wages and the fiscal costs and benefits of A8 migration to
+      the UK. These provided important and ongoing contributions to policy and
+      media debates in the UK, as demonstrated by citations in key debates and
+      policy documents in both Houses of Parliament, in commissioned studies and
+      in the financial press. As a result, research successfully put facts and
+      figures on immigration into a highly emotional and partisan debate.
+    
+UnderpinningResearch
+
+    Research on the effects of immigration on the UK economy conducted
+      between 2007 and 2009 was led by Professor Christian Dustmann at the
+      Centre for Research and Analysis of Migration (CReAM), at UCL. This work
+      has focused on two strands: the effect of immigration on wages in the host
+      country, and the fiscal consequences of immigration.
+    In 2007, we were commissioned by the Low Pay Commission (LPC) to research
+      the implications of immigration for the setting of the minimum wage in the
+      UK. The resulting report [a] was written by Dustmann and Ian Preston (also
+      Professor of Economics at UCL and CReAM) and Tommaso Frattini (then a PhD
+      student). At the time, the debate on immigration, and the existing
+      conceptual and empirical models focused either on the overall wage effects
+      of migration or the effects on particular skill groups. However, for the
+      LPC, what was of interest was how immigration affected native wages at
+        the low end of the wage distribution, particularly the 5th
+      percentile, where the minimum wage is more likely to be binding.
+    We developed novel theory and conceptual work and a new empirical
+      framework for the estimation of these effects, with several key
+      innovations. The academic paper emerging from this research [b] was
+      published in 2012. We found that over the period studied (1997-2005)
+      immigration to the UK contributed positively to average wage growth of
+      UK-born workers. However, while benefiting workers in the middle and upper
+      part of the wage distribution, it put downward pressure on wages of
+      workers at the bottom of the distribution. Over the period considered, our
+      estimates suggested that immigration held wages back by 0.7p per hour at
+      the 10th percentile but contributed about 1.5p per hour to wage growth at
+      the median and slightly more than 2p per hour at the 90th percentile.
+    As a response to an ongoing academic and public debate on the fiscal cost
+      of A8 migration (i.e. from countries who joined the EU in 2004) to the UK,
+      which was based on no factual evidence, Dustmann, Frattini and Caroline
+      Halls (an MSc student and Research Assistant at CReAM) began research on
+      this issue in 2009, which resulted in a paper published in Fiscal
+        Studies in 2010 [c]. That same year, it became part of a research
+      report for the Migration Advisory Committee (MAC) [d]. We found that:
+    - A8 immigrants who arrived after EU enlargement in 2004, and who have at
+      least one year of residence &#8212; and are therefore legally eligible to claim
+      benefits &#8212; are about 60% less likely than natives to receive state
+      benefits or tax credits, and to live in social housing.
+    - Comparing the net fiscal contribution of A8 immigrants with that of
+      individuals born in the UK, in each fiscal year since enlargement in 2004,
+      A8 immigrants made a positive contribution to public finance.
+    - In the latest fiscal year, 2008-09, A8 immigrants paid 37% more in
+      direct or indirect taxes than was spent on public goods and services that
+      they received. We also showed that on average, A8 workers have a better
+      educational background than UK-born workers, but receive lower wages,
+      especially in the period immediately after coming to the UK.
+    

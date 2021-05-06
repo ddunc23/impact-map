@@ -1,0 +1,209 @@
+CaseStudyId: 31109
+Title: 
+    A new approach to urban street planning and design
+    
+
+ImpactDetails
+
+    Use in national guidance documents: The 2010 publication `Manual
+      for Streets 2, wider application of the principles' [c], which carried
+      ministerial endorsement, looked at the application of Link and Place
+      principles to busier urban streets, and made reference to Link and Place
+      applications. (This publication built on the influential national guidance
+      document on street design: `Manual for Streets' [Department for Transport
+      and Communities and Local Government, 2007] which incorporated the basic
+      principles of Link and Place.) Link and Place applications are also
+      included in the Irish Department of Transport, Tourism and Sport's 2013
+      `Design manual for urban roads and streets', and in street design guidance
+      for the South Australia government, which has been used to improve street
+      design in SA urban areas.
+    Applications by local authorities and regional government: Jones'
+      invited presentations on Link and Place and its potential uses has
+      informed practitioners in the UK and abroad (including Hungary,
+      Switzerland, China, New Zealand, Australia and the USA) and has led to
+      several practical applications by consultants and local authorities. These
+      include:
+    
+      West Midlands Red Route team, used in a series of corridor studies
+        between 2009 and 2011
+      Belgravia and Mayfair (by the MVA Consultancy); used to assess street
+        function and appropriate design solutions in a study funded by the
+        Grosvenor Estate and Westminster City Council in 2008 [g].
+      Staffordshire County Council, as part of a county strategic assessment
+        in 2012
+      Galway City Council (by Taylor Young), as part of a strategic review
+        of street network functioning in 2010 [d].
+      South Australian Government, as part of a Transport and Public Health
+        strategy in 2012 [a].
+      Smart Move Adelaide, the city's 10-year transport and movement
+        strategy, in 2012 [b].
+      The Beijing Municipal Institute of City Planning and Design
+        incorporated the approach into draft regulations for urban road space in
+        2013 (due to come into force in 2014) [m], following the publication of
+        the main 2007 Link and Place report in Chinese in 2012 [e].
+      East Staffordshire Borough Council's Town Centre Public Realm
+        Implementation Plan for Burton-on-Trent, published in July 2012 [h], was
+        informed by the methodology and offered a transparent, structured way of
+        defining the street hierarchy and is used by the local authority to
+        inform their strategy and spending on street and public realm
+        improvements (up to &#163;1m a year). It is also used to inform the guidance
+        the council gives to developers as to what they are expected to provide
+        in the public realm, and to what standard, as part of their proposals.
+        [j]
+    
+    Major UK applications: The first of these, in the London Borough
+      of Hounslow, was as part of an &#163;650m private finance initiative (PFI) to
+      upgrade and maintain the borough's highway network over a 25-year period,
+      starting in early 2013. The local authority needed a transparent method to
+      define standards for highway reconstruction and maintenance, which would
+      be objective and responsive to changing circumstances. The criteria for
+      allocating a particular Link and Place status to each street segment is
+      set out in the PFI contract, so that if circumstances change over the
+      25-year period, then the status of the relevant street segments will be
+      reassessed, and the maintenance standards adjusted, if necessary. There
+      was a national competition among local authorities to obtain PFI funding,
+      and this novel application of Link and Place was reported by the Council
+      as being one reason why Hounslow was successful in its bid for DfT and
+      Treasury funding [l]. The council confirmed that its first targets had
+      been met: as of 30 June 2013, 432km of streets and footways had been
+      rehabilitated (15.4% of the total); 7.5% of street lighting replaced with
+      LED and centralised control; and 8 bridges restored to meet load-carrying
+      requirements [l].
+    The second application is in relation to a new strategic assessment of
+      the future role of the London road network, initiated by the Mayor of
+      London in autumn 2012. Jones worked on an independent Roads Task Force,
+      comprising stakeholders representing different transport mode and business
+      interests, plus NGOs and local authorities, to use a modified version of
+      the Link and Place approach (in the form of a family of `street types'
+      based around `Moving and Place' street functions), recognising that there
+      is a diverse range of streets which perform different functions, and that
+      priorities and appropriate design solutions will therefore vary across the
+      network. TfL has said this allowed for a much more sophisticated approach
+      to analysing and planning investment than the traditional road user
+      hierarchy [k]. The RTF report was published in July 2013, with the `Moving
+      and Place' classification of streets being a core element [f]. It was
+      warmly welcomed by a broad range of stakeholders, including the London
+      boroughs [k]. TfL now requires that boroughs use this street
+      classification when submitting funding bids for new schemes to TfL, though
+      the LIP (Local Implementation Plan) process. The director of London
+      Councils, which represents London's boroughs, confirms that the approach
+      is already being used, with a &#163;3m scheme to upgrade the street environment
+      in Hornchurch completed in June 2013. In Bexleyheath, the balance between
+      competing needs has been recognised in the planning process. [k]
+    Public engagement in street planning: Jones recognised the
+      potential of the broader formulation of streets as providing a basis for
+      carrying out more effective and consensual public engagement activities,
+      since it explicitly recognises the legitimate interests of all street
+      users groups, not simply motor vehicle drivers. In 2007-08, the street
+      design toolkit he developed in the DISTILLATE project was applied in two
+      exercises in the West Midlands (Bloxwich and Coventry), where the public
+      had strongly objected to design proposals put forward by the local
+      councils, which were then withdrawn. In both cases, new designs were
+      generated by local stakeholders that were subsequently implemented with
+      high levels of public and business support, and minimal objection [see
+      outputs 8 and 4, pp. 250-252]. In 2008 Walsall Council commissioned UCL to
+      provide two sets of the toolkit for their own use, in subsequent complex
+      street design contexts.
+    Provision of training to urban planners: Jones has been invited to
+      run various training events to explain the principles of Link and Place
+      and its derivations to urban planners. In 2013 this has included sessions
+      for Urban Design London (with 80+ London borough representatives, TfL
+      staff and consultants in attendance), and as part of a training programme
+      for engineers and planners from the UAE, organised by PTRC &#8212; the training
+      arm of the Chartered Institute of Logistics and Transport.
+    
+ImpactSummary
+
+    Peter Jones' research developed new principles for urban street planning
+      and design, which have been incorporated into Department for Transport
+      (DfT) and Department for Communities and Local Government (DCLG) national
+      guidelines. The methodology has been used in the Mayor of London's Roads
+      Task Force report; Transport for London (TfL) now requires boroughs to use
+      the classification for all new submissions for funding for street schemes.
+      It underpins the specification of an &#163;650m PFI highway maintenance
+      contract with LB Hounslow, and has been used by other UK local
+      authorities. Internationally, the approach has been applied in Australia
+      and included in draft regulations for urban planning in Beijing.
+    
+UnderpinningResearch
+
+    Research by Professor Peter Jones (Professor of Transport and Sustainable
+      Development at UCL since 2005) has looked in detail at the design and
+      operation of urban streets, using video surveys and collecting data on
+      selected objective and subjective performance measures in a number of case
+      studies. This found that urban street design has been dominated by meeting
+      the needs of motorised vehicles, with consequential poor physical street
+      environments that negatively impacted on local economic, social and
+      cultural activity, and has resulted in unattractive public spaces. The
+      underlying problem was identified as being due to the classification of
+      streets purely in terms of their traffic movement functions, thereby
+      ignoring other street user needs. To address this problem, he developed a
+      comprehensive basis for identifying and classifying the various functions
+      of different types of urban streets, recognising that urban streets
+      accommodate a wide range of movement and non-movement activities. The
+      research replaces the one-dimensional vehicle-based street classification
+      with a two-dimensional classification, based on their `Link' (movement by
+      all modes of transport) and `Place' (living) functions, and develops a
+      comprehensive set of operational, planning, design and appraisal
+      procedures that build on these principles. Link requirements are defined
+      in terms of the movement needs of all street users (including
+      pedestrians), while Place requirements describe the various economic,
+      social and cultural activities that are to be planned for on and adjacent
+      to the street.
+    Some of the initial conceptual thinking emerged from the EU-funded
+      ARTISTS project (2002 to 2005), involving academics, consultants and city
+      authorities from several European countries, which looked at how urban
+      streets could contribute to more sustainable urban communities. After he
+      moved to UCL in 2005, Jones, together with Dr Stephen Marshall (Reader in
+      Urban Morphology and Planning, at UCL since 2000) developed this abstract
+      thinking into a practical street classification system that was trialled
+      on the Transport for London Road Network (TLRN). A set of planning and
+      design procedures was developed through research and case study
+      applications in London largely funded by Transport for London. In 2007,
+      Jones and Marshall published the detailed guide Link and Place: A
+        guide to street planning and design [1], which was endorsed by
+      Transport for London and the Chartered Institution of Highways and
+      Transportation. Natalya Boujenko, a co-author in this publication, worked
+      for Transport for London, and led the field trials.
+    The Link and Place procedures developed through this research [2,3,5-7]
+      include:
+    
+       Defining requirements for highway construction and maintenance in
+        urban areas, with the Link status determining the carriageway provision,
+        and the Place status the provision and maintenance of the footway and
+        street furniture, plus the street-cleansing regime.
+       Measuring street performance in a comprehensive way that takes full
+        account of the range of street functions.
+       Determining the acceptability of the current performance of a street
+        segment, by benchmarking this against appropriate regulatory
+        requirements or comparative levels of performance &#8212; recognising that
+        `acceptable performance' may vary with Link and Place status levels.
+       Prioritising segments of the street network for improvement, based on
+        shortfalls in current performance and status levels.
+       Comprehensively assessing street design requirements, through
+        detailed consideration of street activities and their space/capacity
+        requirements, at desirable and minimum levels of provision.
+       Identifying design objectives and constraints, and formulating these
+        in the preparation of a comprehensive Design Brief.
+       Developing a set of design options that meet the requirements set out
+        in the Design Brief, with stakeholder involvement; and
+       Appraising design options, in terms of their contribution to
+        addressing the measured shortfalls in street performance, in a
+        cost-effective manner.
+    
+    For design purposes, the approach defines more precisely sets of user
+      needs and identifies ways in which they might be met through providing
+      different `street design elements'; it moves away from the notion of a
+      fixed `road user hierarchy', recognising that priorities vary according to
+      the type of street, and it provided guidelines on how to prioritise among
+      competing user needs in different situations. It has proved particularly
+      successful in engaging stakeholders in street design where space use is
+      contested, bringing together the resident and business communities,
+      alongside local politicians, transport planners, traffic engineers, land
+      use planners and urban designers.
+    Between 2005 and 2008, Jones participated in the EPSRC-funded DISTILLATE
+      project (co-ordinated through Leeds University), which developed a range
+      of new decision support tools for local transport planning. As part of
+      this, he developed a street design toolkit to help in generating
+      acceptable streetscape design solutions in contentious situations [4, 8].
+    

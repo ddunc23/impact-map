@@ -1,0 +1,147 @@
+CaseStudyId: 23146
+Title: 
+    Neoadjuvant chemotherapy for invasive bladder cancer
+    
+
+ImpactDetails
+
+    Initial results were based on 2,688 patients, from ten randomised trials,
+      and updated to include 3,005 patients, from 11 trials, including the MRC
+      Clinical Trials Unit BA06 trial. This represents 98% of the available
+      randomised evidence. We showed that people with invasive bladder cancer
+      who had multi-drug, platinum-based chemotherapy before surgery and/or
+      radiotherapy lived longer than those who had just surgery and/or
+      radiotherapy. After five years, 50 out of every 100 people who received
+      additional chemotherapy were still alive compared with 45 out of every 100
+      who just had surgery and/or radiotherapy. They were also less likely to
+      have their cancer recur or spread to other parts of the body. These
+      effects were independent of the whether neoadjuvant chemotherapy was added
+      to surgery or radiotherapy. There was no evidence to support the use of
+      neoadjuvant chemotherapy based on a single platinum-based drug.
+    The research has been cited as evidence in 19 national and international
+      guidelines from 2008 to 2013. In most cases, the guidelines citing this
+      review substantiate their clinical recommendations by directly quoting the
+      review:
+    European Association of Urology (2008/2009/2010/2011/2012/2013)
+      "Neoadjuvant cisplatin containing combination chemotherapy should be
+      considered in muscle invasive bladder cancer irrespective of definitive
+      treatment" [a].
+    European Society for Medical Oncology (2008/2009/2010/2011) "A
+      meta-analysis supports the use of neoadjuvant chemotherapy before
+      cystectomy for T2 and T3 disease. The demonstrated survival benefit
+      encourages the use of platinum based combination chemotherapy for patients
+      with invasive bladder cancer before radical cystectomy or definitive
+      radiotherapy" [b].
+    National Comprehensive Cancer Network (2010/2011) "In the most
+      recent meta-analysis, a statistically significant decrease in the death
+      rate was seen corresponding to an improvement in overall survival. The
+      NCCN Bladder Cancer panel members recommend considering cisplatin-based
+      neoadjuvant combination chemotherapy" [c].
+    Japanese Urological Association (2010) "At present, a definite
+      improvement in survival rates has been shown only for preoperative
+      cisplatin-based combination chemotherapy" [d].
+    Associazione Urologi Italiani (2010) "High-quality clinical
+      evidence shows that neoadjuvant cisplatin-based chemotherapy has
+      acceptable toxicity and increases the survival rate by 5-6.5%" [e].
+    Saudi Oncology Society (2011) "Neoadjuvant cisplatin-based
+      chemotherapy improved overall survival by 5-7% at 5 years and this option
+      should be offered to patients especially with locally advanced disease
+      (T3,T4)" [f].
+    Our systematic review and meta-analysis of IPD was also cited as evidence
+      in these guidelines:
+    British Columbia Cancer Agency (2008) [g].
+    Association of Comprehensive Cancer Centres (2009) [h].
+    Alberta Health Services (2011) [i].
+    Spanish Society of Medical Oncology (2011) [j].
+    In addition, the routine use of neoadjuvant chemotherapy in the
+      management of locally advanced bladder cancer has been discussed in a
+      number of recent articles. Notably, it was the topic of a panel discussion
+      at the 11th Annual Meeting of the Society of Urologic Oncology,
+      where the international experts concluded that the current standard of
+      care for patients with muscle invasive bladder cancer is cisplatin-based
+      neoadjuvant chemotherapy followed by radical surgery [k]. Use of
+      neoadjuvant chemotherapy for patients with muscle-invasive bladder cancer
+      has also increased. For example, a study published in 2011, which reviewed
+      treatment patterns across the USA using data from the National Cancer
+      Database, showed that the percentage of American patients receiving
+      neoadjuvant chemotherapy had more than doubled during the period from
+      2003-2007. The authors attributed this to the increase in data supporting
+      neoadjuvant treatment [l].
+    One of the recommendations of the IPD meta-analysis was that neoadjuvant
+      cisplatin-based chemotherapy should be used as the control arm in any
+      subsequent trials in this population. Whilst no recently initiated
+      randomised controlled trials could be identified, neoadjuvant chemotherapy
+      continues to be the subject of a number of ongoing and recently reported
+      trials. These studies have explored the use of novel therapeutic agents
+      (including bevacizumab, sunitinib and sorafenib) alongside standard
+      neoadjuvant, cisplatin-based chemotherapy; explored modifications to the
+      dose or duration of standard neoadjuvant chemotherapy regimens or used
+      novel drug combinations in attempts to further reduce side effects and
+      improve outcomes for patients with muscle invasive disease [m].
+    
+ImpactSummary
+
+    Researchers at the MRC Clinical Trials Unit conducted a systematic review
+      and meta-analysis of individual patient data on neoadjuvant chemotherapy
+      for invasive bladder cancer. This work has been cited as evidence in 19
+      national and international clinical practice guidelines from 2008 to 2013.
+      In most cases, the guidelines citing this review substantiate their
+      clinical recommendations by directly quoting the review content.
+    
+UnderpinningResearch
+
+    Bladder cancer is the second most common cancer of the genitourinary
+      system. Worldwide there are estimated to be about 336,000 new cases per
+      year, of which about one third are likely to be invasive or metastatic
+      disease.
+    Invasive bladder cancer, where the tumour has spread into (or invaded)
+      the muscle layer of the bladder, is likely to spread to other parts of the
+      body. At the time this project was initiated, standard treatment for
+      invasive bladder cancer was surgery to remove the tumour, and part or all
+      of the bladder and nearby lymph nodes and other tissues. Alternatively,
+      radiotherapy was also given instead of or in addition to surgery. However,
+      giving (neoadjuvant) chemotherapy before surgery and/or radiotherapy
+      offered the potential to reduce tumour size and control cancer spread.
+      Furthermore, if chemotherapy is given before these potentially
+      debilitating treatments, it might be better tolerated than chemotherapy
+      given after them, so that patients are more likely to comply with their
+      chemotherapy treatment, allowing higher doses of drug to be administered.
+      However, most randomised trials investigating the use of neoadjuvant
+      chemotherapy were modestly sized and inconclusive about its effects,
+      although results of the largest trial, the MRC Clinical Trials Unit BA06
+      trial looked encouraging. Subsequent systematic reviews and meta-analyses
+      based on aggregate or summary data from publications of these trials were
+      limited by the availability and quality of data and were similarly
+      inconclusive.
+    We therefore initiated a systematic review and meta-analysis of
+      individual patient data (IPD). This international collaborative project
+      collected and analysed the original trial data from all patients included
+      in all the relevant trials, including BA06. This IPD approach can bring
+      about substantial improvements to the quality of the data and analysis,
+      leading to more reliable and robust results than a standard systematic
+      review of summary, and is considered the `gold standard'.
+    The research was carried out at the MRC Clinical Trials Unit by the
+      project management group on behalf of the Advanced Bladder Cancer (ABC)
+      Collaboration. This group was responsible for formulating the questions;
+      developing the protocol; collecting, checking and analysing data;
+      presenting and discussing the preliminary results and preparing the
+      manuscript. At the time their positions at the MRC Clinical Trials Unit
+      were:
+    
+      Claire Vale, Research Scientist (Now Senior Research Scientist)
+      Jayne Tierney, Senior Research Scientist (Now Meta-analysis Group
+        Lead)
+      Lesley Stewart, Meta-analysis Group Head (Now Centre for Reviews and
+        Dissemination Director)
+      Mahesh Parmar, Cancer Group Head (Now MRC Clinical Trials Unit
+        Director)
+    
+    An advisory group provided input and advice at all stages of the project
+      (NW Clarke, UK; JT Roberts, UK; R Sylvester, Belgium; D Raghavan, USA) and
+      the following supplied IPD and/or contributed to discussion of the results
+      and commented on the drafts of the publication: H Abol-Enein, Egypt; P
+      Bassi, Italy; AV Bono, Italy; M Boyer, Australia; ML Coppin, Canada; E
+      Cortesi, Italy; PJ Goebell, Germany; S Groshen, USA; RR Hall, UK; A
+      Horwich, UK; P-U Malmstr&#246;m, Sweden; JT Roberts, UK; L Sengel&#248;v, Denmark; A
+      Sherif, Sweden; M Stockle, Germany; FM Torti, USA; DMA Wallace, UK).
+    

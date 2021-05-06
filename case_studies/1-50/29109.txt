@@ -1,0 +1,131 @@
+CaseStudyId: 29109
+Title: 
+    Moderate hypothermia as a therapy for neonatal encephalopathy improves
+      survival and reduces disability
+    
+
+ImpactDetails
+
+    Our early work on large animal models underpinned trials undertaken by
+      ourselves and by others, which in turn have resulted in therapeutic
+      hypothermia becoming standard care for infants with moderate to severe
+      neonatal encephalopathy. The importance of the early work at UCL in
+      particular, as the basis for later work and impacts was described in
+      detail in a recent article [a]. As a result of these important
+      international collaborations, over 3,000 infants so far in the UK have
+      benefitted from this treatment, which was incorporated into NICE guidance
+      in 2010. Our work also resulted in the commercial development of the
+      CoolCap.
+    Immediately following the conclusion of the enrolment of the TOBY Trial,
+      the UK TOBY Cooling Register was set up and was operational between Dec
+      2006 and Dec 2012. All newborns treated with cooling in the UK have been
+      eligible to be registered. During this time over 3,000 babies cooled at 74
+      neonatal units were registered, showing how the treatment has been adopted
+      into normal clinical practice [b]. Analysis of these data in 2012
+      suggested that the number of babies registered was close to the estimates
+      of all babies suffering from moderate to severe neonatal encephalopathy [c].
+    The impact on long-term outcomes for these babies is clear. A recent
+      meta-analysis including seven trials and 1,214 infants shows that
+      therapeutic hypothermia results in a reduction in death or major
+      neurodevelopmental disability (risk ratio 0.76; 95% CI 0.69-84) and an
+      increase in the rate of survival with normal neurological function (1.63;
+      1.36-1.95) at age 18 months [d]. Based on the number of infants
+      treated by cooling we can predict that approximately 450 have avoided
+      death or serious neurological disability between 2006 and 2012.
+    Following our trial of the CoolCap, this device received FDA approval in
+      2006 [e] and has been sold commercially since that time [f].
+      It is now in use in 30 hospitals across the United States (many of them
+      covering a wide geographical area, due to the specialist nature of the
+      services provided) [g].
+    In 2009, children's charity Bliss endorsed the positive reports from
+      research into cooling: Carmel Bartley, of the children's charity, Bliss
+      said: "This is welcome research into an area which is known to save
+        lives. It is a specialist treatment we would like to see used more
+        widely" [h]
+    In 2010, the recommendation for therapeutic hypothermia was incorporated
+      into NICE guidelines [i]. The British Association of Perinatal
+      Medicine (BAPM) also recommended this treatment in guidelines issued in
+      the same year [j]. Enrolment into the cooling Registry increased
+      dramatically after this, and shows that there has been a timely,
+      systematic implementation of therapeutic hypothermia in the UK to a
+      standard protocol. There has been a steady rise in the uptake of
+      therapeutic hypothermia across the UK. Elsewhere in the world, in October
+      2010, the International Liaison Committee on Resuscitation (ILCOR) and
+      American Heart Association released its revised statement recommending
+      therapeutic hypothermia as a standard of care for moderate to severe HIE [k].
+    A health economic study done by Imperial College London set out the clear
+      economic case for this treatment. Using current lifetime costs for each
+      child with cerebral palsy (about &#163;750,000) and the economic benefit of
+      additional healthy lives (&#163;800,000), the total benefit to the UK economy
+      as a result of the implementation of therapeutic hypothermia is likely to
+      be over &#163;125 million so far [c].
+    
+ImpactSummary
+
+    Our early work on large animal models underpinned trials undertaken by
+      ourselves and by others, which in turn have resulted in therapeutic
+      hypothermia becoming standard care for infants with moderate to severe
+      neonatal encephalopathy. In 2010 this was recommended in NICE guidance.
+      Over 3,000 babies have now been given this treatment, and we estimate that
+      450 have avoided death or serious neurological disability. The estimated
+      economic value of this is over &#163;125 million.
+    
+UnderpinningResearch
+
+    Problems around the time of birth causing a lack of oxygen to the fetus
+      (birth asphyxia) can lead to disordered brain function called neonatal
+      encephalopathy which can result in death, long-term brain damage, cerebral
+      palsy, epilepsy and other significant cognitive, developmental and
+      behavioural problems. Neonatal encephalopathy occurs in 750-1,125 infants
+      in the UK every year. The financial and human costs to infants affected,
+      their parents, professionals and wider society are enormous.
+    Extensive experimental and clinical research has been carried out at UCL
+      since the early 1980s into the evolution and timing of energy failure and
+      cell death following perinatal hypoxia-ischaemia. Osmond Reynolds and his
+      team of researchers at UCL were struck by the group's magnetic resonance
+      spectroscopy data showing that the infant's brain is normal in the hours
+      after asphyxia and cell death occurs only after a distinct delay of
+      several hours. Delayed brain injury (called "secondary energy failure" by
+      Reynolds) was a critical new idea: this secondary deterioration in brain
+      energy metabolism was observed in both babies with neonatal encephalopathy
+      and then in animal models [1]. This delay in cell death opened the
+      possibility of therapeutic intervention in what had previously been
+      considered an impossible situation. A key breakthrough came in 1995 when
+      the UCL team demonstrated that if whole-body cooling was introduced in the
+      period just after hypoxia-ischaemia in the piglet brain, secondary energy
+      failure was ameliorated or prevented and brain cell death reduced [2].
+    Confirmatory studies in Sweden and New Zealand built on these
+      demonstrations, and as a result, the first clinical trial of therapeutic
+      hypothermia was initiated. This was the multicentre CoolCap Trial, which
+      involved selective head cooling. John Wyatt (UCL) and Peter Gluckman
+      (Auckland) were the principal investigators of this trial. The first
+      patient was enrolled in 1999 and the study was published in the Lancet in
+      2005 [3]. The trial used selective head cooling and mild body
+      cooling (to 34.5oC) to minimise potential side effects of
+      cooling. The results were encouraging; although Coolcap showed a
+      non-significant trend to improvement with cooling in the primary outcome
+      of death or disability at 18 months overall, there was a clear and
+      significant benefit when infants with very severe or long-established
+      injury were excluded.
+    Other major studies of cooling followed, building on our early work. As
+      we had demonstrated that there had been no major adverse effects of
+      controlled cooling to 34.5oC and whole body cooling seemed more
+      practical, most of the subsequent cooling studies used whole body cooling
+      to a core temperature of 33.5oC. The next major cooling study
+      to be published was that run by the National Institute for Child Health
+      and Human Development (NICHD), which showed a significant effect of
+      cooling. In the UK, total body hypothermia for neonatal encephalopathy
+      (TOBY) trial was set up. This trial was still recruiting when the results
+      from the CoolCap trial were published showing a marginal benefit from
+      cooling. As a result of this, the TOBY trial size was increased. The
+      results of the TOBY trial were remarkably consistent with previous trials.
+    The most recent systematic review (Jacobs et al. 2013) showed that
+      cooling increases the infants' chance of surviving without neurological
+      deficits at 18 months, reducing neurodevelopmental impairment in
+      survivors. The relative effects of selective head and whole body cooling
+      seemed indistinguishable. In summary the UCL research identified secondary
+      energy failure after neonatal asphyxia, demonstrated the beneficial
+      effects in animal models and illustrated salutary effects in the first
+      clinical trial of brain cooling, later confirmed by many other
+      investigators.
+    

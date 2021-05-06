@@ -1,0 +1,243 @@
+CaseStudyId: 31381
+Title: 
+    Improving control of tuberculosis in hard-to-reach groups
+    
+
+ImpactDetails
+
+    London is now the `TB capital' of Europe and has more cases annually than
+      the Netherlands,
+      Belgium, Greece and Norway combined. TB is curable in virtually all cases
+      and can be effectively
+      controlled provided cases are found early and patients can complete
+      treatment. The research
+      described above has resulted in new services to improve control of
+      tuberculosis in hard-to-reach
+      groups.
+    The Find&amp;Treat Project
+    The original TB profile study provided justification for London Region to
+      invest in a large
+      demonstration project of mobile X-ray screening in homeless people, drug
+      users and prisoners.
+      Our initial evaluation of the demonstration project led the Department of
+      Health (DH) to invest in
+      continued funding of mobile X-ray screening in homeless shelters and drug
+      services and the
+      expansion of the service to include workers to support patients through
+      diagnosis and treatment.
+      This has now become the Find&amp;Treat service &#8212; a specialist outreach
+      team that works alongside
+      over 200 NHS and third sector front-line services to tackle TB among
+      homeless people, drug or
+      alcohol users, vulnerable migrants and people who have been in prison. The
+      multidisciplinary
+      Find&amp;Treat team takes TB control into the community, finds cases of
+      active TB early and supports
+      patients to take a full course of treatment and get cured. The service
+      spans the TB pathway from
+      detection, to diagnosis and onward care. To `Find' TB cases early the team
+      raises awareness
+      among service users and frontline professionals and screen almost 10,000
+      high risk people every
+      year using a mobile digital X-ray unit (MXU) as recommended by the
+      National Institute of Health
+      and Clinical Excellence (NICE). The screening service covers every London
+      Borough and supports
+      Public Health England (PHE) to manage outbreaks of TB nationally. Our
+      subsequent evaluation of
+      the expanded service contributed to decisions for NHS to take over the
+      funding of the service
+      which is now hosted by UCLH on behalf of London [a].
+    Analysis of service data shows that between January 2008 and June 2013,
+      Find&amp;Treat undertook
+      45,385 X-rays leading to 385 referrals, 84 of which resulted in treatment
+      being commenced for
+      pulmonary tuberculosis (detection rate 247 per 100,000 individuals
+      screened). 84% successfully
+      completed treatment within 12 months (higher than the proportion of cases
+      who complete TB
+      treatment nationally). Since 2008 Find&amp;Treat have worked with 1,379
+      suspected and active TB
+      cases including 780 cases with active TB (696 referred from TB and allied
+      services in London and
+      Birmingham and 84 found on the MXU). Of the culture confirmed cases 33%
+      were drug resistant
+      including 59 multidrug-resistant (MDR) and 4 extensively drug-resistant
+      (XDR) cases. 371 of the
+      referrals to Find&amp;Treat were because of loss to follow up and deemed
+      un-contactable by local
+      services. The outreach team recontacted 74% (275) of whom 73% have
+      completed treatment (154)
+      or are well established and expected to complete treatment (46). The team
+      also support Directly
+      Observed Therapy (where a responsible adult watches every dose of
+      treatment being swallowed to
+      improve adherence) and have pioneered the use of Video Observed Therapy
+      (VOT) using laptops
+      and smartphones. VOT is now being evaluated as part of a randomised trial
+      funded within the
+      UCL-led TB Reach NIHR Programme grant [b].
+    Public Health England is now developing a project to expand the service
+      nationally, creating a
+      National Infection &amp; Inequality System (NIIS) to provide integrated
+      testing, treatment, health and
+      social care for vulnerable populations disproportionately affected by
+      serious public health
+      infections, in particular TB, Hepatitis C and HIV. This service will be
+      directly modelled on the
+      successful model of Find&amp;Treat [c].
+    Introduction of static screening in prisons
+    Our research demonstrated that turnover of prisoners was too high for a
+      mobile unit to provide
+      sufficient coverage to pick up cases and recommended the installation of
+      static digital X-ray units
+      (DXR) in key prisons. In March 2008, the Chief Medical Officer announced
+      the intention of DH to
+      fund the installation of static DXR machines in five London prisons at a
+      cost of &#163;10m. This decision
+      was explicitly linked by the CMO to our MXU evaluation project (ref 5
+      above) [d]. The X-ray units
+      were all installed and in operation by March 2012. PHE's Director of
+      Health and Justice reports that
+      "I have no doubt that the MXU project has had a direct and positive
+        influence on policy and
+        programmes relating to active case finding for pulmonary TB among people
+        in prisons and other
+        places of detention." A new national partnership agreement just
+      signed between PHE, NHS
+      England and the National Offender Management Service (NOMS) has made
+      further commitments
+      to ensuring the service is fully utilised, and furthermore, following a
+      successful trial of the
+      Find&amp;Treat service at a large Immigration Removal Centre (IRC) near
+      London, proposals are now
+      being made to extend the service permanently for use in this setting [e].
+    Broader influence on control of tuberculosis in hard to reach groups
+    In July 2009 NICE received the following referral from DH: "Produce
+        programme guidance on the
+        effectiveness and cost effectiveness of interventions based on active
+        case finding among hard-to-reach
+        groups (find and treat model) for reducing transmission of tuberculosis
+        and related mortality
+        and implications for service development." The guideline development
+      group was chaired by
+      Hayward and considered a wide range of evidence including the research
+      described above and
+      expert testimony from the Find&amp;Treat service. This resulted in the
+      publication of NICE Public
+        Health Guidance (37) on Identifying and managing tuberculosis among
+        hard-to-reach groups [f].
+      Key recommendations based on our findings included: mobile radiographic
+      screening to expand to
+      other higher incidence areas outside London; screening for TB in prisons;
+      screening for latent TB
+      in drug users; NHS to provide funds for housing of homeless TB patients
+      with no other recourse to
+      support; multidisciplinary teams to include social care workers to support
+      care; directly observed
+      therapy to become routine for homeless people, prisoners and drug users;
+      cohort review (a service
+      quality improvement model based on international experience and the London
+      TB profile) to
+      become routine across TB services nationally.
+    Simultaneously the Royal College of Nursing, British Thoracic Society,
+      Health Protection Agency,
+      National Treatment Agency for Substance Misuse produced detailed practical
+      guidance for
+      tuberculosis case management and cohort review. In addition to the above
+      this guidance includes
+      a risk assessment tool modelled on our original TB patient profile form.
+      This helps to systematically
+      identify patients in need of enhanced case management [g].
+    The approach of adding the support of allied health professionals to work
+      alongside TB services
+      which we pioneered in the TB Link project, is now in use in at least 18 TB
+      services across London
+      alone. A support workers' forum coordinated by Find&amp;Treat has recently
+      been established, and the
+      roles of those who attend vary considerably [h].
+    
+ImpactSummary
+
+    Research by led Dr Andrew Hayward and Dr Alistair Story (UCL Research
+      Department of Infection
+      and Population Health) on tuberculosis in hard-to-reach groups
+      (particularly homeless people,
+      problem drug users and prisoners) has led to the introduction of mobile
+      X-ray screening for
+      tuberculosis in London, screening 8-10,000 homeless people and drug users
+      annually. A pan-London
+      street outreach team has been developed to support hard-to-reach patients
+      with
+      tuberculosis, and social care workers are now a core part of
+      multidisciplinary TB teams. A static
+      digital teleradiology TB screening network has been established in key
+      prisons and, most recently,
+      the research has influenced NICE Public Health Programme Guidelines.
+    
+UnderpinningResearch
+
+    Research underpinning these impacts began in 2003 with the TB Link
+        Project which aimed to
+      improve patient outcomes by addressing social needs. Interventions mainly
+      involved supporting
+      access to housing (36%), income/benefits (34%) and immigration entitlement
+      issues (7%). Over
+      80% of cases successfully completed treatment. The research was carried
+      out by Dr Andrew
+      Hayward in collaboration with Alistair Story (Health Protection Agency
+      (HPA) at that time, now
+      UCL/UCLH) [1].
+    In 2003/4 the London TB Patient Profile worked with all TB nurses
+      in 35 clinics across London to
+      look at social as well as clinical factors affecting patient outcomes. The
+      study included 1,941
+      patients (over 95% of London TB patients) and showed the importance of
+      three risk factors in
+      particular: homelessness, drug use and imprisonment. It demonstrated that
+      these groups had
+      extremely high prevalence of tuberculosis (higher than recent migrants
+      from high incidence
+      countries) and that these factors were strong independent predictors of
+      drug resistance, poor
+      adherence and loss to follow up [2]. Subsequent work based on this
+      data showed that Crack
+      Cocaine Users were substantially more likely than others to have smear
+      positive (infectious) forms
+      of tuberculosis than other cases, posing a great transmission risk [3].
+      The work also demonstrated
+      substantial missed opportunities for diagnosis and early treatment of HIV
+      (only 50.8% of TB
+      patients aged &gt; or =20 years without previous testing were offered HIV
+      testing) [4].
+    The first work to evaluate mobile X-ray screening started in
+      collaboration with colleagues in
+      Holland who were working on a similar project. In 2004 Story and Hayward
+      led a three-day
+        screening pilot across several of the larger homeless hostels in
+      London, and in a prison. One
+      case of TB was found in a prison, and one among the homeless. This
+      proof-of-concept study
+      demonstrated the potential of such a scheme, and prompted the Department
+      of Health to fund a
+      demonstration project entitled Evaluation of Targeted Mobile X Ray
+        Screening for tuberculosis
+        in high risk groups. Over 21 months the project undertook 23,881
+      chest X-rays and led to 43
+      patients starting treatment. Screening shortened delay to diagnosis
+      three-fold. Modelling
+      suggested this would prevent around 87 active cases and 389 infections per
+      year by 2013 and that
+      the intervention was cost-saving [5]. Nevertheless it highlighted
+      that because patients were being
+      lost between initial screening and diagnosis at a clinic, investment was
+      also needed to support
+      people through confirmation of diagnosis and treatment. The report also
+      noted that high turnover of
+      inmates in prisons prevented high screening coverage with a mobile unit.
+    A subsequent evaluation of an expanded Find &amp; Treat service
+      (Abubaker, then HPA now UCL and
+      Aldridge, UCL) showed the cost effectiveness of the service in identifying
+      hard to reach patients
+      and supporting their care [6].
+    

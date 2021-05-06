@@ -1,0 +1,155 @@
+CaseStudyId: 40402
+Title: 
+    Development of the New Medicines Service increases patient adherence to
+      medicines and improves patient safety
+    
+
+ImpactDetails
+
+    In 2008, the Department of Health published a white paper entitled Pharmacy
+        in England: building on strengths, delivering the future in which it
+      outlined the new service which was being developed, referencing the work
+      of Barber, Horne and Clifford [a]. This idea was taken forward by
+      the Labour government, but then frozen when the election was called. The
+      coalition government, however, took up the policy again, naming it the New
+      Medicines Service (NMS), and continuing its development through to
+      implementation in October 2011 [b]. The Chief Pharmaceutical
+      Officer for England has confirmed that "it is the research in question
+        that forms the fundamental building block to this important development
+        in health policy" [c].
+    Barber, Horne and Clifford were involved in the development of the
+      service during this period. They participated in stakeholder meetings in
+      which the nature of the new service was agreed and the intervention and
+      subsequent training designed [c]. Barber and Clifford co-authored
+      the questions the pharmacist should ask and also some of the CPPE training
+      manual and some of their teaching was put on YouTube to be widely
+      available [d]. Barber participated in a series of national day
+      long `road show' which visited all Strategic Health Authorities to
+      publicise the launch of the service.
+    The service is targeted at NHS priority groups and at medicines
+      associated with avoidable hospital admissions (typically due to poor
+      adherence). Any patient starting a chronic medication who is prescribed a
+      diuretic, anticoagulant, or has asthma, chronic obstructive pulmonary
+      disease (COPD) or type 2 diabetes is eligible, and should be offered the
+      service [e]. The pharmacist sets up a meeting with the patient a
+      couple of weeks after the patient presented the prescription and asks a
+      series of open questions to elicit the patient's experiences with the
+      medicine, their adherence and any problems or questions. The pharmacist
+      should explore possible ways to deal with any issues raised. Two weeks
+      later the pharmacist contacts the patient again to see if the issues have
+      been resolved, to check adherence and to find out whether any further
+      advice is needed. The pharmacists are paid for this if patient completes
+      the whole process.
+    Impacts on patients
+    By the end of May 2013, 1,023,697 patients had received the service [f].
+    In December 2012, Gary Warner, Chairman of the Pharmaceutical Services
+      Negotiating Committee's service development subcommittee (which had
+      undertaken an interim evaluation of the NMS based on 224,554 patients)
+      commented: "NMS interventions are making a real difference to so many
+        patients". The report showed that 32% of formerly non-adherent
+      patients became adherent to their medication after the NMS intervention.
+      In addition, pharmacists gave 366,702 pieces of healthy living advice to
+      patients while they provided the service [g].
+    Improved patient safety
+    One of the innovations of the service was to encourage pharmacists to
+      fill in `yellow cards' reporting adverse drug events. In August 2012 the
+      Medicines and Healthcare products Regulatory Agency (MHRA) announced that
+      there was a 120% increase in Yellow Card reports received from community
+      pharmacists since the launch of the NMS, compared to the same time period
+      a year ago, indicating that the service leads to rapid identification of
+      side effects of medicines, strengthening the national regulatory process [h].
+    Impacts on professional training
+    Barber and Clifford were heavily involved in preparing the professional
+      training for the NMS prepared by the DH-funded national Centre for
+      Pharmacy Postgraduate Education (CPPE) and wrote some of their training
+      material. They also made a series of videos for CPPE and ensured that
+      these materials were open-access. The reference to this work can be found
+      in YouTube videos (see above) and the CPPE open learning programme that
+      can be accessed by GPhC members only [i].
+    Economic benefits to the NHS
+    Elliot's health economic study showed a saving to the NHS of &#163;95.40 per
+      patient. The impact assessment prepared for the Government estimated the
+      likely costs and benefits of the scheme under various scenarios. Using the
+      middle of three scenarios they estimated the net benefits of adopting the
+      service to be &#163;1.5bn (discounted) over a 10 year period [j].
+    Other national &amp; international schemes
+    The research presented above has led to a similar service becoming policy
+      in Scotland, where it has been integrated with their chronic medication
+      service [k].
+    There has been interest from other countries in introducing a similar
+      scheme. For example, pharmacists from the Norwegian pharmacy organisation
+      Apokus visited the UK in December 2012 to learn about the service. The
+      visit followed interest from Norwegian community pharmacies in undertaking
+      a pilot NMS for new anticoagulant medicines. The team learnt about the NMS
+      and met with individuals involved, including a member of the UCL team
+      (James Davies) involved in evaluating the service [l].
+    
+ImpactSummary
+
+    Work led by Professor Nick Barber at the UCL School of Pharmacy showed
+      that a majority of patients have problems soon after starting a new
+      medicine for a chronic condition, and this led to the development of a
+      post-consultation intervention by pharmacists that was shown to be more
+      effective and cheaper than normal care. This entered Department of Health
+      policy for pharmacy in 2008 and Barber helped design the New Medicines
+      Service that was launched in October 2011. This service is offered by
+      community pharmacists in England and by the end of May 2013 over a million
+      patients had received the service. The intervention increases patient
+      adherence to medication, thus improving quality of care, and reducing cost
+      to the NHS from wastage. It also improves patient safety through better
+      identification and resolution of adverse effects.
+    
+UnderpinningResearch
+
+    Professor Nick Barber at the UCL School of Pharmacy, along with
+      colleagues at Kings College London and Birmingham Universities, received a
+      Department of Health (DH) policy research grant on prescribing in 1995. A
+      study on doctor-patient communication interviewed a series of patients
+      after consultation with their GP. This revealed that many patients felt
+      that they had not been able to raise the issues that they had in fact
+      wished to raise before the consultation took place, resulting in
+      misunderstandings on both sides. One significant consequence of this was
+      that many patients did not take prescribed medicines as advised [1, 2].
+      Analysis of the consultations showed that `biomedical' consultations had
+      worse consequences in terms of adherence than `lifeworld' ones (i.e. those
+      that engaged with the patient's life and preferences) [3]. As a
+      pharmacist, it seemed to Barber that patients' lives could be made better
+      via professional intervention after the consultation and after they had
+      experienced the medicine, and helping them solve their medicine-related
+      problems in a patient-centred way via consideration of their individual
+      needs and concerns.
+    On the basis of these findings, Barber (as PI) was funded in 2001, along
+      with Rob Horne as co- investigator (then University of Brighton, now UCL
+      School of Pharmacy) and Sarah Clifford (then UCL School of Pharmacy), by
+      NW Thames Regional Health Authority to conduct a larger, quantitative
+      study involving 258 patients recruited from 23 community pharmacies in
+      south east England. It showed that 10 days after starting a new medicine,
+      around one third of patients were non-adherent and two thirds stated that
+      they had problems or concerns regarding their medicines [4].
+    In 2003, NW Thames then funded Barber (with Horne, Clifford and Rachel
+      Elliott, University of Manchester) to develop and evaluate a service to
+      improve adherence. The team designed a telephone-based pharmacy advice
+      service, guided by the self-regulatory model, which recognises that
+      adherence to medication is frequently influenced by symptoms or beliefs
+      about the illness that are unique to each patient. The theory was used in
+      training the pharmacists to adopt a patient- centred approach. The
+      intervention was designed to elicit patients' experiences with, and
+      concerns about, their new medicine; this was then used as a starting point
+      for the pharmacists to meet each individual's specific needs with
+      information and advice. As non-adherence to new medicines for chronic
+      conditions develops rapidly, the team developed a service in which a
+      pharmacist telephoned patients two weeks after they had started a new
+      medicine for a chronic condition. The pharmacist listened to the patient's
+      problems and gave advice or information if needed. In this study the
+      effectiveness, safety, utility and the patient acceptability of the
+      service were assessed. The service was then tested in a proof-of-concept
+      randomised controlled trial involving forty pharmacies across England. It
+      was found that the proportion of non-adherent patients was significantly
+      reduced in the intervention group [5]. What is more, the patients'
+      beliefs regarding their medicines became on balance more positive [6].
+      The study included a health economic evaluation (led by Elliott) that
+      followed up patients' utilisation of health resources, modelled them and
+      calculated incremental cost effectiveness ratios. The intervention was 90%
+      likely to be both cheaper and more effective than normal care due to more
+      efficient medicines usage [7].
+    

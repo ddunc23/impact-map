@@ -1,0 +1,209 @@
+CaseStudyId: 36651
+Title: 
+    The DichroWeb Analysis Server and Protein Circular Dichroism Data Bank:
+      analysis tools for structural biology
+    
+
+ImpactDetails
+
+    Both DICHROWEB and the PCDDB are widely used by researchers in industry
+      as well as for
+      academic research and advanced teaching. DICHROWEB currently has over
+      3,600 registered
+      users. Over 375,000 DICHROWEB analyses have been run and the service has
+      been cited in over
+      1,000 publications [a]. This resource is free for academic and
+      non-profit research use but industrial
+      subscribers each pay a small annual fee for use of the service. The list
+      of past and present
+      industrial users includes representatives of the pharmaceutical,
+      biotechnology and food sectors,
+      and ranges from large multinational companies to the SME sector. Fees from
+      industrial users
+      provide an income of &#163;2-5,000/year which is used as a contribution to
+      running costs. No formal
+      registration is required to access PCDDB, but users can register to
+      facilitate multiple queries or
+      updates of contents. Currently registered industrial users include a
+      number of large pharmaceutical
+      companies and life science SMEs, plus about a dozen biomedical product and
+      clinical diagnostic
+      suppliers, amongst others. Since its launch in 2009, the database has had
+      over 175,000 unique
+      hits from 41 different countries, and 89,890 downloads (as at March 2012)
+      [b].
+    Analysis of citations of our key publications reveals that a wide range
+      of companies have obtained
+      valuable results from using the tools that have been made accessible
+      through DICHROWEB (many
+      of which were developed by Wallace's group). For example, three studies
+      cited below [c-e]
+      illustrate typical recent cases in which the analysis tools within
+      DICHROWEB have been applied to
+      analysis of the stability and solution properties of proteins being
+      developed as biological products,
+      particularly vaccine candidates and tools for biomedical investigation. A
+      complete list of citations
+      with industrial co-authors is available [f]. This indicates use of
+      DICHROWEB by a wide range of
+      large and small companies from the pharmaceutical, vaccine, biotech, food
+      and instrumentation
+      sectors. A review of the patent literature has shown 11 patent
+      applications from major corporations
+      referring to the underpinning research papers, further indicating the
+      commercial relevance of our
+      work. The list of assignees that hold these patents include Roche Holding
+      AG, Pfizer Inc. and
+      Collplant Ltd [g].
+    The use of both DICHROWEB and the PCDDB is promoted and encouraged by all
+      the major
+      commercial manufacturers of equipment for CD spectroscopy, who have
+      established links from
+      their own company websites either to DICHROWEB alone or to both DICHROWEB
+      and the
+      PCDDB [h]. The well-established and prestigious RCSB Protein Data
+      Bank Knowledge Base
+      website, which is a primary access point for publicly available
+      atomic-resolution protein structures,
+      also links relevant entries to the appropriate entries in the PCDDB; both
+      sites are also linked from a
+      number of widely used bioinformatics websites and are now being promoted
+      via social media.
+    Wallace's work has been recognised in several awards and in invitations
+      to present her work at
+      international conferences. Her presentation with the prestigious
+      AstraZeneca Award by the
+      Biochemical Society in 2010 recognised her "outstanding work which,
+        through biomedical
+        advances, leads to development of a new reagent or method" [i].
+      In 2011 she was a keynote
+      lecturer at the CASSS Higher Order Structure meeting on spectroscopy for
+      industry (Rockville, MD,
+      USA) [j].
+    Both DICHROWEB and the PCDDB are widely used in advanced teaching both in
+      the UK outside
+      Birkbeck College and internationally. These include workshops for
+      researchers such as an annual
+      EU/UK summer school, which regularly involves delegates from industry, and
+      university courses;
+      DICHROWEB is mentioned in course notes and curricula from the Universities
+      of Texas and
+      Pittsburgh [k]. The use of both databases as resources for
+      undergraduate teaching of CD
+      spectroscopy has recently been recommended [l].
+    
+ImpactSummary
+
+    DICHROWEB is a comprehensive, user-friendly server that provides access
+      to computational tools
+      for the determination of protein secondary structure from data obtained
+      through circular dichroism
+      (CD) and synchrotron radiation (SRCD) spectroscopy. The Protein Circular
+      Dichroism Data Bank
+      (PCDDB) is a database of spectra obtained using these techniques and
+      allied data. Both resources
+      are widely and increasingly used in many countries and are proving useful
+      in industrial research
+      (for example, in drug discovery) as well as academia and advanced
+      teaching. DICHROWEB
+      currently has over 3,600 registered users and over 375,000 DICHROWEB
+      analyses have been
+      run. Since the launch of PCDDB in 2009, the database has had over 175,000
+      unique hits from 41
+      different countries, and 89,890 downloads.
+    
+UnderpinningResearch
+
+    Circular dichroism (CD) spectroscopy is a powerful tool for the
+      structural analysis of peptides and
+      proteins that was first developed in the 1960s. It measures the absorption
+      spectra of molecules in
+      the far ultra-violet (UV) part of the electromagnetic spectrum. As this
+      absorption is influenced by
+      the geometry of the peptide backbone, the absorption spectrum can be used
+      to determine the
+      proportion of each secondary structure type present in a protein. It is a
+      method that is widely used
+      in both academia and industry for the characterisation of proteins. In
+      recent years, technical
+      improvements, particularly the development of synchrotron radiation CD
+      (SRCD) spectroscopy,
+      have enabled lower wavelength data to be collected and thus increased the
+      information content of
+      the spectra. Wallace and her group have been and are still at the
+      forefront of the development of
+      these new techniques.
+    An analysis of the secondary structure of a protein from its CD spectrum
+      is based on comparisons
+      with a set of reference spectra obtained from proteins with structures
+      known to atomic resolution.
+      Many different programs for the analysis of CD data have been made
+      publicly available, although
+      these required input and produced output data in different formats and
+      units, and produced
+      different types of comparison metrics. Wallace and her co-workers
+      developed and continue to
+      update and maintain the DICHROWEB server (http://dichroweb.cryst.bbk.ac.uk)
+      as a user-friendly
+      web-based interface to a wide range of both well-characterised and novel
+      tools for the analysis of
+      SRCD and CD spectroscopy data [1]. DICHROWEB users are able to
+      submit their spectra in any
+      recognised format and have access to many combinations of analysis
+      programs and reference
+      databases. The degree of agreement between the experimental data and a
+      spectrum obtained by
+      back-calculation from the predicted secondary structures is returned as a
+      simple root mean square
+      goodness-of-fit parameter, as well as provided as an easily interpretable
+      graphical comparison of
+      the experimental and calculated data [2].
+    Research by Wallace and her collaborators has enabled a range of new
+      features, input
+      parameters, data types and reference databases to be added to DICHROWEB,
+      taking into account
+      advances in X-ray crystallography, NMR spectroscopy and bioinformatics
+      that have greatly
+      increased the range of atomic-resolution protein structures available and
+      categorised them more
+      precisely into fold families. Among these, new reference data were
+      produced which cover
+      secondary structure of the protein and fold space, using high quality SRCD
+      data, allowing more
+      accurate prediction of secondary structure [3]. Furthermore, new
+      computational and bioinformatics
+      developments have been incorporated by the Wallace group [4].
+      Techniques for the analysis of the
+      dynamic properties of protein folding and of protein-protein interactions
+      have also been developed
+      [5].
+    In a parallel development, Wallace created the Protein Circular Dichroism
+      Data Bank (PCDDB) in
+      collaboration with Dr Robert Janes (Queen Mary University of London) as a
+      publicly available
+      repository for CD and SRCD data and a BBSRC Bioinformatics resource for
+      data sharing. It was
+      first released in December 2009 and is now fully operational for data
+      deposit as well as access [6].
+      Besides the spectra, which are available for download graphically or as
+      text files, this databank
+      includes metadata such as sample types and experimental conditions. It
+      also contains a set of
+      tools for validating CD spectra which are extremely valuable for the
+      community, particularly as
+      journals do not insist on CD spectra being validated if the main emphasis
+      of the publication is on a
+      different technique. The database is freely available to the community via
+      a web-based interface
+      that runs on all up-to-date platforms and browsers and is user-friendly
+      enough for non-experts to
+      use. Each entry in PCDDB is linked to a wide range of other structural
+      biology resources and also
+      linked through to DICHROWEB to allow users to run their own analyses on
+      stored datasets. This
+      database is a valuable resource for bioinformatics and experimental
+      studies on proteins; it parallels
+      the Protein Data Bank (PDB) as a repository for crystallographic data and
+      enables comparisons
+      with known proteins [7].
+    

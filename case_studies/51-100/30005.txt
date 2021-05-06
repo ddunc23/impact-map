@@ -1,0 +1,209 @@
+CaseStudyId: 30005
+Title: 
+    Application of magnetic nanoparticles in the treatment of breast
+        cancer
+    
+
+ImpactDetails
+
+    More than 1.38 million new cases of breast cancer are diagnosed around
+      the world each year, a figure that is currently increasing by 20,000 year
+      on year. In almost all cases, surgery is required to remove the tumour. To
+      determine whether the disease has spread to other sites, the European
+      Organisation for Research and Treatment of Cancer currently recommends
+      sentinel lymph node biopsy (SLNB), wherein the sentinel lymph nodes are
+      removed and inspected under a microscope. This minimally invasive
+      procedure is the preferred standard of care in breast cancer operations;
+      in the UK, around 80% of all operations for that cancer include SLNB.
+    Despite this, current methods of sentinel node detection are not easy to
+      use, involving the injection of radioactive isotopes, along with a blue
+      dye as a tracer. A surgeon then uses a hand-held Geiger counter to locate
+      the node or nodes closest to the tumour. Because the isotopes are
+      potentially hazardous they must be injected in the nuclear medicine
+      department, rather than by surgeons. The injection itself is painful and
+      distressing, and the isotopes' six-hour half-life presents challenges and
+      limitations for theatre scheduling. Mandatory handling and waste disposal
+      regulations add to the overheads for this procedure, as does the training
+      and licensing of operating theatre staff in the handling of these
+      radioactive materials. Furthermore, patients themselves may have
+      reservations about the use of nuclear medicine. Together, these factors
+      present a significant barrier to the widespread adoption of SLNB. For
+      hospitals or clinics without ready access to radioisotopes, SLNB is not
+      performed at all. As a result, 40% of all breast cancer procedures
+      performed in the West and almost 85% of operations in the rest of the
+      world simply do not include SLNB.
+    The research described above has had direct and significant impacts on
+      this particular healthcare problem through the commercial production of
+      the award-winning SentiMag device and the Sienna+ tracer [a], which have
+      been used to treat more than 850 breast cancer patients since 2008.
+      Together, these new technologies make SLNB available to more patients and
+      at a lower cost than the limited availability radioisotope-based method.
+      The magnetic approach to SLNB is straightforward, and minimal clinician
+      training is required for its administration. Sienna+, a fluid containing a
+      solution of coated iron oxide particles, each around 60 nanometres in
+      diameter, is injected near the tumour to provide a trackable signal, as
+      lymph capillaries easily absorb particles of this size. Surgeons then use
+      the SentiMag to locate the lymph node or nodes closest to the tumour in
+      order to determine whether or how far the cancer has spread. In contrast
+      to the radioactive tracer, the Sienna+ device has a shelf life of several
+      years, enabling its use much more widely than just at centres with access
+      to nuclear medicine. The new technology poses no staff safety issues, and
+      therefore no regulatory burden.
+    [text removed for publication]
+    These benefits derived principally from the success of the clinical work
+      in 2006-07, which led to the decision to take the SentiMag all the way
+      `from bench to clinic'. With seed investment from UCL Business plc, the
+      Bloomsbury Bioseed Fund and the Central London Universities Challenge
+      Fund, Endomagnetics Ltd. was formed as a spin-out company in April 2007.
+      After the initial patent filing in 2006, a portfolio of five further
+      patents was generated, currently at different stages of prosecution in
+      Europe, the USA, Canada, Japan and Australia. Between 2008 and 2010, the
+      Technology Strategy Board supported a collaborative research project
+      linking Endomagnetics with Integrated Technologies Ltd, a medical devices
+      manufacturer; this resulted in a prototype SentiMag trialled on 50
+      subjects [outputs 6, 7, above]. The pilot model differed from the original
+      prototype in its incorporation of the new room temperature sensor and an
+      optimised control circuit designed by Hattersley. With a fully validated
+      technical file for the hardware, firmware and software components of the
+      SentiMag system resulting from the trial, in December 2010 Endomagnetics
+      was able to secure CE marking for the SentiMag as a Class IIa medical
+      device, as required for its use throughout Europe [e].
+    Growth followed in August 2011 with the completion of an additional round
+      of private investment, and the appointment of three full-time company
+      employees &#8212; a CEO, and technical and operational staff. In November 2011 a
+      second CE mark was issued to the company for the production of its own
+      tracer, Sienna+, for on-label use as an interstitial injectable marker for
+      lymph node detection [f]. The two products were launched in the European
+      market in 2012, and in February 2013 a distribution agreement was signed
+      between Endomagnetics Ltd and Sysmex Europe GmbH to supply the products
+      into the Europe, Middle East and Asia region [g].
+    Endomagnetics Ltd is currently working with the FDA and with American
+      regulatory consultants to establish its entry into the United States
+      market. Here, despite the extremely high quality of major city-based
+      cancer centres, the more rural, outlying hospitals are almost entirely cut
+      off from a source of radioisotopes, so for them, there is a definite
+      clinical need to be addressed.
+    Clinical trials: The technology has been tested with patients in a
+      number of clinical trials [h]. The cryogen-free SentiMag was first tested
+      in clinical studies on 43 patients in 2009-10 by Mr Douek (who by then had
+      moved to Guy's Hospital London), using Endorem. This was designed to
+      assess safety and to be a prima facie measurement of efficacy. The
+      study found no adverse reactions, and the observed detection rate was
+      high: 87% in patients that were injected less than an hour before the
+      operation, and 93% for those that were operated on after an hour or more
+      [output 7]. This difference was taken as an indication that the 150 nm
+      diameter of the Endorem particles was inhibiting their lymphatic flow, and
+      led to the development of the 60 nm Sienna+ particles [output 7]. An added
+      benefit was also noted: that the presence of magnetic particles in the
+      excised nodes gave them a brown/black colouration that aided
+      intraoperative identification [i].
+    In 2012-13 Mr Douek led a 160-patient clinical evaluation that involved
+      six UK hospitals and one Dutch hospital. This was designed to be a
+      statistically significant comparative study of the radioisotope and
+      magnetic methods. The result was conclusive: a Sienna+ identification rate
+      of 94% was recorded, compared to 95% with the radioisotopes, so that at
+      the statistical power of 80% it was concluded that the magnetic technique
+      was non-inferior to the radioactive technique [j].
+    
+ImpactSummary
+
+    Groundbreaking UCL research and development of magnetic nanoparticles for
+      biomedical applications led to the introduction in 2012 of the world's
+      first licensed nanoparticulate injectable medical device, the Sienna+
+      tracer, and its associated detection system, the SentiMag. A UCL spinout
+      company, Endomagnetics Ltd., has introduced this new technology to better
+      diagnose and treat cancer without the need for invasive surgery. The
+      system uses magnetic materials, rather than radioisotopes, to locate the
+      sentinel lymph nodes that are the key indicators of the spread of cancer
+      away from the primary tumour site. As well as improving patient outcomes,
+      the system considerably improves hospital workflow and efficiency since,
+      unlike radioisotopes, the injectable magnetic tracer (Sienna+) is readily
+      available and requires no special handling
+    
+UnderpinningResearch
+
+    In 2003/4 Quentin Pankhurst (joined UCL 1993, now Director of the
+      Institute of Biomedical Engineering) started work with the UCL Healthcare
+      Biomagnetics Laboratory (HBL) on biomagnetic alternatives to the use of
+      radioisotopes in sentinel lymph node biopsy (SLNB), currently the
+      recommended clinical method for determining the spread of cancers,
+      including breast cancer. Pankhurst's interest in magnetic nanoparticles
+      had developed towards engineering-based problems, moving from research in
+      1994 on the physics of protein-encapsulated magnetic particles [1] through
+      to work in 1998 on stabilising factors in biocompatible magnetic fluids
+      [2]. By 2001, when he won an MRC Discipline Hoppers grant to study the
+      magnetic properties of the Alzheimer brain [3], healthcare biomagnetics
+      had become the focus of his research, and he formed the HBL.
+    At that time, biomedical engineering approaches to the use of magnetic
+      nanoparticles in healthcare were unheard of. The field was focused firmly
+      on the intravenous injection of magnetic particles as MRI contrast agents
+      or drug delivery vectors. In contrast, the HBL method brought together
+      systems engineering, hardware development and materials engineering to
+      meet carefully targeted (and achievable) clinical goals. The HBL
+      established the paradigm &#8212; now used by research teams all over the world &#8212;
+      of `sensing, moving and heating' as a rubric to motivate applications
+      based on remote sensing (as with the SLNB project); actuation (as with in
+        vivo stem cell targeting); and thermoablation (as with local heating
+      treatments of prostate cancer). This new paradigm was expounded in a 2003
+      review article by Pankhurst [4], since cited more than 3,000 times.
+    Pankhurst and his team have remained at the forefront of the new field of
+      biomedical engineering with biomagnetics. In particular, they have
+      pioneered the repurposing of clinically validated commercial biomaterials
+      (such as the MRI contrast agents Endorem and Resovist) to establish
+      proof-of-principle in a given biomedical context, and the adoption of
+      system engineering approaches (to activate and monitor them after their
+      introduction into the body) for sensing, moving, and heating applications.
+      This has allowed early-stage first-in-man studies to be performed with new
+      devices and existing biomaterials, and supported the subsequent
+      development of bespoke biomaterials; in the case of SLNB, these have
+      included the Sienna+ tracer.
+    In 2003/04 Pankhurst received funding from the Department of Trade and
+      Industry, under the UK-Texas Bioscience Initiative, for a project with the
+      Texas Center for Superconductivity at the University of Houston to build a
+      prototype SLNB detector. In the collaboration, the Houston team was
+      responsible for supplying a novel sensor for the device, and the HBL team
+      was responsible for everything else &#8212; ca. 85% of the work. The objective
+      was to build a device with a hand-held probe, capable of detecting 100
+      micrograms of magnetic tracer at a distance of 20 mm (the equivalent of
+      one millionth of the Earth's magnetic field at the probe tip), suitable
+      for use in an operating theatre.
+    The original design, developed between 2004 and 2007 by Pankhurst and
+      Simon Hattersley (UCL Research Fellow, Department of Physics), was based
+      on a probe-cable-base-unit design wherein a probe comprising sense and
+      drive coils arranged as first-order gradiometers acted as a magnetic
+      susceptometer. The cable was flexible and carried both the drive and sense
+      signals, in an unbroken loop, to the base-unit. At the heart of the
+      base-unit was a superconducting quantum interference device (SQUID)
+      sensor, cooled by liquid nitrogen to a temperature of 77 K. This prototype
+      design presented a host of major mechanical, electrical, and systems
+      engineering challenges: the use of liquid cryogens, the tiny sense
+      currents, the substantial drive currents, and major issues related to
+      thermal expansion, all within the same system.
+    Despite these challenges, by 2006 the HBL team managed to incorporate the
+      Houston SQUID into a prototype SentiMag device [5]. A patent was filed
+      disclosing the invention and its unique features, namely a transformative
+      approach to at-source noise reduction and unprecedented attention to the
+      mechanical and thermal stability of the ceramic rod onto which the
+      electromagnetic sense and drive coils were wound. Also in 2006, a clinical
+      investigator-led, pre-certification human trial began, generating real
+      patient data and insight into the treatment pathway. The SentiMag was
+      first used clinically in December 2006 by Michael Douek, a breast cancer
+      surgeon from the UCL Department of Surgery. The SLNB procedure was
+      successfully tested using the SentiMag and the commercial tracer, Endorem.
+      By the end of 2007, 12 subjects had been treated with a 100% detection
+      rate, equal to that achieved using the standard radioactive method [6].
+    Throughout 2007, clinical tests and discussions with Mr Douek illuminated
+      a further set of engineering challenges, primarily around safety,
+      sterilisability and robustness, to be addressed to bring the SentiMag to
+      an acceptable standard for routine hospital use. One of these was the need
+      to find a replacement for the liquid-nitrogen-cooled Houston SQUID sensor,
+      because of the danger posed by its use of cryogens. This challenge was met
+      by systems engineer Hattersley, who developed an entirely electronic
+      system able to meet the detector's sensitivity requirements [7].
+    In 2010-11, further work began on formulating a bespoke magnetic tracer
+      to replace Endorem. The Sienna+ tracer was formulated through a series of
+      animal model biocompatibility experiments alongside a comprehensive
+      clinical evaluation of previously published data. Sienna+ differed from
+      Endorem in that it was smaller, at ca. 60 nm diameter, and was designed
+      specifically for interstitial, rather than intravenous, injection [7].
+    

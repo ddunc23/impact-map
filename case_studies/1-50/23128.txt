@@ -1,0 +1,155 @@
+CaseStudyId: 23128
+Title: 
+    Molecular genetic characterisation of the causes of familial
+      hypercholesterolaemia has led to improved diagnosis, prevention and
+      treatment.
+    
+
+ImpactDetails
+
+    The underpinning research described above has had a major impact in
+      transforming the management and identification of patients with FH. The
+      three specific impacts described below are: (1) development and validation
+      of screening methods which are now in use throughout the UK; (2)
+      contribution of research to the development of NICE guidelines (CG71); (3)
+      impact on the design of the NHS's Vascular Checks programme to increase
+      the reach of our work.
+    FH is one of the most common Mendelian disorders, affecting 1 in 500
+      members of the general population &#8212; or approximately 120,000 people in the
+      UK. People with FH have very high levels of low density lipoprotein
+      cholesterol (LDL-C) from birth and are at extremely high risk of
+      developing early heart disease. This can be prevented by early treatment
+      with a high intensity lipid-lowering therapy such as statins.
+      Unfortunately, only 15,000 FH patients have been identified to date and
+      are being adequately treated. Since FH is a monogenic disorder, the best
+      way to find new FH patients is by identifying the genetic mutation in the
+      proband and "cascade testing" all their first degree relatives, 50% of
+      whom will also be carriers.
+    DNA screening methods we developed have been used commonly in DNA
+      diagnostic laboratories throughout the UK. The identification and
+      characterisation of the common mutations in LDLR, APOB and PCSK9 in FH
+      patients in the UK led to the development of a DNA test kit which was
+      commercialised by Tepnel (now Geneprobe) during the Department of
+      Health-funded London IDEAS Genetic Knowledge Park of which Professor
+      Humphries was CEO. Although now superseded by new technologies, the
+      availability of the Elucigene FH20 kit allowed labs to take on FH genetic
+      testing and offer it widely and therefore led to the identification of the
+      molecular cause of FH in a large number of patients. This information was
+      then used for testing their relatives. In 2008, Humphries also contributed
+      to the first UK Genetic Testing Network "Gene Dossier" for FH obtained by
+      the GOSH DNA laboratory [a].
+    The demonstration of the feasibility, acceptability and
+      cost-effectiveness of FH cascade testing carried out at UCL was a major
+      part of the evidence that was presented to the NICE Guideline Development
+      Group, which led to their recommendation that DNA testing should be
+      offered to all FH patients to confirm their diagnosis and to use the DNA
+      information for cascade testing in their relatives [b]. The NICE
+      guidelines (CG71) for the identification and management of FH patients
+      were published in 2008 and Humphries was the Lead Clinical Advisor for
+      these guidelines. Implementation guidelines and costing tools were also
+      part of the NICE work, along with further NICE Quality Standards,
+      published in August 2013.
+    Progress in implementing these guidelines was examined in a pilot audit,
+      again led by Humphries and run through the Royal College of Physicians,
+      which reported in 2009 [c]. This was followed by a national audit
+      of 140 Lipid Clinics in the UK which reported in December 2010. The audit
+      revealed that DNA and cascade testing had been implemented well in
+      Scotland, Northern Ireland and Wales but almost not at all in England.
+      Nevertheless, 26% of patients seen over a 5-month period at the surveyed
+      clinics were offered a DNA test. At that time, only 21% of trusts reported
+      that they had access to a family cascade testing system for FH, but where
+      individuals had a DNA test, the process of cascade testing was initiated
+      in 72% of adults and 54% of paediatric cases [d]. According to the
+      Clinical Molecular Genetics Society Audit of Data for the year 2011-2012,
+      a total of 3,235 DNA tests for FH were performed in the laboratories of
+      its members (including all the Regional Genetic Laboratories) during that
+      period. The audit reported that this was an increase over previous years [e].
+      Humphries has continued public awareness work since the report was
+      published, with articles about cascade testing appearing, for example, in
+      the Daily Mail, on BBC News and in the Guardian [f].
+    In order to identify further FH patients as index cases for cascade
+      testing, Humphries has worked with the National Screening Committee to
+      include FH criteria in the NHS Vascular Checks programme [g].
+      Individuals with a total cholesterol level over 7.5mmol/l who, based on
+      the diagnostic criteria of the Simon Broome Register, are likely to have
+      FH, will be flagged and referred to their local lipid clinic [h].
+    Information on FH has been made available to all UK GPs through a 2009
+      BHF factfile prepared by Humphries [i]. Our research findings are
+      outlined (and directly referenced) in the information given, and cascade
+      screening is recommended. Information based on our research is also given
+      to patients through articles in the HEARTUK magazine and their website [j].
+    
+ImpactSummary
+
+    Basic molecular genetic research undertaken over the last 20 years by UCL
+      Cardiovascular Genetics has had a significant impact on the identification
+      and treatment of patients with familial hypercholesterolaemia (FH). We
+      have developed DNA testing methods in the three genes currently known to
+      cause FH and have established DNA diagnostic protocols which are now in
+      wide use throughout the UK. As a direct consequence of our work, we
+      estimate that up to 3,000 FH patients in the UK have had their diagnosis
+      of FH confirmed by a DNA test. Our work led to the National Institute of
+      Health and Clinical Excellence (NICE) in 2008 strongly recommending DNA
+      and cascade testing and early treatment with high intensity statins, and
+      furthermore, the inclusion of FH checks in the NHS's Vascular Checks
+      programme.
+    
+UnderpinningResearch
+
+    The impacts reported below are the result of basic molecular genetic
+      research undertaken over the last 20 years that have had a significant
+      impact on the identification and treatment of patients with familial
+      hypercholesterolaemia (FH). This work led to the establishment of a DNA
+      diagnostic service at the Great Ormond Street Hospital in 1997 and the
+      establishment of the UCL LDLR mutation database, curated by the UCL
+      Cardiovascular Genetics Group, which is regularly updated [1].
+    We initially developed high-throughput screening methods &#8212; necessary
+      because FH is so common &#8212; which have been adapted for use in the DNA
+      diagnostic laboratory setting. Until recently, detecting all possible
+      mutations that predispose a patient to FH would be expensive, labour
+      intensive, and difficult to implement in clinical practice. We developed a
+      kit which, by examining 20 different mutations would rapidly and cheaply
+      identify the defect in roughly 50% of all patients where a mutation could
+      be identified by a complete gene screen [2]. We further reported
+      that c.5% of patients with FH have a large deletion/rearrangement of the
+      LDLR gene and proposed a diagnostic algorithm that tests for the 20 most
+      common mutations, followed by sequencing of LDLR in those with no detected
+      mutation and finally using a commercially available MLPA kit to screen for
+      deletions or rearrangements [2]. Using these approaches, mutations
+      can be found in up to 80% of FH patients with the strongest clinical
+      diagnosis, but in those were no mutation can be detected we recently
+      demonstrated that a polygenic (not a single gene) cause is most likely [3].
+    In 2000 we reported on the under-diagnosis of FH patients in the
+      Oxfordshire area, particularly in young adults (who would benefit most
+      from statin treatment) and confirmed this in a UK national survey.
+      Together with colleagues at the LSHTM, we then carried out a modelling
+      exercise to determine the efficacy of cascade testing vs. other screening
+      approaches, and showed that cascade testing was likely to be the most cost
+      effective method and was within NICE costing requirements [4].
+    Our work in 2006-9 demonstrated the feasibility and acceptability of
+      cascade testing through a pilot study, in a Department of Health-funded
+      project involving five sites throughout the UK [5]. We also
+      analysed the ethical issues involved and proposed appropriate ways of
+      dealing with them. With colleagues at Kings College London we demonstrated
+      that DNA testing was not associated with significantly greater levels of
+      anxiety than measuring plasma cholesterol levels and that it was
+      associated with a number of favourable effects [6].
+    For patients where the causative mutation cannot be identified, we
+      developed age and gender specific LDL cholesterol cut-offs that would
+      allow a clear distinction between those with a high probability of not
+      having FH versus a high probability of definitely having FH. We defined
+      the area of uncertainty where further testing and follow up will be
+      required [7].
+    In collaboration with Andrew Neil at the University of Oxford and the
+      Simon Broome Register Group, we analysed data from the Simon Broome FH
+      register (a computerised research register of FH patients, used to track
+      the progression of the disease in the UK) to demonstrate a significant
+      increase in life expectancy in treated FH patients, firstly with the
+      initially available low potency statins, and subsequently with high
+      potency statins which have become available in the last ten years.
+      Although FH patients on the register who already have heart disease still
+      have a roughly two-fold higher future risk of a fatal CHD event even if
+      well treated, those who do not have evidence of heart disease can, when
+      treated with high intensity statins, expect to have a life expectancy
+      which is not significantly lower than the general population [8].
+    

@@ -1,0 +1,171 @@
+CaseStudyId: 38201
+Title: 
+    Oral epidemiology and the use of subjective measures of oral health and
+      quality of life
+    
+
+ImpactDetails
+
+    Enhancing delivery of oral health care in local services
+    In 2009, Camden and Islington PCT used the OIDP to undertake a survey of
+      the dental needs of elderly people in nursing homes. This indicated high
+      levels of unmet treatment need and considerable impacts of oral conditions
+      on the daily lives of older residents. As a result, in 2012 Camden and
+      Islington PCT established oral health measures as a key component of their
+      local standards for residential homes in Islington. Homes must now ensure
+      that all new residents receive an oral health assessment to identify and
+      arrange urgent treatment; the oral hygiene practice of all residents
+      should be recorded daily; a referral system for attendance to the dentist
+      must be put in place for those in need; nursing home staff are trained to
+      undertake the above oral health related tasks. In practical terms, care
+      has been improved and existing resources more effectively employed. There
+      is a more immediate recognition of oral disease and increased numbers of
+      residents have been referred to the Community Dental Services to receive
+      treatment. In addition, North Central London NHS commissioned the
+      provision of high concentration fluoride toothpaste to cover the
+      preventive needs of those residents identified as at risk for oral
+      diseases [a, b].
+    In 2010, the OIDP was a major component of a needs assessment survey
+      carried out at Holloway Prison, London. This found that 73% of prisoners
+      reported at least one oral impact on daily performances. Prisoners were
+      more likely than the general female population to engage in oral health
+      damaging behaviours such as high sugar intake and smoking. This has led to
+      the London Borough of Islington/NHS North Central London commissioning the
+      Kent Community Health NHS Trust to provide an enhanced oral health
+      promotion service in HMP Holloway for 2013-14 [a].
+    Finally, as a result of our epidemiological work, Islington carried out a
+      pilot community-based fluoride varnish programme in 2010. The success of
+      this project led to Islington Clinical Commissioning Group investing in a
+      community-based fluoride varnish scheme. In the scheme fluoride varnish is
+      applied, twice a year, to the teeth of 6,000 children attending children's
+      centres, community nurseries and schools in the most deprived areas of
+      Islington [a, c].
+    Use in major national surveys of Dental Health
+    Since 1968, a national adult oral health survey has been conducted in the
+      UK every 10 years. In 2008 the UCL Dental Public Health Group joined the
+      Office for National Statistics, National Centre for Social Research and a
+      consortium of universities including Newcastle, Birmingham, Cardiff and
+      Dundee to conduct the 2009 Adult Dental Health Survey (ADHS) for England,
+      Wales and Northern Ireland. The OIDP was included in this survey for the
+      first time to assess how severely oral health problems impacted on the
+      ability of people to carry out basic functions of their daily life [d].
+      The ADHS 2009 results have been used by the NHS to shape the planning and
+      commissioning of the NHS dental services. NHS England report that this
+      survey "is pivotal to our planning oral health services. [Its findings]
+        point to a reduction in dental caries and rates of restoration, a very
+        rapid reduction in edentulousness in old age and the emergence of an
+        ageing population of adults with heavy restoration and potentially
+        complex needs. Our services and workforce continues to develop to
+        address the needs that arise in the knowledge of what we expect to see"
+      [e].
+    In 2009, the Child-OIDP was used by the NHS Dental Epidemiology Programme
+      (NHS DEP) for England in their national survey of child dental health. The
+      programme report that: "The information produced from the nationally
+        coordinated surveys of child dental health is used by PCTs when
+        conducting oral health needs assessments at local level and forms an
+        important component of the commissioning of local services" [f].
+      Subsequently the Child-OIDP has been included in the Children's Dental
+      Health Survey which is due to be conducted in England, Wales and Northern
+      Ireland in autumn 2013.
+    The OIDP and Child-OIDP have also been used in national dental health
+      surveys in Norway, Brazil, Thailand and Korea. For example, a recent
+      national survey of children and adolescents in Thailand included the
+      assessment of oral health-related quality of life by using the Child-OIDP
+      and OIDP indices in 12- and 15-year-old groups. This showed that in
+      general oral impacts were quite prevalent, with dental caries affecting
+      children's quality of life most (accounting for 50% of overall oral
+      impacts), while aphthous stomatitis and gingivitis negatively affected the
+      QoL of between a quarter and a third of the population. As a result of
+      this survey, the Dental Health Division of the Thailand Department of
+      Health set new oral health goals across the country to cover the aspect of
+      oral health-related quality of life [g].
+    Influencing policy debate in Europe
+    Through his involvement in the European Association of Dental Public
+      Health (EADPH), Tsakos has been instrumental in the establishment of the
+      Platform for Better Oral Health in Europe, a European-wide initiative
+      supported by the EADPH, the Association for Dental Education in Europe,
+      the Council of European Chief Dental Officers, and the International
+      Dental Health Foundation [h]. This forum aims to facilitate
+      communication and engagement with key stakeholders and non-clinical
+      audiences in terms of policy development and priority setting for the EU.
+      It promotes oral health and the cost-effective prevention of oral diseases
+      in Europe and provides recommendations to policymakers with regard to EU
+      oral health policy developments. Through his epidemiological and QoL
+      expertise, Tsakos has represented the Platform in meetings with key policy
+      makers including European Commission officials (e.g. Deputy
+      Director-General of DG SANCO) and European Parliament members.
+      Furthermore, the UCL DPH group epidemiological research has been widely
+      used to inform the Platform's reports and policy debate documents. As a
+      result, 2020 targets for improved oral health in Europe were established,
+      and a Europe-wide consultation has begun [i].
+    
+ImpactSummary
+
+    Research by the UCL Dental Public Health Group has led the international
+      field in the development and validation of quality of life (QoL) measures
+      associated with oral health. Tsakos and Sheiham instigated the development
+      of the Oral Impacts on Daily Performances (OIDP) measure in 1996 followed
+      by the Child Oral Impacts on Daily Life (Child-OIDP) in 2004. Both of
+      these outcome measures have been employed in epidemiological surveys of
+      needs assessment by local health providers in London resulting in enhanced
+      use of resources, better staff training, and improved patient care and
+      health care access. These measures have been employed in the most
+      significant NHS surveys of oral health of adults and children in the UK as
+      well as used by health organisations across the globe. The outcomes of
+      Tsakos' research on oral epidemiology and QoL, together with engagement
+      with policy makers in the UK and Europe, have raised the profile of oral
+      health and is influencing health care policies nationally and
+      internationally.
+    
+UnderpinningResearch
+
+    Understanding the quality of life (QoL) of individuals is cardinal in the
+    delivery of all health care as it provides a means to evaluate the personal
+    and social impact of disease and its treatment and thus provides a more
+    rounded appreciation of disease than clinically-derived markers alone.
+    Researchers within UCL Dental Public Health (DPH) have undertaken an
+    extensive programme of research into the theoretical basis, development,
+    psychometric testing and application of oral health related quality of life
+    (OHRQoL) measures in the UK and internationally. These outcome measures have
+    been further employed in oral epidemiology through a variety of studies and
+    provided relevant information for the provision of services to improve the
+    oral health of the population.
+    In 1996, the UCL DPH group developed the Oral Impacts on Daily
+      Performances (OIDP) index [1]. This outcome measure assesses oral
+      impacts that seriously affect a person's daily life and was based on the
+      WHO conceptual framework for the International Classification of
+      Impairments, Disabilities and Handicaps. Over the following years we went
+      on to adapt and evaluate this measure in different settings and cultures
+      and there is evidence of its use in 23 countries. For example, in 2001 we
+      demonstrated that the OIDP is a valid and reliable measure of oral
+      health-related quality of life in elderly people in Great Britain and
+      Greece [2].
+    In 2004 we developed a relevant QoL measure for use with children aged 8+
+      years (the Child-OIDP) in a study of children in Thailand [3]. We
+      then evaluated the Child-OIDP for use among children in the UK [4]
+      and it has since been used in 14 different countries, including in
+      national epidemiological surveys.
+    In addition to the development of these outcome measures, we have also
+      made methodological advances in the administration and interpretation of
+      OHRQoL measures. For example, in 2008 we developed self-administered
+      versions of OIDP and Child-OIDP which have allowed wider use in clinical
+      and epidemiological studies [5]. Our work has also set recommended
+      standards for reporting and interpreting OHRQoL measures [6].
+    We have since gone on to lead the practical application of OHRQoL
+      measures for assessing oral health needs and planning services. We have
+      formulated a socio-dental approach to needs assessment, which we have
+      tested in Thailand (2006), Korea (2009) and Malaysia (2012) and have
+      demonstrated the applicability and relevance of this socio-dental approach
+      for different populations. We have developed pathways for assessing oral
+      health needs which incorporate measures of:
+    i. clinical oral health,
+      ii. OHRQoL (determined by OIDP or Child-OIDP according to the age of the
+      population)
+      iii. behavioural propensity
+    We have further applied these measures to determine the impact of
+      specific oral disorders (e.g. aphthous stomatitis, gingivitis,
+      malocclusion) upon QoL of affected children and adult populations and to
+      assess the outcomes of clinical interventions (e.g. periodontal therapy) [7],
+      thus providing relevant data for planning and evaluating primary and
+      secondary oral health care services.
+    

@@ -1,0 +1,121 @@
+CaseStudyId: 20066
+Title: 
+    Self-management intervention for men with lower urinary tract symptoms:
+      development, phased evaluation and global adoption
+    
+
+ImpactDetails
+
+    As a result of our work, which provided an evidence base for the efficacy
+      of self-management in LUTS, nearly all evidence-based practice guidelines
+      recommend self-management as the initial form of therapy for all men
+      presenting with LUTS. It has therefore become a global standard of care.
+    
+      NICE guideline CG97 (2010), on Lower urinary tract symptoms in men,
+        recommends self- management in the text and in the therapeutic
+        algorithms. The BMJ RCT is referenced [a]. Emberton acted as
+        expert advisor to the group that produced the guidelines.
+      2011 guidelines issued by the European Association of Urology on
+        treatment of non-neurogenic male LUTs (on which the majority of the
+        national guidelines are based) cite our evidence that "self-management
+          as part of watchful waiting reduces both symptoms and progression".
+        Accordingly, they recommend that "men with mild symptoms are
+          suitable for watchful waiting...Men with LUTS should be offered
+          lifestyle advice prior to or concurrent with treatment." The table
+        from Brown et al 2007 is cited directly and the recommendation is
+        attributed a level of Evidence of 1b; Grade A [b].
+    
+    Self-management is now widely recommended to patients, for example on the
+      patient.co.uk website [c] and on NHS Choices [d]. Private
+      healthcare providers now recommend self- management according to the NICE
+      guidelines (e.g. Benenden Healthcare [e]) and it is widely used in
+      NHS Continence Services [f]. A survey of GPs in 2011 showed that
+      46% had implemented the guidance, and 80% of those had seen a reduction in
+      referral costs [g].
+    The impacts of our work on patients are as follows:
+    
+      
+Fewer men require drug therapy: our RCT demonstrated both a
+        reduction in symptoms equivalent to that achieved by surgery and a
+        reduction in the need for treatment whether it be medication or surgery
+      
+More effective therapy: Our intervention arm was standard care
+        plus self-management. Men receiving drug therapy who were randomised to
+        the intervention arm had greater and more sustained symptom improvement.
+      
+Fewer referrals: Self-management is being applied in primary
+        care and is being promoted through self-help groups. The resolution of
+        symptoms without recourse to medication or surgery leads to fewer
+        referrals to secondary care.
+    
+    The impacts on patients also provide economic benefits to the healthcare
+      system through a reduced cost of care. Our work has shown that once the
+      self-management skills are taught the benefits are sustained. This has not
+      been the case in other self-management programmes. A conservative
+      estimate, abstracting from our data, is that men using self-management
+      have a 3-fold reduction in risk of requiring therapy or progressing
+      symptomatically. Estimates of the cost of treating LUTS in the UK are
+      approximately &#163;120m per year. Modelling of the effect size and uptake of
+      self-management as an initial strategy produces an estimate of a &#163;20m
+      annual saving, largely derived as a result of fewer referrals to secondary
+      care and to reduced drug costs.
+    Kaiser Permanente, the largest managed care organisation in the United
+      States covering a population of 3.6 million, is in the process of adapting
+      and implementing self-management as a standard intervention based on the
+      work published by our team and the recommendations in international
+      clinical practice guidelines. They state that it is "exactly the type
+        of innovative, impactful work that can help us break out of the
+        traditional means of delivering health care, and help contain burgeoning
+        costs while at the same time, improve the quality of care." [h].
+    
+ImpactSummary
+
+    Lower Urinary Tract Symptoms (LUTS) in men is a chronic disease of ageing
+      that causes significant quality of life impairment in one third of men
+      over the age of 60. Traditional management comprises a step-up regimen of
+      drugs and surgical interventions aimed at relieving symptoms. At UCL we
+      conceived, developed, evaluated and implemented a self-management
+      intervention that results in greater symptom reduction than that achieved
+      by medication, reduction in the use of medication and of referrals to
+      secondary care, and reduced costs. The intervention is now a global
+      standard of care.
+    
+UnderpinningResearch
+
+    In about 2003 Emberton observed that many men were adopting informal
+      strategies that would allow them to `manage' their symptoms as an
+      alternative to pharmacotherapy [1]. These were sometimes learnt by
+      trial and error, and at other times they were acquired through the
+      informal network of men with symptoms and, very occasionally, taught by a
+      growing constituency of continence advisors and nurse specialists. These
+      strategies included: fluid management, caffeine avoidance, timed
+      toileting, urethral milking, double voiding and bladder re-training. We
+      conducted a survey of urologists, nurse practitioners and continence
+      advisors to determine the use of these strategies, and the results showed
+      that these interventions are indeed advised by many in such circumstances
+      [2]. However, there was a wide variation in their use, and no
+      supporting evidence base, so we felt that it was necessary to test their
+      effectiveness.
+    We began by assembling a multi-disciplinary research team (patients,
+      urologists, continence advisors, specialist nurses, health services
+      researchers and health psychologists) that was representative of the
+      expertise necessary to address the research question. A systematic review
+      of the literature confirmed that the evidence to support life-style
+      modification was either weak or absent. A formal survey of UK practice
+      indicated that the use of lifestyle interventions was infrequent but that
+      professional groups would be receptive, if they were shown to be effective
+      [3]. We conducted a needs assessment (qualitative methods
+      comprising semi-structured interviews/surveys) that confirmed an unmet
+      need from the patients' perspective and no barriers to adoption from the
+      professions or pharmaceutical industry [1]. We defined the
+      intervention prospectively using formal consensus methodology (RAND)
+      through the process of item generation and item reduction in two rounds of
+      scoring. [4]. The defined intervention was piloted in a single
+      centre (UCLH). The pilot demonstrated good uptake by patients, adherence
+      to the programme and provided a strong preliminary signal of efficacy.
+      This pilot informed the design and conduct of an RCT that compared
+      standard care to standard care plus the self-management intervention using
+      a reduction in patient-reported symptom score as the primary outcome. This
+      study demonstrated a reduction in symptoms equivalent to that achieved by
+      surgery and a reduction in the need for medical and surgical treatment [5,6].
+    

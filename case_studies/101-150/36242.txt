@@ -1,0 +1,167 @@
+CaseStudyId: 36242
+Title: 
+    Economic and health benefits of a new method of assessing atrophy
+      progression in Alzheimer's disease: the Boundary Shift Integral technique
+    
+
+ImpactDetails
+
+    UCL's impact on the way that international trials in Alzheimer's disease
+      use brain imaging has been considerable. Our Boundary Shift Integral
+      method has provided a precise, regulatory- compliant means of assessing
+      whether a potential treatment for Alzheimer's disease could modify the
+      disease course by slowing the rate of atrophy. It has therefore had a
+      significant impact on clinical trial protocols across phases 2-3 by
+      reducing the number of patients needed for imaging outcomes, thus reducing
+      costs and reducing participant exposure to potential side effects.
+      Additionally the techniques have been shown to be useful clinically -
+      individuals with very early Alzheimer's disease show increased rates of
+      brain atrophy relative to healthy controls.
+    Adoption of our methods in clinical trials: Historically,
+      image analysis for trial outcomes involved relatively crude and expensive
+      manual measurements of brain volumes or regions from imaging at baseline
+      and end of study to try to show an effect of the therapy on the
+      progression of atrophy. The method of choice was manual tracing of regions
+      of interest on a brain scan. These measures were limited to those areas
+      easy to define (e.g. hippocampus) but more importantly were manual, and
+      therefore both labour intensive and error prone. Our image analysis
+      methods removed the need for these manual measurements and at the same
+      time also greatly improved the precision and reliability of the measures
+      (5 times lower variance on scan-rescan testing) [a]. This led to
+      its increasing uptake as the method of choice for AD trials (and now other
+      diseases).
+    The Boundary Shift Integral has become the most widely used method of
+      analysing brain atrophy in trials in Alzheimer's disease and in related
+      disorders. Trials using UCL's techniques include most recently the largest
+      international immunotherapy trials in AD led by Elan/Janssen and
+      Pfizer/Wyeth [b], [c]. The method provides a biomarker
+      that can be used as a clinical trial endpoint to establish whether a
+      candidate drug can slow brain atrophy (a long established downstream
+      effect of the disease). Many trial protocols (including from Pfizer,
+      Wyeth, Elan, Janssen, Roche, BMS) have used this analysis as a secondary
+      endpoint. Lundbeck chose to use the Boundary Shift Integral measure as
+      their primary outcome to assess whether memantine had any
+      disease-modification effects in Alzheimer's disease [d]. (The
+      study showed no benefit of memantine on rates of brain atrophy.)
+    Furthermore, the European Medicines Agency has recently issued draft
+      opinion indicating that magnetic resonance imaging (MRI) of hippocampal
+      volume is a valid approach for selecting people in the early,
+      pre-dementia, stages of Alzheimer's disease (AD) for clinical trials [e].
+    Economic benefits to pharmaceutical companies: The use of
+      image analysis allows trials to be conducted using far fewer subjects than
+      would have been needed to power a study using clinical outcomes. The
+      memantine trial described above was conducted in fewer than half as many
+      subjects as would have been needed otherwise (power calculations conducted
+      by Lundbeck - see [e]). This effectively reduced the cost to the
+      company of this study by several million dollars. Furthermore, trial
+      participant exposure to potential side-effects was reduced.
+    Economic benefits to companies providing services to the
+          pharmaceutical industry: Introduction of our techniques has
+      also had a significant benefit to the UK economy, through the provision of
+      image analysis services to foreign companies. The image analysis unit at
+      the Dementia Research Unit has provided ~&#163;5m in image analysis services to
+      Janssen, Elan, Pfizer, Wyeth, and Lundbeck in the 2008-13 period [f].
+      IXICO (an Imaging CRO providing end to end imaging solutions for clinical
+      trials) uses our boundary shift integral technique under licence and has
+      attracted a number of large contracts [g]. They report that:
+    "Between January 2008 and July 2013, we used the BSI with three of the
+        world's top 10 pharmaceutical companies and small biotechs, including on
+        high-profile pivotal trials of potential treatments for mild-moderate
+        Alzheimer's Disease, and prodromal Alzheimer's disease. We have
+        processed 10s of thousands of patient images in this period... IXICO's
+        ability to offer BSI to pharmaceutical companies enabled UCL technology
+        to continue to have high impact in clinical trial market at a time when
+        many pharmaceutical companies were reducing their use of academic groups
+        for image analysis in large clinical trials... Involvement of IXICO in
+        pivotal trials in which the Boundary Shift Integral was one of the
+        services we offered contributed to IXICO's significant growth in revenue
+        and reaching profitability during the 2008-2013 period."
+    Furthermore, in the US, our techniques have been used in a large number
+      of studies by image analysis companies e.g. Bioclinica [h] and
+      Synarc [i], who report that:
+    "The development, validation and introduction of the Boundary Shift
+        Integral (BSI) was Widely recognized as a major advance for the field.
+        The BSI subsequently established itself as one of the most important
+        techniques for the measurement of rates of atrophy in AD clinical
+        trials. The BSI has been employed in many of the most high profile
+        international clinical trials including several of those analysed by
+        Synarc. In the period January 2008 - July 2013 Synarc has used this
+        technique in 12 clinical trials. The contribution of the BSI along with
+        the broader work by Professor Nick Fox is widely recognized as being
+        very important in the industry. His work in developing
+        registration-based methods or measuring brain changes and the use of the
+        BSI to quantify atrophy measurements has been seen as a standard against
+        which other techniques are compared. These developments have had a major
+        commercial impact well beyond academia."
+    Use in investigating other diseases: The Boundary Shift
+      Integral technique is not simply applicable to Alzheimer's disease. Its
+      use has now begun to spread to the investigation of other diseases,
+      including Huntington's disease [j], frontotemporal dementia and MS
+      [k].
+    
+ImpactSummary
+
+    Our research has had a major impact on the way pharmaceutical trials in
+      Alzheimer's disease are conducted. The Boundary Shift Integral technique,
+      which we developed and validated, has changed commercial practice and has
+      become the industry standard for measuring atrophy progression. Our
+      methods have largely replaced previous manual measures and in 2008-13 were
+      used in over 20 large international trials. This had significant economic
+      benefits for several companies providing image analysis services. For UCL
+      alone they generated over &#163;5m of industrial contracts. Additionally,
+      through licensing and collaboration, UCL's research contributed to IXICO
+      establishing a significant market share in this important commercial area.
+    
+UnderpinningResearch
+
+    Research at UCL led by Professors Nick Fox and Martin Rossor (both
+      Department of Neurodegeneration) since the mid-1990s has had a particular
+      focus on improving diagnosis and the measurement of disease progression in
+      Alzheimer's disease (AD) and related disorders. Cerebral atrophy had long
+      been recognised as characteristic of AD. The initial interest was in
+      describing brain changes to improve diagnosis. Detailed volumetric work
+      showed that certain cerebral regions (e.g. the hippocampus) were reduced
+      in volume very early in AD. The diagnostic utility of these measurements
+      was, however, confounded by the wide natural variation between
+      individuals. Rates of atrophy, using each individual as their own control,
+      provided a means of reducing the effect of this wide between-individual
+      variability. Measurement of within-individual change requires a high level
+      of precision and our research then aimed to address this problem. We (Fox
+      and Rossor) showed that registration-based measures allowed sensitive
+      assessment of change [1]. We then developed a novel technique (the
+      Boundary Shift Integral) for quantifying changes in brain volume from
+      rigid-body registration of serial MRI. We were able to show that the
+      method had a very high level of precision (10x greater than previous
+      methods) [2, 8].
+    In a decade of subsequent research we refined, developed and validated
+      the techniques. In collaboration with Dr Kelvin Leung and Professor
+      Sebastien Ourselin (UCL Centre for Medical Image Computing) we introduced
+      methods to deal with potential artefacts and differences between scanners
+      that are an inevitable feature of multi-centre international commercial
+      trials [8]. Not only have these methods found diagnostic clinical
+      use they have been adopted for use in monitoring disease progression and
+      assessing therapeutic effects in trials designed to show disease
+      modification [1, 7].
+    Rates of atrophy measured with our techniques have been shown to
+      correlate with cognitive decline in AD [3]. Sample size estimates
+      for disease progression trials have been estimated and shown to provide
+      significantly greater power than alternative manual measures [4, 8].
+      Our Boundary Shift Integral measures were chosen as one of the reference
+      methods for the large open-access Alzheimer's Disease Neuroimaging
+      Initiative (ADNI) study (800 subjects, several thousand MR brain scans);
+      using this data-set we (Fox, Leung, Ourselin) showed the method to produce
+      competitive sample size estimates [8]. The sensitivity and power
+      of our techniques has been recognised in European (EFNS) guidelines and
+      consensus statements on neuroimaging and in several review articles. More
+      importantly these techniques have had a major impact on natural history
+      studies and on the way clinical trials of potential disease modifying
+      therapies for Alzheimer's disease have been conducted [5, 6, 8].
+    We continue to develop and extend the methods and now have fully
+      automated measures of rates of whole brain or regional atrophy (e.g.
+      hippocampus) from serial MRI and can accommodate differences in MRI
+      acquisition inherent in different scanners. We have shown that we can
+      detect (with high sensitivity) and correct important scanner artefacts
+      such as voxel scaling errors. This has added robustness to precision and
+      allowed MRI clinical trial data to be used when previously it may have
+      been discarded [8].
+    

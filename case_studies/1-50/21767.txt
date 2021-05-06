@@ -1,0 +1,141 @@
+CaseStudyId: 21767
+Title: 
+    BioVex: UCL spin-out company develops viral cancer therapy to phase III
+      trial and is sold for $1bn
+    
+
+ImpactDetails
+
+    The company, initially known as NeuroVex, was spun out from UCL with
+      initial funding from Sir Chris Evans, one of the UK's foremost
+      biotechnology entrepreneurs. It was incorporated as a private company in
+      1999, initially based at UCL with three employees. Two UK patents were
+      granted to Latchman and Coffin in 2001, one for mutated herpes simplex
+      viruses and their uses (CN1310765) and the other for the cell lines in
+      which these viruses are propagated (CN1321199) [a]. Shortly after
+      NeuroVex was founded, it changed focus to the development of HSV as an
+      "oncolytic" virus therapy for solid tumours. At the same time, it entered
+      into an agreement for Wyeth (now part of Pfizer) to continue developing
+      HSV as a vector for delivery to the nervous system [b].
+    Deleting the HSV protein ICP34.5 produces a virus that will replicate
+      rapidly in rapidly dividing tumour cells but not in normal cells,
+      eventually causing the cancer cells to burst (lyse). The company, renamed
+      BioVex, developed an oncolytic ICP34.5-deleted virus that expressed the
+      granulocyte macrophage colony-stimulating factor (GM-CSF) in infected
+      tumour cells and released it from those cells when they were lysed so
+      targeting multiple tumours elsewhere. This virus, OncoVEXGM-CSF,
+      must be delivered by injection directly at the site of the tumour, so skin
+      cancers seemed most appropriate for initial clinical tests. A Phase I
+      clinical trial of this virus in thirty UK patients with advanced melanoma
+      or skin metastases from other solid tumours showed it to be safe and well
+      tolerated, and suggested an optimum dose [c].
+    By the time the Phase I results were released, BioVex employed about
+      20-25 people, many being highly skilled scientists. Most were based in
+      Oxford, but the company retained its links with UCL; all animal work was
+      carried out there, and they sponsored several PhD studentships at UCL,
+      thus contributing to the training of the next generation of UK
+      researchers. The board, however, took the decision to move to Boston in
+      the US before a Phase II trial, as there were better opportunities for an
+      expanding company there. By 2009, it had grown to 75 employees [d].
+    An international Phase II trial in 50 patients with melanoma showed that
+      the virus was able to induce both local and site-specific anti-tumour
+      responses [e]. These promising results led the giant US
+      biotechnology company Amgen to approach BioVex with a view to a buyout,
+      and the acquisition deal went through in January 2011 [f]. Amgen's
+      purchase of BioVex for $1 billion is still the largest sale of a biotech
+      company of UK origin in cash terms. The Deal magazine described
+      the buyout as "likely to be lauded as the industry's best value play of
+        the year" and its lead product, OncoVEXGM-CSF, as "potentially
+        revolutionary" [g]. An article on FT.com stated "The deal
+        represents one of the biggest exits of a venture capital-backed
+        biotechnology company for many years and is a boost for the ailing
+        European venture capital industry which has struggled with a dearth of
+        big success stories" [h]. Just as remarkably, between the
+      launch of the company in 1999 and its purchase by Amgen it had attracted
+      over $130m of venture capital funding from a number of investors,
+      including $70m in Boston in 2009: the second largest venture capital raise
+      by a biotech company in that year [i]. In the remaining 10 months
+      of 2011 after the sale, BioVex reported a turnover of &#163;4.6m and an
+      operating profit of &#163;154,000 [j]
+    Amgen has taken OncoVEXGM-CSF, renamed talimogene
+      laherparepvec, into Phase III clinical trials in melanoma [k]. A
+      total of 439 patients from 83 study locations in the US, Canada, the UK
+      and South Africa were randomised to receive either the vaccine or the
+      protein GM-CSF. This is the immune stimulant that is released by tumour
+      cells infected with OncoVEXGM-CSF when they are lysed. Large
+      Phase III clinical trials like this one always have a significant economic
+      impact in the regions where they recruit patients, particularly with the
+      creation and/or maintenance of highly skilled jobs in medicine and
+      administration. Full results of the trial are expected to be reported in
+      2014.
+    Interim results from this trial presented at a meeting of the American
+      Society of Clinical Oncology (ASCO) in Chicago in June 2013 showed that it
+      had met a primary endpoint of a durable response rate that is
+      statistically longer in the vaccine arm than the GM-CSF (control) arm, and
+      that there were early indications that the vaccine arm will also show an
+      increase in overall survival [l]. In an interview with Forbes
+      magazine, Amgen's former research chief Roger Perlmutter highlighted
+      research at BioVex and in particular the work of Latchman's colleague and
+      prot&#233;g&#233; Rob Coffin in developing this promising novel therapy [m].
+    
+ImpactSummary
+
+    UCL spin-out company BioVex was launched in 1999 to exploit research
+      undertaken by David Latchman at the UCL Medical Molecular Biology Unit,
+      Department of Biochemistry. (This department is now part of the Department
+      of Structural and Molecular Biology, UCL/Birkbeck and Latchman is now
+      Master of Birkbeck.) Biovex worked to develop inactivated herpes simplex
+      viruses as therapies, and a promising dual-action oncolytic vaccine for
+      solid tumours, OncoVEXGM-CSF, was taken into successful Phase
+      II trials. In 2011 the company was bought out by Amgen for $1 billion &#8212;
+      still the largest ever cash sale of a UK biotech &#8212; and Amgen has now taken
+      this virus into a Phase III trial with promising initial results.
+    
+UnderpinningResearch
+
+    Gene therapy, or the delivery of therapeutic DNA into human cells, is
+      showing promise in many disease areas, but the problem of how to deliver
+      the DNA into the relevant cells remains difficult. Viruses, which have
+      evolved efficient DNA transport mechanisms, have proved to be effective
+      vectors although often with serious safety concerns. In particular, it is
+      clearly only possible to use pathogenic viruses in this way if they have
+      been attenuated &#8212; that is, if their own genetic material has been altered
+      so they are no longer effective pathogens.
+    David Latchman began work on the adaptation of herpes simplex virus 1
+      (HSV1) as a vector for gene therapy in 1993. This work was based on an
+      observation (initially by Moira Brown in Glasgow) that this virus, which
+      normally causes cold sores, can be "disabled" by the inactivation of one
+      or more genes so that it only replicates in dividing cells. Latchman
+      initially focused on developing a viral vector for diseases affecting the
+      nervous system, since neurons do not divide. This work was published in a
+      series of papers from 1996 to 2001.
+    Herpes viruses that lack the protein ICP34.5 are not virulent in the
+      mammalian nervous system. Latchman and his group first showed that viruses
+      in which either this protein alone, or this protein and the virion
+      transactivator protein VMW65, had been inactivated, could deliver genes to
+      cardiac and vascular muscle cells in culture [1] and to CNS and
+      peripheral mouse neurons in vivo; they remained latent and expressed a
+      reporter protein in neurons with few side effects [2]. These
+      results showed proof of principle for the use of HSV deletion mutants as
+      gene therapy vectors. Later work showed that double mutant viruses lacking
+      two proteins, ICP27 and ICP34.5, could deliver genes to the CNS more
+      efficiently and safely than those lacking ICP34.5 alone [3].
+      Introducing further mutations into the viruses allowed the delivery of
+      multiple genes [4] and further manipulation increased the length
+      of time that the genes could be delivered for [5].
+    In 1999 Latchman and his senior post-doc, Rob Coffin, founded a company
+      initially called NeuroVex to build on these discoveries and develop gene
+      therapies based on inactivated herpes viruses. The company then turned its
+      focus to oncology, based on the principle that these viruses will divide
+      in, and hence lyse, rapidly dividing cancer cells. The company, renamed
+      BioVex, thrived first at UCL and then at laboratories based in Oxford.
+      Scientists there developed an oncolytic inactivated herpes virus vector,
+      OncoVEXGM-CSF, which has a dual action against cancer cells: it
+      divides inside the cells and lyses them, releasing human granulocyte
+      macrophage colony-stimulating factor (GM-CSF) which stimulates the host
+      immune system to attack remaining cancer cells. BioVex took the drug
+      through a successful Phase I clinical trial before moving to the US for
+      the Phase II. In 2011, the company was bought by pharma giant Amgen, and
+      Amgen has now reported very promising results from an initial Phase III
+      trial of this product.
+    

@@ -1,0 +1,169 @@
+CaseStudyId: 44356
+Title: 
+    Novel brain imaging methods improve neurosurgical treatment for epilepsy
+    
+
+ImpactDetails
+
+    Use of approach in clinical practice
+    The underpinning research described above has enabled clinicians to
+      reveal abnormalities causing refractory epilepsy that were not previously
+      identifiable, presenting a target for surgical treatment. This results in
+      increased access to potentially curative neurosurgery. Functional MRI and
+      tractography approaches that we pioneered are now used by neurosurgeons
+      throughout Europe (particularly Zurich and Bonn) to identify the risks of
+      surgery in individuals, and to plan the surgery so that risks may be
+      reduced [a].
+    Surgeons use tractography to visualise pathways of white matter fibres in
+      the brain in the pre-operative MRI scans. The system is used on roughly
+      one patient a week and it has been fully operational since mid-2012,
+      although a preliminary version was in clinical use for about a year prior
+      to that. The system helps surgeons avoid damaging nerve fibre pathways,
+      which can otherwise lead to visual deficits that would, for example,
+      prevent driving. An early evaluation of the system demonstrated its impact
+      by using the system in 21 patients undergoing anterior temporal lobe
+      resection. The outcomes were compared to a control group who underwent the
+      same surgery without the system. None of those who had their visual
+      pathway displayed to the surgeon via the tractography system had a visual
+      field deficit that would prevent driving, compared to 13% in the control
+      group. The experiment shows preservation of vision in the patients
+      operated on using the system [ref].
+    As of mid-2013, around 140 patients have benefited from surgery at NHNN
+      performed using tractography, which has been of critical importance for
+      improving the precision and safety of neurosurgical treatment [b].
+    As well as informing decisions about whether to undertake surgery or not,
+      scans are also used in the interventional MRI operating theatre during
+      surgery. A 3-dimensional map of critical brain areas can now be visualised
+      and presented to the surgeon as the operation proceeds, to enable the
+      guiding of the surgery away from critical areas that must be avoided. This
+      enhancement is already used in clinical practice at the National Hospital
+      for Neurology and Neurosurgery, resulting in safer surgery with reduced
+      risk of causing new deficits.
+    Individual patient benefit and public engagement
+    A specific example of the dramatic impact of this technology was of a
+      28-year-old man with severe epilepsy that was not controlled by
+      medications. The nature of the epileptic seizures and the EEG recordings
+      suggested that their source was on the left side of the brain, towards the
+      front. Standard MRI scans were unremarkable, but a computerised analysis
+      identified an abnormal area approximately 2cm by 1cm in the middle frontal
+      gyrus. Functional MRI scans showed that this was a few millimetres above
+      areas involved in language, and abutted parts used to control the use of
+      the right upper limb. Tractography showed that the corticospinal tract,
+      which carries command and control information to the limbs, ran within a
+      few millimetres of the abnormal area. Large veins were directly over the
+      abnormal area. These data allowed the precise positioning of recording
+      electrodes in and around the abnormal area to pinpoint the site of seizure
+      onset. This led to precise surgical removal of the part of the brain that
+      was giving rise to the seizures, with the consequence that no further
+      seizures have occurred, medication has been withdrawn, and the patient is
+      going to college [c]. For these individuals, the impact of our
+      research is thus immediate and life changing.
+    A further example is that the 3D representation of the optic radiation,
+      which carries visual information from the eye to the brain, can be
+      displayed in the eyepiece of the operating microscope, so the surgeon
+      knows where this structure is, and the surgery can be designed to avoid
+      this pathway, and the risk of damaging vision averted.
+    Our improvements to surgery have had a huge impact on the lives of
+      patients treated. One such example was featured on the 2010 BBC One
+      programme "How Science Changed Our World" [d]. Emma, an
+      18-year-old girl, had surgery to treat epilepsy that had previously meant
+      she suffered from up to eight seizures per day. After the surgery she no
+      longer suffered from seizures and her quality of life was immeasurably
+      improved.
+    New clinical procedures
+    The use of fMRI for testing language retention has entirely replaced the
+      carotid amytal test at the National Hospital for Neurology and
+      Neurosurgery, with benefits to patients and health providers. The old,
+      more expensive test could be dangerous, involved radiation and required a
+      two-day hospital stay. The hospital used to carry out around four such
+      procedures per month, but have done none since 2004, with the benefits to
+      patients continuing throughout the REF impact period. The fMRI method has
+      been widely adopted in epilepsy surgery centres around the world [e].
+    NICE guidelines
+    The Institute of Neurology's focus on MRI applied to epilepsy contributed
+      to the development of epilepsy imaging protocol guidelines by the
+      International League against Epilepsy, between 1998 and 2011 [f, g, h].
+      These underpinned the imaging guidelines for epilepsy that were used in
+      the NICE epilepsy guidelines of 2004 and 2012 [i], which
+      recommended that neuroimaging should be used to identify structural
+      abnormalities that cause certain epilepsies. MRI is particularly important
+      in those in whom seizures continue in spite of first-line medication. In
+      both 2004 and 2012, Duncan was a member of the NICE guideline development
+      group.
+    
+ImpactSummary
+
+    Recent advances in MRI brain scanning developed at the UCL Institute of
+      Neurology have underpinned major improvements in the surgical treatment of
+      epilepsy. Information about the location of critical brain structures,
+      such as the optic radiation that carries visual signals, and language
+      areas of the brain, are used to identify the risks of neurosurgery in
+      specific individuals. This helps to inform patient choice and to reduce
+      the risk of loss of any part of the visual field or language when
+      performing the surgery. UCL's pioneering use of these imaging techniques
+      during surgery, with correction of the movement of the brain that occurs
+      during surgery, showed that this approach reduced the occurrence of
+      serious loss of vision to zero. This information is now used in epilepsy
+      surgery every week at the National Hospital for Neurology and Neurosurgery
+      and is being rolled out to other centres.
+    
+UnderpinningResearch
+
+    Epilepsy is one of the most common serious brain disorders, affecting
+      over 450,000 people in the UK. One third of these individuals continue to
+      have seizures despite anti-epileptic drug treatment. For those in whom the
+      source of epilepsy can be pinpointed in the brain, neurosurgical treatment
+      can be curative. Over the last 20 years, research at the UCL Institute of
+      Neurology, led by Professor John Duncan, has optimised brain imaging
+      applied to epilepsy surgery, with numerous publications on qualitative and
+      quantitative imaging, and the application of automated voxel-based
+      analytical techniques to increase the yield of detection of abnormalities.
+      In the last decade, we developed methods to quantitatively analyse scans
+      that show increased sensitivity to subtle abnormalities that are not
+      evident on traditional visual inspection by radiologists [1].
+    We have further optimised the clinical utilisation of fMRI for the
+      visualisation of brain activations related to language, motor and sensory
+      functions and memory. For example, we developed the use of fMRI to
+      determine non-invasively which side of the brain processes language, as
+      this area has to be preserved in surgery [2]. Previous procedures
+      required an invasive carotid amytal test, in which a short-acting
+      barbiturate was injected into the artery, with associated risk of
+      complications.
+    The most common surgical treatment for epilepsy is called anterior
+      temporal lobe resection. A common adverse effect of this surgery is
+      blindness in part of the visual field, which can prevent driving, even if
+      the epilepsy is cured. Since 2003, we have implemented MR tractography,
+      with the first demonstration of seeding a tract from activation maxima
+      with functional MRI. We have used tractography to visualise the optic
+      radiation and corticospinal tracts, and have combined these visualisations
+      with 3-dimensional multimodal data to provide a comprehensive depiction of
+      individual structural and functional neuroanatomy. Since 2004, we have
+      used MR tractography to delineate white matter pathways on magnetic
+      resonance images acquired from patients prior to the surgery, publishing
+      the first paper on this topic [3]. We subsequently showed the
+      variability of the anatomy of this part of the brain, and how the extent
+      of surgical damage was related to the severity of loss of vision [4].
+      We have used this information to help plan the surgery and reduce the risk
+      of damage to this critical white-matter structure during the operation [5].
+      We have also used those methods to determine the risks of neurosurgery to
+      language function [6, 7].
+    In 2012, we introduced the use of tractography during neurosurgical
+      operations using an interventional MRI suite to assist in the planning and
+      ongoing conduct of the surgical procedures and further minimise the risk
+      of damaging critical pathways. Most recently, we have pioneered the
+      display of tractography of the visual pathway during surgery, with
+      correction of the movement of the brain that occurs during surgery,
+      showing that this approach reduced the occurrence of serious loss of
+      vision after surgery to zero. The 3D multimodal datasets we have developed
+      to facilitate this approach now combine structural and functional MRI,
+      tractography and representation of arteries and veins, and also maps of
+      abnormalities of cerebral blood flow, glucose utilisation and visual
+      representations of electrical (electrical source imaging, ESI) and
+      magnetic (magnetic source imaging, MSI) abnormalities that permit us to
+      infer the location of epileptic foci in the brain. The end result is a
+      3-dimensional map of the brain that visualises critical structures that
+      must not be damaged, and highlights abnormal areas the removal of which is
+      needed to cure epilepsy. This allows optimal decisions to be made
+      regarding the surgical approach and trajectory to give the best chances of
+      a good outcome and with minimum risk to the individual patient.
+    

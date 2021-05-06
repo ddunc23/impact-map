@@ -1,0 +1,128 @@
+CaseStudyId: 43701
+Title: 
+    Treatment of patients with Hodgkin lymphoma not responding to
+      conventional dose therapy
+    
+
+ImpactDetails
+
+    Our research since 1993 has developed new treatments for HL and has
+      improved outcomes for patients who do not respond to conventional therapy.
+      Firstly, we demonstrated the advantages of autologous stem cell
+      transplantation, then refined this technique by establishing the correct
+      dose range for the infused stem cells. Secondly, for the subset of these
+      patients who subsequently relapsed after autologous stem cell
+      transplantation, we pioneered allogenic stem cell transplantation to
+      exploit the graft versus tumour effect of foreign stem cells. In
+      particular, we developed reduced intensity allogenic transplants (RITs),
+      which are less toxic than standard allogenic transplants, and which could
+      be boosted by additional infusion of donor cells once the graft was
+      established.
+    High dose therapy and autologous transplantation, as developed at UCL,
+      are currently the standard treatment for relapsed and resistant HL. This
+      recommendation was confirmed in 2012 in the updated clinical practice
+      guidelines of the National Comprehensive Cancer Network (USA) [a],
+      and remains the standard throughout Europe [b]. Peggs recently
+      chaired the expert panel on behalf of British Committee for Standards in
+      Haematology for the development of guidelines in relapsed and resistant
+      HL, which confirmed this position in the UK [c].
+    In the last five years approximately 880 patients with relapsed and
+      resistant HL have been treated in the UK with ASCT [d] and we
+      estimate that 400 patients have been cured. In Europe 9,500 patients with
+      relapsed and resistant HL underwent ASCT 2006-10, most using the BEAM
+      regimen [e], with an estimated 4,300 cured.
+    Following the successful results published from UCL, the number of RITs
+      in relapsed and resistant HL has steadily risen in the UK, from 14 per
+      annum in 2003/4, to 38-44 by 2006/7, and 62-64 by 2010/11, a rise of over
+      300% [d]. This has also been the basis for the development of a
+      prospective study in the UK (PAIReD), badged by both the NIHR Cancer
+      Research Network (NCRN) and the British Society for Blood and Marrow
+      Transplantation Clinical Trials Committee (BSBMT-CTC). Based on the
+      outcomes achieved at our centre, we can predict that approximately 30-35
+      patients are cured per year in the UK as a result of the allogeneic RIT
+      strategy (equivalent to 150-175 over a five-year period), and that this
+      number will increase with earlier application in the treatment pathway.
+    As a result of the work at UCL, Peggs was asked to chair the BSBMT
+      `indications' panel for lymphomas. The indications-tables are used as a
+      template for commissioning transplant services in the UK. Allogeneic
+      transplantation is now designated a `standard' therapy in patients with HL
+      who have relapsed following ASCT, and as a `clinical option' in those with
+      primary resistant or relapsed disease who remain chemo-sensitive [f].
+      This ensures funding and equitable access to such therapies for all
+      patients who might benefit from them across the UK.
+    
+ImpactSummary
+
+    Clinical research from UCL established `salvage therapy' and autologous
+      transplantation protocols for use in relapsed and resistant Hodgkin
+      lymphoma and demonstrated the efficacy of such approaches. These
+      treatments are now widely used standards of care. A reduced intensity
+      transplant (RIT) regimen, incorporating alemtuzumab to reduce
+      graft-versus-host disease, was also developed and a potent
+      graft-versus-tumour effect was demonstrated. RIT treatments are now
+      increasingly used in patients failing an autologous transplant and in
+      those patients deemed to have a high risk of autograft failure, as
+      determined by pre-transplant CT/PET scanning. We estimate that 5,000
+      patients have been cured in the REF period as a result of our research.
+    
+UnderpinningResearch
+
+    Each year in the UK, around 1,600 people are diagnosed with Hodgkin
+      lymphoma. Treatment is usually very successful, and most people can be
+      cured, or the lymphoma can be controlled for many years. However for
+      around a quarter of patients, this is not the case. Our research has
+      developed new treatment strategies for those patients for whom
+      conventional therapy had failed.
+    The regime we invented consists of two parts: initially high dose
+      chemotherapy to ablate the bone marrow using the `BEAM' regimen (a
+      combination of carmustine, etoposide, cytarabine and melphalan) followed
+      by autologous stem cell transplantation (ASCT; using stem cells harvested
+      previously from the patients blood). In a randomised trial designed and
+      managed by researchers at UCL, this strategy was compared with the same
+      drugs at lower non-marrow-ablative doses, without ASCT (mini-BEAM). The
+      trial proved the efficacy of BEAM plus ASCT and established it as the
+      global standard treatment for all patients failing conventional
+      chemo/radiotherapy [1].
+    In the mid-1990s, the use of granulocyte-colony stimulating factor
+      (G-CSF) became standard practice because of its effect to stimulate the
+      bone marrow to produce stem cells, which could then be harvested from the
+      blood. Our research established the factors that were predictive of
+      successful stem cell harvests, including the dose of stem cells to be
+      administered for successful engraftment. Defining this dose helped to
+      ensure that engraftment of the infused stem cells would occur in the
+      minimal time with the maximum chances of success. This reduced the time
+      needed to support the patient during the period when their bone marrow was
+      non-functional, so reducing the risk of serious infection and bleeding [2].
+    Despite these major advances the use of BEAM plus ASCT only `rescued'
+      about 45% of patients. The remainder relapsed following autologous
+      transplantation and had a dismal prognosis. Allogeneic transplantation
+      (where the stem cells are from a donor rather than the patient's own) had
+      demonstrated improved anti-lymphoma activity, an effect of the foreign
+      stem cells that were infused to repopulate the bone marrow. However this
+      procedure was too toxic in HL, with high mortality rates directly related
+      to procedural toxicity. In addition, the donor stem cells mounted an
+      immune response against not only the lymphoma, but other healthy tissues,
+      so-called graft-versus-host disease (GvHD) which ranged from 45 to 60%. We
+      introduced reduced intensity transplants (RITs) incorporating depletion of
+      the harmful GvHD-inducing immune cells with alemtuzumab [3] but
+      preserving those that had anti-lymphoma effects. This greatly reduced the
+      toxicity and mortality associated with allogeneic transplantation. With
+      safer transplants we were able to demonstrate the potential benefit of the
+      allogeneic graft-versus-tumour effect in HL [4].
+    Relapse of the patients' lymphoma became the primary cause for treatment
+      failure. Researchers at UCL then pioneered the development of infusion of
+      incrementally increasing doses of immune cells from the donor (donor
+      lymphocyte infusions, DLIs) at later time points following allogenic
+      transplantation (when the risk of induction of GvHD is lower) as a means
+      to reduce or treat disease relapse in HL [5]. These were combined
+      with a novel strategy for monitoring patients for early signs of relapse
+      following transplantation utilising positron emission tomography (PET)
+      scanning [6], enabling earlier delivery of DLIs. This combined
+      approach delivered results that were significantly better than those seen
+      in other countries, and has become standard practice throughout the UK.
+      This difference has been widely ascribed to the novel strategy developed
+      by UCL, relating both to the incorporation of T-cell depletion using the
+      alemtuzumab antibody, and the strategy of post-transplant DLIs. Other
+      countries are now evaluating similar strategies based on the research from
+      UCL.
+    

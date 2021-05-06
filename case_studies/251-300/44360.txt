@@ -1,0 +1,136 @@
+CaseStudyId: 44360
+Title: 
+    The Moorfields Regression Analysis improves the management of glaucoma
+    
+
+ImpactDetails
+
+    Glaucoma is known as `the silent thief of sight' because most people with
+      glaucoma have no early symptoms or pain. By the time a patient is aware of
+      vision loss, the disease is usually quite advanced. Late diagnosis is one
+      of the most important risk factors for glaucoma blindness. Left
+      undiagnosed and untreated, glaucoma can lead to irreversible blindness. If
+      the condition is detected early enough, it is often possible to halt its
+      development or delay its progression with medical or surgical treatment [a].
+      Diagnostic and monitoring techniques, therefore, play a pivotal role in
+      glaucoma management. The research in this case study has contributed to
+      the improvement of glaucoma healthcare by providing new diagnostic tools
+      and evidence for the required frequency of monitoring the VF.
+    The diagnostic and predictive power of the MRA has led to the worldwide
+      acceptance that imaging of the ONH should be performed in addition to VF
+      monitoring, in order to characterise glaucomatous damage to the eye [b].
+      The MRA has also become a `reference standard' for establishing the
+      performance of other imaging devices in establishing whether or not
+      glaucoma is present [c] and in predicting its development in
+      patients with high IOP [d]. The worldwide scale of use of this
+      technology is substantial. At Moorfields Eye Hospital, all newly referred
+      glaucoma patients are now imaged using the HRT, which means that around
+      32,500 patients in this hospital alone have been benefited from this
+      technique for the period 2009-2013 [e]. Nationwide and worldwide,
+      this number is much higher.
+    The pre-eminence of the MRA is further illustrated through its use as the
+      technique of choice in glaucoma imaging (scanning laser ophthalmoscopy)
+      diagnostics worldwide, with more than 6,500 HRT devices having been sold,
+      mostly since the incorporation of the MRA into the device's software in
+      1999. For more than 15 years, the MRA has remained a robust indicator of
+      structural change, which has contributed to the success of the HRT and its
+      adoption by clinicians worldwide. Heidelberg Engineering have confirmed
+      that "The inclusion of the Moorfields Regression Analysis developed
+        with Professor Garway-Heath has been one of the contributing factors to
+        the adoption and success of the HRT within the glaucoma community. MRA
+        has become synonymous with HRT and is considered one of the most
+        important single tests for the early diagnosis of glaucoma" [f].
+    The development of a map that correlates structural findings with
+      functional loss is another key achievement in the field of glaucoma
+      management. As a result of this research, it is now possible for
+      clinicians to understand the link between vision loss and damage to the
+      optic nerve that transmits visual information from the eye to the brain.
+      The anatomical map known as the `Garway-Heath Map' was developed to help
+      establish this correlation and is now used worldwide for the evaluation of
+      glaucoma patients and in clinical research in glaucoma and other ocular
+      conditions [g]. In the diagnostics industry, it is incoprporated
+      into widely-used diagnostic software such as in the Heidelberg Eye
+      Explorer [h]. It has recently been incorporated into FORUM
+      Glaucoma Workplace (Carl Zeiss) [i], software for the presentation
+      of diagnostic test results, allowing clinicians to visualise
+      simultaneously functional and structural outcomes of patients. Heidelberg
+      Engineering and Carl Zeiss are the market leaders in glaucoma diagnostics
+      and the `Garway-Heath map' has become central to the display of the
+      diagnostic results.
+    The significance of our research and publications on imaging is evident
+      from their extensive referencing in European management guidelines [j]
+      and their citation as Suggested Reference Texts in American Preferred
+      Practice Pattern (PPP) Guidelines [k]. The widespread success of
+      the HRT since the incorporation of the MRA into its software has boosted
+      research and development in this field. This, in turn, has led to
+      widespread use of imaging devices in the clinic as confirmed in the
+      European Glaucoma Society (EGS) guidelines [l]. Using our
+      publications as the basis for its evidence, the EGS recommends the use of
+      imaging in the diagnosis of glaucoma and in monitoring its progression.
+      Likewise, the American PPP Guidelines recommend the use of imaging devices
+      as diagnostic tools, and recognise their increasing clinical importance [m].
+      Our work on imaging has also been used as the basis for evaluating the
+      evidence for the use of imaging devices in screening for glaucoma [n].
+      Our work on the frequency of VF testing required to identify patients at
+      risk of lifetime visual impairment has been used by the EGS in its
+      guidelines to recommend the optimal frequency of VF testing in glaucoma
+      management [j].
+    
+ImpactSummary
+
+    Prevention of blindness caused by glaucoma requires an early diagnosis,
+      for which we have developed new clinical techniques. The Moorfields
+      Regression Analysis (MRA) is an algorithm that we developed for the
+      Heidelberg Retina Tomograph, an imaging device for glaucoma diagnostics.
+      The MRA made it possible, for the first time, to accurately quantify
+      structural damage caused by glaucoma. The MRA allows earlier diagnosis of
+      glaucoma, and has been adopted worldwide.
+    
+UnderpinningResearch
+
+    Research conducted at UCL since 1994 has improved the clinical management
+      of glaucoma, a disorder characterised by optic nerve damage and
+      progressive visual field (VF) loss. The major risk factor for this
+      condition is high intraocular pressure (IOP), and the prevention of
+      blindness caused by glaucoma requires an early diagnosis. In glaucoma
+      management, both functional and structural examinations are used to
+      confirm and monitor the disease.
+    For functional examinations, it is fundamental that VF tests are
+      conducted to identify vision loss but VF measurements are highly variable
+      and, as shown by work done by our group, frequent monitoring is therefore
+      needed. In collaboration with Dalhousie University (Halifax, Canada),
+      Garway-Heath worked on practical recommendations for measuring the rates
+      of VF change in glaucoma [1]. Clear guidance was given to
+      clinicians on how many VF tests they need to acquire within a certain
+      period of time to identify rapid deterioration of the disease. The work
+      was very quickly adopted worldwide and has been widely cited.
+    Structural examinations can be performed by examining changes in the
+      optic nerve head (ONH), which can be detected by examining the ONH with a
+      slit lamp microscope, the most frequently used instrument by
+      ophthalmologists, or with high-resolution photography (stereoscopic
+      photography). These techniques, however, are subjective and they cannot be
+      used to adequately quantify the amount of damage. Because of these
+      limitations, structural examinations in glaucoma have not been used
+      optimally and glaucoma management has mostly relied on VF testing. The
+      introduction of automated imaging techniques laid the foundations for
+      objective analysis of the ONH. However, these techniques lacked an
+      adequate algorithm to enable the accurate quantification of ONH damage. To
+      address this need, Garway-Heath and his team developed the Moorfields
+      Regression Analysis (MRA), for one of the earliest and best-established
+      imaging devices, the Heidelberg Retina Tomograph (HRT) [2]. The
+      HRT measures the amount of neural tissue present in the ONH, which is
+      reduced by glaucoma. The MRA enabled the classification of ONH damage and
+      revolutionised the use of imaging in the clinical management of glaucoma [3,
+        4]. In a recent Europe-wide study, the MRA was validated further: it
+      performed better than general ophthalmologists and most glaucoma
+      specialists in identifying glaucomatous optic nerves [5].
+    It is important that clinicians and researchers appreciate how functional
+      and structural defects in glaucoma are related, so that the agreement of
+      outputs from different diagnostic test modalities (structural and
+      functional) can be assessed. The `Garway-Heath Map' was developed to
+      facilitate this understanding and it shows the anatomical relationship
+      between VF test points and regions of the ONH. The MRA output classifies
+      regions of the optic nerve head as within or outside normal limits; the
+      map helps to correlate vision loss with the pattern and extent of damage
+      to the optic nerve [6].
+    

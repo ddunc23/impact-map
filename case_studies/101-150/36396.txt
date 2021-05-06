@@ -1,0 +1,214 @@
+CaseStudyId: 36396
+Title: 
+    Improving the management of the psychological consequences of disasters
+      and terrorism
+    
+
+ImpactDetails
+
+    The research described above has had a direct impact on the way disasters
+      and emergencies are
+      planned for and responded to, both in the UK and overseas. The trauma
+      screening questionnaire
+      (TSQ) is used widely around the world. The model developed at UCL was
+      first implemented after
+      the London bombings in 2005. A later evaluation conducted in the period in
+      question (2008-13)
+      showed that it had been very successful, and it has since been
+      incorporated into government
+      guidance, including planning for the Olympics.
+    The evaluation of the London Bombings programme funded by the Department
+      of Health found
+      that 30% of those screened were referred for treatment and, of those
+      referred within the
+      programme, over 75% completed treatment. The clinical outcomes of this
+      group were excellent,
+      with more than 80% achieving a clinically significant improvement, and
+      were well maintained
+      among those followed up after one year [a]. The evaluation also
+      identified a number of
+      impediments to assisting survivors. These included: data protection
+      legislation preventing
+      identification of those affected; the failure of referral mechanisms in
+      general practice; the need to
+      plan for the administration and funding of the mental health response to
+      disasters; the need for a
+      register of those affected.
+    Impacts on policy and planning
+    Partly as a result of the concerns raised by the programme, the Cabinet
+      Office issued special
+      guidance on the use of data protection legislation in emergency situations
+      in 2007 [b]. The UCL
+      model used in the London bombings has subsequently been explicitly
+      recognised in two major
+      reports, the first issued by the NATO Joint Medical Committee in 2008 [c]
+      and the second by the
+      Department of Health Emergency Preparedness Division in 2009 [d].
+      These reports endorse the
+      UCL screen and treat model, proposing that: (a) immediate intervention is
+      restricted to providing
+      information, psychosocial support, psychological first aid, and education
+      rather than crisis
+      counselling; and (b) people who are involved should be followed up to
+      detect those who have
+      persistent symptoms who can be treated with empirically supported
+      interventions.
+    The recommendations concerning planning for mental health consequences of
+      a major incident
+      were incorporated into NHS London major incident plans, including those
+      for the 2012 Olympics
+      [e]. Another key recommendation, for a central register of affected
+      persons after disasters, led to
+      the setting up of an implementation committee by the Health Protection
+      Agency (HPA) of which
+      Professor Brewin was a member. Provisions for the HPA to set up and manage
+      a register are now
+      in place for future disasters, which will make a very significant
+      difference to providing health care
+      and conducting epidemiological research [f].
+    Use in outreach and screening programmes
+    Programmes based on the UCL model have now been successfully implemented
+      around the world,
+      for example in a US school after a suicide and in the Netherlands [g].
+      During the period 2008-13,
+      Brewin received 217 direct requests for use of the TSQ from 24 countries.
+      The three most frequent
+      sources of request were: large scale health organisations such as
+      hospitals, community and school
+      counselling centres (22%); research psychologists and psychiatrists (21%);
+      individual mental
+      health professionals and private clinics (19%) [h]. Brewin has
+      also provided telephone or in-person
+      consultations concerning meeting mental health needs after large-scale
+      disasters, for example
+      following the 2011 Norway summer camp shootings [i] and the 2010
+      Christchurch earthquake [j].
+    Twenty-eight governmental and nongovernmental organisations (in various
+      countries) concerned
+      with mental health issues and/or high risk populations have had the TSQ on
+      their websites as a
+      mental health education material and self-screening tool. For example,
+      Suffolk Mental Health
+      Partnership provide a copy of the TSQ and the Cumbria Partnership NHS
+      Foundation Trust
+      recommended use of the TSQ after the West Cumbria shootings in 2010 [k].
+      In the US, the
+      Department for Veterans Affairs recommend the TSQ on the website of their
+      National Center for
+      PTSD [l].
+    Use of the TSQ is now part of a standard recommended protocol developed
+      for firefighters in the
+      US. Firefighter Life Safety Initiative 13 was one of 16 such initiatives
+      jointly developed by
+      representatives of the major fire service constituencies in 2004. It aimed
+      to ensure that "Firefighters
+      and their families must have access to counseling and psychological
+      support". This was developed
+      and promulgated by the National Fallen Firefighters Foundation (NFFF) and
+      has since informed the
+      emerging safety culture in the US fire service [m]. The initiative
+      developed a Protocol for Exposure
+      to Occupational Stress which "recommends the use of the Trauma Screen
+        Questionnaire as a
+        widely accessible tool for individuals to understand if they are in need
+        of behavioral assistance." An
+      article in Fire Fighter Nation describes a typical example of how one
+      service used the TSQ in
+      action to assist a firefighter after a traumatic event [n].
+    The TSQ has been translated into 8 languages, and has been adapted for
+      use in children [o]. It
+      has been included in 56 studies, with 32 of them applying it as an
+      assessment tool of PTSD
+      symptoms, and another 18 using it as a screening instrument of the risk of
+      PTSD development.
+      Fifteen studies took place in the UK, 11 in the USA, 9 in Australia, 6 in
+      the Netherlands, and one
+      each in Canada, France, Iceland, India, Republic of Congo, and Republic of
+      Georgia.
+    
+ImpactSummary
+
+    Research at UCL developed a `screen and treat' model for dealing with
+      mental health problems in
+      the aftermath of disasters. This was successfully implemented after the
+      London bombings in 2005.
+      The strategy was shown to be very effective in detecting individuals in
+      severe psychological need,
+      and those screened and referred within the programme benefited
+      substantially from evidence-based
+      treatment. Since then, the model has been adopted in planning for major
+      incidents in the UK
+      and abroad. The screening instrument developed at UCL is in widespread use
+      around the world.
+    
+UnderpinningResearch
+
+    In July 1999 Professor Brewin moved to UCL to take up a post as Professor
+      of Clinical Psychology,
+      jointly funded by HEFCE and the NHS, and formulated a new `screen and
+      treat' strategy for mental
+      health problems arising from major disasters. Prior to this survivors were
+      usually offered
+      psychological debriefing, but evidence had accumulated that this was
+      ineffective. At the same time
+      international research conducted after the Oklahoma City bombing in 1995
+      and World Trade
+      Center attack in 2001 showed that there was a substantial minority who
+      developed serious mental
+      health problems such as posttraumatic stress disorder and that their needs
+      were likely to go
+      unrecognised and untreated [1]. Already by 2000 there was a clear
+      lack of any agreement in the
+      scientific literature on effective and cost-efficient methods of ensuring
+      good mental health
+      outcomes for survivors.
+    The new strategy was based on an entirely different approach, and
+      recommended not intervening
+      in the short-term to reduce psychological symptoms unless the person's
+      coping resources were
+      clearly inadequate. Instead, resources should be devoted to active
+      outreach and screening to
+      detect the minority of individuals who were failing to make a good
+      recovery, and to providing them
+      with effective, evidence-based interventions [2].
+    An essential prerequisite for implementing the strategy was to develop a
+      simple and effective
+      screening instrument for detecting posttraumatic stress disorder following
+      a wide variety of major
+      incidents. A grant was awarded by the NHS Executive in November 1999 after
+      the Ladbroke Grove
+      rail crash to Professor Brewin as Principal Investigator together with
+      colleagues from Royal
+      Holloway and Imperial College London. This led to the discovery that a
+      simple set of 10 Yes/No
+      questions provided excellent screening performance, based on which the
+      Trauma Screening
+      Questionnaire (TSQ) was developed and validated [3]. A subsequent
+      systematic review of
+      screening measures for PTSD showed that its psychometric properties were
+      as good as and
+      generally better than existing measures [4].
+    On 5 July 2005, the London bombings seriously affected areas in the
+      immediate vicinity of UCL.
+      UCL students and staff members were among the injured and killed. Two
+      weeks later a
+      Psychosocial Steering Group, which included Professor Brewin among its
+      membership, was
+      convened by the Camden &amp; Islington Mental Health and Social Care Trust
+      and the London
+      Development Centre for Mental Health. The Steering Group approved
+      proposals based on the
+      screen and treat model previously described. This was the first example
+      internationally of such a
+      response being planned from the very beginning of the post-disaster
+      period, and funding was
+      obtained from the Department of Health. As originally envisaged in the
+      article by Brewin (2001),
+      most Londoners were resilient [5, 6] but a minority were seriously
+      affected. The screening team
+      undertook active outreach, identifying survivors and screening them some
+      months after the
+      bombing with the Trauma Screening Questionnaire. Those screening positive
+      were referred for
+      evidence-based psychological therapy [1].
+    

@@ -1,0 +1,185 @@
+CaseStudyId: 36988
+Title: 
+    Energy-economic modelling of long term decarbonisation pathways:
+          The policy impacts of the MARKAL-TIMES model family
+    
+
+ImpactDetails
+
+    It is difficult to overstate the importance of having a sophisticated and
+      transparent set of state-of-the-art energy systems models for proactive
+      and responsive engagement with the UK policy community. Models are the
+      integrating language of policy and provide the key numbers and insights
+      that form the backbone of the debate and resultant policy impacts. This is
+      particularly true in the highly topical and fast moving area of energy
+      policy, and especially the key goals of energy system decarbonisation and
+      energy security.
+    The Department of Energy and Climate Change (DECC), in its 2009 UK
+        Low Carbon Transition Plan [1], accepted the MARKAL elastic
+      demand model's finding (as described in [d]) of the critical role
+      of the electricity generation sector to enable wider decarbonisation
+      efforts in buildings and transport. Resultant electricity decarbonisation
+      policy mechanisms have been implemented as a key government priority with
+      latest efforts being support mechanisms under Electricity Market Reform as
+      legislated in the 2013 Energy Bill.
+    A continuing impact of the MARKAL-TIMES modelling effort for UK
+      government policy making has been in demonstrating the economic
+      feasibility of decarbonisation pathways (as described in [a]),
+      including the critical interplay between technological and behavioural
+      change (via energy service demand reductions). UK MARKAL-TIMES has
+      constituted the key technical reports on this topic for DECC's 2011 Carbon
+      Plan [2].
+    The quantification of electricity sector decarbonisation using MARKAL
+      models is an essential enabling step to meet the targets set by the
+      Committee on Climate Change (CCC). The CCC's carbon budget reports
+      (2009-13) outline the framework for legislated UK carbon budgets, with
+      successively commissioned MARKAL-TIMES modelling projects providing
+      long-term energy and emission scenarios. In 2011, the UK government
+      accepted the CCC's 4th budget period recommendation [3] for a 50%
+      reduction (from 1990 levels) in carbon emissions by 2025, with
+      underpinning technical appendices from the UK stochastic MARKAL model [c].
+    Dr David Joffe, the Head of Modelling for the Committee on Climate
+      Change, has since stated: `Since 2009, UCL's family of MARKAL/TIMES
+        energy systems models have been heavily utilised by the CCC to explore
+        the costs and trade-offs between different long-term decarbonisation
+        pathways. This underpinning research &#8212; published in successive CCC
+        reports &#8212; has been invaluable in the CCC's assessment of the appropriate
+        level of the 2050 target, what this means for measures required in the
+        medium term within the UK's carbon budget periods, and the policy
+        framework to deliver these.'
+    Placing UK decarbonisation efforts in a global context [b], the
+      TIAM-UCL model provided the key underpinning technical appendix to the
+      CCC's 2010 international aviation and shipping review [4], which
+      advocated including international transport emissions in the UK's
+      legislated carbon budgets for a fully comprehensive mitigation response to
+      climate change.
+    Such has been the authoritative benchmark of MARKAL-TIMES that UCL has
+      been instrumental in developing complementary energy modelling tools for
+      key stakeholders. This has included Strachan serving as a strategic
+      advisor on the development of the ESME energy systems model of the Energy
+      Technologies Institute from 2010, illustrating how UK industry has adopted
+      an energy systems modelling approach. In a parallel development, Ekins and
+      Strachan have successfully argued for the incorporation of cost metrics
+      (derived explicitly from MARKAL) to be incorporated into the DECC
+      Calculator [5] &#8212; the UK government's highly popular policy
+      engagement tool, which is downloaded by 10,000 UK users each month and has
+      been adapted into the nationally utilised My2050 schools classroom toolkit
+      released in November 2012.
+    Research has been used to provide evidence to policy makers and thus
+      contribute to informed political debate. On 24 May 2011, Strachan was
+      invited to give parliamentary oral evidence based on his modelling
+      expertise to The UK's Energy Supply: Security or Independence
+      review by the House of Commons Energy and Climate Change Select Committee.
+      Following the publication of his review of modelling exercises using the
+      UCL MARKAL model from 2009-2013 [6], all of which were directly
+      used in policy support as discussed above, Ekins made two presentations in
+      the Houses of Parliament. At the House of Commons on 26 February 2013,
+      Ekins presented a paper at a UKERC policy briefing on `The UK Energy
+      System in 2050: Comparing Low-Carbon, Resilient Scenarios' to a number of
+      MPs and their researchers, which fed directly into the then current debate
+      on the Energy Bill about the need to decarbonise the UK electricity
+      system. On 1 May 2013, Ekins then presented in the House of Lords on `The
+      Role of Gas in a Low-Carbon UK Energy System: Insights from Modelling',
+      which has informed the current debate about the role of shale gas from
+      2020 in the UK energy system.
+    In terms of sub-national energy policy-making, a multi-regional version
+      of the UK MARKAL model was presented to senior Scottish government and
+      industry representatives on the potential role of Scotland in meeting its
+      own and the wider UK's renewable energy targets, and subsequently
+      submitted as supporting evidence to the Scottish Parliament's Economy
+      Energy and Tourism Committee [7].
+    The reach of the MARKAL-TIMES research impact extends also to
+      international energy policy. As research lead on the Japan-UK research
+      project on international modelling on low carbon societies, UCL led an
+      international effort that contributed to the declaration and reaffirmation
+      through 2009-13 of a global long term target of a 50% reduction in
+      greenhouse gas emission in 2050. Furthermore the UCL team served as expert
+      reviewers and contributors to the International Energy Agency's flagship
+      Energy Technology Perspectives publications [8]. And on the basis
+      of his research at UCL [a, c, d], Strachan was appointed as lead
+      author on the `Energy System' chapter under Working Group III of the
+      Intergovernmental Panel on Climate Change 5th Assessment Report, with
+      interim reports in 2011-12 and the final report to appear in April 2014.
+    To demonstrate how UCL's systems modelling research has resulted in a
+      sea-change in how the UK now funds and uses energy models to underpin
+      policy making, the EPSRC has funded (as of 1 July 2013) a &#163;5.7 million
+      whole energy systems modelling (wholeSEM) consortium (EP/K039326/1) as a
+      centrepiece of the Research Council's energy portfolio. Furthermore, a
+      memorandum of understanding was agreement in September 2013 between UCL
+      and DECC to utilise UK TIMES as the principal model for long-term UK
+      Government energy analysis.
+    
+ImpactSummary
+
+    The family of MARKAL-TIMES energy models have successively underpinned
+      every major recent UK government energy policy document on long-term
+      decarbonisation pathways. Enabled by the interdisciplinary critical mass
+      of the UCL Energy Institute, a ground-breaking research programme by
+      Strachan, Ekins et al has taken the UK's energy systems analytical
+      capacity from near zero to world-class. Specific examples of policy
+      impacts include assessment of decarbonisation costs in the DECC Carbon
+      Plan, and the quantification of electricity sector decarbonisation as an
+      essential enabling step to meet the targets set by the Committee on
+      Climate Change (CCC) in the legally adopted UK carbon budget periods.
+    
+UnderpinningResearch
+
+    An interdisciplinary research team at the UCL Bartlett Faculty of the
+      Built Environment Energy Institute, led by Professor Neil Strachan and
+      Professor Paul Ekins (both at UCL since 2009) &#8212; with support from
+      lecturers Gabrial Anandarajah (since 2009) and Ilkka Keppo (since 2011) &#8212;
+      has developed the family of MARKAL-TIMES energy models. As a multi-year
+      multi-person endeavour, the development, maintenance and analysis of the
+      MARKAL-TIMES model has been enabled via dedicated energy systems modelling
+      funding of around &#163;3 million from 2009 through to 2013. This has been
+      anchored by the UK Energy Research Centre (NE\G007748\1), of which the
+      Energy Systems theme has been led by Professor Paul Ekins since 2009, with
+      additional sources of income from UK Research Council projects, government
+      departments such as the Department of Energy &amp; Climate Change (DECC),
+      statutory governmental bodies (Committee on Climate Change), regulators
+      (Ofgem), energy utilities (EON, EDF), European Commission (FP7) and NGO
+      funding.
+    The MARKAL-TIMES model family is an integrated energy system,
+      technology-rich optimisation framework. Some elements of this research
+      programme &#8212; notably the model code and software interfaces &#8212; came from an
+      international collaboration with a range of premier research institutes
+      via an implementing agreement of the International Energy Agency (IEA).
+      From 2005, Ekins and Strachan had led elsewhere the multi-institution
+      development of the UK MARKAL model. Since both moving to UCL in 2009, the
+      critical mass within the UCL Energy Institute enabled a step-change in the
+      scope and sophistication of successive model variants, including the
+      evolution from the MARKAL to the TIMES model platform, plus the
+      development of UK, EU and global model versions. Furthermore, UCL's
+      interdisciplinary modelling capacity allowed a range of interdisciplinary
+      models to be developed to provide a rich diversity of insights. These
+      insights included the interactions between technological and behavioural
+      change (MARKAL Elastic Demand), geographical drivers (MARKAL-GIS),
+      multi-regional impact (MARKAL England-Scotland), decision making under
+      uncertainty (Stochastic MARKAL), life-cycle analysis (TIMES-LCA), and
+      interactions with global drivers (ETM-UCL, TIAM-UCL).
+    This ground-breaking research programme has taken the UK's energy systems
+      analytical capacity to a world-class level. Key research insights emerging
+      from the UCL enhancements to research are as follows:
+    
+      Analysis with the UK MARKAL elastic-demand model demonstrated the
+        necessity of all sectors to contribute to carbon mitigation efforts,
+        underscoring the value of an energy systems approach. The early and key
+        role of the electricity generation sector in decarbonisation efforts was
+        a particularly striking finding [a].
+      Analysis with the global TIMES model (TIAM-UCL) quantified the
+        critical role of global learning on the UK energy system's potential
+        transition to an alternately fuelled transport system [b].
+      Analysis carried out using the UK MARKAL stochastic model quantified
+        the range of potential costs of a radical energy system decarbonisation
+        that requires an immediate and consistent implementation of carbon
+        pricing rising to a 10th to 90th percentile range from &#163;100-400/ tCO2
+        by 2050 [c].
+      Analysis carried out using the UK Elastic Demand MARKAL model
+        demonstrated the value of energy service demand reductions as an
+        immediate decarbonisation response, hedging against both future high
+        costs of decarbonisation as well as security of supply issues [d].
+      Analysis reported to the Scottish Executive has illustrated the
+        opportunities and costs of decarbonisation pathways for a devolved or
+        independent Scotland [e].
+    
+    

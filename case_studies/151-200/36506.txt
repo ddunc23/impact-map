@@ -1,0 +1,258 @@
+CaseStudyId: 36506
+Title: 
+    Molecular genetic characterisation of human and animal disorders leading
+      to
+      improved diagnosis, prevention and treatment of inherited disorders
+    
+
+ImpactDetails
+
+    Impacts on human health: As a result of the underpinning research
+      described above, genetic
+      testing for startle disease genes identified in our research studies is
+      now offered by the Center for
+      Genomics and Transcriptomics (CeGaT), Leiden University Medical Center and
+      GENDIA (for
+      GENetic DIAgnostic Network), an international network consisting of more
+      than 100 laboratories
+      located in the USA, Europe, Asia and Australia [a]. In the course
+      of our research programme, 77
+      individuals with startle disease have received a definitive genetic
+      diagnosis from 634 screens of
+      index patients through multiple candidate genes.
+    Definitive genetic diagnosis allows improved clinical management of the
+      condition, improved
+      patient outcomes and reduction of risk. For example, genetic changes in
+      the GlyT2 gene cause
+      severe breathing problems during early infancy. With a definitive genetic
+      diagnosis, parents are
+      now being trained in effective resuscitation techniques and provided with
+      heart rate and breathing
+      monitors. For example, the charity Action Medical Research highlight the
+      case of one child with
+      startle disease: "since the diagnosis the entire family has been
+        educated about startle disease so
+        that they're all equipped to deal with a seizure and give her the
+        medication she needs. They also
+        know how to give cardiopulmonary resuscitation in case of an emergency
+        following an apnoea
+        attack" [b]. Children with GlyT2 and GlyR 03b2 subunit gene
+      mutations also appear to have recurrent
+      infantile apnoea episodes, developmental delay and a mild to severe delay
+      in speech acquisition.
+      Knowing the genetic causes of illness enables clinicians to predict more
+      accurately what sort of
+      educational needs they are likely to have in the future, thus helping
+      parents gain access to
+      appropriate support services.
+    Harvey has also undertaken public engagement work on this topic, giving a
+      total of 25 invited
+      lectures/seminars on startle disease during the period 2008-13 to
+      audiences in Austria, Belgium,
+      France, Germany, Italy, Spain, Switzerland, the Netherlands, UK and USA.
+      He has also spoken on
+      startle disease at a Caf&#233; Scientifique event for members of the public. He
+      has also increased
+      awareness of startle disease via media work [c].
+    Overall, our work into startle disease has led to significant changes in
+      the way that the condition is
+      understood, detected and diagnosed. Furthermore, based on a deep
+      understanding of the genetic
+      basis of the disease, our work has clearly indicated that clonazepam is
+      the treatment of choice,
+      which is again of significant use for clinicians treating this disorder.
+    Impacts for cattle farming: Startle disease in cattle (also known
+      as CMD2, or congenital
+      muscular dystonia type 2) is lethal within days after an animal's birth.
+      Discovery of the causative
+      mutation led to the implementation of genetic testing for startle disease
+      in Belgian Blue cattle,
+      which has led to healthier animal populations and economic benefits to
+      farmers. The British Blue
+      Cattle Society report that as a result of our work, they brought into
+      place new policies from 1
+      January 2013, requiring all artificial insemination sires to be tested for
+      genetic details, and that the
+      results of these tests should be displayed on the society's website [d].
+      An educational programme
+      was also instigated to inform the society's membership about the
+      importance of identifying genetic
+      defects and restricting breeding of such animals. To April 2013, 521
+      cattle had been tested, and of
+      these 12 were found to be carriers. The introduction of this genetic test
+      has had an immediate
+      impact for cattle breeders with cattle affected by CMD2 [e], and
+      has reduced the frequency of
+      carriers in the population, enabling the breed to become healthier.
+    There are also commercial benefits for farmers in terms of reduced
+      economic impacts. In a 2011
+      investigation on behalf of the Animal Health and Veterinary Laboratories
+      Agency (AHVLA), we
+      identified six CMD2 carriers and two affected animals on a single UK farm
+      as well as several
+      animals `in calf' that could produce carriers or affected calves [e].
+      The direct impact of the loss of
+      the carrier bull to the pedigree market, the death of two affected calves
+      and loss of market value for
+      other calves was estimated to be &#163;17,500 in this case alone. Losses would
+      have been ongoing
+      without our intervention and guidance on future breeding strategies, since
+      carriers of this disorder
+      are phenotypically normal and impossible to identity by visual inspection
+      [f].
+    Impacts on dog breeding: Disorders that resemble startle disease
+      have also been reported in
+      several dog breeds, although the incidence was unknown. Following our work
+      to resolve the
+      genetic basis of startle disease in Irish Wolfhounds and Episodic Falling
+      Syndrome in Cavalier King
+      Charles Spaniels, benefits to the University and animal breeders/owners
+      were secured by the
+      patenting [g] and commercial licencing of DNA diagnostic tests
+      which are currently available via
+      Laboklin [h]. These tests have enabled dog breeders to avoid `at
+      risk' matings, or eliminate these
+      disorders by using non-carrier dogs for future breeding. For example, in
+      2011 we identified two
+      affected Irish Wolfhounds and 13 carriers of a GlyT2 gene mutation,
+      enabling a US breeder to
+      eliminate startle disease within one generation. This intervention was
+      described by the breeder as
+      having saved her "from ruin". The importance of the new genetic
+      test was also highlighted: "With
+        your hard work in coming up with a viable test for us, we will know what
+        paths to take and which
+        paths lead to disaster" [i]. The diagnostic test for startle
+      disease was described by the Secretary of
+      the Irish Wolfhound Foundation as "the first clinically useful test for
+        a genetic disease in our breed"
+      [j]. Wider testing of a Cavalier King Charles spaniels by Laboklin
+      has also revealed that Episodic
+      Falling Syndrome is much more common than previously anticipated. In the
+      2012-13 period,
+      Laboklin have tested 440 dog DNA samples, revealing 38 affected animals
+      and 139 carriers [h].
+    
+ImpactSummary
+
+    Research at the UCL School of Pharmacy has positively influenced
+      healthcare in startle
+      disease/hyperekplexia, a rare disease that affects humans and several
+      animal species, including
+      dogs, horses and cattle. The identification and functional
+      characterisation of mutations in genes
+      involved in human startle disease by researchers at the School has
+      improved genetic diagnostics
+      and patient care. Our research on startle disease in cattle and dogs has
+      also led to new non-
+      invasive diagnostic tests that have alleviated animal suffering and
+      reduced negative economic
+      impacts on farmers. Overall, our findings have been translated into
+      tangible benefits for the human
+      and animal populations affected by this disease and have changed the way
+      in which the disease is
+      diagnosed and treated. We have also significantly increased the awareness
+      of this rare disorder by
+      communicating with academics, healthcare and veterinary professionals, and
+      the general public.
+    
+UnderpinningResearch
+
+    Startle disease is a rare but potentially fatal neurological disorder
+      (estimated &lt;1,000 human cases
+      total worldwide) characterised by an exaggerated startle reflex and muscle
+      stiffness in response to
+      tactile, acoustic or visual stimuli. This condition can cause infant death
+      due to difficulties with
+      breathing, aspiration pneumonia or severe bradycardia. Startle disease
+      also occurs in livestock
+      (cattle, horses) and dogs, with fatal consequences and significantly
+      higher prevalence.
+    Impacts reported here result from genetics research and
+      structure/function assays of glycine
+      receptor and transporter function in startle disease undertaken from
+      2003-13 at the UCL School of
+      Pharmacy by Robert J Harvey (Professor of Molecular Neuroscience and
+      Genetics), Kirsten
+      Harvey (Professor of Molecular Neuroscience and Cell Biology) and Brian R
+      Pearce (Senior
+      Lecturer in Pharmacology). These PIs either led research consortia or
+      played critical roles within
+      them. Key external collaborators included Professor Mark I Rees
+      (University of Swansea) for
+      human hyperekplexia, Michel George (University of Li&#232;ge, Belgium), John
+      Woolliams (Roslin
+      Institute) for bovine startle disease and Diane Shelton (University of San
+      Diego, USA) for canine
+      startle disease.
+    In human startle disease, we characterised genetic, structural and
+      functional defects in three genes
+      encoding proteins involved in inhibitory glycinergic transmission:
+      postsynaptic glycine receptor
+      (GlyR) &#945;1 and 03b2 subunits and a presynaptic Na+/Cl--dependent
+      glycine transporter (GlyT2). For the
+      GlyR &#945;1 and 03b2 subunit genes (GLRA1 and GLRB) we provided
+      a genetic diagnosis for 44 cases of
+      startle disease, and revealed that recessive mutations in these genes are
+      more common than
+      dominant mutations. We also revealed new pathogenic mechanisms affecting
+      glycine receptors
+      that are important to the understanding of other channelopathies [1].
+      For example, certain
+      mutations in the GlyR &#945;1 and 03b2 subunit genes result in GlyRs that open
+      spontaneously in the
+      absence of agonist [1, 2]. For GlyT2, we provided a genetic
+      diagnosis for 20 cases, revealing new
+      dominant and recessive mutations. New pathogenic mechanisms identified
+      included splice-site
+      mutations and missense mutations affecting residues implicated in Cl-
+      binding, conformational
+      changes mediated by extracellular loop 4 and cation-03c0 interactions [3,
+        4]. Importantly, we have
+      also determined that low-dose clonazepam, a benzodiazepine that
+      potentiates inhibitory GABAA
+      receptor function, is therapeutically effective in children with either
+      GlyR or GlyT2 mutations [1-4].
+    In Belgian Blue cattle, novel whole-genome association techniques
+      revealed that a missense
+      mutation (L270P) in the GlyT2 gene (SLC6A5) causes congenital
+      muscular dystonia type 2
+      (CMD2), which is highly reminiscent of startle disease in humans. Calves
+      with CMD2 show muscle
+      stiffness and tremor following acoustic, tactile or visual stimulation and
+      die shortly after birth due to
+      respiratory difficulties. We conducted key functional tests that revealed
+      that glycine uptake by
+      GlyT2 in recombinant systems was abolished by the L270P mutation [5].
+    We resolved the genetic basis of two canine disorders - startle disease
+      in Irish Wolfhounds [6] and
+      Episodic Falling Syndrome in Cavalier King Charles Spaniels, considered to
+      be a form of startle
+      disease by many veterinarians [7]. In a litter of Irish Wolfhounds
+      with muscle stiffness and tremor
+      in response to handling, along with severe breathing difficulties,
+      sequencing of GLRA1 and GLRB
+      did not reveal any pathogenic mutations. However, analysis of SLC6A5
+      revealed a microdeletion
+      encompassing exons 2 and 3 in both affected dogs. This results in the loss
+      of part of the large
+      cytoplasmic N-terminus of GlyT2 and all subsequent transmembrane domains
+      due to a frameshift.
+      By contrast, we found that Episodic Falling Syndrome is caused by a
+      microdeletion in a different
+      gene (BCAN), encoding a neuronal extracellular matrix protein known
+      as brevican [7].
+    R Harvey's initial work with the Irish Wolfhound Foundation led to
+      further grant funding to screen
+      the &gt;400 DNA samples in the Irish Wolfhound DNA bank, in order to
+      obtain an estimate of the
+      population frequency of this new disease gene variant. We detected a
+      frequency of carrier animals
+      of 2%, i.e. 1 carrier for every 50 dogs in the archive, demonstrating that
+      in Irish Wolfhounds startle
+      disease is an issue of significant concern. Wider testing of a larger
+      population of Cavalier King
+      Charles Spaniels without a history of Episodic Falling Syndrome in our
+      research study also
+      revealed that carriers were extremely common - 12.9% of dogs tested.
+    

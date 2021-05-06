@@ -1,0 +1,202 @@
+CaseStudyId: 41453
+Title: 
+    Development of the spin-out company PolyTherics, a major provider of
+      conjugate therapy and protein modification technology to the
+      pharmaceutical and biotechnology industries.
+    
+
+ImpactDetails
+
+    Polytherics was founded in 2001 with funding from the Wellcome Trust
+      Catalyst Biomedica, the Bloomsbury Bioseed Fund (of which the School was a
+      shareholder) and Imperial Innovations [a]. PolyTherics moved in
+      2006 to the London Biotechnology Innovation Centre. The company currently
+      employs about 80 staff at three sites: London, Cambridge (following
+      acquisition of Antitope) and Coventry (following acquisition of Warwick
+      Effect Polymers). It manages a patent portfolio of over 100 granted and
+      pending patents. Annual revenue has grown to over &#163;8m for the combined
+      businesses for the 2013 calendar year. Brocchini is now a consultant to
+      the company, having stepped down from the board to address new projects
+      and commitments, but remains very closely aligned to the development of
+      the patent and licencing portfolio.
+    The impact of the company has been on the pharmaceutical and biotech
+      industries as a result of the development of technologies which overcome
+      significant technical and clinical challenges that are needed to develop
+      new biopharmaceutical medicines. It is also worth noting that Brocchini is
+      a key member of the EPSRC Centre for Innovative Engineering in
+      Macromolecular Therapies, based at UCL which was set up to provide
+      practical solutions to the issues associated with the commercial
+      production of macromolecular medicines such as conjugate therapies. The
+      impact of Polytherics has been derived through the new technologies based
+      on academic research (e.g. TheraPEG&#8482;, CyPEG, HiPEG, ThioBridge) [b].
+      These technologies have additionally been combined with those obtained
+      through the purchases of Warwick Effect Polymers in 2012 [c] and
+      Antitope in 2013 [d].
+    The net effect is an innovative and growing company that is demonstrating
+      significant impact via the licensing of new technologies to the
+      pharmaceutical industry. This is corroborated by the development of
+      associated products into clinical trials. While exemplar projects are
+      specified here, PolyTherics and its affiliate companies have collaborative
+      agreements and/or relationships with approximately 40 pharmaceutical and
+      biotech companies. The conjugation technologies are being used
+      commercially to (i) increase protein circulation half-life (TheraPEG&#8482;,
+      CyPEG&#8482;, HiPEG&#8482;), (ii) develop ADCs (ThioBridge&#8482;) and other protein-drug
+      conjugates and (iii) to develop new product formats (e.g. bispecific
+      antibodies). Other technologies within the subsidiary company Antitope are
+      focused on protein de-immunisation and protein engineering which is being
+      used to produce better conjugates and modified protein-therapeutics. These
+      technologies are being merged to provide new platforms to innovate in the
+      development of new biopharmaceuticals.
+    Examples are given here of projects whereby the PolyTherics' TheraPEG&#8482;
+      technology is being used to develop products with partner companies,
+      inevitably representing considerable investment by those organisations.
+      Programs in development utilising TheraPEG technology include:
+    
+      Licence agreement for a long-acting interferon &#946; for the treatment
+        of relapsing-remitting multiple sclerosis with Nuron Biotech Inc (US),
+        with a view to reducing dosing frequency for interferon &#946;-1b products
+        from every two days to potentially fortnightly injections [e].
+      Licence agreement with Celtic Pharma Holdings for long-acting forms of
+        blood-clotting factors VIIA, VIII and IX for the treatment of
+        haemophilia A &amp; B. These products have the potential to be
+        administered via subcutaneous rather than intravenous injection, thus
+        providing a viable option for self-administered prophylactic therapy [f].
+		
+        In addition, the ThioBridge antibody-drug conjugate technology is being
+        developed in a research collaboration with several partners including
+        the following:
+		[text removed for publication]
+		
+      Spirogen (another UCL spin-out company) and Polytherics are
+        collaborating to conjugate Spirogen's pyrrolobenzodiazepine (PBD)
+        cytotoxic agents to antibodies and antibody fragments [g].
+      PolyTherics is working with Biotecnol to attach cytotoxic payloads to
+        Tribodies (multi-specific antibody products generated via
+        heterodimerisation of Fab fragments) for the development of targeted
+        cancer therapies [h].
+    
+    With the successful development of the TheraPEG&#8482;, HiPEG&#8482;, CyPEG&#8482; and
+      ThioBridge&#8482; technologies and their commercialisation, PolyTherics is now
+      leveraging this success by integrating other services and technologies
+      into its offering. PolyTherics position as a leading UK life sciences
+      company has been pursued through the acquisition of University of Warwick
+      spin-out company [c], Warwick Effect Polymers (where Brocchini's
+      expertise with polymer technologies has enabled the further development
+      and utilisation of their technologies) and in July 2013 the acquisition of
+      Antitope [d], the leading provider in the field of assessment of
+      immunogenicity potential for protein and antibody therapeutics and protein
+      re-engineering in an agreement that was secured with further investment of
+      &#163;13.5m, with a substantial investment from Invesco.
+    Polytherics continues to benefit from the close connections with UCL
+      School of Pharmacy and the venture capital arm of Imperial Innovations.
+      The company now has a valuation of [text removed for publication], a clear
+      indication that it is a major provider of expertise and technology
+      relating to conjugate therapies and protein modification approaches to the
+      pharmaceutical and biotechnology industries.
+    
+ImpactSummary
+
+    Protein modification represents a highly significant and growing source
+      of new products for the biopharmaceuticals market. This case study
+      outlines the development of PolyTherics, a highly successful spin-out
+      company from the UCL School of Pharmacy, and the impact that their
+      enabling technology has had on the pharmaceutical and biotechnology
+      industries. The company was developed as a direct result of new conjugate
+      technology developed by Professor Steve Brocchini and coworkers at the
+      School. The company moved to independent premises in 2006 and now manages
+      a portfolio of over 100 granted and pending patents. Several licensing
+      agreements are in place, including with Celtic Pharma Holdings for
+      haemophilia treatments and Nuron for a multiple sclerosis treatment based
+      on PEGylation conjugation technology. Revenue is expected to be &#163;8m in
+      2013. The impact of Polytherics is therefore as a significant and
+      effective technology provider to the pharmaceutical and biotechnology
+      industries.
+    
+UnderpinningResearch
+
+    Conjugate technology is an approach to medicines development whereby a
+      bioactive molecule (typically a protein such as a cytokine, an antibody or
+      a low molecular weight drug) is synthetically altered so as to incorporate
+      a second molecule (typically a polymer such as poly(ethylene glycol)
+      (PEG)) which significantly improves the pharmacokinetics or stability of
+      the bioactive agent. Initial research in this area at the School of
+      Pharmacy formed the basis of spin-out company Polytherics, with further
+      underpinning research and the development of the patent portfolio
+      continuing in close collaboration between Polytherics and the School over
+      the following years, in parallel with the development of the company.
+    PolyTherics was founded in 2001 by Steve Brocchini from the School of
+      Pharmacy and Sunil Shaunak, a clinician then based at the Hammersmith
+      Hospital and who is currently Professor of Infectious Diseases at Imperial
+      College London. Anthony Godwin, who was a PhD student supervised by
+      Brocchini at the School of Pharmacy, was also a co-founder and remains
+      with the company as VP of Chemistry. The contribution of the School lay in
+      the management of IP and the development of the conjugation, synthetic,
+      purification, characterisation and modelling technologies, with the animal
+      testing and in vitro work being conducted at the aforementioned
+      partner institutions. Initially, the research strategy was based on a
+      portfolio of work derived from the development of polyvalent medicines [1],
+      although this aspect of the portfolio is now being developed by a separate
+      spin-out company. In brief, this work examined systems such as anionic
+      dendrimers (hyperbranched macromolecules that can be chemically
+      synthesised to have precise structural characteristics). Water-soluble
+      conjugates of these molecules with D(+)-glucosamine and D(+)-glucosamine
+      6-sulfate were found to have significant immunomodulatory and
+      anti-angiogenic properties respectively, with highly encouraging results
+      found for the prevention of scar tissue formation after glaucoma surgery
+      using a rabbit model.
+    However, around this time the group also identified a significant
+      limitation within the protein conjugate therapy field, namely the need to
+      site-specifically modify proteins efficiently to provide homogeneous
+      products. Prior to their initial work, it was necessary to re-engineer
+      most proteins to have a free cysteine thiol to achieve site-selective
+      modification. This is usually not scalable because during production a
+      protein will misfold and/or aggregate, hence the re-engineering process
+      would render the system unusable as a clinically viable product. The team
+      hypothesised that if it were possible to exploit the innate reactivity of
+      the two cysteine thiols in a disulphide bond (which would be already
+      present within the protein) then such proteins could be site-specifically
+      conjugated with the added benefit of increased stability. If achievable,
+      then such a solution would effectively remove a key barrier to
+      commercialise many classes of protein-based therapeutics.
+    A grant from the BBSRC was obtained in 2004/5 and the associated work was
+      published in 2006 [2]. One key insight of this research was that
+      most therapeutic proteins do indeed have accessible disulphides and that
+      the two cysteine thiols from a native disulphide could be used to achieve
+      site- specific conjugation, while maintaining the biological activity of
+      the protein. It was nevertheless surprising that a disulphide in a
+      therapeutic protein such as a cytokine could be modified and the protein
+      still remain active. The views of most experts at the time were that
+      proteins would be expected to lose activity when their cysteine disulphide
+      bonds had been altered in any way. This was therefore a ground-breaking
+      insight and led directly to the patented TheraPEG&#8482; technology [3]
+      which enables the disulphide bond approach to be used to attach PEG
+      molecules via a three carbon bridge reagent. Although initial work was
+      focused on the development of "C-3" bridging technologies, a "C-1"
+      re-bridging technology has also been developed, thereby extending the
+      range of opportunity for conjugation [4].
+    Since this initial work, numerous significant advances have been made and
+      published. In particular, PolyTherics developed new site-specific reagents
+      such as CyPEG&#8482;[5], which allow selective binding to thiols on a
+      free cysteine for proteins which have stable folds such as fibronectins.
+      Recent work has led to the development of the HiPEG&#8482; technology to allow
+      conjugation to two histidines close together [6]. This new HiPEG&#8482;
+      technology is `site-selective' rather than just `site-specific' as it
+      allows the conjugation site to be engineered at an optimal position on the
+      protein. Histidines are easier to engineer into proteins than non-native
+      amino acids, which have been the best way to achieve site-selective
+      conjugation. Histidines are also easier than cysteines to engineer into
+      proteins that already have existing native disulphide bonds. In parallel,
+      the team has ensure the technology was described in detail to the academic
+      community [7] and they developed a computational approach whereby
+      public protein databases and molecular modelling programs may be used to
+      select a protein rationally and to identify the optimum disulphide bond
+      for experimental studies. This approach allows identification of
+      accessible disulphide bridges in merely two hours, which can be of
+      significant use for more complex proteins with multiple disulfide bonds [8].
+    The company was therefore founded on the development of novel conjugation
+      technologies and continues to innovate based on these early approaches.
+      Much of PolyTherics' ongoing commercial activity is underpinned by the
+      PEGylation (e.g. TheraPEG&#8482;) technologies outlined here to optimise protein
+      pharmacokinetics and recently developed reagents (ThioBridge&#8482;) now being
+      used to develop antibody drug conjugates (ADCs).
+    

@@ -1,0 +1,159 @@
+CaseStudyId: 38183
+Title: 
+    Increasing public awareness of and informing policy relating to the
+      effects of recreational drug use
+    
+
+ImpactDetails
+
+    The CPU has made a range of contributions to discussion, debate and
+      decision-making at national policy level. In 2006, Curran presented expert
+      evidence to the Home Office's Advisory Council on the Misuse of Drugs
+      (ACMD) on ketamine which contributed to the Government's decision in 2006
+      to classify ketamine as Class C; use did not subsequently decline and in
+      2012, Home Secretary Teresa May requested a new ACMD review with Curran
+      appointed to the working group (decision due in 2014) [a].
+      Meanwhile, the Independent Scientific Committee on Drugs (ISCD)
+      commissioned us to write the `Ketamine Review' (ref 4 above) and BBC News
+      timed a feature on ketamine to go out on the day this was published [b].
+      Curran gave evidence about new psychoactive substances to the All-Party
+      Parliamentary Group on Drug Policy Reform at the House of Lords in May
+      2012 [c]. The report of this committee will form a basis for
+      Government policy on emerging new drugs. Curran has also advised the ACMD
+      on ecstasy and methamphetamine.
+    Internationally, Curran was a key witness on the subject of MDMA
+      sentencing guidelines for the trial U.S. v. McCarthy, 2011 (WL
+      1991146) which took place in New York in December 2010. Her five-hour
+      testimony played the major role in the Judge's decision (in July 2011) to
+      reduce the custodial sentencing for MDMA possession by 60%. The trial
+      details are available on the web training resource for federal defenders
+      in the US and have been cited by the Federal Public and Community
+      Defenders and the American Civil Liberties Union in comments on proposed
+      amendments to the US sentencing guidelines [d]. In 2013 the
+      research on THC influenced policy-makers in the Netherlands to recommend
+      separate legal penalties for high-potency THC cannabis (&gt;15%) compared
+      with low-potency THC cannabis [e].
+    Our research has impacted on national and international media discourse
+      about, public awareness of, and engagement with the effects of
+      recreational drug use. Our activities have fallen into three areas:
+      providing accurate, scientifically based information to improve public
+      understanding of the topic; engaging directly with drug users to
+      disseminate the findings of our research; and engaging with the media in
+      novel ways.
+    Members of the unit have given talks at national and international
+      conferences with mixed audiences of academics, policy-makers, healthcare
+      professionals and the public. For example, in January 2011, Curran gave a
+      public talk entitled `What is a drug?' at the Wellcome Trust's `High
+      Society' Exhibition, and Morgan gave an interactive lunch time seminar on
+      drug use [f]. As a member of the Independent Scientific Committee
+      on Drugs, Curran contributes to their website giving information on
+      psychoactive drugs to the public [g].
+    The CPU also contributed to public engagement with drug issues by
+      organising public events, notably `K-Day' which took place in November
+      2009. To address a lack of engagement between researchers, healthcare
+      professionals, users and policy makers, `K-day' brought these groups
+      together for seven hours of activities, stalls and workshops run in a
+      `village fete' format, bringing together 152 ketamine users, predominantly
+      aged 15-25, and 50 professionals. A key theme emerging from focus group
+      discussions was that the day made ketamine users feel valued and many
+      commented that nobody had ever asked them their opinion about ketamine
+      before or about their experiences. A quiz testing both users' and
+      professionals' knowledge was distributed before and after the event, there
+      was an average 50% improvement rate of people's knowledge of the subject
+      after the day. Each attendee was given a bag at the beginning containing
+      various informational leaflets we prepared for the day and further contact
+      details as well as details of current research projects. As a result of
+      K-day, a number of collaborations and treatment initiatives are occurring.
+      These include an experimental ketamine detox service being trialled in
+      Devon and a UK ketamine-addiction-urology research group being set up
+      between the CPU and UCLH (with Dr Dan Wood, urologist); the CPU is also
+      collaborating with the Bristol Drugs Project [h].
+    Using the Alexander Fleming Award, we are making a DVD with `gangs' of
+      young people who have written a rap about our cannabinoid discoveries
+      backed by a professional video animation. This will be shown and piloted
+      in schools before being released on the web.
+    We have engaged widely with the media in order to disseminate our
+      research findings to as wide an audience as possible [i]. In 2010
+      our discovery that CBD blocked the memory impairing effects of THC made
+      the front page of Nature news. An article in Newsweek based on the same
+      finding bemoaned the lack of similar research being done in the USA. The
+      CPU labs and our naturalistic studies were filmed by BBC3 as the central
+      science content of the documentary `How Drugs Work: Cannabis' (first
+      transmitted in January 2011). Curran has been interviewed about ketamine
+      on Woman's Hour on BBC Radio 4) and for the Telegraph and also contributed
+      to a podcast which is available on the website of the British Journal of
+      Psychiatry.
+    In 2012, we (Curran and David Nutt, Imperial) conducted a live fMRI study
+      of the effects of MDMA, which formed the basis of a two-part documentary,
+      `Drugs Live: the ecstasy trial', funded and broadcast by Channel 4. This
+      was watched by over two million people across the UK (audience of 1.92m on
+      first episode, Wed 26th Sept 2012) and prompted the biggest
+      online debate of any programme on that channel to date (including twitter,
+      Channel 4's own data, newspapers, podcasts). The programme was described
+      by C4's commissioning editor as "a programme that only Channel 4 would be
+      brave enough to transmit" [j].
+    
+ImpactSummary
+
+    Our research on cannabis, ketamine and MDMA (ecstasy) has used pioneering
+      methods to provide a unique new evidence-base on which illegal drugs can
+      be evaluated. This work has influenced government policy and legal
+      proceedings in the UK and abroad. We have engaged widely with drug users,
+      other members of the public, drug services and the media to disseminate
+      our findings widely, and increase public knowledge of the topic. Our
+      research on the effects of recreational drug use thus has changed national
+      and international media discourse about this topic, and has increased
+      public awareness and engagement.
+    
+UnderpinningResearch
+
+    The UCL Clinical Psychopharmacology Unit (CPU), under the direction of
+      Professor Val Curran, has pioneered human research on the effects of major
+      recreational drugs. We have carried out acute challenge studies in the
+      laboratory, as holders of a Home Office licence for this type of work. We
+      have also undertaken chronic naturalistic studies with drug users, where
+      samples of drugs are taken for biological analyses. Finally, we have
+      performed naturalistic studies, setting up mobile laboratory conditions in
+      nightclubs. This case study describes the research and impact relating to
+      three major drugs we have studied: cannabis, ketamine and MDMA
+      (`ecstasy').
+    In the largest ever study of its kind, we tested 620 cannabis
+      users aged 16 to 23 both when intoxicated with their chosen cannabis and
+      when sober [1, 2]. Through this research, we demonstrated why some
+      individuals are more vulnerable than others to the harmful effects of
+      cannabis. Cannabis contains around 100 unique ingredients
+      (`cannabinoids'), of which THC is the cannabinoid that users seek (it
+      makes them `stoned'). We discovered that the second most abundant
+      cannabinoid in herbal and resin forms of cannabis &#8212; cannabidiol (CBD) &#8212;
+      protects against the harmful amnesic and addiction-related effects of THC.
+      This has also deepened our understanding of the dangers of `skunk' &#8212; a
+      type of cannabis with high levels of THC but virtually no CBD. This
+      research was funded by three MRC grants. In recognition of the importance
+      of these findings, Curran received an award under the MRC Alexander
+      Fleming Dissemination Scheme (2012-4) to fund the dissemination of these
+      new discoveries about cannabis to young people across the UK. This
+      discovery is now being translated into the clinic as Curran and Morgan
+      have received new MRC funding of &#163;1.5m (2013-7) for a trial of CBD in
+      treating cannabis addiction.
+    Over 90% of research to date on ketamine abuse has been carried
+      out by the CPU. Ketamine is an important medicine in both specialist
+      anaesthesia and pain management; it is also being studied as a potential
+      antidepressant. At the same time, its use as a recreational drug has
+      spread in many parts of the world over the past few years. It is now the
+      fourth most popular club drug in the UK and the top drug of abuse in Hong
+      Kong. By accumulating a large population of users engaged in our research,
+      and following them in a 12-month ESRC-funded longitudinal study, the CPU
+      has discovered that frequent use of the drug is associated with both
+      neurocognitive impairment and addiction. It can also produce physical
+      harms including ketamine-induced ulcerative cystitis which may require
+      bladder removal and replacement [3, 4].
+    Since discovering the `mid-week blues' that followed acute MDMA
+      (`ecstasy') use in the first study of its kind (a laboratory at a `rave')
+      [5], the CPU has determined the long-term effects of this drug,
+      finding that neurocognitive function, altered mood and serotonergic
+      changes whilst individuals take this drug are attenuated if not fully
+      reversed after use is stopped [6]. This research has been funded
+      by a range of agencies (e.g. ARUK, Parkinson Disease Society) and most
+      recently our neuroimaging study of acute MDMA was funded by Channel 4
+      television.
+    

@@ -1,0 +1,182 @@
+CaseStudyId: 37236
+Title: 
+    Increased efficiency in turbomachinery design, manufacturing and
+      performance using 3D inverse design software
+    
+
+ImpactDetails
+
+    Since 2008, major turbomachinery manufacturers have adopted ADT's
+      TURBOdesign&#8482; software suite in ever increasing numbers, as they sought to
+      achieve improvements in their design processes and manufacturing methods,
+      and thus unlock benefits such as increased efficiency of their
+      turbo-machinery and reductions in CO2 emissions. Some of the
+      key impacts arising from the UCL research are summarised below.
+    Delivering more efficient design methods for the turbomachinery
+          industry:
+    A number of the leading turbomachinery manufacturers have changed their
+      design systems to access the benefits that arise from the use of ADT's 3D
+      inverse design approach. For example, in pumps manufacturing, four of the
+      top ten global manufacturers, including Ebara Corporation, use
+      TURBOdesign&#8482; in their design workflow [a]. Also the world's leading fan
+      manufacturer, ebm-papst, uses TURBOdesign&#8482; in most of its divisions; one
+      of the company's engineers noted: "Our experience shows that
+        TURBOdesign&#8482; can reduce development / design time, improve efficiency
+        and reduce noise of fan blades" [b]. Other leading companies in
+      turbomachinery application areas such as aeroengines, automotive cooling,
+      Central Processing Unit (CPU) cooling, cryogenic and air-conditioning
+      applications and power generation have switched to using TURBOdesign&#8482; in
+      their design systems [c].
+    Many of these manufacturers are finding that using the code reduces the
+      development and design time for their new designs and improves
+      performance. For example, the Director of R&amp;D at Andritz Group said in
+      a March 2013 article in Pumps and Systems magazine that the "the [ADT]
+        software considerably supported the pump manufacturers to accelerate the
+        hydraulic design process" [d]. In another article in Machine Design,
+      Mr Toru Iwata of Daikin Industries said: "The software helped us reduce
+        development time and slash material use, as well as develop new models
+        of high-efficiency fans" [e].
+    Enabling improvements in manufacturing methods in the
+          turbomachinery industry: In the turbomachinery industry
+      various methods are used for manufacturing the vanes and blades. For low
+      volume vane and blade manufacture within aerospace applications, it is
+      usual that CNC machines are utilised. For high-volume applications, such
+      as turbochargers, it is customary to use casting or in some cases a flank
+      milling process for blades with straight filaments, as these approaches
+      result in lower manufacturing costs.
+    In 2011, Cummins Turbo Technology, one of the leading manufacturers of
+      heavy-duty diesel turbochargers globally, decided to take into high-volume
+      production a turbocharger compressor with 3D blades. This was designed
+      using the 3D inverse design method TURBOdesign&#8482; and machined by using a
+      5-axis point milling process. The point milling process can add between
+      15-20 per cent to manufacturing costs compared to flank milling or
+      casting. The main impetus for the company to make such a substantial
+      change in its manufacturing process was the fact that for 10 years they
+      had not been able to make any improvement in the performance of a baseline
+      turbocharger compressor, which had straight filaments, with direct design
+      methods. By using the inverse design approach an impeller could be
+      designed that was up to 3 points more efficient through most of the
+      compressor map. However, this impeller had a 3D geometry and required a
+      significant change in manufacturing process. The significant improvement
+      in performance of the new compressor, in the eyes of Cummins Turbo and its
+      major engine manufacturers, more than justified the additional costs
+      associated with the changes to manufacturing method [f].
+    The TURBODesign&#8482; software makes it easier to design 3D blade and vane
+      geometries with high efficiency, and with the current rate of reduction in
+      the cost of the point milling process it can create important
+      possibilities for further improvement in turbomachinery component
+      efficiencies.
+    Increased turbomachinery efficiency and reduction of CO2
+          emissions: One of the major impacts of industry's adoption of
+      ADT's inverse design method is a significant improvement in the efficiency
+      of turbomachinery. Earlier research had shown that breakthrough designs
+      made possible by this approach can lead to significant improvements in
+      pump stage efficiency of up to 6 points (see outputs [5] and [6], above).
+      Similar levels of performance improvement are being achieved by industrial
+      use of the inverse design method. For example, in 2013, Daikin Industries
+      confirmed that they had improved the efficiency of an air-conditioning fan
+      by 10% by using the inverse design method [e].
+    Likewise, performance improvements have been achieved in other industries
+      such as pumps, automotive and power generation through the adoption of
+      this technology. For example in 2008, RR Marine, a major manufacturer of
+      large-scale marine waterjets, was able to improve the propulsive
+      efficiency of their marine waterjets by 3-5% by using ADT's software
+      TURBOdesign&#8482; [g]. Furthermore, they obtained a significant reduction in
+      manufacturing cost of their waterjets, which came on the market in 2013
+      [g].
+    These efficiency savings have consequent environmental benefits by
+      reducing CO2 emissions. ebm papst has been using the inverse
+      design method since 2006, and claimed in a 2008 advert in The Economist
+      magazine that "If for ventilation, refrigeration and airconditioning,
+        European industry switches to the latest generation of fans (designed by
+        ebm-papst), 16 Million tons of CO2 emission
+        will be cut and 4 coal fired power stations will be made redundant"
+      [h].
+    [text removed for publication]
+    
+ImpactSummary
+
+    The development of a novel 3D inverse design method for turbomachinery
+      aerodynamic design at UCL has led to important design breakthroughs for
+      pump and compressor applications. The resulting IP and software has been
+      commercialised by a UCL spinout company Advanced Design Technology Ltd
+      (ADT), which is now considered a global leader in advanced turbomachinery
+      design software. Since 2008, the 3D inverse design codes embedded within
+      ADT's TURBOdesign&#8482; suite of software have been adopted by many of the
+      leading turbomachinery equipment manufacturers in Europe, Japan and the
+      US. These companies are using the TURBOdesign suite to achieve significant
+      improvements in the time taken to design their turbomachinery components.
+      It has also helped them unlock major efficiency gains and hence achieve a
+      reduction in CO2 emissions. [text removed for publication]
+    
+UnderpinningResearch
+
+    There are two different approaches to aerodynamic design of
+      turbomachinery components such as turbines, compressors, fans, pumps and
+      torque converters. The direct design approach is based on trial and error
+      iteration of the blade or vane geometry by the designer, using feedback
+      from a Computational Fluid Dynamics (CFD) code. This approach inherently
+      results in a reduction of the design space as designers tend to operate
+      within their comfort zone. Using this approach makes it more difficult to
+      achieve designs beyond the designer's previous experience and is also
+      time-consuming. The result is significant constraints on the ability of
+      companies to achieve further improvements in the performance of their
+      turbomachinery. By contrast, in the inverse design approach, the blade or
+      vane geometry is designed for a given specified distribution of pressure
+      or blade loading. The 3D pressure distribution controls the viscous
+      behaviour of the flow; by controlling the 3D pressure field it is possible
+      to directly use the detailed information provided by CFD solutions to
+      arrive at a choice of optimum loading to control particular sources of
+      loss in turbomachines. By removing the need for empiricism in the design
+      process, the inverse design approach allows designers to directly use
+      their knowledge of detailed fluid dynamics, as provided by CFD and
+      detailed measurements, to arrive at a breakthrough solutions that solve
+      particular adverse flow phenomena.
+    The inverse design approach had previously been used extensively in two
+      dimensions by the aeroengine industry but no robust design methods existed
+      in three dimensions. To address this gap, the research group headed by
+      Professor Mehrdad Zangeneh (Professor of Thermofluids, at UCL since 1989)
+      in UCL's Department of Mechanical Engineering started working on the
+      development of novel 3D inverse design methods in the early 1990s. One of
+      the key aspects of previous inverse design methods was that they mainly
+      relied on the specification of blade surface pressure on suction and
+      pressure surfaces. This removed the designer's control of blade thickness,
+      which is a very important parameter for high-speed applications.
+      Furthermore, the compatibility conditions in three dimensions make it
+      difficult to know the correct feasible spanwise static pressure
+      distribution on the blade a priori, as spanwise variations in
+      pressure are influenced by the streamwise flow distribution. This meant
+      that development or extension of any inverse method in 3D had limited
+      success. A key innovation arising from the UCL research was the use of
+      blade loading within the design methodology. When coupled with pressure
+      jump across the blade and blade thickness, it was possible to achieve a
+      significantly more robust 3D inverse design method and this allowed some
+      of the important outstanding problems in turbomachinery aerodynamics to be
+      solved [1][2]. The design code was subsequently extended to marine ducted
+      propulsors as a result of a $700k research grant from the US Office of
+      Naval Research [3] and extended to include coupling with automatic
+      optimisation for multi-point/multi-objective design [4]. UCL's application
+      of 3D inverse design methods to various applications, especially in radial
+      turbomachinery, resulted in important breakthroughs in design and led to
+      the university filing a number of international patents [8].
+    One of the first applications of the 3D inverse design method was in
+      centrifugal compressors and pumps. The main aim was to reduce or eliminate
+      secondary flows in the impeller, which result in significant flow
+      non-uniformity (jet/wake flow) and hence are a major cause of loss in
+      impellers. The nature of secondary flows and what causes them was quite
+      well understood, but with conventional (or direct) design based on
+      iterative changes to geometry it was rather difficult to arrive at a
+      design that helped to reduce or minimise secondary flows. By using the 3D
+      inverse design method, UCL researchers could establish a systematic
+      approach for minimising secondary flows in centrifugal impellers. The
+      control of secondary flows actually led to significant improvements to
+      compressor/pump stage efficiency [5 and patents i and iii]. Other
+      breakthroughs were related to control of 3D corner separation in pump
+      diffusers [6 and patents iv, v and vi]. Further important breakthroughs
+      were obtained in cavitation in pumps [7] and shockwave losses in transonic
+      axial fans [2].
+    The research was subsequently commercialised through the formation of a
+      UCL spinout company, Advanced Design Technology (ADT), which was
+      established as a joint venture with the major Japanese turbomachinery
+      manufacturer, Ebara Corporation, in 1998.
+    

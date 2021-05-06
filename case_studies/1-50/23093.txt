@@ -1,0 +1,206 @@
+CaseStudyId: 23093
+Title: 
+    Improved surgical outcomes achieved through perioperative circulatory
+      optimisation guided by oesophageal Doppler
+    
+
+ImpactDetails
+
+    In developing the device, Singer worked closely with the manufacturer
+      (formerly Doptex, now
+      Deltex Medical), a British company based in Chichester. This close
+      collaboration allied his clinical
+      and translational expertise with their engineering and technical skills.
+      The device, now marketed as
+      the CardioQ, has "changed the way in which doctors can care for
+        patients having major surgery or
+        in intensive care. It allows doctors to intervene quickly and safely
+        based on small changes in
+        circulating blood volume and so avoid the dangers of reduced oxygen
+        delivery" [a].
+    To date, more than 500,000 patients have benefitted from the use of the
+      CardioQ in surgery and in
+      intensive care. By the end of 2012, a total of 926 monitors had been
+      installed in the UK and
+      monitors have been sold widely in many other countries including the US,
+      Canada, South America
+      and Continental Europe [a]. In the period 2008-13 this amounted to
+      over &#163;33m in sales for Deltex
+      [b]. The company employs around 65 people, mostly in the UK, and
+      the CardioQ is their sole
+      product.
+    The outcome benefits (reduced complications, shorter ICU and hospital
+      stay) accruing from the
+      perioperative optimisation studies were evaluated and endorsed
+      independently by the US Agency
+      for Healthcare Research and Quality [c] and the NIHR Health
+      Technology Assessment
+      Programme [d]. In March 2011 NICE published its Medical
+      Technologies Guidance (MTG3)
+      recommending the use of oesophageal Doppler monitoring (ODM) in high-risk
+      surgery. NICE
+      estimated that its use could save around &#163;1,000 each time it is used for
+      high-risk surgery, and up
+      to &#163;400m per year for the NHS as a whole [e].
+    In the same year, the NHS Innovative Technology Adoption Procurement
+      Programme (ITAPP)
+      selected oesophageal Doppler-guided intra-operative fluid management as
+      one of three
+      technologies for wider adoption by the NHS in England [f]. Later
+      that year, the NHS Innovation
+      Health &amp; Wealth Review named ODM as one of six high impact innovations
+      and called for the
+      widespread implementation of ODM for fluid management in surgery, stating
+      that this technology
+      "can reduce mortality rates for elective procedures, improve the
+        quality of care for more than
+        800,000 patients a year, and save the NHS at least &#163;400m annually" [g].
+      This was reported in the
+      media at the time, including on the BBC News website [h].
+    In May 2012, the NHS National Technology Adoption Centre published its
+      Intraoperative Fluid
+      Management Technologies (IOFMT) Adoption Pack to encourage adoption
+      throughout the NHS as
+      a recommended High Impact Innovation [i]. Hospital trusts have to
+      implement ODM at projected
+      target levels in 2013/14 or lose access to their CQUIN payments, which
+      make up 2.5% of their
+      budget.
+    Looking outside the UK, the device has been adopted or is under formal
+      evaluation by health
+      regions/large hospital groups in the USA, France, Spain, and Canada. The
+      Entralgo Agency in
+      Spain have evaluated the device and confirmed its utility. In April 2013,
+      the US Centres for
+      Medicare and Medicaid Services (CMS) granted ODM its own unique code for
+      physician
+      reimbursement. In addition, CMS set a standard amount of $101 that it will
+      reimburse US doctors
+      for each use of an ODM probe in either surgery for patients requiring
+      intra-operative fluid
+      optimisation or for ventilated patients in intensive care. This is a very
+      significant development for
+      the ODM in the USA and very rare that the CMS grant an individual
+      technology with such a code
+      (especially to a small British company) [j].
+    In May 2013, the professional body for anaesthetists in France Soci&#233;t&#233;
+      Fran&#231;aise d'Anesth&#233;sie et
+      de R&#233;animation ('SFAR') published new guidelines setting out recommended
+      fluid management
+      best practice for its members. These guidelines make it clear that
+      ODM-guided fluid management
+      should be used in all high risk surgery in France, estimated to cover
+      circa 750,000 patients a year.
+      All of these recommendations are graded in the highest category '1+',
+      meaning that SFAR
+      members are expected to comply because the evidence level is high, and
+      that future evidence is
+      unlikely to change the conclusions from the current evidence. In France
+      clinical guidelines from
+      professional societies determine the standards expected of their members
+      based on clinical
+      benefit. The recommendations are based on the ODM evidence and the
+      guidelines make it clear
+      that this evidence should not be assumed to apply to alternative
+      technologies. The
+      recommendations apply to all high risk surgery, defined as surgery with an
+      increased risk of post-
+      operative complications due to either the health of the patient or the
+      nature of the surgery; typically
+      this excludes minor day-case surgery and surgery lasting fewer than two
+      hours with low levels of
+      post-operative complication [k].
+    Deltex Medical won the National Outstanding Achievement category in the
+      2013 UK Healthcare
+      Business Awards held at the NHS Healthcare Innovation Expo [l].
+    
+ImpactSummary
+
+    As a result of research undertaken by Professor Mervyn Singer and
+      colleagues at UCL, the
+      oesophageal Doppler haemodynamic monitoring device is now a standard of
+      care in intensive care
+      units and operating theatres. The research underpinned the development of
+      the CardioQ
+      Oesophageal Doppler Monitor that guides optimisation of the circulation in
+      critically ill and
+      perioperative patients. In multiple studies its use has led to significant
+      reductions in postoperative
+      complication rates and length of stay in patients undergoing high-risk
+      surgery. Over 500,000
+      patients have now benefitted from this technology that, between 2008-13,
+      generated over &#163;33m in
+      sales for its manufacturer, Deltex Medical. The device is recommended in
+      NICE guidance and has
+      been identified by the Department of Health as one of six high impact
+      innovations to be
+      implemented fully across the NHS.
+    
+UnderpinningResearch
+
+    In the late 1980s, the CardioQ Oesophageal Doppler Monitor was conceived
+      by Mervyn Singer
+      while a registrar at Mount Vernon Hospital. He then validated the device
+      and performed proof-of-concept
+      studies during his research fellowship at St George's Hospital Medical
+      School. Work at
+      UCL by Singer (as Lecturer/Senior Lecturer/Reader/Professor) between 1993
+      and 2004 further
+      validated the device and, crucially, assessed its utility through a series
+      of studies, including three of
+      the early perioperative outcome RCTs. This work done at UCL underpinned
+      the commercial
+      development of the device and its widespread adoption since.
+    The device utilises a Doppler ultrasound probe inserted via the mouth
+      into the oesophagus. The
+      probe is connected to a monitor that displays flow velocity waveforms of
+      blood being pumped down
+      the descending thoracic aorta. Correct focussing of the probe is readily
+      and reliably achieved within
+      just a few minutes, and can be performed by either a doctor or nurse.
+      Integral software,
+      incorporating a nomogram developed by Singer, computes in real time a
+      close estimate of absolute
+      left ventricular cardiac output and, from the waveform shape, considerable
+      information on left
+      ventricular filling, contractility and afterload. These data can be used
+      to quickly detect any
+      deterioration in circulatory status, and to guide optimal fluid and drug
+      therapy.
+    Ten studies have been performed at UCL, including assessments of the
+      circulatory stress induced
+      by chest physiotherapy, transurethral prostatectomy and cardiac surgery
+      (with demonstration of its
+      prognostic utility), and optimisation of mechanical ventilation settings.
+      Importantly, three of the
+      studies were single-centre, randomised controlled trials (RCTs) in
+      patients undergoing
+      haemodynamic optimisation either during [1] or after [2]
+      cardiac surgery, or during intraoperative
+      repair of fractured hips [3]. The first study was performed by
+      Monty Mythen (then Clinical Research
+      Fellow, now Professor at UCL) and the latter two were led by Singer. All
+      three studies reported
+      significant reductions in postoperative complications and hospital stay in
+      patients optimised by
+      oesophageal Doppler, as compared to patients receiving standard-of-care.
+    A recent systematic review/meta-analysis of perioperative optimisation
+      studies reported on nine
+      oesophageal Doppler perioperative optimisation studies, demonstrating a
+      major reduction in post-operative
+      complications through its use (odds ratio [95% CI] 0.41 [0.30-0.57])
+      (Hamilton et al).To
+      assess the generalisability of these results, the NHS Technology Adoption
+      Centre organised a
+      before-after study in three UK hospitals (including the Whittington
+      Hospital, London) comparing
+      outcomes in 649 surgical patients after implementation of the CardioQ
+      technology against 658
+      matched cases before implementation. Total length of stay was reduced by
+      3.7 days across each
+      site (Kuper et al).
+    All of the UCL studies were funded internally with the exception of Ref 3
+      below where Deltex
+      Medical (the manufacturer of CardioQ) provided an unrestricted educational
+      grant.
+    
