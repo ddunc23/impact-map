@@ -169,7 +169,7 @@
 					</select>
 				</fieldset>
 				<h5>Projects: <span id="projectsTotal">0</span></h5>
-				<h5>Lives Touched: <span id="livesTouchedTotal">0</span></h5>
+				<h5>Lives Touched: <br /><span id="livesTouchedTotal">0</span></h5>
 				<canvas id="impactChart" width="200" height="400"></canvas>
 			</div>
 		</div>
@@ -197,7 +197,7 @@
 	mapboxgl.accessToken = 'pk.eyJ1IjoiZGR1bmMyMyIsImEiOiJxQVhaaVhjIn0.T7vhn1bLeeQoHCsWZ_mp2g';
 	let map = new mapboxgl.Map({
 		container: 'map',
-		style: 'mapbox://styles/mapbox/dark-v10', // stylesheet location
+		style: 'mapbox://styles/ddunc23/ckohaiphc141b18qvpl0rh062', // stylesheet location
 		center: [-2.547855, 54.00366,], // starting position [lng, lat]
 		zoom: 5.5 // starting zoom
 	});
@@ -226,6 +226,57 @@
 	    var newColorStr = "#"+newColorInt.toString(16);
 
 	    return newColorStr;
+	}
+
+	// Helper function to calculate impact ranges
+	function impactRange(impact_number) {
+		let range = '';
+		if (impact_number < 100000) {
+			range = '50,000 - 100,000';
+		} else if (impact_number >= 100000 && impact_number < 500000) {
+			range = '100,000 - 500,000';
+		} else if (impact_number >= 500000 && impact_number < 1000000) {
+			range = '500,000 - 1,000,000';
+		} else if (impact_number >= 1000000 && impact_number < 2000000) {
+			range = '1,000,000 - 2,000,000';
+		} else if (impact_number >= 2000000 && impact_number < 5000000) {
+			range = '2,000,000 - 5,000,000';
+		} else if (impact_number >= 5000000 && impact_number < 1000000) {
+			range = '5 - 10 million';
+		} else if (impact_number >= 10000000 && impact_number < 50000000) {
+			range = '10 - 50 million';
+		} else if (impact_number >= 50000000 && impact_number < 100000000) {
+			range = '50 - 100 million';
+		} else if (impact_number >= 100000000) {
+			range = '100 million+';
+		}
+		return range;
+	}
+
+	// Helper function to round the 'lives touched' total
+
+	function roundTotal(whole_number) {
+		let multiplier = 0;
+
+		if (whole_number <= 10) {
+			return whole_number;
+		} else if (whole_number > 10 && whole_number <= 100) {
+			multiplier = 100;
+		} else if (whole_number > 100 && whole_number <= 10000) {
+			multiplier = 1000;
+		} else if (whole_number > 10000 && whole_number <= 100000) {
+			multiplier = 10000;
+		} else if (whole_number > 100000) {
+			multiplier = 100000;
+		}
+		
+		rounded = Math.round(whole_number/multiplier) * multiplier;
+
+		if (rounded < 100) {
+			return 100;
+		} else {
+			return rounded;
+		}
 	}
 
 
@@ -279,16 +330,16 @@
 		'All': 0
 	}
 
-	const metricTypes = [
-	    'LIVESTOUCHED',
-	    'LIVESIMPROVED',
-	    'ECONOMICVALUE',
-	    'MEDIACOVERAGE',
-	    'PATIENTSTREATED',
-	    'POTENTIALPATIENTS',
-	    'STUDYPARTICIPANTS',
-	    'IMPACTEDBYPOLICYCHANGE'
-	]
+	const metricTypes = {
+	    'LIVESTOUCHED': 'Lives Touched',
+	    'LIVESIMPROVED': 'Lives Improved',
+	    'ECONOMICVALUE': 'Economic Value (£)',
+	    'MEDIACOVERAGE': 'Media Coverage',
+	    'PATIENTSTREATED': 'Patients Treated',
+	    'POTENTIALPATIENTS': 'Potential Patients',
+	    'STUDYPARTICIPANTS': 'Study Participants',
+	    'IMPACTEDBYPOLICYCHANGE': 'Impacted by Policy Change'
+	}
 
 
 	let metrics = {
@@ -320,7 +371,7 @@
 		// updates the lives touched total, depending on impact type. If no impactType passed, gives the total for the whole data set
 		let livesTouchedTotal = document.getElementById('livesTouchedTotal');
 		let projectsTotal = document.getElementById('projectsTotal');
-		let total = caseStudies[impactType]
+		let total = impactRange(caseStudies[impactType]);
 		let projects = projectsTotals[impactType];
 		livesTouchedTotal.innerHTML = total.toLocaleString("en-US");
 		livesTouchedTotal.style.color = colourScheme[impactType];
@@ -404,14 +455,14 @@
 			impactType = feature.properties.ImpactType;
 			featureMetrics = feature.properties.metrics;
 
-			if (featureMetrics && metricTypes.includes(featureMetrics[0].metrictype) && typeof(featureMetrics[0].value) == 'number') {
+			if (featureMetrics && Object.keys(metricTypes).includes(featureMetrics[0].metrictype) && typeof(featureMetrics[0].value) == 'number') {
 				
-				metricsTotals[impactType] += featureMetrics[0].value;
+				metricsTotals[impactType] += roundTotal(featureMetrics[0].value);
 
 				if (typeof(metrics[impactType][featureMetrics[0].metrictype]) == 'number') {
-					metrics[impactType][featureMetrics[0].metrictype] += featureMetrics[0].value;
+					metrics[impactType][featureMetrics[0].metrictype] += roundTotal(featureMetrics[0].value);
 				} else {
-					metrics[impactType][featureMetrics[0].metrictype] = featureMetrics[0].value;
+					metrics[impactType][featureMetrics[0].metrictype] = roundTotal(featureMetrics[0].value);
 				}
 			}			
 		}
@@ -430,8 +481,8 @@
 
 		for (i=0; i<caseStudies.features.length; i++) {
 			feature = caseStudies.features[i];
-			livesTouchedTotals[feature.properties.ImpactType] += feature.properties.livesTouch;
-			livesImprovedTotals[feature.properties.ImpactType] += feature.properties.livesImpro;
+			livesTouchedTotals[feature.properties.ImpactType] += roundTotal(feature.properties.livesTouch);
+			livesImprovedTotals[feature.properties.ImpactType] += roundTotal(feature.properties.livesImpro);
 		}
 
 		updateLivesTouchedTotal(metricsTotals, 'All');
@@ -801,8 +852,6 @@
 				<h5 style="color: <%= fontColour %>"><%= title %></h5>
 				<p><strong style="color: <%= fontColour %>">Impact Type: <%= impactType %></strong></p>
 				<hr />
-				<h6 style="color: <%= fontColour %>">Investigators</h6>
-				<p><%= principalInvestigator %></p>
 				<h6 style="color: <%= fontColour %>">Impact Summary</h6>
 				<p><%= impactSummary %></p>
 				<h6 style="color: <%= fontColour %>">Countries Impacted</h6>
@@ -811,6 +860,8 @@
 				<p><%= places %></p>
 				<h6 style="color: <%= fontColour %>">Impact Metrics</h6>
 				<%= metrics %>
+				<h6 style="color: <%= fontColour %>">Investigators</h6>
+				<p><%= principalInvestigator %></p>
 				<button class="btn btn-sm btn-dark" id="show_detail">Read Case Study</button>
 			`;
 
@@ -851,7 +902,13 @@
 			let metricsHtml = '';
 
 			for (let i=0; i<props.metrics.length; i++) {
-				metricsHtml += '<p><strong>' + props.metrics[i].metrictype + ': ' + props.metrics[i].value.toLocaleString() + '</strong></p>';
+				let metric = metricTypes[props.metrics[i].metrictype];
+				
+				if (metric == undefined) {
+					metric = 'Lives Touched'
+				}
+
+				metricsHtml += '<p><strong>' + metric + ': ' + impactRange(props.metrics[i].value) + '</strong></p>';
 			};
 
 			// Compile the template 
@@ -863,7 +920,7 @@
 				principalInvestigator: props.PI,
 				countries: countriesHtml,
 				places: placesHtml,
-				impactSummary: props.ImpactSumm.slice(0, 300) + '...',
+				impactSummary: props.ImpactSumm.slice(0, 250) + '...',
 				metrics: metricsHtml
 			});
 
