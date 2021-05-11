@@ -141,6 +141,15 @@
 			border-top: 1px solid black;
 		}
 
+		.CASA_logo {
+			height: 30px;
+			width: auto;
+		}
+
+		.attributionText a {
+			color: white;
+		}
+
 	</style>
 
 </head>
@@ -199,10 +208,11 @@
 		container: 'map',
 		style: 'mapbox://styles/ddunc23/ckohaiphc141b18qvpl0rh062', // stylesheet location
 		center: [-2.547855, 54.00366,], // starting position [lng, lat]
-		zoom: 5.5 // starting zoom
+		zoom: 3.5, // starting zoom,
+		logoPosition: 'bottom-right'
 	});
 
-	const url = 'ucl_ref_data_geolocated_world_multi-point-randomlives-hexgrid-sample-metrics-updated-6.geojson';
+	const url = 'ucl_ref_data_geolocated_world_multi-point-randomlives-hexgrid-sample-metrics-updated-9.geojson';
 	const countries_url = 'countries_outlines.geojson';
 
 	// Global variable to hold map filter status
@@ -649,6 +659,28 @@
 			}
 		});
 
+		// Add attribution
+
+		class LogoControl {
+			onAdd(map) {
+				this._map = map;
+				this._container = document.createElement('div');
+				this._container.className = 'mapboxgl-ctrl';
+				this._container.innerHTML = '<span class="attributionText"><a href="https://www.ucl.ac.uk/bartlett/casa/"><img class="CASA_logo" src="CASA_logo.png" alt="CASA logo" /></a> <a href="https://www.ucl.ac.uk/bartlett/casa/">Powered by CASA</a></span>';
+				return this._container;
+			}
+
+			onRemove() {
+				this._container.parentNode.removeChild(this._container);
+				this._map = undefined;
+			}
+		}
+
+		let logoControl = new LogoControl();
+
+		map.addControl(logoControl, 'bottom-left');
+
+
 		// Filter the map according to impact type
 		
 		let impactTypeSelect = document.getElementById('impactType');
@@ -830,7 +862,12 @@
 			});
 
 			map.fitBounds(bounds, {
-				padding: 300
+				padding: {
+					'top': 100,
+					'bottom': 300,
+					'left': 100,
+					'right': 300
+				}
 			});
 
 			// Set the filter to hide all the other case studies
